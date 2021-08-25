@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Aug 2021 02:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 04:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구 말로는 그거 S.P.O.I.L.E.R.1.2.7]]></title>
+            <link>https://vlive.tv/post/1-24875527</link>
+            <guid>https://vlive.tv/post/1-24875527</guid>
+            <pubDate>Wed, 25 Aug 2021 04:53:41 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210824_125/1629803509744zUj3y_JPEG/upload_4607311681218031139f8326b-96eb-45e8-8464-80862ce41846.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WayV-LUCAS&HENDERY 'Jalapeño' MV Teaser]]></title>
             <link>https://vlive.tv/post/0-24946598</link>
             <guid>https://vlive.tv/post/0-24946598</guid>
             <pubDate>Tue, 24 Aug 2021 11:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210824_86/1629788879221y7J9F_JPEG/1629788825692.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24885865</guid>
             <pubDate>Fri, 20 Aug 2021 17:42:44 GMT</pubDate>
             <content:encoded><![CDATA[8.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210820_184/1629471020091f88MK_JPEG/1629470966418.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet 'Pose' Performance Stage @inteRView vol.7 : Queendom]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24426033</guid>
             <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[7.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Bad Dracula' #JOY]]></title>
-            <link>https://vlive.tv/post/0-24395150</link>
-            <guid>https://vlive.tv/post/0-24395150</guid>
-            <pubDate>Tue, 24 Aug 2021 13:00:53 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
         </item>
     </channel>
 </rss>
