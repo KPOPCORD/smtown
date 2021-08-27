@@ -18,6 +18,16 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = ".writer--pwvK2"
 waitUntil = "networkidle"
 
+[smtown_news_top]
+title = "SMTOWN ─ Musicians News"
+url = "https://www.smtown.com/artist/news/1"
+entrySelector = "div.column_box"
+titleSelector = "span.title"
+linkSelector = "a.btn_text"
+imageSelector = "a.btn_top.bg_cover"
+contentSelector = "span.text"
+waitUntil = "networkidle"
+
 [smtown_news]
 title = "SMTOWN ─ Musicians News"
 url = "https://www.smtown.com/artist/news/1"
