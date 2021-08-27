@@ -24,7 +24,7 @@ url = "https://www.smtown.com/artist/news/1"
 entrySelector = "ul.search_news.artist li"
 titleSelector = "span.title"
 linkSelector = "a.btn_text"
-imageSelector = "a[class='btn_img bg_cover']"
+imageSelector = "a.btn_img.bg_cover"
 contentSelector = "span.text"
 waitUntil = "networkidle"
 
