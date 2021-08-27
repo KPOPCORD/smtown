@@ -18,6 +18,16 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = ".writer--pwvK2"
 waitUntil = "networkidle"
 
+[smtown_news]
+title = "SMTOWN ─ Musicians News"
+url = "https://www.smtown.com/artist/news/1"
+entrySelector = "ul.search_news.artist li"
+titleSelector = "span.title"
+linkSelector = "a.btn_text"
+imageSelector = "a[class='btn_img bg_cover']"
+contentSelector = "span.text"
+waitUntil = "networkidle"
+
 [naverpost_smtown_special]
 title = "SMTOWN 신곡 포스트 ─ SPECIAL"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=434190&memberNo=41350603"
@@ -53,12 +63,3 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
-
-[smtown_news]
-title = "SMTOWN ─ Musicians News"
-url = "https://www.smtown.com/artist/news/1"
-entrySelector = "ul.search_news.artist li"
-titleSelector = "span.title"
-linkSelector = "a.btn_text"
-imageSelector = "a[class='btn_img bg_cover']"
-contentSelector = "span.text"
