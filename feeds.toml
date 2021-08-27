@@ -21,7 +21,7 @@ waitUntil = "networkidle"
 [smtown_news]
 title = "SMTOWN ─ Musicians News"
 url = "https://www.smtown.com/artist/news/1"
-entrySelector = "ul.search_news.artist li"
+entrySelector = "ul.list_main li"
 titleSelector = "span.title"
 linkSelector = "a.btn_text"
 imageSelector = "a.btn_img.bg_cover"
