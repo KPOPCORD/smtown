@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Aug 2021 14:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 15:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-25021600</link>
+            <guid>https://vlive.tv/post/1-25021600</guid>
+            <pubDate>Sat, 28 Aug 2021 15:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210828_130/1630133466302NAyqq_JPEG/1630132476495.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구 말로는 그거 S.P.O.I.L.E.R.1.2.7]]></title>
             <link>https://vlive.tv/post/1-24875527</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24909128</guid>
             <pubDate>Sun, 22 Aug 2021 05:36:43 GMT</pubDate>
             <content:encoded><![CDATA[8.22.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210822_13/1629601154322y3Pts_JPEG/1629560785915.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 : Who is STICKER]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24451155</guid>
             <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[7.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'So Good' #SEULGI]]></title>
-            <link>https://vlive.tv/post/1-24426033</link>
-            <guid>https://vlive.tv/post/1-24426033</guid>
-            <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[7.30.]]></content:encoded>
         </item>
     </channel>
 </rss>
