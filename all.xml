@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Aug 2021 14:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 15:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video Teaser (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25043021</link>
+            <guid>https://vlive.tv/post/1-25043021</guid>
+            <pubDate>Sun, 29 Aug 2021 15:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210829_215/163023374270436Bp9_JPEG/1630231410691.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25021600</link>
             <guid>https://vlive.tv/post/1-25021600</guid>
             <pubDate>Sat, 28 Aug 2021 15:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8.28.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210828_130/1630133466302NAyqq_JPEG/1630132476495.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-24946598</guid>
             <pubDate>Tue, 24 Aug 2021 11:46:14 GMT</pubDate>
             <content:encoded><![CDATA[8.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210824_86/1629788879221y7J9F_JPEG/1629788825692.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TEN 텐 'Paint Me Naked' Choreography Video (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24521400</guid>
             <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[8.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Queens Mystic General Store - 'Closed' #RedVelvet (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24451155</link>
-            <guid>https://vlive.tv/post/1-24451155</guid>
-            <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[7.31.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
