@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 07:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 08:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY ‘Hate that…’ COUNTDOWN LIVE (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-24960358</link>
+            <guid>https://vlive.tv/post/0-24960358</guid>
+            <pubDate>Mon, 30 Aug 2021 08:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210830_171/1630311405626Jkh0o_JPEG/upload_46581012686493181cdcd1560-d346-4fa0-908b-ec7ae1a0aded.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25043021</link>
             <guid>https://vlive.tv/post/1-25043021</guid>
             <pubDate>Sun, 29 Aug 2021 15:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210829_215/163023374270436Bp9_JPEG/1630231410691.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24875527</guid>
             <pubDate>Wed, 25 Aug 2021 04:53:41 GMT</pubDate>
             <content:encoded><![CDATA[8.25.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210824_125/1629803509744zUj3y_JPEG/upload_4607311681218031139f8326b-96eb-45e8-8464-80862ce41846.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WayV-LUCAS&HENDERY 'Jalapeño' MV Teaser (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24346714</guid>
             <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[8.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Mood Sampler (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24521400</link>
-            <guid>https://vlive.tv/post/1-24521400</guid>
-            <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[8.3.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
