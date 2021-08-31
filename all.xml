@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 04:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 05:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY ‘Hate that…’ COUNTDOWN LIVE (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-24960358</link>
+            <guid>https://vlive.tv/post/0-24960358</guid>
+            <pubDate>Tue, 31 Aug 2021 05:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210830_171/1630311405626Jkh0o_JPEG/upload_46581012686493181cdcd1560-d346-4fa0-908b-ec7ae1a0aded.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25060043</link>
             <guid>https://vlive.tv/post/0-25060043</guid>
             <pubDate>Mon, 30 Aug 2021 17:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210830_287/1630329830845LkuMX_JPEG/1630329750209.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-25054691</link>
             <guid>https://vlive.tv/post/0-25054691</guid>
             <pubDate>Mon, 30 Aug 2021 09:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210830_101/16303130349882f49q_JPEG/1630312822406.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25043021</guid>
             <pubDate>Sun, 29 Aug 2021 15:45:49 GMT</pubDate>
             <content:encoded><![CDATA[8.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210829_215/163023374270436Bp9_JPEG/1630231410691.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV Teaser (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24639621</guid>
             <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[8.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HYO 효연 'Second (Feat. 비비 (BIBI))' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24596028</link>
-            <guid>https://vlive.tv/post/1-24596028</guid>
-            <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[8.8.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -294,22 +294,70 @@
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[샤이니 키, 신곡 ‘Hate that… (Feat. 태연)’ 30일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5367</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5367</guid>
-            <pubDate>Mon, 30 Aug 2021 06:50:39 GMT</pubDate>
+            <title><![CDATA[샤이니 키, 솔로 콘서트 9월 26일 ‘Beyond LIVE’ 개최! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5371</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5371</guid>
+            <pubDate>Tue, 31 Aug 2021 05:39:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 키, 신곡 ‘Hate that… (Feat. 태연)’ 30일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c7289afdc8.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">샤이니 키, 솔로 콘서트 9월 26일 ‘Beyond LIVE’ 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbea60dccc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘9월 17일 컴백’ NCT 127, 정규 3집 감성 음악도 담았다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5370</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5370</guid>
+            <pubDate>Tue, 31 Aug 2021 05:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘9월 17일 컴백’ NCT 127, 정규 3집 감성 음악도 담았다! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbe150c5fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성민, 새 싱글 수록곡 ‘설렘꽃’ 스페셜 비디오 기습 공개! 자작곡으로 감성 지수 UP (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5369</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5369</guid>
+            <pubDate>Tue, 31 Aug 2021 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[성민이 새 디지털 싱글 앨범의 수록곡 ‘설렘꽃 (Blooming)’ 스페셜 비디오를 기습 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbdd03cf13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['컴백' NCT 127, 정규 3집으로 선사할 강렬 에너지! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5366</link>
             <guid>https://www.smtown.com/artist/newsDetail/5366</guid>
             <pubDate>Mon, 30 Aug 2021 06:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'컴백' NCT 127, 정규 3집으로 선사할 강렬 에너지!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 새 앨범으로 강렬하고 쿨한 매력을 보여준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c720c6adf5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 키, 신곡 ‘Hate that…’ MV 티저 28일 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5363</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5363</guid>
+            <pubDate>Mon, 30 Aug 2021 06:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 키(에스엠엔터테인먼트 소속)의 신곡 ‘Hate that…’(헤이트 댓) 뮤직비디오 티저 영상이 28일 밤 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c70ba8c37c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 첫 번째 콘셉트 티저 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5361</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5361</guid>
+            <pubDate>Fri, 27 Aug 2021 18:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집 ‘Sticker’(스티커)로 컴백하는 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 첫 번째 콘셉트 티저가 공개돼 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870efec16c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤종신 "바다가 주는 아련함에 늘 끌려"...로맨틱송 '러브 보트' 오늘(27일) 공개 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5358</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5358</guid>
+            <pubDate>Fri, 27 Aug 2021 18:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[가수 윤종신의 월간 음악 프로젝트 ‘월간 윤종신’ Repair 8월호 ‘Love Boat’가 오늘(27일) 발매된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61286fd78c97d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 키, 신곡 ‘Hate that… (Feat. 태연)’ 30일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5367</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5367</guid>
+            <pubDate>Mon, 30 Aug 2021 06:50:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)의 선공개 싱글 ‘Hate that…’(헤이트 댓)이 30일 베일을 벗는다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c7289afdc8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘복면가왕’ 고무신의 정체는 성민! 풍부한 감성+가창력으로 눈도장! (SMTOWN ─ Musicians News)]]></title>
@@ -342,54 +390,6 @@
             <pubDate>Fri, 27 Aug 2021 18:19:26 GMT</pubDate>
             <content:encoded><![CDATA[‘글로벌 대세’ 에스파가 가요계에 이어 광고계에서도 블루칩으로 급부상 중이다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61273fb10b3d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키 신곡 ‘Hate that…’ 태연 피처링 지원사격! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5355</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5355</guid>
-            <pubDate>Fri, 27 Aug 2021 18:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키와 ‘믿듣탱’ 소녀시대 태연(이상 에스엠엔터테인먼트 소속)이 이번에는 듀엣곡으로 찰떡 호흡을 보여준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61273ee7520e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키, 신곡 ‘Hate that…’ MV 티저 28일 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5363</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5363</guid>
-            <pubDate>Mon, 30 Aug 2021 06:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 키(에스엠엔터테인먼트 소속)의 신곡 ‘Hate that…’(헤이트 댓) 뮤직비디오 티저 영상이 28일 밤 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c70ba8c37c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 첫 번째 콘셉트 티저 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5361</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5361</guid>
-            <pubDate>Fri, 27 Aug 2021 18:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집 ‘Sticker’(스티커)로 컴백하는 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 첫 번째 콘셉트 티저가 공개돼 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870efec16c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 "바다가 주는 아련함에 늘 끌려"...로맨틱송 '러브 보트' 오늘(27일) 공개 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5358</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5358</guid>
-            <pubDate>Fri, 27 Aug 2021 18:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[가수 윤종신의 월간 음악 프로젝트 ‘월간 윤종신’ Repair 8월호 ‘Love Boat’가 오늘(27일) 발매된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61286fd78c97d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘핫 컴백’ NCT 127, 신곡 ‘Sticker’로 글로벌 히트 이어간다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5356</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5356</guid>
-            <pubDate>Fri, 27 Aug 2021 18:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 중독성 강한 신곡 ‘Sticker’(스티커)로 글로벌 히트 행진을 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61273f4fe3ac1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 ‘Queendom’ 가온 다운로드 차트 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5354</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5354</guid>
-            <pubDate>Fri, 27 Aug 2021 18:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘서머퀸’ 레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 신곡 ‘Queendom’(퀸덤)으로 가온 차트 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61273e81a61cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 키의 새 싱글 "Hate that..."

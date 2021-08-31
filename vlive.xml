@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 04:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 05:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY ‘Hate that…’ COUNTDOWN LIVE]]></title>
+            <link>https://vlive.tv/post/0-24960358</link>
+            <guid>https://vlive.tv/post/0-24960358</guid>
+            <pubDate>Tue, 31 Aug 2021 05:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210830_171/1630311405626Jkh0o_JPEG/upload_46581012686493181cdcd1560-d346-4fa0-908b-ec7ae1a0aded.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video]]></title>
             <link>https://vlive.tv/post/0-25060043</link>
             <guid>https://vlive.tv/post/0-25060043</guid>
             <pubDate>Mon, 30 Aug 2021 17:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210830_287/1630329830845LkuMX_JPEG/1630329750209.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-25054691</link>
             <guid>https://vlive.tv/post/0-25054691</guid>
             <pubDate>Mon, 30 Aug 2021 09:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210830_101/16303130349882f49q_JPEG/1630312822406.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25043021</guid>
             <pubDate>Sun, 29 Aug 2021 15:45:49 GMT</pubDate>
             <content:encoded><![CDATA[8.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210829_215/163023374270436Bp9_JPEG/1630231410691.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV Teaser]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24639621</guid>
             <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[8.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HYO 효연 'Second (Feat. 비비 (BIBI))' MV Teaser]]></title>
-            <link>https://vlive.tv/post/1-24596028</link>
-            <guid>https://vlive.tv/post/1-24596028</guid>
-            <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[8.8.]]></content:encoded>
         </item>
     </channel>
 </rss>
