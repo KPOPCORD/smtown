@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 13:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 15:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/0-25124794</link>
+            <guid>https://vlive.tv/post/0-25124794</guid>
+            <pubDate>Wed, 01 Sep 2021 15:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210901_244/16304919408259b3Qh_JPEG/1630491801158.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WayV-TEN&YANGYANG ‘Low Low’ Choreography Video]]></title>
             <link>https://vlive.tv/post/1-25076693</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25060043</guid>
             <pubDate>Mon, 30 Aug 2021 17:03:22 GMT</pubDate>
             <content:encoded><![CDATA[8.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210830_287/1630329830845LkuMX_JPEG/1630329750209.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV]]></title>
@@ -141,13 +148,6 @@
             <link>https://vlive.tv/post/1-24668179</link>
             <guid>https://vlive.tv/post/1-24668179</guid>
             <pubDate>Wed, 11 Aug 2021 05:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[8.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효연 (HYO) ‘Second’ COUNTDOWN LIVE]]></title>
-            <link>https://vlive.tv/post/1-24552714</link>
-            <guid>https://vlive.tv/post/1-24552714</guid>
-            <pubDate>Tue, 10 Aug 2021 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[8.10.]]></content:encoded>
         </item>
     </channel>
