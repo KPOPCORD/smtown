@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 05:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 06:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[윤종신, 카카오TV ‘톡이나 할까?’ 1주년 장식…김이나와 남다른 ‘절친 케미’ 발산]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5372</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5372</guid>
-            <pubDate>Tue, 31 Aug 2021 08:45:25 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5377</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5377</guid>
+            <pubDate>Wed, 01 Sep 2021 06:50:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">윤종신, 카카오TV ‘톡이나 할까?’ 1주년 장식…김이나와 남다른 ‘절친 케미’ 발산</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612de8f41076b.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20dc21013.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 키, 솔로 콘서트 9월 26일 ‘Beyond LIVE’ 개최!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5371</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5371</guid>
-            <pubDate>Tue, 31 Aug 2021 05:39:31 GMT</pubDate>
+            <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5375</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5375</guid>
+            <pubDate>Wed, 01 Sep 2021 06:50:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 키, 솔로 콘서트 9월 26일 ‘Beyond LIVE’ 개최!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbea60dccc.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20389038e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
