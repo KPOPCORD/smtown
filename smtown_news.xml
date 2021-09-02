@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 07:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5377</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5377</guid>
+            <pubDate>Thu, 02 Sep 2021 07:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 두 번째 콘셉트 티저 이미지가 공개돼 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20dc21013.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘음색 퀸’ 정인, ‘더 로드' OST 두 번째 주자...'Find The Way' 오늘(1일) 공개]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5373</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c720c6adf5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 키, 신곡 ‘Hate that…’ MV 티저 28일 밤 12시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5363</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5363</guid>
-            <pubDate>Mon, 30 Aug 2021 06:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 키(에스엠엔터테인먼트 소속)의 신곡 ‘Hate that…’(헤이트 댓) 뮤직비디오 티저 영상이 28일 밤 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c70ba8c37c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5375</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5375</guid>
+            <pubDate>Thu, 02 Sep 2021 07:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 ‘블루버스데이’의 OST를 직접 불렀다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20389038e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤종신, 카카오TV ‘톡이나 할까?’ 1주년 장식…김이나와 남다른 ‘절친 케미’ 발산]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Aug 2021 06:50:47 GMT</pubDate>
             <content:encoded><![CDATA[성민이 ‘복면가왕’에서 풍부한 감성과 가창력을 바탕으로 시청자들에게 눈도장을 찍었다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c718f80309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 신곡 ‘Goodnight, Summer’ 대해 “신비하고 시원한 콘셉트, 녹음 후 희열 느껴”]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5362</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5362</guid>
-            <pubDate>Mon, 30 Aug 2021 06:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[오는 7일 새 디지털 싱글 발매를 앞둔 성민이, 사전 프로모션 영상을 통해 신보에 대한 기대감을 높였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c702b03e47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

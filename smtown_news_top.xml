@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 07:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5377</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5377</guid>
-            <pubDate>Wed, 01 Sep 2021 06:50:52 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 에너제틱 매력 선사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5380</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5380</guid>
+            <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20dc21013.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 에너제틱 매력 선사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613073bb45866.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5375</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5375</guid>
-            <pubDate>Wed, 01 Sep 2021 06:50:52 GMT</pubDate>
+            <title><![CDATA[성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5379</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5379</guid>
+            <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20389038e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6130728339eb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
