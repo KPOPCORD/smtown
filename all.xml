@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 02:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 04:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25124794</link>
             <guid>https://vlive.tv/post/0-25124794</guid>
             <pubDate>Wed, 01 Sep 2021 15:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210901_244/16304919408259b3Qh_JPEG/1630491801158.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c702b03e47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[김예림] 과거로 8번 떠난다(ft. 블루버스데이) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32266814&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32266814&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Thu, 02 Sep 2021 04:49:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMjg0/MDAxNjMwMzAyNTQ0NDQ5.yGaYo3KwXJmNuhQ7SCrWQyf-25e4xIPQAmZtM946ALwg.TJ6aapp67waKAAOX_JR-DmGp18BkdIEVkAfFZc4Ufy8g.JPEG/Ii6NRq3D6lYyTiMJ3xiRFanNa5yc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[EVENT] 키의 새 싱글 "Hate that..."
 너무나 Love that (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32248092&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -555,15 +563,6 @@ WayV-KUN&XIAOJUN의
             <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MzFfMjc1/MDAxNjIyNDQxODk4OTE1.XLUmoc3krvZ_UK5xtHeY6TCvhgwZl2jmtG5ato0VUHAg.x9OH_z7Ohwjc9Z-SUEU-u7xRWQm-4dv2En2gu2HwS8Mg.JPEG/IbmPu1aQHFy0WIIgmDqv4TbpOeGE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] 우리의 특별함, 
-EXO에게 다가가는 중 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31599848&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31599848&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjlfMjgw/MDAxNjIyMjUzOTg2MjA1.QQI2xQk8Y6ZBSF55GtgvWLgQdEPnmVPPVuoEUg1Z4zAg.vzILQMwa8OZATVei5FPVxstfPhfpgIZWvwDgQapstCMg.JPEG/IUQbsNYFAtIu3arml9_iqxkH0tMo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 여름이다! 레드벨벳 흥을 돋우자! (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
