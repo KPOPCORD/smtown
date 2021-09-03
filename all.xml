@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 04:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 05:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,22 +294,30 @@
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[슈퍼주니어, 대만 ‘KKBOX’ 韓 앨범차트 200주 1위 기염! 4년간 이어진 대기록! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5383</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5383</guid>
+            <pubDate>Fri, 03 Sep 2021 05:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">슈퍼주니어, 대만 ‘KKBOX’ 韓 앨범차트 200주 1위 기염! 4년간 이어진 대기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b4c1a7ab4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5382</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5382</guid>
+            <pubDate>Fri, 03 Sep 2021 05:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 에너제틱 매력 선사! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5380</link>
             <guid>https://www.smtown.com/artist/newsDetail/5380</guid>
             <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 에너제틱 매력 선사!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Breakfast’(브렉퍼스트)와 ‘Far’(파)로 에너제틱한 음악을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613073bb45866.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5379</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5379</guid>
-            <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6130728339eb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
@@ -344,12 +352,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbdd03cf13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['컴백' NCT 127, 정규 3집으로 선사할 강렬 에너지! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5366</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5366</guid>
-            <pubDate>Mon, 30 Aug 2021 06:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 새 앨범으로 강렬하고 쿨한 매력을 보여준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c720c6adf5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5379</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5379</guid>
+            <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[성민이 신곡 ‘Goodnight, Summer’(굿나잇, 서머) 뮤직비디오 티저 영상을 공개하며 시선을 모았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6130728339eb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여! (SMTOWN ─ Musicians News)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 30 Aug 2021 06:50:39 GMT</pubDate>
             <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)의 선공개 싱글 ‘Hate that…’(헤이트 댓)이 30일 베일을 벗는다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c7289afdc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘복면가왕’ 고무신의 정체는 성민! 풍부한 감성+가창력으로 눈도장! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5365</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5365</guid>
-            <pubDate>Mon, 30 Aug 2021 06:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[성민이 ‘복면가왕’에서 풍부한 감성과 가창력을 바탕으로 시청자들에게 눈도장을 찍었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612c718f80309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[임윤아] Photo Shoot For S♡NE (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
