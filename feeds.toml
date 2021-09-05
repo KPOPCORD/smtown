@@ -18,6 +18,26 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = ".writer--pwvK2"
 waitUntil = "networkidle"
 
+[smtown_news]
+title = "SMTOWN ─ News"
+url = "https://www.smtown.com/news"
+entrySelector = "ul.list_main.new_list li"
+titleSelector = "span.title"
+linkSelector = "a[class='btn_top bg_cover']"
+imageSelector = "a.btn_img.bg_cover"
+contentSelector = "span.text"
+waitUntil = "networkidle"
+
+[smtown_notice]
+title = "SMTOWN ─ Notice"
+url = "https://www.smtown.com/notice"
+entrySelector = "ul.list_main.new_list li"
+titleSelector = "span.title"
+linkSelector = "a[class='btn_top bg_cover']"
+imageSelector = "a.btn_top.bg_cover"
+contentSelector = "span.text"
+waitUntil = "networkidle"
+
 [smtown_news_top]
 title = "SMTOWN ─ Musicians News"
 url = "https://www.smtown.com/artist/news/1"
