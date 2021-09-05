@@ -38,7 +38,7 @@ imageSelector = "a.btn_top.bg_cover"
 contentSelector = "span.text_box"
 waitUntil = "networkidle"
 
-[smtown_news_top]
+[smtown_musicians_top]
 title = "SMTOWN ─ Musicians News"
 url = "https://www.smtown.com/artist/news/1"
 entrySelector = "div.column_box"
@@ -48,7 +48,7 @@ imageSelector = "a.btn_top.bg_cover"
 contentSelector = "span.text"
 waitUntil = "networkidle"
 
-[smtown_news]
+[smtown_musicians]
 title = "SMTOWN ─ Musicians News"
 url = "https://www.smtown.com/artist/news/1"
 entrySelector = "ul.list_main li"
