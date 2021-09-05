@@ -78,6 +78,16 @@ imageSelector = "a.btn_img.bg_cover"
 contentSelector = "span.text"
 waitUntil = "networkidle"
 
+[smtown_now]
+title = "SMTOWN ─ NOW"
+url = "https://now.smtown.com/news"
+entrySelector = "ul.grid li.grid-item.grid-sizer"
+titleSelector = "p.title.text_box a.text_cut"
+linkSelector = "p.title.text_box a"
+imageSelector = "div.thumb a"
+contentSelector = "p.subInfo.text_box a.text_cut"
+waitUntil = "networkidle"
+
 [naverpost_smtown_special]
 title = "SMTOWN 신곡 포스트 ─ SPECIAL"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=434190&memberNo=41350603"
