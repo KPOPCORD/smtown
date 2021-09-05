@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 11:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 13:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet '다시, 여름 (Hello, Sunset)' Special VideoㅣRV Collection (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25206265</link>
+            <guid>https://vlive.tv/post/1-25206265</guid>
+            <pubDate>Sun, 05 Sep 2021 13:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210905_147/1630846879684ajY2T_JPEG/1630835339216.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' Dance Practice (360˚ ver.) (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25176216</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25124794</guid>
             <pubDate>Wed, 01 Sep 2021 15:46:22 GMT</pubDate>
             <content:encoded><![CDATA[9.1.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210901_244/16304919408259b3Qh_JPEG/1630491801158.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WayV-TEN&YANGYANG ‘Low Low’ Choreography Video (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-24801735</guid>
             <pubDate>Mon, 16 Aug 2021 17:43:47 GMT</pubDate>
             <content:encoded><![CDATA[8.16.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] TEN 텐 'Paint Me Naked' Performance Video #비하인더스테이션 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24747016</link>
-            <guid>https://vlive.tv/post/1-24747016</guid>
-            <pubDate>Fri, 13 Aug 2021 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[8.13.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
