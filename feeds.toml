@@ -34,7 +34,7 @@ url = "https://www.smtown.com/notice"
 entrySelector = "ul.list_main.new_list li"
 titleSelector = "span.title"
 linkSelector = "a.btn_text"
-imageSelector = "a.btn_top.bg_cover"
+imageSelector = "a.btn_img.bg_cover"
 contentSelector = "span.text_box"
 waitUntil = "networkidle"
 
