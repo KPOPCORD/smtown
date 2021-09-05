@@ -58,6 +58,26 @@ imageSelector = "a.btn_img.bg_cover"
 contentSelector = "span.text"
 waitUntil = "networkidle"
 
+[smtown_actors_top]
+title = "SMTOWN ─ Actors News"
+url = "https://www.smtown.com/artist/news/2"
+entrySelector = "div.column_box"
+titleSelector = "span.title"
+linkSelector = "a.btn_text"
+imageSelector = "a.btn_top.bg_cover"
+contentSelector = "span.text"
+waitUntil = "networkidle"
+
+[smtown_actors]
+title = "SMTOWN ─ Actors News"
+url = "https://www.smtown.com/artist/news/2"
+entrySelector = "ul.list_main li"
+titleSelector = "span.title"
+linkSelector = "a.btn_text"
+imageSelector = "a.btn_img.bg_cover"
+contentSelector = "span.text"
+waitUntil = "networkidle"
+
 [naverpost_smtown_special]
 title = "SMTOWN 신곡 포스트 ─ SPECIAL"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=434190&memberNo=41350603"
