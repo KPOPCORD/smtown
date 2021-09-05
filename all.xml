@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Sep 2021 14:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 15:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #2 (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25205084</link>
+            <guid>https://vlive.tv/post/1-25205084</guid>
+            <pubDate>Sun, 05 Sep 2021 15:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210905_164/1630841750796M7O0g_JPEG/1630841696307.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Magic Carpet Ride' Track Video #2 (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25189941</link>
+            <guid>https://vlive.tv/post/1-25189941</guid>
+            <pubDate>Sun, 05 Sep 2021 15:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210904_292/1630765032986jL29d_JPEG/1630764999712.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet '다시, 여름 (Hello, Sunset)' Special VideoㅣRV Collection (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25206265</link>
             <guid>https://vlive.tv/post/1-25206265</guid>
             <pubDate>Sun, 05 Sep 2021 13:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210905_147/1630846879684ajY2T_JPEG/1630835339216.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -21,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25176216</guid>
             <pubDate>Sat, 04 Sep 2021 09:42:02 GMT</pubDate>
             <content:encoded><![CDATA[9.4.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210904_168/1630724353965Paga4_JPEG/1630723806938.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Dreamer' Track Video #1 (SMTOWN ─ Media Board)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://vlive.tv/post/1-25168059</guid>
             <pubDate>Fri, 03 Sep 2021 17:03:04 GMT</pubDate>
             <content:encoded><![CDATA[9.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210903_32/1630660134211B80Gh_JPEG/1630659873674.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #1 (SMTOWN ─ Media Board)]]></title>
@@ -135,20 +149,6 @@
             <guid>https://vlive.tv/post/0-24820782</guid>
             <pubDate>Tue, 17 Aug 2021 17:42:52 GMT</pubDate>
             <content:encoded><![CDATA[8.17.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24804310</link>
-            <guid>https://vlive.tv/post/1-24804310</guid>
-            <pubDate>Mon, 16 Aug 2021 17:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[8.16.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-24801735</link>
-            <guid>https://vlive.tv/post/0-24801735</guid>
-            <pubDate>Mon, 16 Aug 2021 17:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[8.16.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
