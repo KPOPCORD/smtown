@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Sep 2021 23:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 02:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378222</link>
+            <guid>https://now.smtown.com/news/detail/2378222</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378221</link>
+            <guid>https://now.smtown.com/news/detail/2378221</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378220</link>
+            <guid>https://now.smtown.com/news/detail/2378220</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378219</link>
+            <guid>https://now.smtown.com/news/detail/2378219</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SHINee KEY's new solo album 'BAD LOVE' ...]]></title>
             <link>https://now.smtown.com/news/detail/2378211</link>
@@ -210,34 +230,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378146</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[The second concept teaser image of NCT 127 (SM)...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LIM YOONA to appear in the upcoming tvN...]]></title>
-            <link>https://now.smtown.com/news/detail/2378145</link>
-            <guid>https://now.smtown.com/news/detail/2378145</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) is comi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KIM YERIM (Red Velvet YERI) participate...]]></title>
-            <link>https://now.smtown.com/news/detail/2378144</link>
-            <guid>https://now.smtown.com/news/detail/2378144</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[KIM YERIM (Red Velvet YERI, SM) sang the OST of...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Park Sun Young wins the '2021 Brand of ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378143</link>
-            <guid>https://now.smtown.com/news/detail/2378143</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Park Sun Young was named 'Anatainer of the Year...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jung In, '더 로드' OST 2nd runner... 《Find...]]></title>
-            <link>https://now.smtown.com/news/detail/2378142</link>
-            <guid>https://now.smtown.com/news/detail/2378142</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Singer Jung In scrambles as the second runner o...]]></content:encoded>
         </item>
     </channel>
 </rss>
