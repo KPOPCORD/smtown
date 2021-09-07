@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 14:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video #3 (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-25238502</link>
+            <guid>https://vlive.tv/post/0-25238502</guid>
+            <pubDate>Tue, 07 Sep 2021 15:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210907_150/1631026263815rMCm2_JPEG/upload_472958649671349169c2784cb-a3f8-45a5-91af-1db75736c0fc.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25232364</link>
             <guid>https://vlive.tv/post/1-25232364</guid>
             <pubDate>Tue, 07 Sep 2021 09:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210907_158/1630979774538BABD0_JPEG/1630978652978.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25189941</guid>
             <pubDate>Sun, 05 Sep 2021 15:45:33 GMT</pubDate>
             <content:encoded><![CDATA[9.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210904_292/1630765032986jL29d_JPEG/1630764999712.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet '다시, 여름 (Hello, Sunset)' Special VideoㅣRV Collection (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[Red Velvet 'Pose' Performance Stage @inteRView vol.7 : Queendom (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-24841714</link>
             <guid>https://vlive.tv/post/0-24841714</guid>
-            <pubDate>Wed, 18 Aug 2021 17:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[8.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV TEN&YANGYANG: ‘Low Low’ Special LIVE (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-24736418</link>
-            <guid>https://vlive.tv/post/0-24736418</guid>
             <pubDate>Wed, 18 Aug 2021 17:43:01 GMT</pubDate>
             <content:encoded><![CDATA[8.18.]]></content:encoded>
         </item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61232fa98ac73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=LNwQLJaT_a8</link>
+            <guid>https://www.youtube.com/watch?v=LNwQLJaT_a8</guid>
+            <pubDate>Tue, 07 Sep 2021 15:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LNwQLJaT_a8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=xSXslki5xIY</link>
             <guid>https://www.youtube.com/watch?v=xSXslki5xIY</guid>
@@ -796,15 +804,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378165</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[Top model Song Kyung A released a teaser video ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCIT HOUSE : Our sharehouse with full o... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=BRlXovH9Avc</link>
-            <guid>https://www.youtube.com/watch?v=BRlXovH9Avc</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[#NCT127 #NCIT_HOUSE #NCIT
-#Sticker #NCT127_Stic...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/BRlXovH9Avc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이철우 입니다 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
