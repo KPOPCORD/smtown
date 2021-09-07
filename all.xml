@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 06:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 07:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,22 +582,25 @@
             <enclosure url="https://i.ytimg.com/vi/ZnrjagFjd6I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127, 3rd album 'Road Trip' track vi... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378222</link>
             <guid>https://now.smtown.com/news/detail/2378222</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(SM)'s 3rd album 3rd track video 'Road T...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SUNGMIN, digital single ‘Goodnight, Sum... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378221</link>
             <guid>https://now.smtown.com/news/detail/2378221</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+            <content:encoded><![CDATA[SUNGMIN will release a solo album on the 7th af...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[EXO KAI's '우도주막' captivating ace! (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378220</link>
             <guid>https://now.smtown.com/news/detail/2378220</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) proved to be a trustworthy enterta...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
