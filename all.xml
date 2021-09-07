@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 08:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 09:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25232364</link>
+            <guid>https://vlive.tv/post/1-25232364</guid>
+            <pubDate>Tue, 07 Sep 2021 09:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210907_158/1630979774538BABD0_JPEG/1630978652978.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #2 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25205084</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25206265</guid>
             <pubDate>Sun, 05 Sep 2021 13:40:55 GMT</pubDate>
             <content:encoded><![CDATA[9.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210905_147/1630846879684ajY2T_JPEG/1630835339216.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' Dance Practice (360˚ ver.) (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-24736418</guid>
             <pubDate>Wed, 18 Aug 2021 17:43:01 GMT</pubDate>
             <content:encoded><![CDATA[8.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' MV (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-24820782</link>
-            <guid>https://vlive.tv/post/0-24820782</guid>
-            <pubDate>Tue, 17 Aug 2021 17:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[8.17.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,22 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61232fa98ac73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=xSXslki5xIY</link>
+            <guid>https://www.youtube.com/watch?v=xSXslki5xIY</guid>
+            <pubDate>Tue, 07 Sep 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xSXslki5xIY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=NE4GUZH7qpM</link>
+            <guid>https://www.youtube.com/watch?v=NE4GUZH7qpM</guid>
+            <pubDate>Tue, 07 Sep 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NE4GUZH7qpM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEMIN 태민 Object Set Making Film (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=ZnrjagFjd6I</link>
             <guid>https://www.youtube.com/watch?v=ZnrjagFjd6I</guid>
@@ -789,22 +805,6 @@ http://www...]]></content:encoded>
             <content:encoded><![CDATA[#NCT127 #NCIT_HOUSE #NCIT
 #Sticker #NCT127_Stic...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/BRlXovH9Avc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Tease... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=-2OzHQ9MDJ4</link>
-            <guid>https://www.youtube.com/watch?v=-2OzHQ9MDJ4</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-2OzHQ9MDJ4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 기억을 걷는 시간 (... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=3ZGS7Xkf27Y</link>
-            <guid>https://www.youtube.com/watch?v=3ZGS7Xkf27Y</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #기억을걷는시간 #TimeWalking...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3ZGS7Xkf27Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이철우 입니다 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

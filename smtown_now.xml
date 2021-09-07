@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 08:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 09:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV]]></title>
+            <link>https://www.youtube.com/watch?v=xSXslki5xIY</link>
+            <guid>https://www.youtube.com/watch?v=xSXslki5xIY</guid>
+            <pubDate>Tue, 07 Sep 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xSXslki5xIY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low...]]></title>
+            <link>https://www.youtube.com/watch?v=NE4GUZH7qpM</link>
+            <guid>https://www.youtube.com/watch?v=NE4GUZH7qpM</guid>
+            <pubDate>Tue, 07 Sep 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NE4GUZH7qpM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEMIN 태민 Object Set Making Film]]></title>
             <link>https://www.youtube.com/watch?v=ZnrjagFjd6I</link>
@@ -226,22 +242,6 @@ http://www...]]></content:encoded>
             <content:encoded><![CDATA[#NCT127 #NCIT_HOUSE #NCIT
 #Sticker #NCT127_Stic...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/BRlXovH9Avc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Tease...]]></title>
-            <link>https://www.youtube.com/watch?v=-2OzHQ9MDJ4</link>
-            <guid>https://www.youtube.com/watch?v=-2OzHQ9MDJ4</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-2OzHQ9MDJ4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 기억을 걷는 시간 (...]]></title>
-            <link>https://www.youtube.com/watch?v=3ZGS7Xkf27Y</link>
-            <guid>https://www.youtube.com/watch?v=3ZGS7Xkf27Y</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #기억을걷는시간 #TimeWalking...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3ZGS7Xkf27Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
