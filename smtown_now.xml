@@ -4,9 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 05:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 06:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEMIN 태민 Object Set Making Film]]></title>
+            <link>https://www.youtube.com/watch?v=ZnrjagFjd6I</link>
+            <guid>https://www.youtube.com/watch?v=ZnrjagFjd6I</guid>
+            <pubDate>Tue, 07 Sep 2021 06:51:21 GMT</pubDate>
+            <content:encoded><![CDATA[TAEMIN Object Set 👋
+
+▶ Sales Day
+2021. 09. 07 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZnrjagFjd6I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378222</link>
             <guid>https://now.smtown.com/news/detail/2378222</guid>
@@ -223,13 +234,6 @@ http://www...]]></content:encoded>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #기억을걷는시간 #TimeWalking...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/3ZGS7Xkf27Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Sticker' 2nd concep...]]></title>
-            <link>https://now.smtown.com/news/detail/2378146</link>
-            <guid>https://now.smtown.com/news/detail/2378146</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[The second concept teaser image of NCT 127 (SM)...]]></content:encoded>
         </item>
     </channel>
 </rss>
