@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 03:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 04:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스틱스토리 공연 프로젝트 ‘리슨 스테이지’ 재개…9월 윤종신∙정인 출격]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5392</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5392</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[미스틱스토리의 특별한 공연 프로젝트 ‘리슨 스테이지(LISTEN STAGE)’가 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6138370bcdb47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성민, 오늘 오후 6시 디지털 싱글 ‘Goodnight, Summer’ 정식 발매! 힐링 음악 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5390</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5390</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[성민이 오늘 약 2년만에 솔로 앨범을 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c750a2fdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5387</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5385</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5382</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5382</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Dreamer’(드리머)로 경쾌한 힐링송을 들려준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Road Trip’ 트랙 비디오 오늘 밤 12시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5391</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5391</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 세 번째 트랙 비디오 ‘Road Trip’(로드 트립)이 오늘 밤 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이 ‘우도주막’ 사로잡은 에이스 막내 활약!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5389</link>
@@ -38,54 +86,6 @@
             <pubDate>Sun, 05 Sep 2021 17:18:11 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Breakfast’(브렉퍼스트)와 ‘Far’(파)로 에너제틱한 음악을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613073bb45866.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5377</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5377</guid>
-            <pubDate>Sun, 05 Sep 2021 17:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 두 번째 콘셉트 티저 이미지가 공개돼 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20dc21013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5387</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5385</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5382</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5382</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Dreamer’(드리머)로 경쾌한 힐링송을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5379</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5379</guid>
-            <pubDate>Sun, 05 Sep 2021 17:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[성민이 신곡 ‘Goodnight, Summer’(굿나잇, 서머) 뮤직비디오 티저 영상을 공개하며 시선을 모았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6130728339eb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5375</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5375</guid>
-            <pubDate>Sun, 05 Sep 2021 17:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 ‘블루버스데이’의 OST를 직접 불렀다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20389038e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

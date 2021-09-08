@@ -4,9 +4,35 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 03:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 04:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUNGMIN's new song 'Goodnight, Summer' ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378243</link>
+            <guid>https://now.smtown.com/news/detail/2378243</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[SUNGMIN provided 'healing' to global fans.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lee Dong Hwi Becomes Editor-in-Chief!]]></title>
+            <link>https://now.smtown.com/news/detail/2378242</link>
+            <guid>https://now.smtown.com/news/detail/2378242</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Lee Dong Hwi has been selected as the new...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Singer-songwriter Leesangsoon releases ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378241</link>
+            <guid>https://now.smtown.com/news/detail/2378241</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[Guitarist and singer-songwriter Leesangsoon wil...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378240</link>
+            <guid>https://now.smtown.com/news/detail/2378240</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video...]]></title>
             <link>https://www.youtube.com/watch?v=LNwQLJaT_a8</link>
@@ -212,35 +238,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378180</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[Actors Lee Dong Hwi and Jung Eun Chae will appe...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🐱🐑TEN&YANGYANG's Diary in ...]]></title>
-            <link>https://www.youtube.com/watch?v=ef0xhFRn3k8</link>
-            <guid>https://www.youtube.com/watch?v=ef0xhFRn3k8</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ef0xhFRn3k8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Sticker' presents e...]]></title>
-            <link>https://now.smtown.com/news/detail/2378167</link>
-            <guid>https://now.smtown.com/news/detail/2378167</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) delivers energetic music with the ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN, new song 'Goodnight, Summer' m...]]></title>
-            <link>https://now.smtown.com/news/detail/2378166</link>
-            <guid>https://now.smtown.com/news/detail/2378166</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN drew attention by releasing a teaser vi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top model Song Kyung A opens YouTube ch...]]></title>
-            <link>https://now.smtown.com/news/detail/2378165</link>
-            <guid>https://now.smtown.com/news/detail/2378165</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Top model Song Kyung A released a teaser video ...]]></content:encoded>
         </item>
     </channel>
 </rss>

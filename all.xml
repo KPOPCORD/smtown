@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 03:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 04:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25238502</link>
             <guid>https://vlive.tv/post/0-25238502</guid>
             <pubDate>Tue, 07 Sep 2021 15:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210907_150/1631026263815rMCm2_JPEG/upload_472958649671349169c2784cb-a3f8-45a5-91af-1db75736c0fc.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25232364</link>
             <guid>https://vlive.tv/post/1-25232364</guid>
             <pubDate>Tue, 07 Sep 2021 09:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210907_158/1630979774538BABD0_JPEG/1630978652978.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Road Trip’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5391</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5391</guid>
-            <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
+            <title><![CDATA[성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5395</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5395</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 수록곡 ‘Road Trip’ 트랙 비디오 오늘 밤 12시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61383886193de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 이상순, 첫 솔로 ‘Leesangsoon’ 바이닐 앨범 오늘(8일) 발매 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5393</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5393</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">싱어송라이터 이상순, 첫 솔로 ‘Leesangsoon’ 바이닐 앨범 오늘(8일) 발매</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6138377d9546d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스틱스토리 공연 프로젝트 ‘리슨 스테이지’ 재개…9월 윤종신∙정인 출격 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5392</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5392</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[미스틱스토리의 특별한 공연 프로젝트 ‘리슨 스테이지(LISTEN STAGE)’가 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6138370bcdb47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민, 오늘 오후 6시 디지털 싱글 ‘Goodnight, Summer’ 정식 발매! 힐링 음악 예고! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5390</link>
             <guid>https://www.smtown.com/artist/newsDetail/5390</guid>
             <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">성민, 오늘 오후 6시 디지털 싱글 ‘Goodnight, Summer’ 정식 발매! 힐링 음악 예고!</span>]]></content:encoded>
+            <content:encoded><![CDATA[성민이 오늘 약 2년만에 솔로 앨범을 발매한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c750a2fdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5387</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5385</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5382</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5382</guid>
+            <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Dreamer’(드리머)로 경쾌한 힐링송을 들려준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Road Trip’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5391</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5391</guid>
+            <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 세 번째 트랙 비디오 ‘Road Trip’(로드 트립)이 오늘 밤 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑소 카이 ‘우도주막’ 사로잡은 에이스 막내 활약! (SMTOWN ─ Musicians News)]]></title>
@@ -425,52 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613073bb45866.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 두 번째 콘셉트 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5377</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5377</guid>
-            <pubDate>Wed, 01 Sep 2021 06:50:52 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 두 번째 콘셉트 티저 이미지가 공개돼 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20dc21013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5387</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5385</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5382</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5382</guid>
-            <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Dreamer’(드리머)로 경쾌한 힐링송을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 신곡 ‘Goodnight, Summer’ 뮤직비디오 티저 영상 공개! 신비로운 분위기에 시선집중! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5379</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5379</guid>
-            <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[성민이 신곡 ‘Goodnight, Summer’(굿나잇, 서머) 뮤직비디오 티저 영상을 공개하며 시선을 모았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6130728339eb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예림(레드벨벳 예리), 주연작 ‘블루버스데이’ OST 참여! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5375</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5375</guid>
-            <pubDate>Wed, 01 Sep 2021 06:50:52 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 ‘블루버스데이’의 OST를 직접 불렀다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f20389038e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이동휘, 편집장으로 변신! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5394</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5394</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">이동휘, 편집장으로 변신!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613838267f129.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SBS ‘펜트하우스’ 봉태규 아들 이태빈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5381</link>
             <guid>https://www.smtown.com/artist/newsDetail/5381</guid>
             <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">이동휘·정은채, ‘한국형 로맨스’</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 이동휘, 정은채가 영화 ‘왼쪽을 보는 남자, 오른쪽을 보는 여자’에 출연한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘최선의 삶’ 한성민, 청순+유니크 넘나드는 화보 비하인드 공개! ‘매력 화수분’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5368</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5368</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 한성민이 화수분 같은 매력을 발산했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권유리, ‘더블유 코리아(W KOREA)’ 그린피스 50주년 프로젝트 화보 참여! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5353</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5353</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 환경 보호를 위해 재능기부에 나섰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272db0dd486.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['너는 나의 봄' 김동욱, 로맨스까지 섭렵한 연기·케미의 달인 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5350</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5350</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김동욱이 ‘너는 나의 봄’을 통해 또 하나의 인생 캐릭터를 써냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6125df5b04b01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 청량+열정 가득한 비하인드 사진 공개! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5343</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5343</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 안팎으로 전천후 활약 중이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다” (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,31 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 ‘최선의 삶’ 한성민, 청순+유니크 넘나드는 화보 비하인드 공개! ‘매력 화수분’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5368</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5368</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한성민이 화수분 같은 매력을 발산했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SUNGMIN's new song 'Goodnight, Summer' ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378243</link>
+            <guid>https://now.smtown.com/news/detail/2378243</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[SUNGMIN provided 'healing' to global fans.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권유리, ‘더블유 코리아(W KOREA)’ 그린피스 50주년 프로젝트 화보 참여! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5353</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5353</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 환경 보호를 위해 재능기부에 나섰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272db0dd486.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Lee Dong Hwi Becomes Editor-in-Chief! (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378242</link>
+            <guid>https://now.smtown.com/news/detail/2378242</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Lee Dong Hwi has been selected as the new...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['너는 나의 봄' 김동욱, 로맨스까지 섭렵한 연기·케미의 달인 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5350</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5350</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김동욱이 ‘너는 나의 봄’을 통해 또 하나의 인생 캐릭터를 써냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6125df5b04b01.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Singer-songwriter Leesangsoon releases ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378241</link>
+            <guid>https://now.smtown.com/news/detail/2378241</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[Guitarist and singer-songwriter Leesangsoon wil...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 청량+열정 가득한 비하인드 사진 공개! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5343</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5343</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 안팎으로 전천후 활약 중이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종영 D-1 '너나봄' 김동욱이라서 가능했다, 17년 연기 내공의 진가 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5338</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5338</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김동욱이 ‘너는 나의 봄’을 통해 한계 없는 ‘믿보배’ 저력을 보여줬다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61232fa98ac73.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378240</link>
+            <guid>https://now.smtown.com/news/detail/2378240</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video... (SMTOWN ─ NOW)]]></title>
@@ -775,35 +802,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378180</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[Actors Lee Dong Hwi and Jung Eun Chae will appe...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🐱🐑TEN&YANGYANG's Diary in ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ef0xhFRn3k8</link>
-            <guid>https://www.youtube.com/watch?v=ef0xhFRn3k8</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ef0xhFRn3k8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Sticker' presents e... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378167</link>
-            <guid>https://now.smtown.com/news/detail/2378167</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) delivers energetic music with the ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN, new song 'Goodnight, Summer' m... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378166</link>
-            <guid>https://now.smtown.com/news/detail/2378166</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN drew attention by releasing a teaser vi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top model Song Kyung A opens YouTube ch... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378165</link>
-            <guid>https://now.smtown.com/news/detail/2378165</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Top model Song Kyung A released a teaser video ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이철우 입니다 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
