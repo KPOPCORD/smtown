@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 09:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 13:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aku telah menunggumu 🎵 | Tokopedia Beh...]]></title>
+            <link>https://www.youtube.com/watch?v=bKgYdRcHSdE</link>
+            <guid>https://www.youtube.com/watch?v=bKgYdRcHSdE</guid>
+            <pubDate>Wed, 08 Sep 2021 13:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[#NCTDREAM #Tokopedia #behind
+
+NCT DREAM Officia...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bKgYdRcHSdE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUNGMIN's new song 'Goodnight, Summer' ...]]></title>
             <link>https://now.smtown.com/news/detail/2378243</link>
@@ -233,13 +243,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378181</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) delivers a light healing song with...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lee Dong Hwi·Jung Eun Chae, ‘Korean Rom...]]></title>
-            <link>https://now.smtown.com/news/detail/2378180</link>
-            <guid>https://now.smtown.com/news/detail/2378180</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actors Lee Dong Hwi and Jung Eun Chae will appe...]]></content:encoded>
         </item>
     </channel>
 </rss>
