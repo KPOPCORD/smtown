@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 04:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 06:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,9 +29,11 @@
             <content:encoded><![CDATA[Guitarist and singer-songwriter Leesangsoon wil...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MYSTIC STORY performance project ‘LISTE...]]></title>
             <link>https://now.smtown.com/news/detail/2378240</link>
             <guid>https://now.smtown.com/news/detail/2378240</guid>
             <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[MYSTIC STORY's special performance project 'LIS...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video...]]></title>
