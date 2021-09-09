@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 14:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 15:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video ...]]></title>
+            <link>https://www.youtube.com/watch?v=MmUNXU77waQ</link>
+            <guid>https://www.youtube.com/watch?v=MmUNXU77waQ</guid>
+            <pubDate>Thu, 09 Sep 2021 15:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/MmUNXU77waQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을이었다,,,🍁 가을의 인간화 #채정안 광고 현장 #키동캠｜채정안]]></title>
             <link>https://www.youtube.com/watch?v=xDMlFQBl20s</link>
@@ -232,14 +240,6 @@ NCT DREAM Officia...]]></content:encoded>
             <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/z_4DCEH6NMk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Dreamer' Track Video #1]]></title>
-            <link>https://www.youtube.com/watch?v=p6v5lsdE88U</link>
-            <guid>https://www.youtube.com/watch?v=p6v5lsdE88U</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/p6v5lsdE88U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 14:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 15:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video #4]]></title>
+            <link>https://vlive.tv/post/0-25270128</link>
+            <guid>https://vlive.tv/post/0-25270128</guid>
+            <pubDate>Thu, 09 Sep 2021 15:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210910_66/1631200057416Qeqfo_JPEG/1631199968062.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25232364</guid>
             <pubDate>Tue, 07 Sep 2021 09:42:34 GMT</pubDate>
             <content:encoded><![CDATA[9.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210907_158/1630979774538BABD0_JPEG/1630978652978.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #2]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24909128</guid>
             <pubDate>Sun, 22 Aug 2021 05:36:43 GMT</pubDate>
             <content:encoded><![CDATA[8.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 : Who is STICKER]]></title>
-            <link>https://vlive.tv/post/1-24885865</link>
-            <guid>https://vlive.tv/post/1-24885865</guid>
-            <pubDate>Fri, 20 Aug 2021 17:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[8.20.]]></content:encoded>
         </item>
     </channel>
 </rss>

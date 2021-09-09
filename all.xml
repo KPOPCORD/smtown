@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 14:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 15:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video #4 (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-25270128</link>
+            <guid>https://vlive.tv/post/0-25270128</guid>
+            <pubDate>Thu, 09 Sep 2021 15:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210910_66/1631200057416Qeqfo_JPEG/1631199968062.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25232364</guid>
             <pubDate>Tue, 07 Sep 2021 09:42:34 GMT</pubDate>
             <content:encoded><![CDATA[9.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210907_158/1630979774538BABD0_JPEG/1630978652978.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #2 (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24909128</guid>
             <pubDate>Sun, 22 Aug 2021 05:36:43 GMT</pubDate>
             <content:encoded><![CDATA[8.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 : Who is STICKER (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24885865</link>
-            <guid>https://vlive.tv/post/1-24885865</guid>
-            <pubDate>Fri, 20 Aug 2021 17:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[8.20.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=MmUNXU77waQ</link>
+            <guid>https://www.youtube.com/watch?v=MmUNXU77waQ</guid>
+            <pubDate>Thu, 09 Sep 2021 15:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/MmUNXU77waQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을이었다,,,🍁 가을의 인간화 #채정안 광고 현장 #키동캠｜채정안 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=xDMlFQBl20s</link>
             <guid>https://www.youtube.com/watch?v=xDMlFQBl20s</guid>
@@ -795,14 +803,6 @@ NCT DREAM Officia...]]></content:encoded>
             <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/z_4DCEH6NMk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Dreamer' Track Video #1 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=p6v5lsdE88U</link>
-            <guid>https://www.youtube.com/watch?v=p6v5lsdE88U</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/p6v5lsdE88U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
