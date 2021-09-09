@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 03:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 04:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5396</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5396</guid>
+            <pubDate>Thu, 09 Sep 2021 04:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61398435754bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5395</link>
             <guid>https://www.smtown.com/artist/newsDetail/5395</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5393</link>
             <guid>https://www.smtown.com/artist/newsDetail/5393</guid>
             <pubDate>Wed, 08 Sep 2021 04:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">싱어송라이터 이상순, 첫 솔로 ‘Leesangsoon’ 바이닐 앨범 오늘(8일) 발매</span>]]></content:encoded>
+            <content:encoded><![CDATA[기타리스트이자 싱어송라이터 이상순이 첫 솔로 EP ‘이상순(Leesangsoon)’의 바이닐 앨범을 오늘(8일) 발매한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6138377d9546d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Road Trip’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5391</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5391</guid>
+            <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 세 번째 트랙 비디오 ‘Road Trip’(로드 트립)이 오늘 밤 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 카이 ‘우도주막’ 사로잡은 에이스 막내 활약! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5389</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5389</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 ‘우도주막’의 에이스 막내로 활약하며 믿고 보는 예능 캐릭터임을 증명했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c70ec036f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집으로 들려줄 로맨틱 감성! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5386</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5386</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 로맨틱한 감성을 들려준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359d28d0eac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 대만 ‘KKBOX’ 韓 앨범차트 200주 1위 기염! 4년간 이어진 대기록! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5383</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5383</guid>
+            <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 대만 최대의 온라인 음악 사이트 ‘KKBOX’ 한국 앨범 차트에서 200주 연속 1위를 기록했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b4c1a7ab4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스틱스토리 공연 프로젝트 ‘리슨 스테이지’ 재개…9월 윤종신∙정인 출격 (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Dreamer’(드리머)로 경쾌한 힐링송을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Road Trip’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5391</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5391</guid>
-            <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 세 번째 트랙 비디오 ‘Road Trip’(로드 트립)이 오늘 밤 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이 ‘우도주막’ 사로잡은 에이스 막내 활약! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5389</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5389</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 ‘우도주막’의 에이스 막내로 활약하며 믿고 보는 예능 캐릭터임을 증명했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c70ec036f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집으로 들려줄 로맨틱 감성! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5386</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5386</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 로맨틱한 감성을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359d28d0eac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어, 대만 ‘KKBOX’ 韓 앨범차트 200주 1위 기염! 4년간 이어진 대기록! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5383</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5383</guid>
-            <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 대만 최대의 온라인 음악 사이트 ‘KKBOX’ 한국 앨범 차트에서 200주 연속 1위를 기록했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b4c1a7ab4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 에너제틱 매력 선사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5380</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5380</guid>
-            <pubDate>Thu, 02 Sep 2021 07:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Breakfast’(브렉퍼스트)와 ‘Far’(파)로 에너제틱한 음악을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613073bb45866.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이동휘, 편집장으로 변신! (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,12 @@
             <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
             <content:encoded><![CDATA[배우 김재범이 남다른 존재감으로 관객들을 사로잡고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378260</link>
+            <guid>https://now.smtown.com/news/detail/2378260</guid>
+            <pubDate>Thu, 09 Sep 2021 04:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aku telah menunggumu 🎵 | Tokopedia Beh... (SMTOWN ─ NOW)]]></title>
@@ -799,13 +805,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378182</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR topped the Korean album chart of T...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Dreamer' track vide... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378181</link>
-            <guid>https://now.smtown.com/news/detail/2378181</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) delivers a light healing song with...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 

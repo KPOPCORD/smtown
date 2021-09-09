@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 03:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 04:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378260</link>
+            <guid>https://now.smtown.com/news/detail/2378260</guid>
+            <pubDate>Thu, 09 Sep 2021 04:54:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Aku telah menunggumu 🎵 | Tokopedia Beh...]]></title>
             <link>https://www.youtube.com/watch?v=bKgYdRcHSdE</link>
@@ -236,13 +241,6 @@ http://www...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378182</guid>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR topped the Korean album chart of T...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Dreamer' track vide...]]></title>
-            <link>https://now.smtown.com/news/detail/2378181</link>
-            <guid>https://now.smtown.com/news/detail/2378181</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) delivers a light healing song with...]]></content:encoded>
         </item>
     </channel>
 </rss>
