@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 05:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 06:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5397</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5397</guid>
+            <pubDate>Thu, 09 Sep 2021 06:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6139a538aa7e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5396</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61398435754bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5395</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5395</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61383886193de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

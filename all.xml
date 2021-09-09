@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 05:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 06:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5397</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5397</guid>
+            <pubDate>Thu, 09 Sep 2021 06:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6139a538aa7e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5396</link>
             <guid>https://www.smtown.com/artist/newsDetail/5396</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5395</link>
             <guid>https://www.smtown.com/artist/newsDetail/5395</guid>
             <pubDate>Wed, 08 Sep 2021 04:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위!</span>]]></content:encoded>
+            <content:encoded><![CDATA[성민이 글로벌 팬들에게 ‘힐링’을 선사했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61383886193de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스틱스토리 공연 프로젝트 ‘리슨 스테이지’ 재개…9월 윤종신∙정인 출격 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5392</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5392</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[미스틱스토리의 특별한 공연 프로젝트 ‘리슨 스테이지(LISTEN STAGE)’가 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6138370bcdb47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성민, 오늘 오후 6시 디지털 싱글 ‘Goodnight, Summer’ 정식 발매! 힐링 음악 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5390</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5390</guid>
+            <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[성민이 오늘 약 2년만에 솔로 앨범을 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c750a2fdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5387</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5385</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
+            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱어송라이터 이상순, 첫 솔로 ‘Leesangsoon’ 바이닐 앨범 오늘(8일) 발매 (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어가 대만 최대의 온라인 음악 사이트 ‘KKBOX’ 한국 앨범 차트에서 200주 연속 1위를 기록했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b4c1a7ab4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스틱스토리 공연 프로젝트 ‘리슨 스테이지’ 재개…9월 윤종신∙정인 출격 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5392</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5392</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[미스틱스토리의 특별한 공연 프로젝트 ‘리슨 스테이지(LISTEN STAGE)’가 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6138370bcdb47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 오늘 오후 6시 디지털 싱글 ‘Goodnight, Summer’ 정식 발매! 힐링 음악 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5390</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5390</guid>
-            <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[성민이 오늘 약 2년만에 솔로 앨범을 발매한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c750a2fdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5387</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5385</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 수록곡 ‘Dreamer’ 트랙 비디오 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5382</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5382</guid>
-            <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 수록곡 ‘Dreamer’(드리머)로 경쾌한 힐링송을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b3e4b842d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이동휘, 편집장으로 변신! (SMTOWN ─ Actors News)]]></title>
@@ -571,10 +571,18 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' released ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378261</link>
+            <guid>https://now.smtown.com/news/detail/2378261</guid>
+            <pubDate>Thu, 09 Sep 2021 06:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[Spotify enhanced album to commemorate the relea...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUNGMIN, the first broadcast of the new... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378260</link>
             <guid>https://now.smtown.com/news/detail/2378260</guid>
             <pubDate>Thu, 09 Sep 2021 04:54:40 GMT</pubDate>
+            <content:encoded><![CDATA[SUNGMIN will unveil the comeback stage for the ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Aku telah menunggumu 🎵 | Tokopedia Beh... (SMTOWN ─ NOW)]]></title>
@@ -798,13 +806,6 @@ NCT DREAM Officia...]]></content:encoded>
 Red Velvet Official
 http://www...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/YGRtBJuj8oA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR, Taiwan 'KKBOX' Korean alb... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378182</link>
-            <guid>https://now.smtown.com/news/detail/2378182</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR topped the Korean album chart of T...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
