@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 13:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 14:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을이었다,,,🍁 가을의 인간화 #채정안 광고 현장 #키동캠｜채정안 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=xDMlFQBl20s</link>
+            <guid>https://www.youtube.com/watch?v=xDMlFQBl20s</guid>
+            <pubDate>Thu, 09 Sep 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[It was autumn,,,🍁 Human-autumn #ChaeJungAn Beh...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xDMlFQBl20s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=p0VTR8X1FPo</link>
             <guid>https://www.youtube.com/watch?v=p0VTR8X1FPo</guid>
@@ -795,14 +803,6 @@ NCT DREAM Officia...]]></content:encoded>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/p6v5lsdE88U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Hate that... (Feat. 태연)' MV Shooting B... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=UfM8vt76UfI</link>
-            <guid>https://www.youtube.com/watch?v=UfM8vt76UfI</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/UfM8vt76UfI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
