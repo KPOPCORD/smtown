@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 08:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 10:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=p0VTR8X1FPo</link>
+            <guid>https://www.youtube.com/watch?v=p0VTR8X1FPo</guid>
+            <pubDate>Thu, 09 Sep 2021 10:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/p0VTR8X1FPo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127's 3rd album 'Sticker' released ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378261</link>
             <guid>https://now.smtown.com/news/detail/2378261</guid>
@@ -795,17 +803,6 @@ NCT DREAM Officia...]]></content:encoded>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/UfM8vt76UfI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎂Happy Birthday To You🎂 Live Video🎤ㅣ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=YGRtBJuj8oA</link>
-            <guid>https://www.youtube.com/watch?v=YGRtBJuj8oA</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[HAPPY JOY DAY💚
-
-Red Velvet Official
-http://www...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YGRtBJuj8oA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
