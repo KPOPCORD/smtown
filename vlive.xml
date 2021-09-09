@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 23:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 03:45:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(FULL) '기적'배 장학퀴즈! 무비토크 라이브]]></title>
+            <link>https://vlive.tv/post/1-25001517</link>
+            <guid>https://vlive.tv/post/1-25001517</guid>
+            <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video #3]]></title>
             <link>https://vlive.tv/post/0-25238502</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25205084</guid>
             <pubDate>Sun, 05 Sep 2021 15:45:33 GMT</pubDate>
             <content:encoded><![CDATA[9.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210905_164/1630841750796M7O0g_JPEG/1630841696307.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Magic Carpet Ride' Track Video #2]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-24885865</guid>
             <pubDate>Fri, 20 Aug 2021 17:42:44 GMT</pubDate>
             <content:encoded><![CDATA[8.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 'Pose' Performance Stage @inteRView vol.7 : Queendom]]></title>
-            <link>https://vlive.tv/post/0-24841714</link>
-            <guid>https://vlive.tv/post/0-24841714</guid>
-            <pubDate>Wed, 08 Sep 2021 13:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[8.18.]]></content:encoded>
         </item>
     </channel>
 </rss>
