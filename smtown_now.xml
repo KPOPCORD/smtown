@@ -4,28 +4,41 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 05:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 07:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <link>https://now.smtown.com/news/detail/2378285</link>
+            <guid>https://now.smtown.com/news/detail/2378285</guid>
+            <pubDate>Fri, 10 Sep 2021 07:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 3rd album 'Sticker' release co...]]></title>
             <link>https://now.smtown.com/news/detail/2378277</link>
             <guid>https://now.smtown.com/news/detail/2378277</guid>
             <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) will hold a comeback show to comme...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘iScreaM Vol.10 : Next Level Remixes’ t...]]></title>
             <link>https://now.smtown.com/news/detail/2378276</link>
             <guid>https://now.smtown.com/news/detail/2378276</guid>
             <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[aespa(SM)'s ‘Next Level’ remix version to be re...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[The reason why ‘기적’ LIM YOONA is bound ...]]></title>
             <link>https://now.smtown.com/news/detail/2378275</link>
             <guid>https://now.smtown.com/news/detail/2378275</guid>
             <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) is anno...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘철업디’ Kim Young Chul “The next goal is ...]]></title>
             <link>https://now.smtown.com/news/detail/2378274</link>
             <guid>https://now.smtown.com/news/detail/2378274</guid>
             <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[Broadcaster Kim Young Chul is one step closer t...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video ...]]></title>
@@ -218,15 +231,6 @@ NCT DREAM Officia...]]></content:encoded>
             <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DDokLv2ujyk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Recording Be...]]></title>
-            <link>https://www.youtube.com/watch?v=cHuvvZcnyjs</link>
-            <guid>https://www.youtube.com/watch?v=cHuvvZcnyjs</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/cHuvvZcnyjs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
