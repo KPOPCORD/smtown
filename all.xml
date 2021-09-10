@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 23:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 01:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25270128</link>
             <guid>https://vlive.tv/post/0-25270128</guid>
             <pubDate>Thu, 09 Sep 2021 15:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_66/1631200057416Qeqfo_JPEG/1631199968062.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25001517</link>
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
