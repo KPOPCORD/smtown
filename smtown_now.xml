@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 04:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 05:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378277</link>
+            <guid>https://now.smtown.com/news/detail/2378277</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378276</link>
+            <guid>https://now.smtown.com/news/detail/2378276</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378275</link>
+            <guid>https://now.smtown.com/news/detail/2378275</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378274</link>
+            <guid>https://now.smtown.com/news/detail/2378274</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video ...]]></title>
             <link>https://www.youtube.com/watch?v=MmUNXU77waQ</link>
@@ -207,39 +227,6 @@ NCT DREAM Officia...]]></content:encoded>
             <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/cHuvvZcnyjs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 정도는 돼야 할 수 있는 거긴 한데👨🏻‍🍳 | 천지의 이것저...]]></title>
-            <link>https://www.youtube.com/watch?v=ThmAjL8ruGI</link>
-            <guid>https://www.youtube.com/watch?v=ThmAjL8ruGI</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ThmAjL8ruGI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' Dance Pract...]]></title>
-            <link>https://www.youtube.com/watch?v=R-NGtP81Amw</link>
-            <guid>https://www.youtube.com/watch?v=R-NGtP81Amw</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/R-NGtP81Amw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Model Jung Hyuk, 'SNL Korea' crew scram...]]></title>
-            <link>https://now.smtown.com/news/detail/2378207</link>
-            <guid>https://now.smtown.com/news/detail/2378207</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[The gag program 'SNL Korea' starring model and ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet ONLINE FANMEET...]]></title>
-            <link>https://www.youtube.com/watch?v=z_4DCEH6NMk</link>
-            <guid>https://www.youtube.com/watch?v=z_4DCEH6NMk</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/z_4DCEH6NMk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 04:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 05:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25270128</link>
             <guid>https://vlive.tv/post/0-25270128</guid>
             <pubDate>Thu, 09 Sep 2021 15:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210910_66/1631200057416Qeqfo_JPEG/1631199968062.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5401</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5401</guid>
+            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae7087660f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5400</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5400</guid>
+            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae6c873d43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5397</link>
             <guid>https://www.smtown.com/artist/newsDetail/5397</guid>
             <pubDate>Thu, 09 Sep 2021 06:52:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속) 정규 3집 발매를 기념하는 스포티파이 인핸스드 앨범이 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6139a538aa7e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5396</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5396</guid>
-            <pubDate>Thu, 09 Sep 2021 04:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61398435754bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민표 ‘힐링’ 전했다! 신곡 ‘Goodnight, Summer’ 아이튠즈 톱 송 차트 6개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밴드 루시, 첫 페스티벌 '사운드베리 씨어터' 성료…나날이 성장하는 공연형 밴드 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5385</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5385</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 K밴드 LUCY(루시)가 첫 페스티벌 무대를 뜨겁게 물들였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359cc2c6e64.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5396</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5396</guid>
+            <pubDate>Thu, 09 Sep 2021 04:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[성민이 오늘 음악 방송을 통해 컴백 무대를 최초 공개한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61398435754bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱어송라이터 이상순, 첫 솔로 ‘Leesangsoon’ 바이닐 앨범 오늘(8일) 발매 (SMTOWN ─ Musicians News)]]></title>
@@ -465,12 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359d28d0eac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, 대만 ‘KKBOX’ 韓 앨범차트 200주 1위 기염! 4년간 이어진 대기록! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5383</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5383</guid>
-            <pubDate>Sun, 05 Sep 2021 17:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 대만 최대의 온라인 음악 사이트 ‘KKBOX’ 한국 앨범 차트에서 200주 연속 1위를 기록했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b4c1a7ab4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘기적’ 임윤아가 사랑받을 수밖에 없는 이유! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5399</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5399</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘기적’ 임윤아가 사랑받을 수밖에 없는 이유! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이동휘, 편집장으로 변신! (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5388</link>
             <guid>https://www.smtown.com/artist/newsDetail/5388</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SBS ‘펜트하우스’ 봉태규 아들 이태빈, 키이스트 전속계약!</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 이태빈이 키이스트와 전속계약을 체결했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c69cc3d17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다” (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5376</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5376</guid>
+            <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 안방극장에 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f209949bab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조보아, 러블리한 매력 가득 담긴 화보 공개! ‘극강의 사랑스러움’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5360</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5360</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조보아의 사랑스러운 매력이 고스란히 담긴 화보가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배정남, 필드 위의 자유로운 패셔니스타 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5351</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5351</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 배정남이 필드 위의 패셔니스타로 등극했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272cce80fc0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아, 영화 ‘벌새’ 배리어프리버전 내레이션 참여! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5344</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5344</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 배리어프리영화 제작에 내레이션으로 참여했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e662e2d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이동휘·정은채, ‘한국형 로맨스’ (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다” (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5376</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5376</guid>
-            <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 안방극장에 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f209949bab.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378277</link>
+            <guid>https://now.smtown.com/news/detail/2378277</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[조보아, 러블리한 매력 가득 담긴 화보 공개! ‘극강의 사랑스러움’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5360</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5360</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조보아의 사랑스러운 매력이 고스란히 담긴 화보가 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378276</link>
+            <guid>https://now.smtown.com/news/detail/2378276</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[배정남, 필드 위의 자유로운 패셔니스타 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5351</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5351</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 배정남이 필드 위의 패셔니스타로 등극했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272cce80fc0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378275</link>
+            <guid>https://now.smtown.com/news/detail/2378275</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[임윤아, 영화 ‘벌새’ 배리어프리버전 내레이션 참여! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5344</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5344</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 배리어프리영화 제작에 내레이션으로 참여했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e662e2d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘인질’ 김재범, 관객 사로잡은 존재감甲 ‘극악무도 빌런’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5342</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5342</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김재범이 남다른 존재감으로 관객들을 사로잡고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248d5443a46.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378274</link>
+            <guid>https://now.smtown.com/news/detail/2378274</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video ... (SMTOWN ─ NOW)]]></title>
@@ -770,39 +794,6 @@ NCT DREAM Officia...]]></content:encoded>
             <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/cHuvvZcnyjs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 정도는 돼야 할 수 있는 거긴 한데👨🏻‍🍳 | 천지의 이것저... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ThmAjL8ruGI</link>
-            <guid>https://www.youtube.com/watch?v=ThmAjL8ruGI</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ThmAjL8ruGI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' Dance Pract... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=R-NGtP81Amw</link>
-            <guid>https://www.youtube.com/watch?v=R-NGtP81Amw</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/R-NGtP81Amw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Model Jung Hyuk, 'SNL Korea' crew scram... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378207</link>
-            <guid>https://now.smtown.com/news/detail/2378207</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[The gag program 'SNL Korea' starring model and ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet ONLINE FANMEET... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=z_4DCEH6NMk</link>
-            <guid>https://www.youtube.com/watch?v=z_4DCEH6NMk</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/z_4DCEH6NMk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 

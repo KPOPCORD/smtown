@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Sep 2021 04:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 05:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5397</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5397</guid>
-            <pubDate>Thu, 09 Sep 2021 06:52:39 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5401</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5401</guid>
+            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6139a538aa7e3.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae7087660f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5396</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5396</guid>
-            <pubDate>Thu, 09 Sep 2021 04:54:09 GMT</pubDate>
+            <title><![CDATA[‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5400</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5400</guid>
+            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">성민, 오늘 음악 방송서 신곡 ‘Goodnight, Summer’ 첫 선! 2년만의 음악 방송 나들이!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61398435754bd.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae6c873d43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
