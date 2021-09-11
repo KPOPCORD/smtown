@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 10:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 11:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천재 해커 역할을 수행하고 있습니다 👨‍💻✨ | NCT 127 : ...]]></title>
+            <link>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</link>
+            <guid>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</guid>
+            <pubDate>Sat, 11 Sep 2021 11:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT127WhoisSTICKER 
+#NCT127 #Sticker
+#NCT127_S...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/C1xZ3Ke3BTM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low...]]></title>
             <link>https://www.youtube.com/watch?v=fmxOItbGGxs</link>
@@ -224,14 +234,6 @@ NCT DREAM Officia...]]></content:encoded>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZoLK--mFy1g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Magic Carpet Ride' Tra...]]></title>
-            <link>https://www.youtube.com/watch?v=GpkIBvXgGjI</link>
-            <guid>https://www.youtube.com/watch?v=GpkIBvXgGjI</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/GpkIBvXgGjI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
