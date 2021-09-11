@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 11:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 13:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -575,9 +575,7 @@
             <link>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</link>
             <guid>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</guid>
             <pubDate>Sat, 11 Sep 2021 11:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[#NCT127WhoisSTICKER 
-#NCT127 #Sticker
-#NCT127_S...]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/C1xZ3Ke3BTM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
