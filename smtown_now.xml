@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 08:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 09:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low...]]></title>
+            <link>https://www.youtube.com/watch?v=fmxOItbGGxs</link>
+            <guid>https://www.youtube.com/watch?v=fmxOItbGGxs</guid>
+            <pubDate>Sat, 11 Sep 2021 09:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fmxOItbGGxs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Band LUCY, first appearance on ‘Grand M...]]></title>
             <link>https://now.smtown.com/news/detail/2378285</link>
@@ -224,15 +232,6 @@ NCT DREAM Officia...]]></content:encoded>
             <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/GpkIBvXgGjI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 '다시, 여름 (Hello, Sunset)...]]></title>
-            <link>https://www.youtube.com/watch?v=DDokLv2ujyk</link>
-            <guid>https://www.youtube.com/watch?v=DDokLv2ujyk</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet's 6th Mini Album "Queendom" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/DDokLv2ujyk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
