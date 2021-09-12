@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 06:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘포르테 디 콰트로’ 손태진 “삼세판도 아닌 3년 만의 ‘불후’ 우승…더욱 뜻깊어” <우승소감> (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5404</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5404</guid>
+            <pubDate>Sun, 12 Sep 2021 06:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘포르테 디 콰트로’ 손태진 “삼세판도 아닌 3년 만의 ‘불후’ 우승…더욱 뜻깊어” &lt;우승소감&gt;</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da20c347d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍자, 생명존중교육협의회 홍보대사 위촉 “미약하지만 힘 보탤 수 있도록 노력” (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5403</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5403</guid>
+            <pubDate>Sun, 12 Sep 2021 06:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">홍자, 생명존중교육협의회 홍보대사 위촉 “미약하지만 힘 보탤 수 있도록 노력”</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da1b0e9bca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[밴드 루시, ‘그랜드 민트 페스티벌 2021’ 첫 출연…최고의 가을 음악 선사 예고 (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5402</link>
             <guid>https://www.smtown.com/artist/newsDetail/5402</guid>
             <pubDate>Fri, 10 Sep 2021 07:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">밴드 루시, ‘그랜드 민트 페스티벌 2021’ 첫 출연…최고의 가을 음악 선사 예고</span>]]></content:encoded>
+            <content:encoded><![CDATA[차세대 K-밴드 LUCY(루시)가 ‘그랜드 민트 페스티벌 2021’에 참여한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613b0aa2786dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5401</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5401</guid>
-            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae7087660f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이 ‘우도주막’ 사로잡은 에이스 막내 활약! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5389</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5389</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 ‘우도주막’의 에이스 막내로 활약하며 믿고 보는 예능 캐릭터임을 증명했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c70ec036f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5401</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5401</guid>
+            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커) 발매 기념 컴백쇼를 펼친다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae7087660f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 07 Sep 2021 02:47:53 GMT</pubDate>
             <content:encoded><![CDATA[성민이 오늘 약 2년만에 솔로 앨범을 발매한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c750a2fdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5387</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘기적’ 임윤아가 사랑받을 수밖에 없는 이유! (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,18 @@
             <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
             <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 안팎으로 전천후 활약 중이다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378304</link>
+            <guid>https://now.smtown.com/news/detail/2378304</guid>
+            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378303</link>
+            <guid>https://now.smtown.com/news/detail/2378303</guid>
+            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[천재 해커 역할을 수행하고 있습니다 👨‍💻✨ | NCT 127 : ... (SMTOWN ─ NOW)]]></title>
@@ -780,21 +792,6 @@ NCT DREAM Officia...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378209</guid>
             <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
             <content:encoded><![CDATA[Next-generation K-band LUCY colored the first f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MYSTIC STORY opens ‘MYSTIC CONNECT’, a ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378208</link>
-            <guid>https://now.smtown.com/news/detail/2378208</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[MYSTIC STORY opens a new live space.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Tease... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ZoLK--mFy1g</link>
-            <guid>https://www.youtube.com/watch?v=ZoLK--mFy1g</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZoLK--mFy1g/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 

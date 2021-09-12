@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 06:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 루시, ‘그랜드 민트 페스티벌 2021’ 첫 출연…최고의 가을 음악 선사 예고]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5402</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5402</guid>
+            <pubDate>Sun, 12 Sep 2021 06:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[차세대 K-밴드 LUCY(루시)가 ‘그랜드 민트 페스티벌 2021’에 참여한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613b0aa2786dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5400</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c7a66bbdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이 ‘우도주막’ 사로잡은 에이스 막내 활약!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5389</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5389</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 ‘우도주막’의 에이스 막내로 활약하며 믿고 보는 예능 캐릭터임을 증명했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c70ec036f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5401</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5401</guid>
+            <pubDate>Sun, 12 Sep 2021 06:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커) 발매 기념 컴백쇼를 펼친다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae7087660f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 'Sticker' 발매 기념 스포티파이 인핸스드 앨범 17일 공개!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Sep 2021 04:54:15 GMT</pubDate>
             <content:encoded><![CDATA[성민이 오늘 약 2년만에 솔로 앨범을 발매한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c750a2fdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘만능 치트키’ 샤이니 키, 새 솔로 앨범 ‘BAD LOVE’ 9월 27일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5387</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5387</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 9월 27일 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61359dc95db47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 06:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378304</link>
+            <guid>https://now.smtown.com/news/detail/2378304</guid>
+            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378303</link>
+            <guid>https://now.smtown.com/news/detail/2378303</guid>
+            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[천재 해커 역할을 수행하고 있습니다 👨‍💻✨ | NCT 127 : ...]]></title>
             <link>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</link>
@@ -217,21 +227,6 @@ NCT DREAM Officia...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378209</guid>
             <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
             <content:encoded><![CDATA[Next-generation K-band LUCY colored the first f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MYSTIC STORY opens ‘MYSTIC CONNECT’, a ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378208</link>
-            <guid>https://now.smtown.com/news/detail/2378208</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[MYSTIC STORY opens a new live space.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Tease...]]></title>
-            <link>https://www.youtube.com/watch?v=ZoLK--mFy1g</link>
-            <guid>https://www.youtube.com/watch?v=ZoLK--mFy1g</guid>
-            <pubDate>Sun, 05 Sep 2021 18:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZoLK--mFy1g/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
