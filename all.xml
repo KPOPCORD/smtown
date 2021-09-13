@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 11:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 13:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25380230</link>
             <guid>https://vlive.tv/post/1-25380230</guid>
             <pubDate>Mon, 13 Sep 2021 09:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6125df5b04b01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Compilation (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=i8wv1PWGFoo</link>
+            <guid>https://www.youtube.com/watch?v=i8wv1PWGFoo</guid>
+            <pubDate>Mon, 13 Sep 2021 13:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[Thank you for your love and support for Red Vel...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/i8wv1PWGFoo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=5DMOR6O1p-o</link>
             <guid>https://www.youtube.com/watch?v=5DMOR6O1p-o</guid>
@@ -788,13 +796,6 @@ NCT DREAM Officia...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378222</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(SM)'s 3rd album 3rd track video 'Road T...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN, digital single ‘Goodnight, Sum... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378221</link>
-            <guid>https://now.smtown.com/news/detail/2378221</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN will release a solo album on the 7th af...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
