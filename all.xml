@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 08:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 09:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25380230</link>
+            <guid>https://vlive.tv/post/1-25380230</guid>
+            <pubDate>Mon, 13 Sep 2021 09:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video #4 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25270128</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25238502</guid>
             <pubDate>Tue, 07 Sep 2021 15:44:50 GMT</pubDate>
             <content:encoded><![CDATA[9.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210907_150/1631026263815rMCm2_JPEG/upload_472958649671349169c2784cb-a3f8-45a5-91af-1db75736c0fc.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-24935229</guid>
             <pubDate>Wed, 01 Sep 2021 01:44:39 GMT</pubDate>
             <content:encoded><![CDATA[8.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TEN 텐 'Paint Me Naked' Choreography Video (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-24909128</link>
-            <guid>https://vlive.tv/post/1-24909128</guid>
-            <pubDate>Sun, 22 Aug 2021 05:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[8.22.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6125df5b04b01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=5DMOR6O1p-o</link>
+            <guid>https://www.youtube.com/watch?v=5DMOR6O1p-o</guid>
+            <pubDate>Mon, 13 Sep 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5DMOR6O1p-o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Performance King' NCT 127, a super pow... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378314</link>
             <guid>https://now.smtown.com/news/detail/2378314</guid>
@@ -787,13 +795,6 @@ NCT DREAM Officia...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378221</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
             <content:encoded><![CDATA[SUNGMIN will release a solo album on the 7th af...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXO KAI's '우도주막' captivating ace! (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378220</link>
-            <guid>https://now.smtown.com/news/detail/2378220</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
-            <content:encoded><![CDATA[EXO KAI (SM) proved to be a trustworthy enterta...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
