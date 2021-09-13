@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 13:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 15:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY The 1st Mini Album 〈BAD LOVE〉 : Mood Sampler]]></title>
+            <link>https://vlive.tv/post/0-25383235</link>
+            <guid>https://vlive.tv/post/0-25383235</guid>
+            <pubDate>Mon, 13 Sep 2021 15:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_107/1631541772614crPPp_JPEG/1631541476046.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser]]></title>
             <link>https://vlive.tv/post/1-25380230</link>
             <guid>https://vlive.tv/post/1-25380230</guid>
             <pubDate>Mon, 13 Sep 2021 09:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25001517</guid>
             <pubDate>Thu, 09 Sep 2021 03:44:07 GMT</pubDate>
             <content:encoded><![CDATA[9.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210909_107/1631156691370tuYBg_JPEG/upload_752364267942633637e5f4f3a-17dc-4a88-928f-feb34f6c397e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video #3]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-24946598</guid>
             <pubDate>Tue, 24 Aug 2021 11:46:14 GMT</pubDate>
             <content:encoded><![CDATA[8.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 : Sticky Mood Sampler]]></title>
-            <link>https://vlive.tv/post/0-24935229</link>
-            <guid>https://vlive.tv/post/0-24935229</guid>
-            <pubDate>Wed, 01 Sep 2021 01:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[8.23.]]></content:encoded>
         </item>
     </channel>
 </rss>

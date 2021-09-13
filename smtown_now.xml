@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 13:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 15:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY The 1st Mini Album 〈BAD LOVE〉 : Moo...]]></title>
+            <link>https://www.youtube.com/watch?v=v4tqVGD41XU</link>
+            <guid>https://www.youtube.com/watch?v=v4tqVGD41XU</guid>
+            <pubDate>Mon, 13 Sep 2021 15:56:09 GMT</pubDate>
+            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/v4tqVGD41XU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Compilation]]></title>
             <link>https://www.youtube.com/watch?v=i8wv1PWGFoo</link>
@@ -226,13 +234,6 @@ NCT DREAM Officia...]]></content:encoded>
 ▶ Sales Day
 2021. 09. 07 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZnrjagFjd6I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Road Trip' track vi...]]></title>
-            <link>https://now.smtown.com/news/detail/2378222</link>
-            <guid>https://now.smtown.com/news/detail/2378222</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(SM)'s 3rd album 3rd track video 'Road T...]]></content:encoded>
         </item>
     </channel>
 </rss>
