@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 02:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 03:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘포르테 디 콰트로’ 손태진 “삼세판도 아닌 3년 만의 ‘불후’ 우승…더욱 뜻깊어” <우승소감>]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5404</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5404</guid>
-            <pubDate>Sun, 12 Sep 2021 06:49:28 GMT</pubDate>
+            <title><![CDATA[‘퍼포먼스 끝판왕’ NCT 127, 신곡 ‘Sticker’로 보여줄 초강력 퍼포먼스!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5408</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5408</guid>
+            <pubDate>Mon, 13 Sep 2021 03:43:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘포르테 디 콰트로’ 손태진 “삼세판도 아닌 3년 만의 ‘불후’ 우승…더욱 뜻깊어” &lt;우승소감&gt;</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da20c347d0.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘퍼포먼스 끝판왕’ NCT 127, 신곡 ‘Sticker’로 보여줄 초강력 퍼포먼스!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec7946c43a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍자, 생명존중교육협의회 홍보대사 위촉 “미약하지만 힘 보탤 수 있도록 노력”]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5403</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5403</guid>
-            <pubDate>Sun, 12 Sep 2021 06:49:28 GMT</pubDate>
+            <title><![CDATA[‘9월 27일 컴백’ 샤이니 키, 첫 미니앨범 ‘BAD LOVE’ 스케줄 포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5407</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5407</guid>
+            <pubDate>Mon, 13 Sep 2021 03:43:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">홍자, 생명존중교육협의회 홍보대사 위촉 “미약하지만 힘 보탤 수 있도록 노력”</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da1b0e9bca.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘9월 27일 컴백’ 샤이니 키, 첫 미니앨범 ‘BAD LOVE’ 스케줄 포스터 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec72fde708.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

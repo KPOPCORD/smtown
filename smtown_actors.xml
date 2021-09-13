@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 02:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 03:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기적’ 임윤아가 사랑받을 수밖에 없는 이유!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5399</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5399</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 또 한번 스크린 접수를 예고하고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SBS ‘펜트하우스’ 봉태규 아들 이태빈, 키이스트 전속계약!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5388</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272cce80fc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임윤아, 영화 ‘벌새’ 배리어프리버전 내레이션 참여!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5344</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5344</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 배리어프리영화 제작에 내레이션으로 참여했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e662e2d5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이동휘, 편집장으로 변신!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5394</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5394</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘가 ‘네이버 나우(NOW.)’의 새로운 호스트로 발탁됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613838267f129.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이동휘·정은채, ‘한국형 로맨스’]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
             <content:encoded><![CDATA[배우 김동욱이 ‘너는 나의 봄’을 통해 또 하나의 인생 캐릭터를 써냈다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6125df5b04b01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 청량+열정 가득한 비하인드 사진 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5343</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5343</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 드라마 안팎으로 전천후 활약 중이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61248e10a959e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

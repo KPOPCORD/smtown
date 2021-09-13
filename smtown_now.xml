@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 02:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 03:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378314</link>
+            <guid>https://now.smtown.com/news/detail/2378314</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378313</link>
+            <guid>https://now.smtown.com/news/detail/2378313</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378312</link>
+            <guid>https://now.smtown.com/news/detail/2378312</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Forte di Quattro’ Son Tae Jin “Winning...]]></title>
             <link>https://now.smtown.com/news/detail/2378304</link>
@@ -36,6 +51,11 @@
             <pubDate>Sat, 11 Sep 2021 09:42:50 GMT</pubDate>
             <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fmxOItbGGxs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378311</link>
+            <guid>https://now.smtown.com/news/detail/2378311</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Band LUCY, first appearance on ‘Grand M...]]></title>
@@ -203,34 +223,6 @@ NCT DREAM Officia...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378220</guid>
             <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
             <content:encoded><![CDATA[EXO KAI (SM) proved to be a trustworthy enterta...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘펜트하우스’ Bong Tae Gyu's Son Lee Tae ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378219</link>
-            <guid>https://now.smtown.com/news/detail/2378219</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:26 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Tae Vin has signed an exclusive contr...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee KEY's new solo album 'BAD LOVE' ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378211</link>
-            <guid>https://now.smtown.com/news/detail/2378211</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY (SM) makes a comeback with her new s...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, a romantic sensibility to be h...]]></title>
-            <link>https://now.smtown.com/news/detail/2378210</link>
-            <guid>https://now.smtown.com/news/detail/2378210</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album gives you a romantic s...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Band LUCY, first festival 'SOUNDBERRY T...]]></title>
-            <link>https://now.smtown.com/news/detail/2378209</link>
-            <guid>https://now.smtown.com/news/detail/2378209</guid>
-            <pubDate>Mon, 06 Sep 2021 04:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[Next-generation K-band LUCY colored the first f...]]></content:encoded>
         </item>
     </channel>
 </rss>
