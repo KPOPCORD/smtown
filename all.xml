@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 03:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 04:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_6125df5b04b01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['Performance King' NCT 127, a super pow... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378314</link>
             <guid>https://now.smtown.com/news/detail/2378314</guid>
             <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) heralded a stage like the 'Perform...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘September 27 comeback’ SHINee KEY, fir... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378313</link>
             <guid>https://now.smtown.com/news/detail/2378313</guid>
             <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album 'BAD LOVE' sc...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KIM YERIM successfully wraps up her fir... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378312</link>
             <guid>https://now.smtown.com/news/detail/2378312</guid>
             <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[KIM YERIM (Red Velvet YERI, SM) left a comment ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘Forte di Quattro’ Son Tae Jin “Winning... (SMTOWN ─ NOW)]]></title>
@@ -619,10 +622,11 @@
             <enclosure url="https://i.ytimg.com/vi/fmxOItbGGxs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SBS ‘Penthouse’ Lee Tae Vin reveals his... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378311</link>
             <guid>https://now.smtown.com/news/detail/2378311</guid>
             <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
+            <content:encoded><![CDATA[Lee Tae Vin clearly imprinted his presence as a...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Band LUCY, first appearance on ‘Grand M... (SMTOWN ─ NOW)]]></title>
