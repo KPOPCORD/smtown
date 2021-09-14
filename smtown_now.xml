@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 08:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Play V] HENDERY - WuKong]]></title>
+            <link>https://www.youtube.com/watch?v=zU-BeJcrrbk</link>
+            <guid>https://www.youtube.com/watch?v=zU-BeJcrrbk</guid>
+            <pubDate>Tue, 14 Sep 2021 09:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[[Play V] HENDERY - WuKong
+
+Performed by HENDERY...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zU-BeJcrrbk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)...]]></title>
+            <link>https://www.youtube.com/watch?v=EROYsCK0vK4</link>
+            <guid>https://www.youtube.com/watch?v=EROYsCK0vK4</guid>
+            <pubDate>Tue, 14 Sep 2021 09:43:09 GMT</pubDate>
+            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/EROYsCK0vK4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LISTEN STAGE] 210908 - 정인 (장마/가을남자/문득 ...]]></title>
+            <link>https://www.youtube.com/watch?v=1e7JxwXGvCw</link>
+            <guid>https://www.youtube.com/watch?v=1e7JxwXGvCw</guid>
+            <pubDate>Tue, 14 Sep 2021 09:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[#정인리슨스테이지 #정인 #문득사랑해
+🚩JI's Instagram : https:/...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1e7JxwXGvCw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa to release their first mini album...]]></title>
             <link>https://now.smtown.com/news/detail/2378342</link>
@@ -206,27 +233,6 @@
 
 NCT DREAM Officia...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/bKgYdRcHSdE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN's new song 'Goodnight, Summer' ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378243</link>
-            <guid>https://now.smtown.com/news/detail/2378243</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN provided 'healing' to global fans.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lee Dong Hwi Becomes Editor-in-Chief!]]></title>
-            <link>https://now.smtown.com/news/detail/2378242</link>
-            <guid>https://now.smtown.com/news/detail/2378242</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Dong Hwi has been selected as the new...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Singer-songwriter Leesangsoon releases ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378241</link>
-            <guid>https://now.smtown.com/news/detail/2378241</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[Guitarist and singer-songwriter Leesangsoon wil...]]></content:encoded>
         </item>
     </channel>
 </rss>

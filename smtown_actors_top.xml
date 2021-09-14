@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 08:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5410</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5410</guid>
+            <pubDate>Tue, 14 Sep 2021 09:42:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’ </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614032fa46ec8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[규현의 변신은 무죄! ‘베르테르’ → ‘팬텀’ 이어 이번엔 ‘프랑켄슈타인’이다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5409</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">규현의 변신은 무죄! ‘베르테르’ → ‘팬텀’ 이어 이번엔 ‘프랑켄슈타인’이다!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614031d287384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5406</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
