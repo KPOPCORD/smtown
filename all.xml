@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 11:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 13:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25403564</link>
             <guid>https://vlive.tv/post/0-25403564</guid>
             <pubDate>Tue, 14 Sep 2021 09:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210914_40/1631610064430Rn4Ic_JPEG/1631609527349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-25383235</link>
             <guid>https://vlive.tv/post/0-25383235</guid>
             <pubDate>Mon, 13 Sep 2021 15:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_107/1631541772614crPPp_JPEG/1631541476046.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272db0dd486.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Main T... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Q9lRveJrlfQ</link>
+            <guid>https://www.youtube.com/watch?v=Q9lRveJrlfQ</guid>
+            <pubDate>Tue, 14 Sep 2021 13:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Q9lRveJrlfQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[얘들아 카메라 보믄서 우서^_^ㅣBeyond LIVE - NCT DRE... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=BzU6Xe87B8M</link>
             <guid>https://www.youtube.com/watch?v=BzU6Xe87B8M</guid>
@@ -787,13 +795,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378261</guid>
             <pubDate>Thu, 09 Sep 2021 06:53:14 GMT</pubDate>
             <content:encoded><![CDATA[Spotify enhanced album to commemorate the relea...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN, the first broadcast of the new... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378260</link>
-            <guid>https://now.smtown.com/news/detail/2378260</guid>
-            <pubDate>Thu, 09 Sep 2021 04:54:40 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN will unveil the comeback stage for the ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
