@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 07:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 08:45:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25383235</link>
             <guid>https://vlive.tv/post/0-25383235</guid>
             <pubDate>Mon, 13 Sep 2021 15:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_107/1631541772614crPPp_JPEG/1631541476046.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25380230</link>
             <guid>https://vlive.tv/post/1-25380230</guid>
             <pubDate>Mon, 13 Sep 2021 09:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,34 +571,39 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272cce80fc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[aespa to release their first mini album... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378342</link>
             <guid>https://now.smtown.com/news/detail/2378342</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[aespa(SM) will make a comeback with their first...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127 to appear on ‘The Late Late Sho... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378341</link>
             <guid>https://now.smtown.com/news/detail/2378341</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) to appear on ‘The Late Late Show w...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SHINee KEY, first mini album ‘BAD LOVE’... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378340</link>
             <guid>https://now.smtown.com/news/detail/2378340</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[The teaser image for SHINee KEY (SM)'s new solo...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KWON YURI has been cast for the main ro... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378339</link>
             <guid>https://now.smtown.com/news/detail/2378339</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[KWON YURI (Girls' Generation YURI, SM) heralded...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KYUHYUN's transformation is innocent! ‘... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378338</link>
             <guid>https://now.smtown.com/news/detail/2378338</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[This time, KYUHYUN transforms into the scientis...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY The 1st Mini Album 〈BAD LOVE〉 : Moo... (SMTOWN ─ NOW)]]></title>
