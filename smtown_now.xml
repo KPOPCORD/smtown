@@ -4,9 +4,34 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 04:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 05:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378342</link>
+            <guid>https://now.smtown.com/news/detail/2378342</guid>
+            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378341</link>
+            <guid>https://now.smtown.com/news/detail/2378341</guid>
+            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378340</link>
+            <guid>https://now.smtown.com/news/detail/2378340</guid>
+            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378339</link>
+            <guid>https://now.smtown.com/news/detail/2378339</guid>
+            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378338</link>
+            <guid>https://now.smtown.com/news/detail/2378338</guid>
+            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KEY The 1st Mini Album 〈BAD LOVE〉 : Moo...]]></title>
             <link>https://www.youtube.com/watch?v=v4tqVGD41XU</link>
@@ -192,48 +217,6 @@ NCT DREAM Officia...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378241</guid>
             <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
             <content:encoded><![CDATA[Guitarist and singer-songwriter Leesangsoon wil...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MYSTIC STORY performance project ‘LISTE...]]></title>
-            <link>https://now.smtown.com/news/detail/2378240</link>
-            <guid>https://now.smtown.com/news/detail/2378240</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[MYSTIC STORY's special performance project 'LIS...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video...]]></title>
-            <link>https://www.youtube.com/watch?v=LNwQLJaT_a8</link>
-            <guid>https://www.youtube.com/watch?v=LNwQLJaT_a8</guid>
-            <pubDate>Tue, 07 Sep 2021 15:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/LNwQLJaT_a8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV]]></title>
-            <link>https://www.youtube.com/watch?v=xSXslki5xIY</link>
-            <guid>https://www.youtube.com/watch?v=xSXslki5xIY</guid>
-            <pubDate>Tue, 07 Sep 2021 09:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[SUNGMIN's new single "Goodnight, Summer" is out...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xSXslki5xIY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low...]]></title>
-            <link>https://www.youtube.com/watch?v=NE4GUZH7qpM</link>
-            <guid>https://www.youtube.com/watch?v=NE4GUZH7qpM</guid>
-            <pubDate>Tue, 07 Sep 2021 09:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/NE4GUZH7qpM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEMIN 태민 Object Set Making Film]]></title>
-            <link>https://www.youtube.com/watch?v=ZnrjagFjd6I</link>
-            <guid>https://www.youtube.com/watch?v=ZnrjagFjd6I</guid>
-            <pubDate>Tue, 07 Sep 2021 06:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[TAEMIN Object Set 👋
-
-▶ Sales Day
-2021. 09. 07 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZnrjagFjd6I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

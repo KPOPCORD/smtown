@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 04:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 05:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘퍼포먼스 끝판왕’ NCT 127, 신곡 ‘Sticker’로 보여줄 초강력 퍼포먼스!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5408</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5408</guid>
-            <pubDate>Mon, 13 Sep 2021 03:43:58 GMT</pubDate>
+            <title><![CDATA[‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5413</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5413</guid>
+            <pubDate>Tue, 14 Sep 2021 05:39:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘퍼포먼스 끝판왕’ NCT 127, 신곡 ‘Sticker’로 보여줄 초강력 퍼포먼스!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec7946c43a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614034c8eba49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘9월 27일 컴백’ 샤이니 키, 첫 미니앨범 ‘BAD LOVE’ 스케줄 포스터 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5407</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5407</guid>
-            <pubDate>Mon, 13 Sep 2021 03:43:58 GMT</pubDate>
+            <title><![CDATA[NCT 127, 美 인기 토크쇼 ‘제임스 코든쇼’ 17일 출연! 신곡 ‘Sticker’ 무대 최초 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5412</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5412</guid>
+            <pubDate>Tue, 14 Sep 2021 05:39:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘9월 27일 컴백’ 샤이니 키, 첫 미니앨범 ‘BAD LOVE’ 스케줄 포스터 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec72fde708.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 美 인기 토크쇼 ‘제임스 코든쇼’ 17일 출연! 신곡 ‘Sticker’ 무대 최초 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6140343e39dea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
