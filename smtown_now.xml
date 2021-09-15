@@ -4,13 +4,39 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 07:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 08:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <link>https://now.smtown.com/news/detail/2378380</link>
+            <guid>https://now.smtown.com/news/detail/2378380</guid>
+            <pubDate>Wed, 15 Sep 2021 08:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SHINee KEY, this time retro!]]></title>
+            <link>https://now.smtown.com/news/detail/2378379</link>
+            <guid>https://now.smtown.com/news/detail/2378379</guid>
+            <pubDate>Wed, 15 Sep 2021 08:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY (SM) is making a comeback with a new...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378378</link>
+            <guid>https://now.smtown.com/news/detail/2378378</guid>
+            <pubDate>Wed, 15 Sep 2021 08:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ONEW successfully wraps up ‘Sea of ​​Ho...]]></title>
+            <link>https://now.smtown.com/news/detail/2378377</link>
+            <guid>https://now.smtown.com/news/detail/2378377</guid>
+            <pubDate>Wed, 15 Sep 2021 08:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee ONEW(SM) successfully wraps up ‘Sea of ​...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI MINHO to appear in the suspense ge...]]></title>
             <link>https://now.smtown.com/news/detail/2378376</link>
             <guid>https://now.smtown.com/news/detail/2378376</guid>
             <pubDate>Wed, 15 Sep 2021 07:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI MINHO (SHINee MINHO, SM) challenges a new ...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378375</link>
@@ -198,35 +224,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378277</guid>
             <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) will hold a comeback show to comme...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM Vol.10 : Next Level Remixes’ t...]]></title>
-            <link>https://now.smtown.com/news/detail/2378276</link>
-            <guid>https://now.smtown.com/news/detail/2378276</guid>
-            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM)'s ‘Next Level’ remix version to be re...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The reason why ‘기적’ LIM YOONA is bound ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378275</link>
-            <guid>https://now.smtown.com/news/detail/2378275</guid>
-            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) is anno...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘철업디’ Kim Young Chul “The next goal is ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378274</link>
-            <guid>https://now.smtown.com/news/detail/2378274</guid>
-            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[Broadcaster Kim Young Chul is one step closer t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video ...]]></title>
-            <link>https://www.youtube.com/watch?v=MmUNXU77waQ</link>
-            <guid>https://www.youtube.com/watch?v=MmUNXU77waQ</guid>
-            <pubDate>Thu, 09 Sep 2021 15:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MmUNXU77waQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

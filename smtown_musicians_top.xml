@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 07:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 08:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5413</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5413</guid>
-            <pubDate>Tue, 14 Sep 2021 05:39:31 GMT</pubDate>
+            <title><![CDATA[샤이니 키, 이번엔 레트로다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5417</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5417</guid>
+            <pubDate>Wed, 15 Sep 2021 08:44:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614034c8eba49.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">샤이니 키, 이번엔 레트로다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a4af1ff60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 美 인기 토크쇼 ‘제임스 코든쇼’ 17일 출연! 신곡 ‘Sticker’ 무대 최초 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5412</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5412</guid>
-            <pubDate>Tue, 14 Sep 2021 05:39:31 GMT</pubDate>
+            <title><![CDATA[‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5416</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5416</guid>
+            <pubDate>Wed, 15 Sep 2021 08:44:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 美 인기 토크쇼 ‘제임스 코든쇼’ 17일 출연! 신곡 ‘Sticker’ 무대 최초 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6140343e39dea.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a444e0ad5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
