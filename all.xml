@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 09:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 10:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5418</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5418</guid>
+            <pubDate>Wed, 15 Sep 2021 10:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141c181e8730.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤이니 키, 이번엔 레트로다! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5417</link>
             <guid>https://www.smtown.com/artist/newsDetail/5417</guid>
@@ -382,15 +391,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">샤이니 키, 이번엔 레트로다!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a4af1ff60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5416</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5416</guid>
-            <pubDate>Wed, 15 Sep 2021 08:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a444e0ad5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘바라던 바다’ 온유 “좋은 분들과 즐거운 추억 행복했다” 종영 소감 (SMTOWN ─ Musicians News)]]></title>
