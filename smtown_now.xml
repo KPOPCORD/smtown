@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 06:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 07:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378376</link>
+            <guid>https://now.smtown.com/news/detail/2378376</guid>
+            <pubDate>Wed, 15 Sep 2021 07:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378375</link>
+            <guid>https://now.smtown.com/news/detail/2378375</guid>
+            <pubDate>Wed, 15 Sep 2021 07:40:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me...]]></title>
             <link>https://www.youtube.com/watch?v=C-7CGRuWfVw</link>
@@ -217,22 +227,6 @@ Performed by HENDERY...]]></content:encoded>
             <pubDate>Thu, 09 Sep 2021 15:47:57 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/MmUNXU77waQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이었다,,,🍁 가을의 인간화 #채정안 광고 현장 #키동캠｜채정안]]></title>
-            <link>https://www.youtube.com/watch?v=xDMlFQBl20s</link>
-            <guid>https://www.youtube.com/watch?v=xDMlFQBl20s</guid>
-            <pubDate>Thu, 09 Sep 2021 14:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[It was autumn,,,🍁 Human-autumn #ChaeJungAn Beh...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xDMlFQBl20s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ehind] WayV-TEN&YANGYANG 'Low Low...]]></title>
-            <link>https://www.youtube.com/watch?v=p0VTR8X1FPo</link>
-            <guid>https://www.youtube.com/watch?v=p0VTR8X1FPo</guid>
-            <pubDate>Thu, 09 Sep 2021 10:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/p0VTR8X1FPo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

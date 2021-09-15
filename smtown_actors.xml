@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 06:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 07:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규현의 변신은 무죄! ‘베르테르’ → ‘팬텀’ 이어 이번엔 ‘프랑켄슈타인’이다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5409</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5409</guid>
+            <pubDate>Wed, 15 Sep 2021 07:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[규현이 이번에는 과학자 ‘빅터 프랑켄슈타인’으로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614031d287384.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SBS ‘펜트하우스’ 이태빈, 종영 소감 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5405</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5405</guid>
+            <pubDate>Tue, 14 Sep 2021 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘펜트 키즈’ 이태빈이 ‘펜트하우스’를 통해 배우로서 존재감을 확실히 각인시켰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec5a490c41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이동휘, 편집장으로 변신!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5394</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5394</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘가 ‘네이버 나우(NOW.)’의 새로운 호스트로 발탁됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613838267f129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이동휘·정은채, ‘한국형 로맨스’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5381</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5381</guid>
+            <pubDate>Wed, 08 Sep 2021 04:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘, 정은채가 영화 ‘왼쪽을 보는 남자, 오른쪽을 보는 여자’에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘최선의 삶’ 한성민, 청순+유니크 넘나드는 화보 비하인드 공개! ‘매력 화수분’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5368</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5368</guid>
+            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 한성민이 화수분 같은 매력을 발산했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5406</link>
@@ -46,46 +86,6 @@
             <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
             <content:encoded><![CDATA[배우 조보아의 사랑스러운 매력이 고스란히 담긴 화보가 공개됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘펜트하우스’ 이태빈, 종영 소감 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5405</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5405</guid>
-            <pubDate>Tue, 14 Sep 2021 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[‘펜트 키즈’ 이태빈이 ‘펜트하우스’를 통해 배우로서 존재감을 확실히 각인시켰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec5a490c41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘, 편집장으로 변신!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5394</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5394</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이동휘가 ‘네이버 나우(NOW.)’의 새로운 호스트로 발탁됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613838267f129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘·정은채, ‘한국형 로맨스’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5381</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5381</guid>
-            <pubDate>Wed, 08 Sep 2021 04:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이동휘, 정은채가 영화 ‘왼쪽을 보는 남자, 오른쪽을 보는 여자’에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘최선의 삶’ 한성민, 청순+유니크 넘나드는 화보 비하인드 공개! ‘매력 화수분’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5368</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5368</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한성민이 화수분 같은 매력을 발산했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권유리, ‘더블유 코리아(W KOREA)’ 그린피스 50주년 프로젝트 화보 참여!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5353</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5353</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 환경 보호를 위해 재능기부에 나섰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61272db0dd486.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
