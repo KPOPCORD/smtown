@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 14:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 15:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=AcBVi6ZNCu4</link>
+            <guid>https://www.youtube.com/watch?v=AcBVi6ZNCu4</guid>
+            <pubDate>Wed, 15 Sep 2021 15:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AcBVi6ZNCu4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BBO득한 조보아 비주얼 근황😇 #조보아 광고 현장 #키동캠｜조보아]]></title>
             <link>https://www.youtube.com/watch?v=Oo8ZVFR94s8</link>
@@ -225,14 +233,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378303</guid>
             <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
             <content:encoded><![CDATA[Singer HONG JA has been appointed as an ambassa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[천재 해커 역할을 수행하고 있습니다 👨‍💻✨ | NCT 127 : ...]]></title>
-            <link>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</link>
-            <guid>https://www.youtube.com/watch?v=C1xZ3Ke3BTM</guid>
-            <pubDate>Sat, 11 Sep 2021 11:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/C1xZ3Ke3BTM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

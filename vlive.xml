@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 14:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 15:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-25430969</link>
+            <guid>https://vlive.tv/post/0-25430969</guid>
+            <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210915_50/1631704784787zFX1Y_JPEG/1631704438227.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV]]></title>
             <link>https://vlive.tv/post/0-25403564</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25380230</guid>
             <pubDate>Mon, 13 Sep 2021 09:42:32 GMT</pubDate>
             <content:encoded><![CDATA[9.13.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210913_98/16315236517602wSDI_JPEG/1631519357661.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Track Video #4]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25021600</guid>
             <pubDate>Sat, 28 Aug 2021 15:45:04 GMT</pubDate>
             <content:encoded><![CDATA[8.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지구 말로는 그거 S.P.O.I.L.E.R.1.2.7]]></title>
-            <link>https://vlive.tv/post/1-24875527</link>
-            <guid>https://vlive.tv/post/1-24875527</guid>
-            <pubDate>Wed, 25 Aug 2021 04:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[8.25.]]></content:encoded>
         </item>
     </channel>
 </rss>
