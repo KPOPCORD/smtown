@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 15:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 17:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 15 Sep 2021 14:41:16 GMT</pubDate>
             <content:encoded><![CDATA[Cho Bo-ah's shining visual😇 Behind-the-scene o...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Oo8ZVFR94s8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rainy NightㅣStick TogetherㅣEP. 1]]></title>
+            <link>https://www.youtube.com/watch?v=0DINPmdV-hM</link>
+            <guid>https://www.youtube.com/watch?v=0DINPmdV-hM</guid>
+            <pubDate>Wed, 15 Sep 2021 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0DINPmdV-hM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile...]]></title>
@@ -226,13 +234,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378304</guid>
             <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
             <content:encoded><![CDATA[Singer Son Tae Jin won the title of '불후의 명곡' wi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HONG JA appointed as a public relations...]]></title>
-            <link>https://now.smtown.com/news/detail/2378303</link>
-            <guid>https://now.smtown.com/news/detail/2378303</guid>
-            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[Singer HONG JA has been appointed as an ambassa...]]></content:encoded>
         </item>
     </channel>
 </rss>

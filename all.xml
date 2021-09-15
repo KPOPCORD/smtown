@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 15:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 17:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://vlive.tv/post/0-25430969</link>
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[46분 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210915_50/1631704784787zFX1Y_JPEG/1631704438227.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_267/1631727040189XXNjP_JPEG/upload_75806768854708306cc7b2c76-3d95-4639-860e-96b23f7abd2b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV (SMTOWN ─ Media Board)]]></title>
@@ -587,6 +587,14 @@
             <enclosure url="https://i.ytimg.com/vi/Oo8ZVFR94s8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Rainy NightㅣStick TogetherㅣEP. 1 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=0DINPmdV-hM</link>
+            <guid>https://www.youtube.com/watch?v=0DINPmdV-hM</guid>
+            <pubDate>Wed, 15 Sep 2021 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0DINPmdV-hM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=mnYQM1A_yt0</link>
             <guid>https://www.youtube.com/watch?v=mnYQM1A_yt0</guid>
@@ -789,13 +797,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378304</guid>
             <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
             <content:encoded><![CDATA[Singer Son Tae Jin won the title of '불후의 명곡' wi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HONG JA appointed as a public relations... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378303</link>
-            <guid>https://now.smtown.com/news/detail/2378303</guid>
-            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[Singer HONG JA has been appointed as an ambassa...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
