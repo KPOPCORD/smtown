@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 08:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 09:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25403564</link>
             <guid>https://vlive.tv/post/0-25403564</guid>
             <pubDate>Tue, 14 Sep 2021 09:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.14.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210914_40/1631610064430Rn4Ic_JPEG/1631609527349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM Entertainment’s Producer SOOMAN LEE,... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378380</link>
             <guid>https://now.smtown.com/news/detail/2378380</guid>
             <pubDate>Wed, 15 Sep 2021 08:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment's Producer SOOMAN LEE has reve...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SHINee KEY, this time retro! (SMTOWN ─ NOW)]]></title>
@@ -584,10 +585,11 @@
             <content:encoded><![CDATA[SHINee KEY (SM) is making a comeback with a new...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Comeback D-2’ NCT 127 ‘Sticker’ music ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378378</link>
             <guid>https://now.smtown.com/news/detail/2378378</guid>
             <pubDate>Wed, 15 Sep 2021 08:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album title song 'Sticker' m...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ONEW successfully wraps up ‘Sea of ​​Ho... (SMTOWN ─ NOW)]]></title>
@@ -604,10 +606,11 @@
             <content:encoded><![CDATA[CHOI MINHO (SHINee MINHO, SM) challenges a new ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[ESteem EStudio Yold Class (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378375</link>
             <guid>https://now.smtown.com/news/detail/2378375</guid>
             <pubDate>Wed, 15 Sep 2021 07:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[The first Yold class, which was introduced for ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me... (SMTOWN ─ NOW)]]></title>
