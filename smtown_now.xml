@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 03:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 04:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me...]]></title>
+            <link>https://www.youtube.com/watch?v=C-7CGRuWfVw</link>
+            <guid>https://www.youtube.com/watch?v=C-7CGRuWfVw</guid>
+            <pubDate>Wed, 15 Sep 2021 04:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[Join SuperM behind the scenes of the #PRUxSuper...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/C-7CGRuWfVw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Main T...]]></title>
             <link>https://www.youtube.com/watch?v=Q9lRveJrlfQ</link>
@@ -225,13 +233,6 @@ Performed by HENDERY...]]></content:encoded>
             <pubDate>Thu, 09 Sep 2021 10:45:34 GMT</pubDate>
             <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/p0VTR8X1FPo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album 'Sticker' released ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378261</link>
-            <guid>https://now.smtown.com/news/detail/2378261</guid>
-            <pubDate>Thu, 09 Sep 2021 06:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[Spotify enhanced album to commemorate the relea...]]></content:encoded>
         </item>
     </channel>
 </rss>
