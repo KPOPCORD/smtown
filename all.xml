@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 11:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 13:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=mnYQM1A_yt0</link>
+            <guid>https://www.youtube.com/watch?v=mnYQM1A_yt0</guid>
+            <pubDate>Wed, 15 Sep 2021 13:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/mnYQM1A_yt0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=jT08sI1V9rE</link>
+            <guid>https://www.youtube.com/watch?v=jT08sI1V9rE</guid>
+            <pubDate>Wed, 15 Sep 2021 13:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jT08sI1V9rE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Ih4DxUSgbTQ</link>
+            <guid>https://www.youtube.com/watch?v=Ih4DxUSgbTQ</guid>
+            <pubDate>Wed, 15 Sep 2021 13:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Ih4DxUSgbTQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SM Entertainment’s Producer SOOMAN LEE,... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378380</link>
             <guid>https://now.smtown.com/news/detail/2378380</guid>
@@ -772,27 +796,6 @@ Performed by HENDERY...]]></content:encoded>
             <pubDate>Sat, 11 Sep 2021 09:42:50 GMT</pubDate>
             <content:encoded><![CDATA[WayV-TEN&amp;YANGYANG's first single "Low Low" is o...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fmxOItbGGxs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘Penthouse’ Lee Tae Vin reveals his... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378311</link>
-            <guid>https://now.smtown.com/news/detail/2378311</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[Lee Tae Vin clearly imprinted his presence as a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Band LUCY, first appearance on ‘Grand M... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378285</link>
-            <guid>https://now.smtown.com/news/detail/2378285</guid>
-            <pubDate>Fri, 10 Sep 2021 07:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[Next-generation K-band LUCY will participate in...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Sticker' release co... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378277</link>
-            <guid>https://now.smtown.com/news/detail/2378277</guid>
-            <pubDate>Fri, 10 Sep 2021 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) will hold a comeback show to comme...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
