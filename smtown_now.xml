@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 04:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378400</link>
+            <guid>https://now.smtown.com/news/detail/2378400</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378399</link>
+            <guid>https://now.smtown.com/news/detail/2378399</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378398</link>
+            <guid>https://now.smtown.com/news/detail/2378398</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378397</link>
+            <guid>https://now.smtown.com/news/detail/2378397</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me...]]></title>
             <link>https://www.youtube.com/watch?v=QGuhhdLZT4E</link>
@@ -206,35 +226,6 @@ Performed by HENDERY...]]></content:encoded>
             <pubDate>Mon, 13 Sep 2021 13:44:25 GMT</pubDate>
             <content:encoded><![CDATA[Thank you for your love and support for Red Vel...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/i8wv1PWGFoo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)...]]></title>
-            <link>https://www.youtube.com/watch?v=5DMOR6O1p-o</link>
-            <guid>https://www.youtube.com/watch?v=5DMOR6O1p-o</guid>
-            <pubDate>Mon, 13 Sep 2021 09:43:32 GMT</pubDate>
-            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5DMOR6O1p-o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Performance King' NCT 127, a super pow...]]></title>
-            <link>https://now.smtown.com/news/detail/2378314</link>
-            <guid>https://now.smtown.com/news/detail/2378314</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) heralded a stage like the 'Perform...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘September 27 comeback’ SHINee KEY, fir...]]></title>
-            <link>https://now.smtown.com/news/detail/2378313</link>
-            <guid>https://now.smtown.com/news/detail/2378313</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album 'BAD LOVE' sc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KIM YERIM successfully wraps up her fir...]]></title>
-            <link>https://now.smtown.com/news/detail/2378312</link>
-            <guid>https://now.smtown.com/news/detail/2378312</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[KIM YERIM (Red Velvet YERI, SM) left a comment ...]]></content:encoded>
         </item>
     </channel>
 </rss>

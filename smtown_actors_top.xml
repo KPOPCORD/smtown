@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 04:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5419</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
+            <pubDate>Thu, 16 Sep 2021 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">'영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5414</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a31c34dfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5410</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5410</guid>
-            <pubDate>Tue, 14 Sep 2021 09:42:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’ </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614032fa46ec8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

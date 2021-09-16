@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 04:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25430969</link>
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_267/1631727040189XXNjP_JPEG/upload_75806768854708306cc7b2c76-3d95-4639-860e-96b23f7abd2b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5422</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5422</guid>
+            <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ced72b9df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5421</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5421</guid>
+            <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ce7d8a9b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5418</link>
             <guid>https://www.smtown.com/artist/newsDetail/5418</guid>
             <pubDate>Wed, 15 Sep 2021 10:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Sticker’(스티커) 뮤직비디오 티저 영상이 오늘(15일) 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141c181e8730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키, 이번엔 레트로다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5417</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5417</guid>
-            <pubDate>Wed, 15 Sep 2021 08:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 키, 이번엔 레트로다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a4af1ff60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘바라던 바다’ 온유 “좋은 분들과 즐거운 추억 행복했다” 종영 소감 (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da20c347d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밴드 루시, ‘그랜드 민트 페스티벌 2021’ 첫 출연…최고의 가을 음악 선사 예고 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5402</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5402</guid>
-            <pubDate>Fri, 10 Sep 2021 07:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[차세대 K-밴드 LUCY(루시)가 ‘그랜드 민트 페스티벌 2021’에 참여한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613b0aa2786dd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[샤이니 키, 이번엔 레트로다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5417</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5417</guid>
+            <pubDate>Wed, 15 Sep 2021 08:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 중독성 강한 레트로 무드의 신곡 ‘BAD LOVE’(배드 러브)로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a4af1ff60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매! (SMTOWN ─ Musicians News)]]></title>
@@ -465,12 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da1b0e9bca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 'Sticker' 발매 기념 컴백쇼 18일 개최! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5401</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5401</guid>
-            <pubDate>Fri, 10 Sep 2021 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커) 발매 기념 컴백쇼를 펼친다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae7087660f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5419</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
+            <pubDate>Thu, 16 Sep 2021 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">'영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다! (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5410</link>
             <guid>https://www.smtown.com/artist/newsDetail/5410</guid>
             <pubDate>Tue, 14 Sep 2021 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’ </span>]]></content:encoded>
+            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 독립영화로 스크린 컴백을 예고했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614032fa46ec8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5406</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 ‘블루버스데이’ 종영 소감을 남겼다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘기적’ 임윤아가 사랑받을 수밖에 없는 이유! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5399</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5399</guid>
+            <pubDate>Fri, 10 Sep 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 또 한번 스크린 접수를 예고하고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SBS ‘펜트하우스’ 봉태규 아들 이태빈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5388</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5388</guid>
+            <pubDate>Tue, 07 Sep 2021 02:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이태빈이 키이스트와 전속계약을 체결했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c69cc3d17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다” (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5376</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5376</guid>
+            <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 안방극장에 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f209949bab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현의 변신은 무죄! ‘베르테르’ → ‘팬텀’ 이어 이번엔 ‘프랑켄슈타인’이다! (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5406</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 ‘블루버스데이’ 종영 소감을 남겼다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378400</link>
+            <guid>https://now.smtown.com/news/detail/2378400</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘기적’ 임윤아가 사랑받을 수밖에 없는 이유! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5399</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5399</guid>
-            <pubDate>Fri, 10 Sep 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 또 한번 스크린 접수를 예고하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378399</link>
+            <guid>https://now.smtown.com/news/detail/2378399</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SBS ‘펜트하우스’ 봉태규 아들 이태빈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5388</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5388</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이태빈이 키이스트와 전속계약을 체결했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c69cc3d17.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378398</link>
+            <guid>https://now.smtown.com/news/detail/2378398</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다” (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5376</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5376</guid>
-            <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 안방극장에 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f209949bab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조보아, 러블리한 매력 가득 담긴 화보 공개! ‘극강의 사랑스러움’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5360</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5360</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조보아의 사랑스러운 매력이 고스란히 담긴 화보가 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378397</link>
+            <guid>https://now.smtown.com/news/detail/2378397</guid>
+            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me... (SMTOWN ─ NOW)]]></title>
@@ -769,35 +793,6 @@ Performed by HENDERY...]]></content:encoded>
             <pubDate>Mon, 13 Sep 2021 13:44:25 GMT</pubDate>
             <content:encoded><![CDATA[Thank you for your love and support for Red Vel...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/i8wv1PWGFoo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5DMOR6O1p-o</link>
-            <guid>https://www.youtube.com/watch?v=5DMOR6O1p-o</guid>
-            <pubDate>Mon, 13 Sep 2021 09:43:32 GMT</pubDate>
-            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5DMOR6O1p-o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Performance King' NCT 127, a super pow... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378314</link>
-            <guid>https://now.smtown.com/news/detail/2378314</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) heralded a stage like the 'Perform...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘September 27 comeback’ SHINee KEY, fir... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378313</link>
-            <guid>https://now.smtown.com/news/detail/2378313</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album 'BAD LOVE' sc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KIM YERIM successfully wraps up her fir... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378312</link>
-            <guid>https://now.smtown.com/news/detail/2378312</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[KIM YERIM (Red Velvet YERI, SM) left a comment ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
