@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 14:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 15:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Co...]]></title>
+            <link>https://www.youtube.com/watch?v=HGe4Xv5Zx6Q</link>
+            <guid>https://www.youtube.com/watch?v=HGe4Xv5Zx6Q</guid>
+            <pubDate>Thu, 16 Sep 2021 15:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HGe4Xv5Zx6Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카이는 다 합니다]]></title>
             <link>https://www.youtube.com/watch?v=qcN72aQtfQU</link>
@@ -236,13 +244,6 @@ Performed by HENDERY...]]></content:encoded>
             <content:encoded><![CDATA[#정인리슨스테이지 #정인 #문득사랑해
 🚩JI's Instagram : https:/...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1e7JxwXGvCw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa to release their first mini album...]]></title>
-            <link>https://now.smtown.com/news/detail/2378342</link>
-            <guid>https://now.smtown.com/news/detail/2378342</guid>
-            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM) will make a comeback with their first...]]></content:encoded>
         </item>
     </channel>
 </rss>

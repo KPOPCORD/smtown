@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 14:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 15:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25454958</link>
+            <guid>https://vlive.tv/post/1-25454958</guid>
+            <pubDate>Thu, 16 Sep 2021 15:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210916_261/16317982948472shif_JPEG/1631798015400.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25430969</link>
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.15.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_267/1631727040189XXNjP_JPEG/upload_75806768854708306cc7b2c76-3d95-4639-860e-96b23f7abd2b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25383235</guid>
             <pubDate>Mon, 13 Sep 2021 15:55:09 GMT</pubDate>
             <content:encoded><![CDATA[9.13.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210913_107/1631541772614crPPp_JPEG/1631541476046.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV Teaser (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25043021</guid>
             <pubDate>Sun, 29 Aug 2021 15:45:49 GMT</pubDate>
             <content:encoded><![CDATA[8.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-25021600</link>
-            <guid>https://vlive.tv/post/1-25021600</guid>
-            <pubDate>Sat, 28 Aug 2021 15:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[8.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Co... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=HGe4Xv5Zx6Q</link>
+            <guid>https://www.youtube.com/watch?v=HGe4Xv5Zx6Q</guid>
+            <pubDate>Thu, 16 Sep 2021 15:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HGe4Xv5Zx6Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카이는 다 합니다 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=qcN72aQtfQU</link>
             <guid>https://www.youtube.com/watch?v=qcN72aQtfQU</guid>
@@ -799,13 +807,6 @@ Performed by HENDERY...]]></content:encoded>
             <content:encoded><![CDATA[#정인리슨스테이지 #정인 #문득사랑해
 🚩JI's Instagram : https:/...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1e7JxwXGvCw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa to release their first mini album... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378342</link>
-            <guid>https://now.smtown.com/news/detail/2378342</guid>
-            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM) will make a comeback with their first...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
@@ -1358,6 +1359,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22496853</link>
+            <guid>https://tv.naver.com/v/22496853</guid>
+            <pubDate>Thu, 16 Sep 2021 15:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_270/NrY7R_1631798050346CxUd0_JPEG/1631798015400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22472301</link>
             <guid>https://tv.naver.com/v/22472301</guid>
@@ -1588,14 +1597,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210810_95/pFpEI_1628577307026D7Wtq_JPEG/1628577301120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Classics TOWN Orchestra 'Make A Wish (Birthday Song) (Orchestra Ver.)' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21779099</link>
-            <guid>https://tv.naver.com/v/21779099</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210810_280/A0GWE_1628562192702HL19a_JPEG/1628561902997.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
