@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 08:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 10:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] 🌃Night Walk at 798 with WIN...]]></title>
+            <link>https://www.youtube.com/watch?v=xRMWWDtEGc4</link>
+            <guid>https://www.youtube.com/watch?v=xRMWWDtEGc4</guid>
+            <pubDate>Thu, 16 Sep 2021 10:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xRMWWDtEGc4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Playlist | 천고마비의 계절🍁 듣기만 해도 배부른 가을 푸드송...]]></title>
+            <link>https://www.youtube.com/watch?v=3YhL2z-kkhQ</link>
+            <guid>https://www.youtube.com/watch?v=3YhL2z-kkhQ</guid>
+            <pubDate>Thu, 16 Sep 2021 10:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[#가을 맞이 #식욕 돋우는 #플레이리스트
+
+하늘은 높고 시원한 바람 솔솔 부는 천고마...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3YhL2z-kkhQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Comeback D-1' NCT 127 to become a doub...]]></title>
             <link>https://now.smtown.com/news/detail/2378400</link>
@@ -218,22 +238,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378338</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
             <content:encoded><![CDATA[This time, KYUHYUN transforms into the scientis...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY The 1st Mini Album 〈BAD LOVE〉 : Moo...]]></title>
-            <link>https://www.youtube.com/watch?v=v4tqVGD41XU</link>
-            <guid>https://www.youtube.com/watch?v=v4tqVGD41XU</guid>
-            <pubDate>Mon, 13 Sep 2021 15:56:09 GMT</pubDate>
-            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/v4tqVGD41XU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Compilation]]></title>
-            <link>https://www.youtube.com/watch?v=i8wv1PWGFoo</link>
-            <guid>https://www.youtube.com/watch?v=i8wv1PWGFoo</guid>
-            <pubDate>Mon, 13 Sep 2021 13:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[Thank you for your love and support for Red Vel...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/i8wv1PWGFoo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
