@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 13:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 14:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카이는 다 합니다]]></title>
+            <link>https://www.youtube.com/watch?v=qcN72aQtfQU</link>
+            <guid>https://www.youtube.com/watch?v=qcN72aQtfQU</guid>
+            <pubDate>Thu, 16 Sep 2021 14:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 초보 유튜버 카이입니다!
+여러분들의 많은 요청과 그리고 더 많은 소통을 위...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qcN72aQtfQU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile...]]></title>
             <link>https://www.youtube.com/watch?v=U8eVfl2P0ik</link>
@@ -234,13 +243,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378342</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
             <content:encoded><![CDATA[aespa(SM) will make a comeback with their first...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 to appear on ‘The Late Late Sho...]]></title>
-            <link>https://now.smtown.com/news/detail/2378341</link>
-            <guid>https://now.smtown.com/news/detail/2378341</guid>
-            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) to appear on ‘The Late Late Show w...]]></content:encoded>
         </item>
     </channel>
 </rss>

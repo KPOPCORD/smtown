@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 13:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 14:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25430969</link>
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_267/1631727040189XXNjP_JPEG/upload_75806768854708306cc7b2c76-3d95-4639-860e-96b23f7abd2b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카이는 다 합니다 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=qcN72aQtfQU</link>
+            <guid>https://www.youtube.com/watch?v=qcN72aQtfQU</guid>
+            <pubDate>Thu, 16 Sep 2021 14:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 초보 유튜버 카이입니다!
+여러분들의 많은 요청과 그리고 더 많은 소통을 위...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qcN72aQtfQU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=U8eVfl2P0ik</link>
             <guid>https://www.youtube.com/watch?v=U8eVfl2P0ik</guid>
@@ -797,13 +806,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378342</guid>
             <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
             <content:encoded><![CDATA[aespa(SM) will make a comeback with their first...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 to appear on ‘The Late Late Sho... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378341</link>
-            <guid>https://now.smtown.com/news/detail/2378341</guid>
-            <pubDate>Tue, 14 Sep 2021 05:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) to appear on ‘The Late Late Show w...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
