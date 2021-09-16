@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 03:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 04:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25430969</link>
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_267/1631727040189XXNjP_JPEG/upload_75806768854708306cc7b2c76-3d95-4639-860e-96b23f7abd2b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612870768577b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=QGuhhdLZT4E</link>
+            <guid>https://www.youtube.com/watch?v=QGuhhdLZT4E</guid>
+            <pubDate>Thu, 16 Sep 2021 04:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[The #PRUxSuperM We DO Virtual Concert &amp; Fan Mee...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QGuhhdLZT4E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=AcBVi6ZNCu4</link>
             <guid>https://www.youtube.com/watch?v=AcBVi6ZNCu4</guid>
@@ -790,13 +798,6 @@ Performed by HENDERY...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378312</guid>
             <pubDate>Mon, 13 Sep 2021 03:44:28 GMT</pubDate>
             <content:encoded><![CDATA[KIM YERIM (Red Velvet YERI, SM) left a comment ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Forte di Quattro’ Son Tae Jin “Winning... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378304</link>
-            <guid>https://now.smtown.com/news/detail/2378304</guid>
-            <pubDate>Sun, 12 Sep 2021 06:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[Singer Son Tae Jin won the title of '불후의 명곡' wi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성민이 전하는 힐링 
