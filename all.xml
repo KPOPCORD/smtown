@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 10:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 13:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25456002</link>
             <guid>https://vlive.tv/post/1-25456002</guid>
             <pubDate>Fri, 17 Sep 2021 04:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_129/1631803092707cNNiB_JPEG/1631800500153.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25454958</link>
             <guid>https://vlive.tv/post/1-25454958</guid>
             <pubDate>Thu, 16 Sep 2021 15:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_261/16317982948472shif_JPEG/1631798015400.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,33 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=coKSh5v3xZw</link>
+            <guid>https://www.youtube.com/watch?v=coKSh5v3xZw</guid>
+            <pubDate>Fri, 17 Sep 2021 13:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/coKSh5v3xZw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=fmzuJBBxT7U</link>
+            <guid>https://www.youtube.com/watch?v=fmzuJBBxT7U</guid>
+            <pubDate>Fri, 17 Sep 2021 13:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fmzuJBBxT7U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=6RKPYW9j0do</link>
+            <guid>https://www.youtube.com/watch?v=6RKPYW9j0do</guid>
+            <pubDate>Fri, 17 Sep 2021 13:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6RKPYW9j0do/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 wows global fans with their 1st... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378456</link>
             <guid>https://now.smtown.com/news/detail/2378456</guid>
@@ -720,6 +747,15 @@ Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/MlPn_iKAWi0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=sa-gt9nGxcw</link>
+            <guid>https://www.youtube.com/watch?v=sa-gt9nGxcw</guid>
+            <pubDate>Fri, 17 Sep 2021 13:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sa-gt9nGxcw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Co... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=HGe4Xv5Zx6Q</link>
             <guid>https://www.youtube.com/watch?v=HGe4Xv5Zx6Q</guid>
@@ -791,34 +827,6 @@ ht...]]></content:encoded>
 
 하늘은 높고 시원한 바람 솔솔 부는 천고마...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/3YhL2z-kkhQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Comeback D-1' NCT 127 to become a doub... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378400</link>
-            <guid>https://now.smtown.com/news/detail/2378400</guid>
-            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[The day before their comeback, the pre-orders f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee KEY writes the lyrics his upcomi... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378399</link>
-            <guid>https://now.smtown.com/news/detail/2378399</guid>
-            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY (SM) writes the lyrics for 2 songs h...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LEETEUK, ‘MC’ that captured even the ch... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378398</link>
-            <guid>https://now.smtown.com/news/detail/2378398</guid>
-            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[LEETEUK is active as the 'MC' that captures the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['영화의 거리' Han Seon Hwa Makes Successful ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378397</link>
-            <guid>https://now.smtown.com/news/detail/2378397</guid>
-            <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[Han Seon Hwa is expected to fascinate the audie...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
