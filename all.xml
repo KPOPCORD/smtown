@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 06:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 07:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25456002</link>
             <guid>https://vlive.tv/post/1-25456002</guid>
             <pubDate>Fri, 17 Sep 2021 04:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_129/1631803092707cNNiB_JPEG/1631800500153.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25454958</link>
             <guid>https://vlive.tv/post/1-25454958</guid>
             <pubDate>Thu, 16 Sep 2021 15:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_261/16317982948472shif_JPEG/1631798015400.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5427</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5427</guid>
+            <pubDate>Fri, 17 Sep 2021 07:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c94872cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5426</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5426</guid>
+            <pubDate>Fri, 17 Sep 2021 07:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c5459a0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5422</link>
             <guid>https://www.smtown.com/artist/newsDetail/5422</guid>
             <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파!</span>]]></content:encoded>
+            <content:encoded><![CDATA[컴백을 하루 앞둔 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 선주문량이 212만장을 넘어섰다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ced72b9df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5421</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5421</guid>
-            <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ce7d8a9b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec7946c43a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘포르테 디 콰트로’ 손태진 “삼세판도 아닌 3년 만의 ‘불후’ 우승…더욱 뜻깊어” <우승소감> (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5404</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5404</guid>
-            <pubDate>Sun, 12 Sep 2021 06:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[가수 손태진이 명품 무대로 ‘불후의 명곡’에서 우승을 차지했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da20c347d0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5421</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5421</guid>
+            <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 새 솔로 앨범에 수록된 2곡을 직접 작사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ce7d8a9b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤이니 키, 이번엔 레트로다! (SMTOWN ─ Musicians News)]]></title>
@@ -465,30 +473,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec72fde708.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍자, 생명존중교육협의회 홍보대사 위촉 “미약하지만 힘 보탤 수 있도록 노력” (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5403</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5403</guid>
-            <pubDate>Sun, 12 Sep 2021 06:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[가수 홍자가 생명존중교육협의회의 홍보대사로 위촉됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da1b0e9bca.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[최시원, ‘2021 세계지식포럼’에 유니세프 동아시아태평양 지역 친선대사로 참여! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5425</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5425</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">최시원, ‘2021 세계지식포럼’에 유니세프 동아시아태평양 지역 친선대사로 참여!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5424</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5424</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443b7332381.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5419</link>
             <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
             <pubDate>Thu, 16 Sep 2021 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔</span>]]></content:encoded>
+            <content:encoded><![CDATA[한선화가 '영화의 거리'를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5414</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5414</guid>
-            <pubDate>Wed, 15 Sep 2021 07:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a31c34dfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’ (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c69cc3d17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다” (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5376</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5376</guid>
-            <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 안방극장에 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f209949bab.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5414</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5414</guid>
+            <pubDate>Wed, 15 Sep 2021 07:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 새로운 장르에 첫 도전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a31c34dfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현의 변신은 무죄! ‘베르테르’ → ‘팬텀’ 이어 이번엔 ‘프랑켄슈타인’이다! (SMTOWN ─ Actors News)]]></title>
@@ -563,12 +571,45 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 ‘최선의 삶’ 한성민, 청순+유니크 넘나드는 화보 비하인드 공개! ‘매력 화수분’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5368</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5368</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한성민이 화수분 같은 매력을 발산했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[speeker] SAM BY PEN X NOBLESSE TV INTE... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=4h7PK6wQB9c</link>
+            <guid>https://www.youtube.com/watch?v=4h7PK6wQB9c</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[2030세대에게 가장 인기있는 작가 중 한 사람으로 꼽히는 샘바이펜은 동시대 젊은 세...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4h7PK6wQB9c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378453</link>
+            <guid>https://now.smtown.com/news/detail/2378453</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Metaverse girlgroup' aespa reveals the... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378452</link>
+            <guid>https://now.smtown.com/news/detail/2378452</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girlgroup’ aespa(SM) reveals the P.O...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI SIWON takes part in the 'World Kno... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378451</link>
+            <guid>https://now.smtown.com/news/detail/2378451</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI SIWON(SM) takes part in the Asia's largest...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI MINHO 'Yumi's Cells' to air its fi... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378450</link>
+            <guid>https://now.smtown.com/news/detail/2378450</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:31 GMT</pubDate>
+            <content:encoded><![CDATA['Yumi's Cells' CHOI MINHO (SHINee MINHO, SM)'s ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378449</link>
+            <guid>https://now.smtown.com/news/detail/2378449</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' (Official Audio) | St... (SMTOWN ─ NOW)]]></title>
@@ -777,54 +818,6 @@ ht...]]></content:encoded>
             <pubDate>Thu, 16 Sep 2021 04:52:12 GMT</pubDate>
             <content:encoded><![CDATA[The #PRUxSuperM We DO Virtual Concert &amp; Fan Mee...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/QGuhhdLZT4E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=AcBVi6ZNCu4</link>
-            <guid>https://www.youtube.com/watch?v=AcBVi6ZNCu4</guid>
-            <pubDate>Wed, 15 Sep 2021 15:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AcBVi6ZNCu4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBO득한 조보아 비주얼 근황😇 #조보아 광고 현장 #키동캠｜조보아 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Oo8ZVFR94s8</link>
-            <guid>https://www.youtube.com/watch?v=Oo8ZVFR94s8</guid>
-            <pubDate>Wed, 15 Sep 2021 14:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[Cho Bo-ah's shining visual😇 Behind-the-scene o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Oo8ZVFR94s8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rainy NightㅣStick TogetherㅣEP. 1 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=0DINPmdV-hM</link>
-            <guid>https://www.youtube.com/watch?v=0DINPmdV-hM</guid>
-            <pubDate>Wed, 15 Sep 2021 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0DINPmdV-hM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=mnYQM1A_yt0</link>
-            <guid>https://www.youtube.com/watch?v=mnYQM1A_yt0</guid>
-            <pubDate>Wed, 15 Sep 2021 13:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/mnYQM1A_yt0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=jT08sI1V9rE</link>
-            <guid>https://www.youtube.com/watch?v=jT08sI1V9rE</guid>
-            <pubDate>Wed, 15 Sep 2021 13:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/jT08sI1V9rE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Ih4DxUSgbTQ</link>
-            <guid>https://www.youtube.com/watch?v=Ih4DxUSgbTQ</guid>
-            <pubDate>Wed, 15 Sep 2021 13:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" will be released ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Ih4DxUSgbTQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

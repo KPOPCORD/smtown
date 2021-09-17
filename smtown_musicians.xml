@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 06:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 07:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5422</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5422</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[컴백을 하루 앞둔 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 선주문량이 212만장을 넘어섰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ced72b9df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백 D-2’ NCT 127 ‘Sticker’ 뮤직비디오 티저 영상 오늘 밤 12시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5418</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec7946c43a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘포르테 디 콰트로’ 손태진 “삼세판도 아닌 3년 만의 ‘불후’ 우승…더욱 뜻깊어” <우승소감>]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5404</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5404</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[가수 손태진이 명품 무대로 ‘불후의 명곡’에서 우승을 차지했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da20c347d0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5421</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5421</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 새 솔로 앨범에 수록된 2곡을 직접 작사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ce7d8a9b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤이니 키, 이번엔 레트로다!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Sep 2021 05:39:39 GMT</pubDate>
             <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘BAD LOVE’(배드 러브) 스케줄 포스터가 공개되어 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec72fde708.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍자, 생명존중교육협의회 홍보대사 위촉 “미약하지만 힘 보탤 수 있도록 노력”]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5403</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5403</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[가수 홍자가 생명존중교육협의회의 홍보대사로 위촉됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613da1b0e9bca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

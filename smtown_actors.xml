@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 06:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 07:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5419</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[한선화가 '영화의 거리'를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5410</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c69cc3d17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임윤아, tvN 드라마 ‘빅마우스’ 출연 확정! “현명하고 능동적인 모습에 끌렸다”]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5376</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5376</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 안방극장에 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_612f209949bab.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5414</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5414</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 새로운 장르에 첫 도전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6141a31c34dfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현의 변신은 무죄! ‘베르테르’ → ‘팬텀’ 이어 이번엔 ‘프랑켄슈타인’이다!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Sep 2021 04:54:30 GMT</pubDate>
             <content:encoded><![CDATA[배우 이동휘, 정은채가 영화 ‘왼쪽을 보는 남자, 오른쪽을 보는 여자’에 출연한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘최선의 삶’ 한성민, 청순+유니크 넘나드는 화보 비하인드 공개! ‘매력 화수분’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5368</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5368</guid>
-            <pubDate>Sun, 05 Sep 2021 17:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한성민이 화수분 같은 매력을 발산했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_612dbd334f514.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

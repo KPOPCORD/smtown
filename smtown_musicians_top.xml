@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 06:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 07:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5422</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5422</guid>
-            <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
+            <title><![CDATA[샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5427</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5427</guid>
+            <pubDate>Fri, 17 Sep 2021 07:39:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-1’ NCT 127, 정규 3집 ‘Sticker’ 선주문 212만장 돌파!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ced72b9df.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c94872cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5421</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5421</guid>
-            <pubDate>Thu, 16 Sep 2021 05:39:37 GMT</pubDate>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5426</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5426</guid>
+            <pubDate>Fri, 17 Sep 2021 07:39:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 키, 새 솔로 앨범 수록곡 2곡 직접 작사!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ce7d8a9b9.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c5459a0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
