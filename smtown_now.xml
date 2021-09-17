@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 23:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 01:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,14 @@
             <content:encoded><![CDATA[안녕하세요 초보 유튜버 카이입니다!
 여러분들의 많은 요청과 그리고 더 많은 소통을 위...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/qcN72aQtfQU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV]]></title>
+            <link>https://www.youtube.com/watch?v=1oYWnbTSang</link>
+            <guid>https://www.youtube.com/watch?v=1oYWnbTSang</guid>
+            <pubDate>Fri, 17 Sep 2021 01:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 'Sticker' MV premieres today at 1PM K...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1oYWnbTSang/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile...]]></title>
@@ -235,15 +243,6 @@ Performed by HENDERY...]]></content:encoded>
             <pubDate>Tue, 14 Sep 2021 09:43:09 GMT</pubDate>
             <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/EROYsCK0vK4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LISTEN STAGE] 210908 - 정인 (장마/가을남자/문득 ...]]></title>
-            <link>https://www.youtube.com/watch?v=1e7JxwXGvCw</link>
-            <guid>https://www.youtube.com/watch?v=1e7JxwXGvCw</guid>
-            <pubDate>Tue, 14 Sep 2021 09:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[#정인리슨스테이지 #정인 #문득사랑해
-🚩JI's Instagram : https:/...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1e7JxwXGvCw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
