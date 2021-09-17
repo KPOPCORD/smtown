@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 13:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 13:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-25462793</link>
+            <guid>https://vlive.tv/post/0-25462793</guid>
+            <pubDate>Fri, 17 Sep 2021 13:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210917_116/1631869876749vn0fj_JPEG/1631869850055.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25456002</link>
             <guid>https://vlive.tv/post/1-25456002</guid>
             <pubDate>Fri, 17 Sep 2021 04:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_129/1631803092707cNNiB_JPEG/1631800500153.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Wed, 15 Sep 2021 15:46:25 GMT</pubDate>
             <content:encoded><![CDATA[9.15.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_267/1631727040189XXNjP_JPEG/upload_75806768854708306cc7b2c76-3d95-4639-860e-96b23f7abd2b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV (SMTOWN ─ Media Board)]]></title>
@@ -141,13 +148,6 @@
             <link>https://vlive.tv/post/0-25060043</link>
             <guid>https://vlive.tv/post/0-25060043</guid>
             <pubDate>Mon, 30 Aug 2021 17:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[8.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25054691</link>
-            <guid>https://vlive.tv/post/0-25054691</guid>
-            <pubDate>Mon, 30 Aug 2021 09:42:40 GMT</pubDate>
             <content:encoded><![CDATA[8.30.]]></content:encoded>
         </item>
         <item>
@@ -1377,6 +1377,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22503186</link>
+            <guid>https://tv.naver.com/v/22503186</guid>
+            <pubDate>Fri, 17 Sep 2021 13:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210917_204/XcVEy_1631869857920LSFsB_JPEG/1631869850055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22496853</link>
             <guid>https://tv.naver.com/v/22496853</guid>
@@ -1607,14 +1615,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210813_124/lpKBe_162884269564710zfq_JPEG/1628842685740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] TEN 텐 'Paint Me Naked' Performance Video #비하인더스테이션 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21854589</link>
-            <guid>https://tv.naver.com/v/21854589</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210813_124/0OmOY_1628843480516hFRbh_JPEG/1628843469521.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
