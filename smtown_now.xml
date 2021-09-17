@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 07:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 08:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,9 +16,11 @@
             <enclosure url="https://i.ytimg.com/vi/4h7PK6wQB9c/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SHINee KEY to show off his wide music s...]]></title>
             <link>https://now.smtown.com/news/detail/2378453</link>
             <guid>https://now.smtown.com/news/detail/2378453</guid>
             <pubDate>Fri, 17 Sep 2021 07:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY (SM) shows colorful music with his f...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['Metaverse girlgroup' aespa reveals the...]]></title>
@@ -42,9 +44,11 @@
             <content:encoded><![CDATA['Yumi's Cells' CHOI MINHO (SHINee MINHO, SM)'s ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Top model Lee Hyun Yi, MBC ‘야생돌’ Observ...]]></title>
             <link>https://now.smtown.com/news/detail/2378449</link>
             <guid>https://now.smtown.com/news/detail/2378449</guid>
             <pubDate>Fri, 17 Sep 2021 07:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[MBC's '극한데뷔 야생돌', starring top model and broadc...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' (Official Audio) | St...]]></title>
