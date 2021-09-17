@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 08:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 09:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 wows global fans with their 1st...]]></title>
+            <link>https://now.smtown.com/news/detail/2378456</link>
+            <guid>https://now.smtown.com/news/detail/2378456</guid>
+            <pubDate>Fri, 17 Sep 2021 09:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) unveiled the title song 'Sticker' ...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[speeker] SAM BY PEN X NOBLESSE TV INTE...]]></title>
             <link>https://www.youtube.com/watch?v=4h7PK6wQB9c</link>
@@ -249,14 +256,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378397</guid>
             <pubDate>Thu, 16 Sep 2021 05:40:04 GMT</pubDate>
             <content:encoded><![CDATA[Han Seon Hwa is expected to fascinate the audie...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SuperM 'We DO' Virtual Concert & Fan Me...]]></title>
-            <link>https://www.youtube.com/watch?v=QGuhhdLZT4E</link>
-            <guid>https://www.youtube.com/watch?v=QGuhhdLZT4E</guid>
-            <pubDate>Thu, 16 Sep 2021 04:52:12 GMT</pubDate>
-            <content:encoded><![CDATA[The #PRUxSuperM We DO Virtual Concert &amp; Fan Mee...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/QGuhhdLZT4E/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

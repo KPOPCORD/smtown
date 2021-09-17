@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 08:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 09:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127, 美 ‘제임스 코든쇼’ 출연 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5428</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5428</guid>
+            <pubDate>Fri, 17 Sep 2021 09:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127, 美 ‘제임스 코든쇼’ 출연 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614455cf74ff9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5427</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c94872cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5426</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5426</guid>
-            <pubDate>Fri, 17 Sep 2021 07:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c5459a0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
