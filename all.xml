@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 23:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 01:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25462793</link>
             <guid>https://vlive.tv/post/0-25462793</guid>
             <pubDate>Fri, 17 Sep 2021 13:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210917_116/1631869876749vn0fj_JPEG/1631869850055.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25456002</link>
             <guid>https://vlive.tv/post/1-25456002</guid>
             <pubDate>Fri, 17 Sep 2021 04:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210916_129/1631803092707cNNiB_JPEG/1631800500153.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=tVHndUFjMP4</link>
+            <guid>https://www.youtube.com/watch?v=tVHndUFjMP4</guid>
+            <pubDate>Sat, 18 Sep 2021 01:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[🔴NCT 127 WORLD PREMIERE STICKER
+➫ 2021.09.18 1...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tVHndUFjMP4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=coKSh5v3xZw</link>
             <guid>https://www.youtube.com/watch?v=coKSh5v3xZw</guid>
@@ -817,16 +826,6 @@ Listen an...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xRMWWDtEGc4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Playlist | 천고마비의 계절🍁 듣기만 해도 배부른 가을 푸드송... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=3YhL2z-kkhQ</link>
-            <guid>https://www.youtube.com/watch?v=3YhL2z-kkhQ</guid>
-            <pubDate>Thu, 16 Sep 2021 10:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[#가을 맞이 #식욕 돋우는 #플레이리스트
-
-하늘은 높고 시원한 바람 솔솔 부는 천고마...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3YhL2z-kkhQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
