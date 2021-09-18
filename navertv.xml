@@ -4,9 +4,49 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 06:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://tv.naver.com/v/22523832</link>
+            <guid>https://tv.naver.com/v/22523832</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_254/ZgDdD_1631927575416PhGQB_JPEG/1631927494163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://tv.naver.com/v/22523798</link>
+            <guid>https://tv.naver.com/v/22523798</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_146/0sSiL_1631927590813CSOM8_JPEG/1631927583681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://tv.naver.com/v/22523773</link>
+            <guid>https://tv.naver.com/v/22523773</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_186/PYh7C_1631927606237qIQWp_JPEG/1631927599457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 Intro + '영웅 (英雄; Kick It)' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://tv.naver.com/v/22523763</link>
+            <guid>https://tv.naver.com/v/22523763</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_56/G26bR_16319276177758JLEg_JPEG/1631927612087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://tv.naver.com/v/22523760</link>
+            <guid>https://tv.naver.com/v/22523760</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_88/0Mooy_16319283669027l3VH_JPEG/1631928360322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage]]></title>
             <link>https://tv.naver.com/v/22503186</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_74/5g9mh_1629470970052Oss0X_JPEG/1629470966418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Pose' Performance Stage @inteRView vol.7 : Queendom]]></title>
-            <link>https://tv.naver.com/v/21932533</link>
-            <guid>https://tv.naver.com/v/21932533</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210818_294/PUhm5_1629275993336TuUkQ_JPEG/1629275987537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' MV]]></title>
-            <link>https://tv.naver.com/v/21910653</link>
-            <guid>https://tv.naver.com/v/21910653</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_204/DgThw_1629181667790sCGEQ_JPEG/1629181661940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV]]></title>
-            <link>https://tv.naver.com/v/21894742</link>
-            <guid>https://tv.naver.com/v/21894742</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210816_232/7PNLL_1629104011263aJl49_JPEG/1629103996248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/21892421</link>
-            <guid>https://tv.naver.com/v/21892421</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210816_127/W1jxj_16290962204556mUjm_JPEG/1629096210291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/21855958</link>
-            <guid>https://tv.naver.com/v/21855958</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210813_124/lpKBe_162884269564710zfq_JPEG/1628842685740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

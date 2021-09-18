@@ -4,16 +4,53 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 06:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-25473698</link>
+            <guid>https://vlive.tv/post/0-25473698</guid>
+            <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210918_185/1631928491902Vbfk5_JPEG/1631927494163.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25479363</link>
+            <guid>https://vlive.tv/post/1-25479363</guid>
+            <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210918_152/1631928470833PWXTp_JPEG/1631927583681.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-25473690</link>
+            <guid>https://vlive.tv/post/0-25473690</guid>
+            <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210918_290/1631928444466rdWkS_JPEG/1631927599457.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-25473684</link>
+            <guid>https://vlive.tv/post/0-25473684</guid>
+            <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 Intro + 영웅 (英雄; Kick It) @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25479274</link>
+            <guid>https://vlive.tv/post/1-25479274</guid>
+            <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25462793</link>
             <guid>https://vlive.tv/post/0-25462793</guid>
             <pubDate>Fri, 17 Sep 2021 13:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_116/1631869876749vn0fj_JPEG/1631869850055.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV (SMTOWN ─ Media Board)]]></title>
@@ -21,7 +58,6 @@
             <guid>https://vlive.tv/post/1-25456002</guid>
             <pubDate>Fri, 17 Sep 2021 04:52:17 GMT</pubDate>
             <content:encoded><![CDATA[9.17.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_129/1631803092707cNNiB_JPEG/1631800500153.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (SMTOWN ─ Media Board)]]></title>
@@ -29,7 +65,6 @@
             <guid>https://vlive.tv/post/1-25454958</guid>
             <pubDate>Thu, 16 Sep 2021 15:46:23 GMT</pubDate>
             <content:encoded><![CDATA[9.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210916_261/16317982948472shif_JPEG/1631798015400.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser (SMTOWN ─ Media Board)]]></title>
@@ -114,41 +149,6 @@
             <guid>https://vlive.tv/post/0-25176216</guid>
             <pubDate>Sat, 04 Sep 2021 09:42:02 GMT</pubDate>
             <content:encoded><![CDATA[9.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Dreamer' Track Video #1 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-25168059</link>
-            <guid>https://vlive.tv/post/1-25168059</guid>
-            <pubDate>Fri, 03 Sep 2021 17:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[9.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #1 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25124794</link>
-            <guid>https://vlive.tv/post/0-25124794</guid>
-            <pubDate>Wed, 01 Sep 2021 15:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[9.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG ‘Low Low’ Choreography Video (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-25076693</link>
-            <guid>https://vlive.tv/post/1-25076693</guid>
-            <pubDate>Tue, 31 Aug 2021 09:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[8.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY ‘Hate that…’ COUNTDOWN LIVE (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-24960358</link>
-            <guid>https://vlive.tv/post/0-24960358</guid>
-            <pubDate>Tue, 31 Aug 2021 05:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[8.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25060043</link>
-            <guid>https://vlive.tv/post/0-25060043</guid>
-            <pubDate>Mon, 30 Aug 2021 17:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[8.30.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,13 +571,49 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=tVHndUFjMP4</link>
-            <guid>https://www.youtube.com/watch?v=tVHndUFjMP4</guid>
-            <pubDate>Sat, 18 Sep 2021 01:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[🔴NCT 127 WORLD PREMIERE STICKER
-➫ 2021.09.18 1...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/tVHndUFjMP4/sddefault.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD P... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=m_kiaDvfO9U</link>
+            <guid>https://www.youtube.com/watch?v=m_kiaDvfO9U</guid>
+            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/m_kiaDvfO9U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' Live @... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=AtZkqi_Hja0</link>
+            <guid>https://www.youtube.com/watch?v=AtZkqi_Hja0</guid>
+            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AtZkqi_Hja0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 Intro + '영웅 (英雄; Kick It)' Live... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=V6wevUgpTjI</link>
+            <guid>https://www.youtube.com/watch?v=V6wevUgpTjI</guid>
+            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/V6wevUgpTjI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Br... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=OyXE05MFM58</link>
+            <guid>https://www.youtube.com/watch?v=OyXE05MFM58</guid>
+            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OyXE05MFM58/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=NiWEpW09IOU</link>
+            <guid>https://www.youtube.com/watch?v=NiWEpW09IOU</guid>
+            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NiWEpW09IOU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
@@ -789,43 +825,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1oYWnbTSang/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=U8eVfl2P0ik</link>
-            <guid>https://www.youtube.com/watch?v=U8eVfl2P0ik</guid>
-            <pubDate>Thu, 16 Sep 2021 13:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/U8eVfl2P0ik/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=6jaBmkTVTh8</link>
-            <guid>https://www.youtube.com/watch?v=6jaBmkTVTh8</guid>
-            <pubDate>Thu, 16 Sep 2021 13:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6jaBmkTVTh8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=6VpjMQLXlN4</link>
-            <guid>https://www.youtube.com/watch?v=6VpjMQLXlN4</guid>
-            <pubDate>Thu, 16 Sep 2021 13:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6VpjMQLXlN4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🌃Night Walk at 798 with WIN... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=xRMWWDtEGc4</link>
-            <guid>https://www.youtube.com/watch?v=xRMWWDtEGc4</guid>
-            <pubDate>Thu, 16 Sep 2021 10:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xRMWWDtEGc4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -1376,6 +1375,46 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22523832</link>
+            <guid>https://tv.naver.com/v/22523832</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_254/ZgDdD_1631927575416PhGQB_JPEG/1631927494163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22523798</link>
+            <guid>https://tv.naver.com/v/22523798</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_146/0sSiL_1631927590813CSOM8_JPEG/1631927583681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22523773</link>
+            <guid>https://tv.naver.com/v/22523773</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_186/PYh7C_1631927606237qIQWp_JPEG/1631927599457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 Intro + '영웅 (英雄; Kick It)' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22523763</link>
+            <guid>https://tv.naver.com/v/22523763</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_56/G26bR_16319276177758JLEg_JPEG/1631927612087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22523760</link>
+            <guid>https://tv.naver.com/v/22523760</guid>
+            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_88/0Mooy_16319283669027l3VH_JPEG/1631928360322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22503186</link>
             <guid>https://tv.naver.com/v/22503186</guid>
@@ -1574,46 +1613,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210820_74/5g9mh_1629470970052Oss0X_JPEG/1629470966418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Pose' Performance Stage @inteRView vol.7 : Queendom (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21932533</link>
-            <guid>https://tv.naver.com/v/21932533</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210818_294/PUhm5_1629275993336TuUkQ_JPEG/1629275987537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21910653</link>
-            <guid>https://tv.naver.com/v/21910653</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_204/DgThw_1629181667790sCGEQ_JPEG/1629181661940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21894742</link>
-            <guid>https://tv.naver.com/v/21894742</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210816_232/7PNLL_1629104011263aJl49_JPEG/1629103996248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21892421</link>
-            <guid>https://tv.naver.com/v/21892421</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210816_127/W1jxj_16290962204556mUjm_JPEG/1629096210291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21855958</link>
-            <guid>https://tv.naver.com/v/21855958</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210813_124/lpKBe_162884269564710zfq_JPEG/1628842685740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
