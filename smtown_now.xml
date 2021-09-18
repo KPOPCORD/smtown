@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 06:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 07:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 【Sticker】 Spotify Enhanced Albu...]]></title>
+            <link>https://www.youtube.com/watch?v=1DJDeSh0-XI</link>
+            <guid>https://www.youtube.com/watch?v=1DJDeSh0-XI</guid>
+            <pubDate>Sat, 18 Sep 2021 07:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 presents Sticker, the Enhanced Album av...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1DJDeSh0-XI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD P...]]></title>
             <link>https://www.youtube.com/watch?v=m_kiaDvfO9U</link>
@@ -253,15 +261,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[안녕하세요 초보 유튜버 카이입니다!
 여러분들의 많은 요청과 그리고 더 많은 소통을 위...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/qcN72aQtfQU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV]]></title>
-            <link>https://www.youtube.com/watch?v=1oYWnbTSang</link>
-            <guid>https://www.youtube.com/watch?v=1oYWnbTSang</guid>
-            <pubDate>Fri, 17 Sep 2021 01:48:53 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1oYWnbTSang/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
