@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 07:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 08:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25473698</link>
             <guid>https://vlive.tv/post/0-25473698</guid>
             <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210918_185/1631928491902Vbfk5_JPEG/1631927494163.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25479363</link>
             <guid>https://vlive.tv/post/1-25479363</guid>
             <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210918_152/1631928470833PWXTp_JPEG/1631927583681.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://vlive.tv/post/0-25473690</link>
             <guid>https://vlive.tv/post/0-25473690</guid>
             <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210918_290/1631928444466rdWkS_JPEG/1631927599457.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,21 +36,21 @@
             <link>https://vlive.tv/post/0-25473684</link>
             <guid>https://vlive.tv/post/0-25473684</guid>
             <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 Intro + 영웅 (英雄; Kick It) @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25479274</link>
             <guid>https://vlive.tv/post/1-25479274</guid>
             <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25462793</link>
             <guid>https://vlive.tv/post/0-25462793</guid>
             <pubDate>Fri, 17 Sep 2021 13:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV (SMTOWN ─ Media Board)]]></title>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127을 조종하는 백마법사 🧙‍♂️🪄 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=8PZcs6dGLek</link>
+            <guid>https://www.youtube.com/watch?v=8PZcs6dGLek</guid>
+            <pubDate>Sat, 18 Sep 2021 08:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[When NCT 127 needs to stick together, who do yo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8PZcs6dGLek/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 【Sticker】 Spotify Enhanced Albu... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=1DJDeSh0-XI</link>
             <guid>https://www.youtube.com/watch?v=1DJDeSh0-XI</guid>
@@ -815,15 +823,6 @@ Listen an...]]></content:encoded>
             <pubDate>Thu, 16 Sep 2021 15:47:24 GMT</pubDate>
             <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HGe4Xv5Zx6Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카이는 다 합니다 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=qcN72aQtfQU</link>
-            <guid>https://www.youtube.com/watch?v=qcN72aQtfQU</guid>
-            <pubDate>Thu, 16 Sep 2021 14:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 초보 유튜버 카이입니다!
-여러분들의 많은 요청과 그리고 더 많은 소통을 위...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qcN72aQtfQU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127 명반 "Sticker"를 붙여봐 (with 우리칠 모의고사) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 07:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 08:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127을 조종하는 백마법사 🧙‍♂️🪄]]></title>
+            <link>https://www.youtube.com/watch?v=8PZcs6dGLek</link>
+            <guid>https://www.youtube.com/watch?v=8PZcs6dGLek</guid>
+            <pubDate>Sat, 18 Sep 2021 08:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[When NCT 127 needs to stick together, who do yo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8PZcs6dGLek/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 【Sticker】 Spotify Enhanced Albu...]]></title>
             <link>https://www.youtube.com/watch?v=1DJDeSh0-XI</link>
@@ -252,15 +260,6 @@ Listen an...]]></content:encoded>
             <pubDate>Thu, 16 Sep 2021 15:47:24 GMT</pubDate>
             <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HGe4Xv5Zx6Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카이는 다 합니다]]></title>
-            <link>https://www.youtube.com/watch?v=qcN72aQtfQU</link>
-            <guid>https://www.youtube.com/watch?v=qcN72aQtfQU</guid>
-            <pubDate>Thu, 16 Sep 2021 14:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 초보 유튜버 카이입니다!
-여러분들의 많은 요청과 그리고 더 많은 소통을 위...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qcN72aQtfQU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
