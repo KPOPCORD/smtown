@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 10:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 11:40:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UNBOXING of NCT 127 ’Sticker’ Album]]></title>
+            <link>https://www.youtube.com/watch?v=Z4kWOUwROgI</link>
+            <guid>https://www.youtube.com/watch?v=Z4kWOUwROgI</guid>
+            <pubDate>Mon, 20 Sep 2021 11:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Z4kWOUwROgI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Like A StickerㅣStick TogetherㅣEP. 2]]></title>
             <link>https://www.youtube.com/watch?v=01lNgAsSHWk</link>
@@ -252,15 +261,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FdrhTDfI-Gk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' (Offic...]]></title>
-            <link>https://www.youtube.com/watch?v=MlPn_iKAWi0</link>
-            <guid>https://www.youtube.com/watch?v=MlPn_iKAWi0</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MlPn_iKAWi0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
