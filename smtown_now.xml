@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 13:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 13:44:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT의 막내들만 모여 있네요💚 | 추석맞이 다과상 만들기 | 한가위...]]></title>
+            <link>https://www.youtube.com/watch?v=70BeGUiS6mQ</link>
+            <guid>https://www.youtube.com/watch?v=70BeGUiS6mQ</guid>
+            <pubDate>Mon, 20 Sep 2021 13:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT #한가위_신선놀음
+#태용 #지성 #성찬
+#TAEYONG #JISUNG #SU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/70BeGUiS6mQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UNBOXING of NCT 127 ’Sticker’ Album]]></title>
             <link>https://www.youtube.com/watch?v=Z4kWOUwROgI</link>
@@ -252,15 +262,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/C7yRV4mhFGo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Dreamer' (Official Audio) | St...]]></title>
-            <link>https://www.youtube.com/watch?v=FdrhTDfI-Gk</link>
-            <guid>https://www.youtube.com/watch?v=FdrhTDfI-Gk</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FdrhTDfI-Gk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
