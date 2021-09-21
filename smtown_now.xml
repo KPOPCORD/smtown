@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Sep 2021 13:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 13:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Gu...]]></title>
+            <link>https://www.youtube.com/watch?v=ie1Dz9T16aE</link>
+            <guid>https://www.youtube.com/watch?v=ie1Dz9T16aE</guid>
+            <pubDate>Tue, 21 Sep 2021 13:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ie1Dz9T16aE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선생님… 죄송합니다!!]]></title>
             <link>https://www.youtube.com/watch?v=bcxHIld_PW0</link>
@@ -251,15 +260,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/WcMxOf1rURo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Bring The Noize' (Official Aud...]]></title>
-            <link>https://www.youtube.com/watch?v=fvqVHOUAnz4</link>
-            <guid>https://www.youtube.com/watch?v=fvqVHOUAnz4</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fvqVHOUAnz4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
