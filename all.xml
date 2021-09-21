@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Sep 2021 11:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 13:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Guide (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25466898</link>
+            <guid>https://vlive.tv/post/1-25466898</guid>
+            <pubDate>Tue, 21 Sep 2021 13:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210917_221/1631864890420zyUuH_JPEG/1631857014513.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25473698</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25473690</guid>
             <pubDate>Sat, 18 Sep 2021 06:48:42 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210918_290/1631928444466rdWkS_JPEG/1631927599457.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25206265</guid>
             <pubDate>Sun, 05 Sep 2021 13:40:55 GMT</pubDate>
             <content:encoded><![CDATA[9.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG 'Low Low' Dance Practice (360˚ ver.) (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25176216</link>
-            <guid>https://vlive.tv/post/0-25176216</guid>
-            <pubDate>Sat, 04 Sep 2021 09:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[9.4.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,22 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[선생님… 죄송합니다!! (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=bcxHIld_PW0</link>
+            <guid>https://www.youtube.com/watch?v=bcxHIld_PW0</guid>
+            <pubDate>Tue, 21 Sep 2021 13:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[When NCT 127 has Sticker practice, even Mr. Lee...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bcxHIld_PW0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 떠나자... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=2NEVBW3eQm8</link>
+            <guid>https://www.youtube.com/watch?v=2NEVBW3eQm8</guid>
+            <pubDate>Tue, 21 Sep 2021 13:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[Part1 [떠나자 Chuseok Trip] : #JOHNNY, #JAEHYUN, #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2NEVBW3eQm8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT의 막내들만 모여 있네요💚 | 추석맞이 다과상 만들기 | 한가위... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=70BeGUiS6mQ</link>
             <guid>https://www.youtube.com/watch?v=70BeGUiS6mQ</guid>
@@ -807,24 +823,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fvqVHOUAnz4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Magic Carpet Ride' (Official A... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=XhHtN5J74q4</link>
-            <guid>https://www.youtube.com/watch?v=XhHtN5J74q4</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/XhHtN5J74q4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Road Trip' (Official Audio) | ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=C7yRV4mhFGo</link>
-            <guid>https://www.youtube.com/watch?v=C7yRV4mhFGo</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/C7yRV4mhFGo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최민호] '우굡빠~♥' 
@@ -1417,6 +1415,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20210918_88/0Mooy_16319283669027l3VH_JPEG/1631928360322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Guide (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22509033</link>
+            <guid>https://tv.naver.com/v/22509033</guid>
+            <pubDate>Tue, 21 Sep 2021 13:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210917_123/MeMPf_1631857028928Avc7x_JPEG/1631857014513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22503186</link>
             <guid>https://tv.naver.com/v/22503186</guid>
@@ -1607,14 +1613,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210822_52/UCcdY_1629560824730NEcUh_JPEG/1629560785915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 : Who is STICKER (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/21980389</link>
-            <guid>https://tv.naver.com/v/21980389</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210820_74/5g9mh_1629470970052Oss0X_JPEG/1629470966418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

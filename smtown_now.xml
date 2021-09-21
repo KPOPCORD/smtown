@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Sep 2021 11:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 13:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선생님… 죄송합니다!!]]></title>
+            <link>https://www.youtube.com/watch?v=bcxHIld_PW0</link>
+            <guid>https://www.youtube.com/watch?v=bcxHIld_PW0</guid>
+            <pubDate>Tue, 21 Sep 2021 13:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[When NCT 127 has Sticker practice, even Mr. Lee...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bcxHIld_PW0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 떠나자...]]></title>
+            <link>https://www.youtube.com/watch?v=2NEVBW3eQm8</link>
+            <guid>https://www.youtube.com/watch?v=2NEVBW3eQm8</guid>
+            <pubDate>Tue, 21 Sep 2021 13:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[Part1 [떠나자 Chuseok Trip] : #JOHNNY, #JAEHYUN, #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2NEVBW3eQm8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT의 막내들만 모여 있네요💚 | 추석맞이 다과상 만들기 | 한가위...]]></title>
             <link>https://www.youtube.com/watch?v=70BeGUiS6mQ</link>
@@ -244,24 +260,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fvqVHOUAnz4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Magic Carpet Ride' (Official A...]]></title>
-            <link>https://www.youtube.com/watch?v=XhHtN5J74q4</link>
-            <guid>https://www.youtube.com/watch?v=XhHtN5J74q4</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/XhHtN5J74q4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Road Trip' (Official Audio) | ...]]></title>
-            <link>https://www.youtube.com/watch?v=C7yRV4mhFGo</link>
-            <guid>https://www.youtube.com/watch?v=C7yRV4mhFGo</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/C7yRV4mhFGo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
