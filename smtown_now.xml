@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 13:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 15:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Roll Up To The PartyㅣStick TogetherㅣEP....]]></title>
+            <link>https://www.youtube.com/watch?v=vpxM2BUr5y0</link>
+            <guid>https://www.youtube.com/watch?v=vpxM2BUr5y0</guid>
+            <pubDate>Wed, 22 Sep 2021 15:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vpxM2BUr5y0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Gu...]]></title>
             <link>https://www.youtube.com/watch?v=ie1Dz9T16aE</link>
@@ -251,15 +260,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/v2JYO8Qah8E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Far' (Official Audio) | Sticke...]]></title>
-            <link>https://www.youtube.com/watch?v=WcMxOf1rURo</link>
-            <guid>https://www.youtube.com/watch?v=WcMxOf1rURo</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WcMxOf1rURo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
