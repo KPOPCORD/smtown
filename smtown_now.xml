@@ -4,13 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 08:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 09:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[MV] 2021 월간 윤종신 Repair 9월호 - 그리움 축제]]></title>
+            <link>https://www.youtube.com/watch?v=WtgqGx8Yt3I</link>
+            <guid>https://www.youtube.com/watch?v=WtgqGx8Yt3I</guid>
+            <pubDate>Thu, 23 Sep 2021 09:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[[9월호 이야기]
+
+“밤, 새벽, 혼자만을 위한 노래.”
+
+2021 [월간 윤종신] ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WtgqGx8Yt3I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 wins a triple crown, topping th...]]></title>
             <link>https://now.smtown.com/news/detail/2378553</link>
             <guid>https://now.smtown.com/news/detail/2378553</guid>
             <pubDate>Thu, 23 Sep 2021 07:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) wins a triple crown, topping the G...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378552</link>
@@ -109,9 +123,11 @@ Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hDn7BI9K7o4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 to appear on ‘Inkigayo’ on the ...]]></title>
             <link>https://now.smtown.com/news/detail/2378547</link>
             <guid>https://now.smtown.com/news/detail/2378547</guid>
             <pubDate>Thu, 23 Sep 2021 07:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) will appear on a music broadcast o...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378546</link>
@@ -220,13 +236,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/6RKPYW9j0do/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 wows global fans with their 1st...]]></title>
-            <link>https://now.smtown.com/news/detail/2378456</link>
-            <guid>https://now.smtown.com/news/detail/2378456</guid>
-            <pubDate>Fri, 17 Sep 2021 09:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) unveiled the title song 'Sticker' ...]]></content:encoded>
         </item>
     </channel>
 </rss>
