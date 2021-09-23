@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 06:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,6 +93,16 @@ Listen an...]]></content:encoded>
             <pubDate>Sat, 18 Sep 2021 07:40:20 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 presents Sticker, the Enhanced Album av...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1DJDeSh0-XI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378544</link>
+            <guid>https://now.smtown.com/news/detail/2378544</guid>
+            <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378543</link>
+            <guid>https://now.smtown.com/news/detail/2378543</guid>
+            <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD P...]]></title>
@@ -242,24 +252,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Mxlur9gki3I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '같은 시선 (Focus)' (Official Audio...]]></title>
-            <link>https://www.youtube.com/watch?v=5fRNZv5L_98</link>
-            <guid>https://www.youtube.com/watch?v=5fRNZv5L_98</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5fRNZv5L_98/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '내일의 나에게 (The Rainy Night)' (Of...]]></title>
-            <link>https://www.youtube.com/watch?v=v2JYO8Qah8E</link>
-            <guid>https://www.youtube.com/watch?v=v2JYO8Qah8E</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/v2JYO8Qah8E/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 06:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -473,6 +473,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec7946c43a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘검은 태양’ 박하선, 짧지만 강한 연기로 몰입도 UP ‘존재감 폭발’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5429</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5429</guid>
+            <pubDate>Thu, 23 Sep 2021 06:51:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘검은 태양’ 박하선, 짧지만 강한 연기로 몰입도 UP ‘존재감 폭발’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c232b98df7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최시원, ‘2021 세계지식포럼’에 유니세프 동아시아태평양 지역 친선대사로 참여! (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5425</link>
             <guid>https://www.smtown.com/artist/newsDetail/5425</guid>
@@ -482,13 +491,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5424</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5424</guid>
+            <title><![CDATA[최시원, ‘2021 세계지식포럼’에 유니세프 동아시아태평양 지역 친선대사로 참여! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5425</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5425</guid>
             <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443b7332381.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아시아 최대 글로벌 비즈니스 포럼 ‘2021 세계지식포럼’에 연사로 참석했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔 (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SBS ‘펜트하우스’ 봉태규 아들 이태빈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5388</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5388</guid>
-            <pubDate>Tue, 07 Sep 2021 02:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이태빈이 키이스트와 전속계약을 체결했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6136c69cc3d17.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5424</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5424</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)의 ‘웹툰 실사화’ 비주얼이 드디어 베일을 벗는다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443b7332381.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호, 카카오TV 오리지널 ‘소름’으로 서스펜스 장르물에 첫 도전한다! (SMTOWN ─ Actors News)]]></title>
@@ -561,14 +569,6 @@
             <pubDate>Wed, 08 Sep 2021 04:54:23 GMT</pubDate>
             <content:encoded><![CDATA[배우 이동휘가 ‘네이버 나우(NOW.)’의 새로운 호스트로 발탁됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613838267f129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘·정은채, ‘한국형 로맨스’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5381</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5381</guid>
-            <pubDate>Sun, 05 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이동휘, 정은채가 영화 ‘왼쪽을 보는 남자, 오른쪽을 보는 여자’에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6131b397a7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Roll Up To The PartyㅣStick TogetherㅣEP.... (SMTOWN ─ NOW)]]></title>
@@ -656,6 +656,18 @@ Listen an...]]></content:encoded>
             <pubDate>Sat, 18 Sep 2021 07:40:20 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 presents Sticker, the Enhanced Album av...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1DJDeSh0-XI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378544</link>
+            <guid>https://now.smtown.com/news/detail/2378544</guid>
+            <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378543</link>
+            <guid>https://now.smtown.com/news/detail/2378543</guid>
+            <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD P... (SMTOWN ─ NOW)]]></title>
@@ -805,24 +817,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Mxlur9gki3I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '같은 시선 (Focus)' (Official Audio... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5fRNZv5L_98</link>
-            <guid>https://www.youtube.com/watch?v=5fRNZv5L_98</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5fRNZv5L_98/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '내일의 나에게 (The Rainy Night)' (Of... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=v2JYO8Qah8E</link>
-            <guid>https://www.youtube.com/watch?v=v2JYO8Qah8E</guid>
-            <pubDate>Fri, 17 Sep 2021 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/v2JYO8Qah8E/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최민호] '우굡빠~♥' 
