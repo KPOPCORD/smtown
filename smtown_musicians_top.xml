@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 06:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 07:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127, 美 ‘제임스 코든쇼’ 출연 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5428</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5428</guid>
-            <pubDate>Fri, 17 Sep 2021 09:42:49 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 가온차트 음반+음원 1위 3관왕! 막강 파워 재입증!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5439</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5439</guid>
+            <pubDate>Thu, 23 Sep 2021 07:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 美 ‘제임스 코든쇼’ 출연 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614455cf74ff9.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 가온차트 음반+음원 1위 3관왕! 막강 파워 재입증!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c29f9ca542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5427</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5427</guid>
-            <pubDate>Fri, 17 Sep 2021 07:39:56 GMT</pubDate>
+            <title><![CDATA[에스파 첫 미니앨범 ‘Savage’, 업그레이드된 카리스마 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5438</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5438</guid>
+            <pubDate>Thu, 23 Sep 2021 07:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 키, 첫 미니앨범 ‘BAD LOVE’로 보여줄 다양한 음악 스펙트럼!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c94872cd.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파 첫 미니앨범 ‘Savage’, 업그레이드된 카리스마 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c2952526aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
