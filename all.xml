@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 14:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 15:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,17 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알고리즘의 선택을 받으려면 별 짓을 다해야 되는구나…★ | KAIst ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=jeXNwMf7gQQ</link>
+            <guid>https://www.youtube.com/watch?v=jeXNwMf7gQQ</guid>
+            <pubDate>Thu, 23 Sep 2021 15:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[#KAIst #카이스트 #KAI #카이
+
+KAI Official
+http://www....]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jeXNwMf7gQQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MV] 2021 월간 윤종신 Repair 9월호 - 그리움 축제 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=WtgqGx8Yt3I</link>
             <guid>https://www.youtube.com/watch?v=WtgqGx8Yt3I</guid>
@@ -808,15 +819,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fmzuJBBxT7U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=6RKPYW9j0do</link>
-            <guid>https://www.youtube.com/watch?v=6RKPYW9j0do</guid>
-            <pubDate>Fri, 17 Sep 2021 13:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6RKPYW9j0do/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최민호] '우굡빠~♥' 
