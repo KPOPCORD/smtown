@@ -4,7 +4,7 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 09:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 10:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c262e33c9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 컴백쇼 오늘 전세계 중계!]]></title>
+            <title><![CDATA[NCT 127 컴백쇼 전세계 중계!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5431</link>
             <guid>https://www.smtown.com/artist/newsDetail/5431</guid>
             <pubDate>Thu, 23 Sep 2021 07:40:44 GMT</pubDate>
