@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 06:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127 breaks their own record and bec... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378572</link>
             <guid>https://now.smtown.com/news/detail/2378572</guid>
             <pubDate>Fri, 24 Sep 2021 06:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(SM) over 2.15 million copies of their 3...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Comeback D-3! SHINee KEY, title song 'B... (SMTOWN ─ NOW)]]></title>
@@ -584,10 +585,11 @@
             <content:encoded><![CDATA[SHINee KEY(SM)'s new song 'BAD LOVE' music vide...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SHINee KEY, KEY’s unique pictorial for ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378570</link>
             <guid>https://now.smtown.com/news/detail/2378570</guid>
             <pubDate>Fri, 24 Sep 2021 06:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee's KEY (SM) overwhelmed the atmosphere wi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘Metaverse girlgroup’ aespa KARINA, GIS... (SMTOWN ─ NOW)]]></title>
