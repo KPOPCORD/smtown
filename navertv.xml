@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 14:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 17:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1]]></title>
+            <link>https://tv.naver.com/v/22608189</link>
+            <guid>https://tv.naver.com/v/22608189</guid>
+            <pubDate>Fri, 24 Sep 2021 17:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_244/tRe5X_1632492430828NpnvK_JPEG/1632492376634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
             <link>https://tv.naver.com/v/22523832</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210824_134/R2nXi_16297316686450gvN5_PNG/1629731654308.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TEN 텐 'Paint Me Naked' Choreography Video]]></title>
-            <link>https://tv.naver.com/v/21992325</link>
-            <guid>https://tv.naver.com/v/21992325</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210822_52/UCcdY_1629560824730NEcUh_JPEG/1629560785915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
