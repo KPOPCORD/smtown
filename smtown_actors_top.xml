@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 04:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘슬의생2’ 김강민 “정경호, 배우로서도 사람으로서도 본받을 점 많은 선배” [종영소감]]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5440</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5440</guid>
+            <pubDate>Fri, 24 Sep 2021 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘슬의생2’ 김강민 “정경호, 배우로서도 사람으로서도 본받을 점 많은 선배” [종영소감]  </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 특별출연의 정석 보여줬다! 존재감 빛나]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5432</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘유미의 세포들’ 최민호(샤이니 민호), 특별출연의 정석 보여줬다! 존재감 빛나</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c253e7221a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 첫 방송 포문 제대로 열었다]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5430</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5430</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘유미의 세포들’ 최민호(샤이니 민호), 첫 방송 포문 제대로 열었다 </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c23d7221c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 04:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -473,6 +473,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142ced72b9df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘슬의생2’ 김강민 “정경호, 배우로서도 사람으로서도 본받을 점 많은 선배” [종영소감] (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5440</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5440</guid>
+            <pubDate>Fri, 24 Sep 2021 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘슬의생2’ 김강민 “정경호, 배우로서도 사람으로서도 본받을 점 많은 선배” [종영소감]  </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 특별출연의 정석 보여줬다! 존재감 빛나 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5432</link>
             <guid>https://www.smtown.com/artist/newsDetail/5432</guid>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5430</link>
             <guid>https://www.smtown.com/artist/newsDetail/5430</guid>
             <pubDate>Thu, 23 Sep 2021 07:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘유미의 세포들’ 최민호(샤이니 민호), 첫 방송 포문 제대로 열었다 </span>]]></content:encoded>
+            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 드라마의 포문을 제대로 열었다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c23d7221c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최시원, ‘2021 세계지식포럼’에 유니세프 동아시아태평양 지역 친선대사로 참여! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5425</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5425</guid>
+            <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아시아 최대 글로벌 비즈니스 포럼 ‘2021 세계지식포럼’에 연사로 참석했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5419</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
+            <pubDate>Thu, 16 Sep 2021 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[한선화가 '영화의 거리'를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5410</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5410</guid>
+            <pubDate>Tue, 14 Sep 2021 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 독립영화로 스크린 컴백을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614032fa46ec8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5406</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
+            <pubDate>Mon, 13 Sep 2021 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 ‘블루버스데이’ 종영 소감을 남겼다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘검은 태양’ 박하선, 짧지만 강한 연기로 몰입도 UP ‘존재감 폭발’ (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,10 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec5a490c41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최시원, ‘2021 세계지식포럼’에 유니세프 동아시아태평양 지역 친선대사로 참여! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5425</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5425</guid>
-            <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아시아 최대 글로벌 비즈니스 포럼 ‘2021 세계지식포럼’에 연사로 참석했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5419</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
-            <pubDate>Thu, 16 Sep 2021 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 '영화의 거리'를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권유리, 영화 ‘돌핀’ 주인공 캐스팅! 차기작으로 독립영화 선택 ‘눈길’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5410</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5410</guid>
-            <pubDate>Tue, 14 Sep 2021 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[권유리(소녀시대 유리, 에스엠엔터테인먼트 소속)가 독립영화로 스크린 컴백을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614032fa46ec8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블루버스데이’ 김예림(레드벨벳 예리), 첫 주연 도전 성공적으로 마무리! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5406</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5406</guid>
-            <pubDate>Mon, 13 Sep 2021 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 ‘블루버스데이’ 종영 소감을 남겼다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘기적’ 임윤아가 사랑받을 수밖에 없는 이유! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5399</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5399</guid>
-            <pubDate>Fri, 10 Sep 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 또 한번 스크린 접수를 예고하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae62e0b9e1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378567</link>
+            <guid>https://now.smtown.com/news/detail/2378567</guid>
+            <pubDate>Fri, 24 Sep 2021 05:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[알고리즘의 선택을 받으려면 별 짓을 다해야 되는구나…★ | KAIst ... (SMTOWN ─ NOW)]]></title>
@@ -812,13 +818,12 @@ Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/coKSh5v3xZw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[【NCT 127 WORLD PREMIERE STICKER】 Spoile... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=fmzuJBBxT7U</link>
-            <guid>https://www.youtube.com/watch?v=fmzuJBBxT7U</guid>
-            <pubDate>Fri, 17 Sep 2021 13:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fmzuJBBxT7U/sddefault.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 24 Sep 2021 05:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfNjYg/MDAxNjMyNDQ4NzQ5NTQx.zXIwitcpKzZtFA8xjrFye8rdWDavwPoGumnv45EFMt4g.BYH-hE_2bAA3GzL7qAvyQT1f3Nf3kCNhpB6vgGzWsX4g.JPEG/IZ4_9qZwjisR_ORf3bWhfDbuulf0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최민호] '우굡빠~♥' 
@@ -985,14 +990,6 @@ WayV-TEN&YANGYANG 'Low Low' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDVfMTk0/MDAxNjI1NDY4MTE2NjIz.XwnBF1vOuRa4qZHTI6IzBJ8vscjl3a2jzGC6ANgh25cg.YwyocmeukUU3b0gBk5wPIWQsy98VVX8bF8tgSalPpzcg.JPEG/IXXsyfP947GpwSlFvZ_VXnionJls.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권유리] 조선시대 옹주자가의 인생개척법! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31890921&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31890921&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDJfMjUy/MDAxNjI1MjIwMzE5MTMx.jay_buqOBbQKqUwFphd5UUKSA059ydrrC5NfqsfeFa8g.sQvWMafLAq-4mypd8RrkHikwB4Q7mqDxo9GGUtJjr1og.JPEG/IhX9PTfAKzl3JGKPrRLS4aPR5Ehk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[키] 만능열쇠 사용설명서 (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
