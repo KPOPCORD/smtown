@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 06:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 가온차트 음반+음원 1위 3관왕! 막강 파워 재입증!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5439</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5439</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:37 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 발매 단 일주일 만에 음반 판매량 215만장 돌파!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5445</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5445</guid>
+            <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 가온차트 음반+음원 1위 3관왕! 막강 파워 재입증!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c29f9ca542.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 발매 단 일주일 만에 음반 판매량 215만장 돌파!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6aa6da88d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파 첫 미니앨범 ‘Savage’, 업그레이드된 카리스마 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5438</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5438</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:37 GMT</pubDate>
+            <title><![CDATA[컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5444</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5444</guid>
+            <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파 첫 미니앨범 ‘Savage’, 업그레이드된 카리스마 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c2952526aa.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6a2796e7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
