@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 13:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 13:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We Never StopㅣStick TogetherㅣEP. 4]]></title>
+            <link>https://www.youtube.com/watch?v=h9jqkuRAJjY</link>
+            <guid>https://www.youtube.com/watch?v=h9jqkuRAJjY</guid>
+            <pubDate>Fri, 24 Sep 2021 13:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h9jqkuRAJjY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Beyond LIVE - KEY : 'GROKS IN THE KEYL...]]></title>
             <link>https://www.youtube.com/watch?v=6e_4mROkRcU</link>
@@ -235,13 +244,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378544</guid>
             <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
             <content:encoded><![CDATA[‘Yumi’s Cells’ CHOI MINHO(SHINee MINHO, SM) suc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Black Sun' Park Ha Seon, immersion UP ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378543</link>
-            <guid>https://now.smtown.com/news/detail/2378543</guid>
-            <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
-            <content:encoded><![CDATA['Black Sun' Park Ha Seon exploded his presence ...]]></content:encoded>
         </item>
     </channel>
 </rss>
