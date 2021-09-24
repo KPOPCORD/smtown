@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 09:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 10:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Beyond LIVE - KEY : 'GROKS IN THE KEYL...]]></title>
+            <link>https://www.youtube.com/watch?v=6e_4mROkRcU</link>
+            <guid>https://www.youtube.com/watch?v=6e_4mROkRcU</guid>
+            <pubDate>Fri, 24 Sep 2021 10:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE - KEY : 'GROKS IN THE KEYLAND'
+9/26...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6e_4mROkRcU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 breaks their own record and bec...]]></title>
             <link>https://now.smtown.com/news/detail/2378572</link>
@@ -233,15 +242,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378543</guid>
             <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
             <content:encoded><![CDATA['Black Sun' Park Ha Seon exploded his presence ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD P...]]></title>
-            <link>https://www.youtube.com/watch?v=m_kiaDvfO9U</link>
-            <guid>https://www.youtube.com/watch?v=m_kiaDvfO9U</guid>
-            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/m_kiaDvfO9U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

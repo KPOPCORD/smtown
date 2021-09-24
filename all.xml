@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 09:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 10:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Beyond LIVE - KEY : 'GROKS IN THE KEYL... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=6e_4mROkRcU</link>
+            <guid>https://www.youtube.com/watch?v=6e_4mROkRcU</guid>
+            <pubDate>Fri, 24 Sep 2021 10:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE - KEY : 'GROKS IN THE KEYLAND'
+9/26...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6e_4mROkRcU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 breaks their own record and bec... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378572</link>
             <guid>https://now.smtown.com/news/detail/2378572</guid>
@@ -797,15 +806,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378543</guid>
             <pubDate>Thu, 23 Sep 2021 06:51:17 GMT</pubDate>
             <content:encoded><![CDATA['Black Sun' Park Ha Seon exploded his presence ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD P... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=m_kiaDvfO9U</link>
-            <guid>https://www.youtube.com/watch?v=m_kiaDvfO9U</guid>
-            <pubDate>Sat, 18 Sep 2021 06:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/m_kiaDvfO9U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
