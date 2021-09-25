@@ -1,8 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-09-25T03:46:32.480Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 25 Sep 2021 06:24:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1]]></title>
+            <link>https://www.youtube.com/watch?v=6CnZF8I6dt4</link>
+            <guid>https://www.youtube.com/watch?v=6CnZF8I6dt4</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6CnZF8I6dt4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We Never StopㅣStick TogetherㅣEP. 4]]></title>
+            <link>https://www.youtube.com/watch?v=h9jqkuRAJjY</link>
+            <guid>https://www.youtube.com/watch?v=h9jqkuRAJjY</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h9jqkuRAJjY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Beyond LIVE - KEY : 'GROKS IN THE KEYL...]]></title>
+            <link>https://www.youtube.com/watch?v=6e_4mROkRcU</link>
+            <guid>https://www.youtube.com/watch?v=6e_4mROkRcU</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE - KEY : 'GROKS IN THE KEYLAND'
+9/26...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6e_4mROkRcU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 breaks their own record and bec...]]></title>
+            <link>https://now.smtown.com/news/detail/2378572</link>
+            <guid>https://now.smtown.com/news/detail/2378572</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(SM) over 2.15 million copies of their 3...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Comeback D-3! SHINee KEY, title song 'B...]]></title>
+            <link>https://now.smtown.com/news/detail/2378571</link>
+            <guid>https://now.smtown.com/news/detail/2378571</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY(SM)'s new song 'BAD LOVE' music vide...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee KEY, KEY’s unique pictorial for ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378570</link>
+            <guid>https://now.smtown.com/news/detail/2378570</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee's KEY (SM) overwhelmed the atmosphere wi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Metaverse girlgroup’ aespa KARINA, GIS...]]></title>
+            <link>https://now.smtown.com/news/detail/2378569</link>
+            <guid>https://now.smtown.com/news/detail/2378569</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[Teaser images of ‘Metaverse girlgroup’ aespa(SM...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378568</link>
+            <guid>https://now.smtown.com/news/detail/2378568</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['슬의생2' Kim Kang Min “Jung Kyung-Ho, an ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378567</link>
+            <guid>https://now.smtown.com/news/detail/2378567</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Kang Min shared his thoughts on the e...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알고리즘의 선택을 받으려면 별 짓을 다해야 되는구나…★ | KAIst ...]]></title>
+            <link>https://www.youtube.com/watch?v=jeXNwMf7gQQ</link>
+            <guid>https://www.youtube.com/watch?v=jeXNwMf7gQQ</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[#KAIst #카이스트 #KAI #카이
+
+KAI Official
+http://www....]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jeXNwMf7gQQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 2021 월간 윤종신 Repair 9월호 - 그리움 축제]]></title>
+            <link>https://www.youtube.com/watch?v=WtgqGx8Yt3I</link>
+            <guid>https://www.youtube.com/watch?v=WtgqGx8Yt3I</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[[9월호 이야기]
+
+“밤, 새벽, 혼자만을 위한 노래.”
+
+2021 [월간 윤종신] ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WtgqGx8Yt3I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 wins a triple crown, topping th...]]></title>
+            <link>https://now.smtown.com/news/detail/2378553</link>
+            <guid>https://now.smtown.com/news/detail/2378553</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) wins a triple crown, topping the G...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa's first mini album 'Savage', upgr...]]></title>
+            <link>https://now.smtown.com/news/detail/2378552</link>
+            <guid>https://now.smtown.com/news/detail/2378552</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girlgroup’ aespa(SM) members WINTER ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee KEY to perform his new songs for...]]></title>
+            <link>https://now.smtown.com/news/detail/2378551</link>
+            <guid>https://now.smtown.com/news/detail/2378551</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY (SM) will pre-release his new song s...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Roll Up To The PartyㅣStick TogetherㅣEP....]]></title>
+            <link>https://www.youtube.com/watch?v=vpxM2BUr5y0</link>
+            <guid>https://www.youtube.com/watch?v=vpxM2BUr5y0</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vpxM2BUr5y0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHINee KEY's 1st mini album countdown l...]]></title>
+            <link>https://now.smtown.com/news/detail/2378550</link>
+            <guid>https://now.smtown.com/news/detail/2378550</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY (SM) will broadcast a countdown live...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Gu...]]></title>
+            <link>https://www.youtube.com/watch?v=ie1Dz9T16aE</link>
+            <guid>https://www.youtube.com/watch?v=ie1Dz9T16aE</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ie1Dz9T16aE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선생님… 죄송합니다!!]]></title>
+            <link>https://www.youtube.com/watch?v=bcxHIld_PW0</link>
+            <guid>https://www.youtube.com/watch?v=bcxHIld_PW0</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[When NCT 127 has Sticker practice, even Mr. Lee...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bcxHIld_PW0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 떠나자...]]></title>
+            <link>https://www.youtube.com/watch?v=2NEVBW3eQm8</link>
+            <guid>https://www.youtube.com/watch?v=2NEVBW3eQm8</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[Part1 [떠나자 Chuseok Trip] : #JOHNNY, #JAEHYUN, #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2NEVBW3eQm8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E, warm greetings from C...]]></title>
+            <link>https://now.smtown.com/news/detail/2378549</link>
+            <guid>https://now.smtown.com/news/detail/2378549</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E greeted Chuseok and greeted wa...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT의 막내들만 모여 있네요💚 | 추석맞이 다과상 만들기 | 한가위...]]></title>
+            <link>https://www.youtube.com/watch?v=70BeGUiS6mQ</link>
+            <guid>https://www.youtube.com/watch?v=70BeGUiS6mQ</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT #한가위_신선놀음
+#태용 #지성 #성찬
+#TAEYONG #JISUNG #SU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/70BeGUiS6mQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNBOXING of NCT 127 ’Sticker’ Album]]></title>
+            <link>https://www.youtube.com/watch?v=Z4kWOUwROgI</link>
+            <guid>https://www.youtube.com/watch?v=Z4kWOUwROgI</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Z4kWOUwROgI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 3rd album 'Sticker' 1st on the...]]></title>
+            <link>https://now.smtown.com/news/detail/2378548</link>
+            <guid>https://now.smtown.com/news/detail/2378548</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) topped the weekly album chart with...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Like A StickerㅣStick TogetherㅣEP. 2]]></title>
+            <link>https://www.youtube.com/watch?v=01lNgAsSHWk</link>
+            <guid>https://www.youtube.com/watch?v=01lNgAsSHWk</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/01lNgAsSHWk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REACTION to ’Sticker’ MVㅣNCT 127 Reacti...]]></title>
+            <link>https://www.youtube.com/watch?v=hDn7BI9K7o4</link>
+            <guid>https://www.youtube.com/watch?v=hDn7BI9K7o4</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hDn7BI9K7o4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 to appear on ‘Inkigayo’ on the ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378547</link>
+            <guid>https://now.smtown.com/news/detail/2378547</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) will appear on a music broadcast o...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI MINHO(SHINee MINHO) of ‘Yumi’s Cel...]]></title>
+            <link>https://now.smtown.com/news/detail/2378546</link>
+            <guid>https://now.smtown.com/news/detail/2378546</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘Yumi’s Cells’ CHOI MINHO(SHINee MINHO, SM) mak...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127을 조종하는 백마법사 🧙‍♂️🪄]]></title>
+            <link>https://www.youtube.com/watch?v=8PZcs6dGLek</link>
+            <guid>https://www.youtube.com/watch?v=8PZcs6dGLek</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[When NCT 127 needs to stick together, who do yo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8PZcs6dGLek/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 【Sticker】 Spotify Enhanced Albu...]]></title>
+            <link>https://www.youtube.com/watch?v=1DJDeSh0-XI</link>
+            <guid>https://www.youtube.com/watch?v=1DJDeSh0-XI</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 presents Sticker, the Enhanced Album av...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1DJDeSh0-XI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 comeback show broadcast worldwi...]]></title>
+            <link>https://now.smtown.com/news/detail/2378545</link>
+            <guid>https://now.smtown.com/news/detail/2378545</guid>
+            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[A comeback show to commemorate the release of N...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
