@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 09:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 10:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Beyond LIVE – KEY : ‘GROKS IN THE KEYL... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=JBR4pyHufOQ</link>
+            <guid>https://www.youtube.com/watch?v=JBR4pyHufOQ</guid>
+            <pubDate>Sat, 25 Sep 2021 10:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE – KEY : ‘GROKS IN THE KEYLAND’
+9/26...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JBR4pyHufOQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=6CnZF8I6dt4</link>
             <guid>https://www.youtube.com/watch?v=6CnZF8I6dt4</guid>
@@ -802,13 +811,6 @@ Listen an...]]></content:encoded>
             <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 presents Sticker, the Enhanced Album av...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1DJDeSh0-XI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 comeback show broadcast worldwi... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378545</link>
-            <guid>https://now.smtown.com/news/detail/2378545</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[A comeback show to commemorate the release of N...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
