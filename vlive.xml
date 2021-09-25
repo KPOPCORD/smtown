@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 14:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 15:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/1-25622724</link>
+            <guid>https://vlive.tv/post/1-25622724</guid>
+            <pubDate>Sat, 25 Sep 2021 15:45:11 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210925_31/1632563909962HKJsX_JPEG/1632563667538.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1]]></title>
             <link>https://vlive.tv/post/0-25602354</link>
             <guid>https://vlive.tv/post/0-25602354</guid>
             <pubDate>Sat, 25 Sep 2021 07:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.24.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210924_261/1632493139304d76Y2_JPEG/1632492376634.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25473698</guid>
             <pubDate>Sat, 25 Sep 2021 07:39:31 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210918_185/1631928491902Vbfk5_JPEG/1631927494163.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' @NCT 127 WORLD PREMIERE STICKER]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #2]]></title>
             <link>https://vlive.tv/post/1-25205084</link>
             <guid>https://vlive.tv/post/1-25205084</guid>
-            <pubDate>Sat, 25 Sep 2021 07:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[9.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Magic Carpet Ride' Track Video #2]]></title>
-            <link>https://vlive.tv/post/1-25189941</link>
-            <guid>https://vlive.tv/post/1-25189941</guid>
             <pubDate>Sat, 25 Sep 2021 07:39:31 GMT</pubDate>
             <content:encoded><![CDATA[9.5.]]></content:encoded>
         </item>

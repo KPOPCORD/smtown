@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 14:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 15:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
+            <link>https://www.youtube.com/watch?v=TUDClqFK96Y</link>
+            <guid>https://www.youtube.com/watch?v=TUDClqFK96Y</guid>
+            <pubDate>Sat, 25 Sep 2021 15:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TUDClqFK96Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[⚜️오늘은 ‘마리 앙투아네트’ 공연이 있는 날이에요⚜️｜DOYOUNG ...]]></title>
             <link>https://www.youtube.com/watch?v=_MCJnjXPprs</link>
@@ -242,14 +250,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378546</guid>
             <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[‘Yumi’s Cells’ CHOI MINHO(SHINee MINHO, SM) mak...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127을 조종하는 백마법사 🧙‍♂️🪄]]></title>
-            <link>https://www.youtube.com/watch?v=8PZcs6dGLek</link>
-            <guid>https://www.youtube.com/watch?v=8PZcs6dGLek</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[When NCT 127 needs to stick together, who do yo...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8PZcs6dGLek/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
