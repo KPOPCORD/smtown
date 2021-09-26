@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 09:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 10:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 우리 ...]]></title>
+            <link>https://www.youtube.com/watch?v=7RXM-Qv1t5g</link>
+            <guid>https://www.youtube.com/watch?v=7RXM-Qv1t5g</guid>
+            <pubDate>Sun, 26 Sep 2021 10:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[Part3 [우리 다시 만나는 날]: #NCT127
+
+#HAECHAN_Radio #해...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/7RXM-Qv1t5g/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
             <link>https://www.youtube.com/watch?v=TUDClqFK96Y</link>
@@ -243,13 +253,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378547</guid>
             <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) will appear on a music broadcast o...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHOI MINHO(SHINee MINHO) of ‘Yumi’s Cel...]]></title>
-            <link>https://now.smtown.com/news/detail/2378546</link>
-            <guid>https://now.smtown.com/news/detail/2378546</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘Yumi’s Cells’ CHOI MINHO(SHINee MINHO, SM) mak...]]></content:encoded>
         </item>
     </channel>
 </rss>
