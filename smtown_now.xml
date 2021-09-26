@@ -4,9 +4,41 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 14:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 15:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - WIN...]]></title>
+            <link>https://www.youtube.com/watch?v=tgXkJpBtfO8</link>
+            <guid>https://www.youtube.com/watch?v=tgXkJpBtfO8</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tgXkJpBtfO8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GIS...]]></title>
+            <link>https://www.youtube.com/watch?v=WYIHavdhWLo</link>
+            <guid>https://www.youtube.com/watch?v=WYIHavdhWLo</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WYIHavdhWLo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NIN...]]></title>
+            <link>https://www.youtube.com/watch?v=tJzax9ljOqo</link>
+            <guid>https://www.youtube.com/watch?v=tJzax9ljOqo</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tJzax9ljOqo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KAR...]]></title>
+            <link>https://www.youtube.com/watch?v=mNrIEYkWCEE</link>
+            <guid>https://www.youtube.com/watch?v=mNrIEYkWCEE</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/mNrIEYkWCEE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 우리 ...]]></title>
             <link>https://www.youtube.com/watch?v=7RXM-Qv1t5g</link>
@@ -221,38 +253,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Z4kWOUwROgI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album 'Sticker' 1st on the...]]></title>
-            <link>https://now.smtown.com/news/detail/2378548</link>
-            <guid>https://now.smtown.com/news/detail/2378548</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) topped the weekly album chart with...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Like A StickerㅣStick TogetherㅣEP. 2]]></title>
-            <link>https://www.youtube.com/watch?v=01lNgAsSHWk</link>
-            <guid>https://www.youtube.com/watch?v=01lNgAsSHWk</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/01lNgAsSHWk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[REACTION to ’Sticker’ MVㅣNCT 127 Reacti...]]></title>
-            <link>https://www.youtube.com/watch?v=hDn7BI9K7o4</link>
-            <guid>https://www.youtube.com/watch?v=hDn7BI9K7o4</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hDn7BI9K7o4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 to appear on ‘Inkigayo’ on the ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378547</link>
-            <guid>https://now.smtown.com/news/detail/2378547</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) will appear on a music broadcast o...]]></content:encoded>
         </item>
     </channel>
 </rss>

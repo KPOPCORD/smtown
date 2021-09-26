@@ -4,9 +4,41 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 14:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 15:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA]]></title>
+            <link>https://tv.naver.com/v/22629125</link>
+            <guid>https://tv.naver.com/v/22629125</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_281/xfcg6_1632662668173IaxJg_JPEG/1632662664753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NINGNING]]></title>
+            <link>https://tv.naver.com/v/22629116</link>
+            <guid>https://tv.naver.com/v/22629116</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_33/p4OgQ_1632662628431M49HB_JPEG/1632662622255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - WINTER]]></title>
+            <link>https://tv.naver.com/v/22629089</link>
+            <guid>https://tv.naver.com/v/22629089</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_263/GUell_16326624942338hgxQ_JPEG/1632662468372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE]]></title>
+            <link>https://tv.naver.com/v/22629081</link>
+            <guid>https://tv.naver.com/v/22629081</guid>
+            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_246/2ODD4_16326624472784YIbY_JPEG/1632662399031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
             <link>https://tv.naver.com/v/22616286</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210830_255/bg5Hv_1630329764546JHLHA_JPEG/1630329750209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV]]></title>
-            <link>https://tv.naver.com/v/22147409</link>
-            <guid>https://tv.naver.com/v/22147409</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_274/d6ACd_1630312839766Ha9Oh_JPEG/1630312822406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video Teaser]]></title>
-            <link>https://tv.naver.com/v/22129050</link>
-            <guid>https://tv.naver.com/v/22129050</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210829_160/8AJIo_1630233610014W6M9K_JPEG/1630231410691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'Hate that... (Feat. 태연)' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/22116457</link>
-            <guid>https://tv.naver.com/v/22116457</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210828_72/3JPI1_1630132530582YcqGq_JPEG/1630132476495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-LUCAS&HENDERY 'Jalapeño' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/22033239</link>
-            <guid>https://tv.naver.com/v/22033239</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210824_90/BWVGR_1629788834872XMbYb_JPEG/1629788825692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
