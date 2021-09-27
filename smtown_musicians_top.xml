@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 08:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 09:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 발매 단 일주일 만에 음반 판매량 215만장 돌파!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5445</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5445</guid>
-            <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
+            <title><![CDATA[샤이니 키 솔로 콘서트, 오늘 오후 3시 ‘Beyond LIVE’ 개최!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5449</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5449</guid>
+            <pubDate>Mon, 27 Sep 2021 09:43:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 발매 단 일주일 만에 음반 판매량 215만장 돌파!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6aa6da88d.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">샤이니 키 솔로 콘서트, 오늘 오후 3시 ‘Beyond LIVE’ 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151913fa48b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5444</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5444</guid>
-            <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
+            <title><![CDATA[‘더블 밀리언셀러’ NCT 127, 英 오피셜 앨범 차트 40위로 첫 진입 기염!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5448</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5448</guid>
+            <pubDate>Mon, 27 Sep 2021 09:43:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6a2796e7d.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘더블 밀리언셀러’ NCT 127, 英 오피셜 앨범 차트 40위로 첫 진입 기염!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_615190969d67f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

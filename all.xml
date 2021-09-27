@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 08:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 09:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,22 +89,38 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤이니 키 솔로 콘서트, 오늘 오후 3시 ‘Beyond LIVE’ 개최! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5449</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5449</guid>
+            <pubDate>Mon, 27 Sep 2021 09:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">샤이니 키 솔로 콘서트, 오늘 오후 3시 ‘Beyond LIVE’ 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151913fa48b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘더블 밀리언셀러’ NCT 127, 英 오피셜 앨범 차트 40위로 첫 진입 기염! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5448</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5448</guid>
+            <pubDate>Mon, 27 Sep 2021 09:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘더블 밀리언셀러’ NCT 127, 英 오피셜 앨범 차트 40위로 첫 진입 기염!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_615190969d67f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 단체 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5447</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5447</guid>
+            <pubDate>Mon, 27 Sep 2021 09:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘Savage’(새비지) 단체 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151905bd6aa7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 발매 단 일주일 만에 음반 판매량 215만장 돌파! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5445</link>
             <guid>https://www.smtown.com/artist/newsDetail/5445</guid>
             <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 ‘Sticker’ 발매 단 일주일 만에 음반 판매량 215만장 돌파!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 발매 일주일 만에 음반 판매량 215만장을 돌파하는 기염을 토했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6aa6da88d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5444</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5444</guid>
-            <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6a2796e7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤이니 키, 독보적인 유니크함 돋보이는 ‘보그 코리아’ 화보 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -131,20 +147,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c289f561e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 한복입고 훈훈한 추석 인사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5435</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5435</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 추석을 맞이해 훈훈한 인사를 건넸다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c26f832ab7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127 재현, 韓 최초 프라다(PRADA) 컬렉션 생중계! ‘전 세계 유일 셀러브리티’ (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5446</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5446</guid>
+            <pubDate>Mon, 27 Sep 2021 09:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 재현(에스엠엔터테인먼트 소속)이 명품 브랜드의 컬렉션을 생중계해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61518ff72df5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘퍼포먼스 끝판왕’ NCT 127, 오늘 ‘인기가요’ 출격! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5433</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5433</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오늘(19일) 음악 방송에 출격, 화려한 컴백 무대를 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c25a763a65.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[컴백 D-3! 샤이니 키, 타이틀 곡 ‘BAD LOVE’ MV 티저 영상 오늘 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5444</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5444</guid>
+            <pubDate>Fri, 24 Sep 2021 06:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[컴백 초읽기에 들어간 샤이니 키(에스엠엔터테인먼트 소속)의 신곡 ‘BAD LOVE’(배드 러브) 뮤직비디오 티저 영상이 오늘(24일) 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d6a2796e7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘메타버스 걸그룹’ 에스파 카리나, 지젤 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -169,22 +185,6 @@
             <pubDate>Thu, 23 Sep 2021 07:40:44 GMT</pubDate>
             <content:encoded><![CDATA[샤이니 키(에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘BAD LOVE’(배드 러브) 발매 기념 카운트다운 생방송을 펼친다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c27e76617c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 ‘Sticker’ 주간 음반 차트 1위 석권! 대세 파워 입증! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5434</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5434</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 주간 음반 차트 1위를 석권했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c262e33c9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 컴백쇼 전세계 중계! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5431</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5431</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속) 정규 3집 ‘Sticker’(스티커) 발매 기념 컴백쇼가 오늘(18일) 개최된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c24ad319f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키이스트, 신예 황세온과 전속계약 체결! (SMTOWN ─ Actors News)]]></title>
@@ -285,11 +285,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ec63e17380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378625</link>
+            <guid>https://now.smtown.com/news/detail/2378625</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[JAKOMO x LISTEN] 정인 LIVE CLIP Teaser (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=yinROLYjNv0</link>
+            <guid>https://www.youtube.com/watch?v=yinROLYjNv0</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[자코모와 함께하는 정인의 LIVE CLIP at MYSTIC CONNECT 
+
+Ful...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yinROLYjNv0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=OYWWnd9ACMI</link>
             <guid>https://www.youtube.com/watch?v=OYWWnd9ACMI</guid>
             <pubDate>Mon, 27 Sep 2021 06:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[❤️ KEY's 'BAD LOVE' music video will start prem...]]></content:encoded>
+            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" is out!
+Lis...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/OYWWnd9ACMI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -361,6 +378,24 @@
             <content:encoded><![CDATA[Beyond LIVE – KEY : ‘GROKS IN THE KEYLAND’
 9/26...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/JBR4pyHufOQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378624</link>
+            <guid>https://now.smtown.com/news/detail/2378624</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378623</link>
+            <guid>https://now.smtown.com/news/detail/2378623</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378622</link>
+            <guid>https://now.smtown.com/news/detail/2378622</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1 (SMTOWN ─ NOW)]]></title>
@@ -490,54 +525,22 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[SHINee KEY (SM) will broadcast a countdown live...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Gu... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ie1Dz9T16aE</link>
-            <guid>https://www.youtube.com/watch?v=ie1Dz9T16aE</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ie1Dz9T16aE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선생님… 죄송합니다!! (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=bcxHIld_PW0</link>
-            <guid>https://www.youtube.com/watch?v=bcxHIld_PW0</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[When NCT 127 has Sticker practice, even Mr. Lee...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bcxHIld_PW0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 떠나자... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=2NEVBW3eQm8</link>
-            <guid>https://www.youtube.com/watch?v=2NEVBW3eQm8</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[Part1 [떠나자 Chuseok Trip] : #JOHNNY, #JAEHYUN, #...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2NEVBW3eQm8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, warm greetings from C... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378549</link>
-            <guid>https://now.smtown.com/news/detail/2378549</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E greeted Chuseok and greeted wa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT의 막내들만 모여 있네요💚 | 추석맞이 다과상 만들기 | 한가위... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=70BeGUiS6mQ</link>
-            <guid>https://www.youtube.com/watch?v=70BeGUiS6mQ</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[#NCT #한가위_신선놀음
-#태용 #지성 #성찬
-#TAEYONG #JISUNG #SU...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/70BeGUiS6mQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32423974&amp;memberNo=41350603&amp;navigationType=push</guid>
             <pubDate>Fri, 24 Sep 2021 05:40:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfNjYg/MDAxNjMyNDQ4NzQ5NTQx.zXIwitcpKzZtFA8xjrFye8rdWDavwPoGumnv45EFMt4g.BYH-hE_2bAA3GzL7qAvyQT1f3Nf3kCNhpB6vgGzWsX4g.JPEG/IZ4_9qZwjisR_ORf3bWhfDbuulf0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EVENT]
+키의 범우주적 사랑법,
+"BAD LOVE" with 미공개 사진 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32422275&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32422275&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjRfMjQw/MDAxNjMyNDIxMTA2NDYw.4w5V_GtFu_WpgUNLyfI0Py93V3j1dN8zMISqPAB3NX8g.wIVvv17rQFA9Xd-i8S_eAlIgO0WuqyNcOTZuv1_3gXcg.JPEG/IQeg3JY1Zk-rsdGvv80etEfB8i2U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최민호] '우굡빠~♥' 
@@ -694,16 +697,6 @@ WayV-TEN&YANGYANG 'Low Low' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTRfMTY1/MDAxNjI2MjI3OTE2Njk4.6oEC686eXmA-mxnSe3mQ0li2RnFfX8TVDjxyrzcBH5Mg.kNeNXZKKArr7LRfhlr3lPP7CV7AjiQNakdxV5OLZepsg.JPEG/ImUZRJkQ4CzHQBmKAU_S6zXp3iTE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연의 'Weekend'와 
-설렘 가득한 여름 
-(with 미공개 사진♥) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31891007&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31891007&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDVfMTk0/MDAxNjI1NDY4MTE2NjIz.XwnBF1vOuRa4qZHTI6IzBJ8vscjl3a2jzGC6ANgh25cg.YwyocmeukUU3b0gBk5wPIWQsy98VVX8bF8tgSalPpzcg.JPEG/IXXsyfP947GpwSlFvZ_VXnionJls.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[키] 만능열쇠 사용설명서 (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
@@ -1082,6 +1075,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22637113</link>
+            <guid>https://tv.naver.com/v/22637113</guid>
+            <pubDate>Mon, 27 Sep 2021 09:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_13/36exG_1632718350449STT88_JPEG/1632718347616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22629125</link>
             <guid>https://tv.naver.com/v/22629125</guid>
@@ -1312,14 +1313,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_60/DHSV7_1630387184484EgM6n_JPEG/1630386548551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 '설렘꽃 (Blooming)' Special Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22153254</link>
-            <guid>https://tv.naver.com/v/22153254</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_255/bg5Hv_1630329764546JHLHA_JPEG/1630329750209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
