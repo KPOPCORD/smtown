@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 10:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 11:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,6 +285,17 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614031d287384.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리랑 잘 어울리지 않아요?💚✨ | FCMM Behind (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=mhl9CVohy-s</link>
+            <guid>https://www.youtube.com/watch?v=mhl9CVohy-s</guid>
+            <pubDate>Mon, 27 Sep 2021 11:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[#NCTDREAM #FCMM #Behind
+
+NCT DREAM Official
+htt...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/mhl9CVohy-s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 The 3rd Album ‘Sticker’ records... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378632</link>
             <guid>https://now.smtown.com/news/detail/2378632</guid>
@@ -319,10 +330,11 @@
             <pubDate>Mon, 27 Sep 2021 10:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[YURI successfully wraps up ‘유리한 식탁 seas... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378627</link>
             <guid>https://now.smtown.com/news/detail/2378627</guid>
             <pubDate>Mon, 27 Sep 2021 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[KWON YURI (Girls' Generation YURI, SM) filled '...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -331,13 +343,12 @@
             <pubDate>Mon, 27 Sep 2021 10:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[JAKOMO x LISTEN] 정인 LIVE CLIP Teaser (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[정인 - 오르막길 LIVE CLIP Teaser (@MYSTIC CON... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=yinROLYjNv0</link>
             <guid>https://www.youtube.com/watch?v=yinROLYjNv0</guid>
             <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[자코모와 함께하는 정인의 LIVE CLIP at MYSTIC CONNECT 
-
-Ful...]]></content:encoded>
+            <content:encoded><![CDATA[JAKOMO x LISTEN 
+자코모와 함께하는 정인의 'LIVE CLIP' 풀버전은...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yinROLYjNv0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -434,10 +445,11 @@ Lis...]]></content:encoded>
             <content:encoded><![CDATA[‘Double million seller’ NCT 127(SM) enters top ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Metaverse girlgroup’ aespa, first mini... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378623</link>
             <guid>https://now.smtown.com/news/detail/2378623</guid>
             <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA['Metaverse girlgroup' aespa(SM)'s first mini al...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -504,13 +516,6 @@ Listen an...]]></content:encoded>
             <link>https://now.smtown.com/news/detail/2378568</link>
             <guid>https://now.smtown.com/news/detail/2378568</guid>
             <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['슬의생2' Kim Kang Min “Jung Kyung-Ho, an ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378567</link>
-            <guid>https://now.smtown.com/news/detail/2378567</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kim Kang Min shared his thoughts on the e...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
