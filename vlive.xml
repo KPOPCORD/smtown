@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2021-09-27T17:47:19.112Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 27 Sep 2021 18:50:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-25658122</link>
+            <guid>https://vlive.tv/post/0-25658122</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210927_270/1632746426485f7RuA_JPEG/1632746376742.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice]]></title>
+            <link>https://vlive.tv/post/1-25664299</link>
+            <guid>https://vlive.tv/post/1-25664299</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210927_281/1632744198303NRAI5_JPEG/1632743634424.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV]]></title>
+            <link>https://vlive.tv/post/1-25658282</link>
+            <guid>https://vlive.tv/post/1-25658282</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210927_267/1632718396172d6z2y_JPEG/upload_76798080175987742083d9a0f-b373-4116-9a2b-39dec0cb7767.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA]]></title>
+            <link>https://vlive.tv/post/0-25640634</link>
+            <guid>https://vlive.tv/post/0-25640634</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - WINTER]]></title>
+            <link>https://vlive.tv/post/0-25640578</link>
+            <guid>https://vlive.tv/post/0-25640578</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE]]></title>
+            <link>https://vlive.tv/post/1-25647625</link>
+            <guid>https://vlive.tv/post/1-25647625</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NINGNING]]></title>
+            <link>https://vlive.tv/post/0-25640605</link>
+            <guid>https://vlive.tv/post/0-25640605</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/1-25622724</link>
+            <guid>https://vlive.tv/post/1-25622724</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/0-25602354</link>
+            <guid>https://vlive.tv/post/0-25602354</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Camerawork Guide]]></title>
+            <link>https://vlive.tv/post/1-25466898</link>
+            <guid>https://vlive.tv/post/1-25466898</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://vlive.tv/post/0-25473698</link>
+            <guid>https://vlive.tv/post/0-25473698</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://vlive.tv/post/1-25479363</link>
+            <guid>https://vlive.tv/post/1-25479363</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live]]></title>
+            <link>https://vlive.tv/post/0-25473690</link>
+            <guid>https://vlive.tv/post/0-25473690</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://vlive.tv/post/0-25473684</link>
+            <guid>https://vlive.tv/post/0-25473684</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 Intro + 영웅 (英雄; Kick It) @NCT 127 WORLD PREMIERE STICKER]]></title>
+            <link>https://vlive.tv/post/1-25479274</link>
+            <guid>https://vlive.tv/post/1-25479274</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Comeback Stage]]></title>
+            <link>https://vlive.tv/post/0-25462793</link>
+            <guid>https://vlive.tv/post/0-25462793</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV]]></title>
+            <link>https://vlive.tv/post/1-25456002</link>
+            <guid>https://vlive.tv/post/1-25456002</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip]]></title>
+            <link>https://vlive.tv/post/1-25454958</link>
+            <guid>https://vlive.tv/post/1-25454958</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-25430969</link>
+            <guid>https://vlive.tv/post/0-25430969</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV]]></title>
+            <link>https://vlive.tv/post/0-25403564</link>
+            <guid>https://vlive.tv/post/0-25403564</guid>
+            <pubDate>Mon, 27 Sep 2021 18:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[9.14.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
