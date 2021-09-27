@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 11:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 13:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice]]></title>
+            <link>https://tv.naver.com/v/22647573</link>
+            <guid>https://tv.naver.com/v/22647573</guid>
+            <pubDate>Mon, 27 Sep 2021 13:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_53/ObvLv_1632743666252Aa2VE_JPEG/1632743634424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV]]></title>
             <link>https://tv.naver.com/v/22637113</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_166/CUXc4_1630491872768A6di9_JPEG/1630491801158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG ‘Low Low’ Choreography Video]]></title>
-            <link>https://tv.naver.com/v/22165353</link>
-            <guid>https://tv.naver.com/v/22165353</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210831_60/DHSV7_1630387184484EgM6n_JPEG/1630386548551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

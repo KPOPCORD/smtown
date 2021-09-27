@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 11:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 13:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,10 +324,11 @@ htt...]]></content:encoded>
             <content:encoded><![CDATA[aespa (SM) continues the next story of a unique...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Rookie Jo Jun Yeong joins JTBC's new dr... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378628</link>
             <guid>https://now.smtown.com/news/detail/2378628</guid>
             <pubDate>Mon, 27 Sep 2021 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[Rookie Jo Jun Yeong (SM) will join the drama ‘I...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[YURI successfully wraps up ‘유리한 식탁 seas... (SMTOWN ─ NOW)]]></title>
@@ -337,10 +338,11 @@ htt...]]></content:encoded>
             <content:encoded><![CDATA[KWON YURI (Girls' Generation YURI, SM) filled '...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SUPER JUNIOR-D&E releases Korea's 1st f... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378626</link>
             <guid>https://now.smtown.com/news/detail/2378626</guid>
             <pubDate>Mon, 27 Sep 2021 10:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E releases their first full albu...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정인 - 오르막길 LIVE CLIP Teaser (@MYSTIC CON... (SMTOWN ─ NOW)]]></title>
@@ -452,10 +454,11 @@ Lis...]]></content:encoded>
             <content:encoded><![CDATA['Metaverse girlgroup' aespa(SM)'s first mini al...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127 JAEHYUN, Korea's first PRADA co... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378622</link>
             <guid>https://now.smtown.com/news/detail/2378622</guid>
             <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 JAEHYUN (SM) broadcast a collection of ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1 (SMTOWN ─ NOW)]]></title>
@@ -1068,6 +1071,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22647573</link>
+            <guid>https://tv.naver.com/v/22647573</guid>
+            <pubDate>Mon, 27 Sep 2021 13:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_53/ObvLv_1632743666252Aa2VE_JPEG/1632743634424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KEY 키 'BAD LOVE' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22637113</link>
             <guid>https://tv.naver.com/v/22637113</guid>
@@ -1298,14 +1309,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210901_166/CUXc4_1630491872768A6di9_JPEG/1630491801158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV-TEN&YANGYANG ‘Low Low’ Choreography Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22165353</link>
-            <guid>https://tv.naver.com/v/22165353</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210831_60/DHSV7_1630387184484EgM6n_JPEG/1630386548551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
