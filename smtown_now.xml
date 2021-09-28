@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 09:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 10:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378661</link>
+            <guid>https://now.smtown.com/news/detail/2378661</guid>
+            <pubDate>Tue, 28 Sep 2021 10:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378660</link>
+            <guid>https://now.smtown.com/news/detail/2378660</guid>
+            <pubDate>Tue, 28 Sep 2021 10:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378659</link>
+            <guid>https://now.smtown.com/news/detail/2378659</guid>
+            <pubDate>Tue, 28 Sep 2021 10:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378658</link>
+            <guid>https://now.smtown.com/news/detail/2378658</guid>
+            <pubDate>Tue, 28 Sep 2021 10:45:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[정인 - 오르막길 LIVE CLIP (@MYSTIC CONNECT)]]></title>
             <link>https://www.youtube.com/watch?v=mMTKMuBXbII</link>
@@ -216,38 +236,6 @@ Lis...]]></content:encoded>
             <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
             <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/6CnZF8I6dt4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We Never StopㅣStick TogetherㅣEP. 4]]></title>
-            <link>https://www.youtube.com/watch?v=h9jqkuRAJjY</link>
-            <guid>https://www.youtube.com/watch?v=h9jqkuRAJjY</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/h9jqkuRAJjY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Beyond LIVE - KEY : 'GROKS IN THE KEYL...]]></title>
-            <link>https://www.youtube.com/watch?v=6e_4mROkRcU</link>
-            <guid>https://www.youtube.com/watch?v=6e_4mROkRcU</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[Beyond LIVE - KEY : 'GROKS IN THE KEYLAND'
-9/26...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6e_4mROkRcU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 breaks their own record and bec...]]></title>
-            <link>https://now.smtown.com/news/detail/2378572</link>
-            <guid>https://now.smtown.com/news/detail/2378572</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(SM) over 2.15 million copies of their 3...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Comeback D-3! SHINee KEY, title song 'B...]]></title>
-            <link>https://now.smtown.com/news/detail/2378571</link>
-            <guid>https://now.smtown.com/news/detail/2378571</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY(SM)'s new song 'BAD LOVE' music vide...]]></content:encoded>
         </item>
     </channel>
 </rss>

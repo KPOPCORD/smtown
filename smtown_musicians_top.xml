@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 09:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 10:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 美 ‘빌보드 200’ 3위 등극!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5456</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5456</guid>
-            <pubDate>Mon, 27 Sep 2021 10:45:02 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 日 오리콘 위클리 차트도 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5460</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5460</guid>
+            <pubDate>Tue, 28 Sep 2021 10:44:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 美 ‘빌보드 200’ 3위 등극!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_615195dfd5a30.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 日 오리콘 위클리 차트도 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6152f1db1bb46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘더블 밀리언셀러’ NCT 127, 정규 3집 ‘Sticker’ 음반 차트 2주 연속 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5455</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5455</guid>
-            <pubDate>Mon, 27 Sep 2021 10:45:02 GMT</pubDate>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5459</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5459</guid>
+            <pubDate>Tue, 28 Sep 2021 10:44:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘더블 밀리언셀러’ NCT 127, 정규 3집 ‘Sticker’ 음반 차트 2주 연속 1위! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_615194fd57630.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6152f16ea6707.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
