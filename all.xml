@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 13:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 13:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -428,6 +428,24 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614031d287384.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=ZnDIJ-_Jbg4</link>
+            <guid>https://www.youtube.com/watch?v=ZnDIJ-_Jbg4</guid>
+            <pubDate>Tue, 28 Sep 2021 13:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZnDIJ-_Jbg4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sticker Q&A : Stick to it!💚 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=5yypL0M0GXY</link>
+            <guid>https://www.youtube.com/watch?v=5yypL0M0GXY</guid>
+            <pubDate>Tue, 28 Sep 2021 13:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5yypL0M0GXY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378661</link>
             <guid>https://now.smtown.com/news/detail/2378661</guid>
@@ -645,21 +663,6 @@ Lis...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378623</guid>
             <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
             <content:encoded><![CDATA['Metaverse girlgroup' aespa(SM)'s first mini al...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 JAEHYUN, Korea's first PRADA co... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378622</link>
-            <guid>https://now.smtown.com/news/detail/2378622</guid>
-            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 JAEHYUN (SM) broadcast a collection of ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=6CnZF8I6dt4</link>
-            <guid>https://www.youtube.com/watch?v=6CnZF8I6dt4</guid>
-            <pubDate>Sat, 25 Sep 2021 06:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6CnZF8I6dt4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NCT 127] 시즈니 마음에 착붙은 'Sticker' MV 촬영 현장 비하인드 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
