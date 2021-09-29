@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 10:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 11:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 도영, 뮤지컬 ‘마리 앙투아네트’ 금일 마지막 공연! 전석 매진+캐릭터 소화 호평]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5461</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5461</guid>
+            <pubDate>Wed, 29 Sep 2021 11:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 도영, 뮤지컬 ‘마리 앙투아네트’ 금일 마지막 공연! 전석 매진+캐릭터 소화 호평 </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5452</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151937f72cea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키이스트, 신예 황세온과 전속계약 체결!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5441</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5441</guid>
-            <pubDate>Fri, 24 Sep 2021 06:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">키이스트, 신예 황세온과 전속계약 체결!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d68b04ee2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
