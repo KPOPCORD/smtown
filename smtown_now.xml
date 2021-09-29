@@ -4,9 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 02:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 03:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEMARI & GGUNG Making Film l TAEMIN 태민]]></title>
+            <link>https://www.youtube.com/watch?v=0XypjSvtcZo</link>
+            <guid>https://www.youtube.com/watch?v=0XypjSvtcZo</guid>
+            <pubDate>Wed, 29 Sep 2021 03:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[Coming soon in September🐥
+조금만 더 기다리라꿍
+
+TAEMIN ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0XypjSvtcZo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '...]]></title>
             <link>https://www.youtube.com/watch?v=ZnDIJ-_Jbg4</link>
@@ -240,13 +251,6 @@ Lis...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378624</guid>
             <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
             <content:encoded><![CDATA[‘Double million seller’ NCT 127(SM) enters top ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Metaverse girlgroup’ aespa, first mini...]]></title>
-            <link>https://now.smtown.com/news/detail/2378623</link>
-            <guid>https://now.smtown.com/news/detail/2378623</guid>
-            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
-            <content:encoded><![CDATA['Metaverse girlgroup' aespa(SM)'s first mini al...]]></content:encoded>
         </item>
     </channel>
 </rss>
