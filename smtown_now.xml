@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 09:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 10:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378688</link>
+            <guid>https://now.smtown.com/news/detail/2378688</guid>
+            <pubDate>Wed, 29 Sep 2021 10:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378687</link>
+            <guid>https://now.smtown.com/news/detail/2378687</guid>
+            <pubDate>Wed, 29 Sep 2021 10:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378686</link>
+            <guid>https://now.smtown.com/news/detail/2378686</guid>
+            <pubDate>Wed, 29 Sep 2021 10:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DOYOUNG to put on his last show for ‘Ma...]]></title>
+            <link>https://now.smtown.com/news/detail/2378685</link>
+            <guid>https://now.smtown.com/news/detail/2378685</guid>
+            <pubDate>Wed, 29 Sep 2021 10:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 DOYOUNG (SM) will perform the last perf...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378684</link>
+            <guid>https://now.smtown.com/news/detail/2378684</guid>
+            <pubDate>Wed, 29 Sep 2021 10:45:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 127 the 3rd album ‘Sticker’ tops Ja...]]></title>
             <link>https://now.smtown.com/news/detail/2378661</link>
@@ -206,44 +233,6 @@ Lis...]]></content:encoded>
 #도르젠 #도르젠_브이로그
 #마리앙투아...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/_MCJnjXPprs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Beyond LIVE – KEY : ‘GROKS IN THE KEYL...]]></title>
-            <link>https://www.youtube.com/watch?v=JBR4pyHufOQ</link>
-            <guid>https://www.youtube.com/watch?v=JBR4pyHufOQ</guid>
-            <pubDate>Sat, 25 Sep 2021 10:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[Beyond LIVE – KEY : ‘GROKS IN THE KEYLAND’
-9/26...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JBR4pyHufOQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Double million seller' NCT 127 enters ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378624</link>
-            <guid>https://now.smtown.com/news/detail/2378624</guid>
-            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘Double million seller’ NCT 127(SM) enters top ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Metaverse girlgroup’ aespa, first mini...]]></title>
-            <link>https://now.smtown.com/news/detail/2378623</link>
-            <guid>https://now.smtown.com/news/detail/2378623</guid>
-            <pubDate>Wed, 29 Sep 2021 09:44:18 GMT</pubDate>
-            <content:encoded><![CDATA['Metaverse girlgroup' aespa(SM)'s first mini al...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 JAEHYUN, Korea's first PRADA co...]]></title>
-            <link>https://now.smtown.com/news/detail/2378622</link>
-            <guid>https://now.smtown.com/news/detail/2378622</guid>
-            <pubDate>Wed, 29 Sep 2021 09:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 JAEHYUN (SM) broadcast a collection of ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1]]></title>
-            <link>https://www.youtube.com/watch?v=6CnZF8I6dt4</link>
-            <guid>https://www.youtube.com/watch?v=6CnZF8I6dt4</guid>
-            <pubDate>Wed, 29 Sep 2021 09:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6CnZF8I6dt4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

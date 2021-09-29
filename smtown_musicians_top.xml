@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 09:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 10:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 日 오리콘 위클리 차트도 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5460</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5460</guid>
-            <pubDate>Tue, 28 Sep 2021 10:44:36 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 美 빌보드 차트 장악!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5464</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5464</guid>
+            <pubDate>Wed, 29 Sep 2021 10:44:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 日 오리콘 위클리 차트도 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6152f1db1bb46.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 美 빌보드 차트 장악!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543cf3671de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5459</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5459</guid>
-            <pubDate>Tue, 28 Sep 2021 10:44:36 GMT</pubDate>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’로 독보적 에너지 선사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5463</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5463</guid>
+            <pubDate>Wed, 29 Sep 2021 10:44:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6152f16ea6707.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’로 독보적 에너지 선사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543c6d58f8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
