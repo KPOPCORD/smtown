@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 06:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 07:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,23 @@
             <guid>https://now.smtown.com/news/detail/2378701</guid>
             <pubDate>Thu, 30 Sep 2021 03:45:37 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is celebrating the 10th annive...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '...]]></title>
+            <link>https://www.youtube.com/watch?v=--9_mDseAgk</link>
+            <guid>https://www.youtube.com/watch?v=--9_mDseAgk</guid>
+            <pubDate>Thu, 30 Sep 2021 07:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/--9_mDseAgk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['BAD LOVE' Jacket Photoshoot Behind | K...]]></title>
+            <link>https://www.youtube.com/watch?v=YFz8o4um6TA</link>
+            <guid>https://www.youtube.com/watch?v=YFz8o4um6TA</guid>
+            <pubDate>Thu, 30 Sep 2021 07:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YFz8o4um6TA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 the 3rd album ‘Sticker’ takes o...]]></title>
@@ -217,22 +234,6 @@ Lis...]]></content:encoded>
             <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
             <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/WYIHavdhWLo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NIN...]]></title>
-            <link>https://www.youtube.com/watch?v=tJzax9ljOqo</link>
-            <guid>https://www.youtube.com/watch?v=tJzax9ljOqo</guid>
-            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/tJzax9ljOqo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KAR...]]></title>
-            <link>https://www.youtube.com/watch?v=mNrIEYkWCEE</link>
-            <guid>https://www.youtube.com/watch?v=mNrIEYkWCEE</guid>
-            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/mNrIEYkWCEE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
