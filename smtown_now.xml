@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 03:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 04:55:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378705</link>
+            <guid>https://now.smtown.com/news/detail/2378705</guid>
+            <pubDate>Thu, 30 Sep 2021 04:54:30 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378703</link>
             <guid>https://now.smtown.com/news/detail/2378703</guid>
@@ -220,13 +225,6 @@ Lis...]]></content:encoded>
             <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
             <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/mNrIEYkWCEE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHINee KEY solo concert, ‘Beyond LIVE’ ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378625</link>
-            <guid>https://now.smtown.com/news/detail/2378625</guid>
-            <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY (SM) will hold her solo concert on ‘...]]></content:encoded>
         </item>
     </channel>
 </rss>
