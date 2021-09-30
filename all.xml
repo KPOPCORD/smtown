@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 10:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 11:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614032fa46ec8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[REPLAY] KEY's 'BAD LOVE' ODYSSEY | Cou... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=OK2KWuvjZ9s</link>
+            <guid>https://www.youtube.com/watch?v=OK2KWuvjZ9s</guid>
+            <pubDate>Thu, 30 Sep 2021 11:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OK2KWuvjZ9s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ESteem Academy Opens Influencer Class f... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378705</link>
             <guid>https://now.smtown.com/news/detail/2378705</guid>
@@ -789,14 +797,6 @@ Lis...]]></content:encoded>
             <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
             <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/tgXkJpBtfO8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GIS... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=WYIHavdhWLo</link>
-            <guid>https://www.youtube.com/watch?v=WYIHavdhWLo</guid>
-            <pubDate>Sun, 26 Sep 2021 15:48:15 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st Mini Album "Savage" will be release...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WYIHavdhWLo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
