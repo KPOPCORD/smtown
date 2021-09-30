@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 02:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 03:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378703</link>
+            <guid>https://now.smtown.com/news/detail/2378703</guid>
+            <pubDate>Thu, 30 Sep 2021 03:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378702</link>
+            <guid>https://now.smtown.com/news/detail/2378702</guid>
+            <pubDate>Thu, 30 Sep 2021 03:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378701</link>
+            <guid>https://now.smtown.com/news/detail/2378701</guid>
+            <pubDate>Thu, 30 Sep 2021 03:45:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 127 the 3rd album ‘Sticker’ takes o...]]></title>
             <link>https://now.smtown.com/news/detail/2378688</link>
@@ -212,35 +227,6 @@ Lis...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378625</guid>
             <pubDate>Mon, 27 Sep 2021 09:44:01 GMT</pubDate>
             <content:encoded><![CDATA[SHINee KEY (SM) will hold her solo concert on ‘...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[37.5MHz 해찬 라디오 HAECHAN Radio | Ep.7 우리 ...]]></title>
-            <link>https://www.youtube.com/watch?v=7RXM-Qv1t5g</link>
-            <guid>https://www.youtube.com/watch?v=7RXM-Qv1t5g</guid>
-            <pubDate>Sun, 26 Sep 2021 10:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[Part3 [우리 다시 만나는 날]: #NCT127
-
-#HAECHAN_Radio #해...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7RXM-Qv1t5g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
-            <link>https://www.youtube.com/watch?v=TUDClqFK96Y</link>
-            <guid>https://www.youtube.com/watch?v=TUDClqFK96Y</guid>
-            <pubDate>Sat, 25 Sep 2021 15:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[KEY's The 1st Mini Album "BAD LOVE" will be rel...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TUDClqFK96Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[⚜️오늘은 ‘마리 앙투아네트’ 공연이 있는 날이에요⚜️｜DOYOUNG ...]]></title>
-            <link>https://www.youtube.com/watch?v=_MCJnjXPprs</link>
-            <guid>https://www.youtube.com/watch?v=_MCJnjXPprs</guid>
-            <pubDate>Sat, 25 Sep 2021 13:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[#NCT #NCT127
-#DOYOUNG #도영
-#도르젠 #도르젠_브이로그
-#마리앙투아...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/_MCJnjXPprs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
