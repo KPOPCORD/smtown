@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 11:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 13:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['나 혼자 산다' 무지개 회원🌈 ReactionㅣKEY 'BAD LO... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=d9-pp6cxGn4</link>
+            <guid>https://www.youtube.com/watch?v=d9-pp6cxGn4</guid>
+            <pubDate>Fri, 01 Oct 2021 13:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/d9-pp6cxGn4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 WORLD PREMIERE STICKER Behind T... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=FgI6Zu9eamM</link>
             <guid>https://www.youtube.com/watch?v=FgI6Zu9eamM</guid>
@@ -789,13 +797,6 @@ htt...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378630</guid>
             <pubDate>Fri, 01 Oct 2021 11:40:58 GMT</pubDate>
             <content:encoded><![CDATA[SHINee KEY (SM) is making a comeback with new s...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa to bring the ‘Savage’ syndrome th... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378629</link>
-            <guid>https://now.smtown.com/news/detail/2378629</guid>
-            <pubDate>Fri, 01 Oct 2021 11:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[aespa (SM) continues the next story of a unique...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
