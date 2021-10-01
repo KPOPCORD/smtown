@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 독일, 호주 공식 음악 차트도 TOP20 진입! 강력한 ‘글로벌 돌풍’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5467</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5467</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 글로벌 차트에서 강력한 인기 돌풍을 일으키고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d947a019.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 역대급 활동 예고! 동해, 은혁 솔로→D&E 정규 앨범 발매!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5465</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6152f0ac6043c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘더블 밀리언셀러’ NCT 127, 정규 3집 ‘Sticker’ 음반 차트 2주 연속 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5455</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5455</guid>
-            <pubDate>Tue, 28 Sep 2021 10:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘더블 밀리언셀러’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 인기 질주를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_615194fd57630.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[첫 미니앨범 ‘Savage’, 에스파만의 영&파워풀 매력 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5466</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5466</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 파워풀한 매력을 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d2bb3086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 美 빌보드 차트 장악!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 10:44:48 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 미국 ‘빌보드 200’ 3위에 오르며 올해 K팝 앨범 중 최고 순위를 기록했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_615195dfd5a30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘레트로 킹’이 온다! 샤이니 키, 첫 미니앨범 ‘BAD LOVE’ 오늘 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5454</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5454</guid>
-            <pubDate>Mon, 27 Sep 2021 10:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)가 오늘(27일) 새 솔로 앨범 ‘BAD LOVE’(배드 러브)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151944f66675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

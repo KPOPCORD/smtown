@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 독일, 호주 공식 음악 차트도 TOP20 진입! 강력한 ‘글로벌 돌풍’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5467</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5467</guid>
-            <pubDate>Thu, 30 Sep 2021 03:44:48 GMT</pubDate>
+            <title><![CDATA[‘더블 밀리언셀러’ NCT 127, 정규 3집 ‘Sticker’ 유나이티드 월드 차트도 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5471</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5471</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 독일, 호주 공식 음악 차트도 TOP20 진입! 강력한 ‘글로벌 돌풍’</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d947a019.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘더블 밀리언셀러’ NCT 127, 정규 3집 ‘Sticker’ 유나이티드 월드 차트도 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bf0387146.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[첫 미니앨범 ‘Savage’, 에스파만의 영&파워풀 매력 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5466</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5466</guid>
-            <pubDate>Thu, 30 Sep 2021 03:44:48 GMT</pubDate>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5470</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5470</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">첫 미니앨범 ‘Savage’, 에스파만의 영&amp;파워풀 매력 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d2bb3086.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156be86e7b0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

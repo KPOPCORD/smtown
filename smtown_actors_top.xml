@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 도영, 뮤지컬 ‘마리 앙투아네트’ 금일 마지막 공연! 전석 매진+캐릭터 소화 호평]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5461</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5461</guid>
-            <pubDate>Wed, 29 Sep 2021 11:40:54 GMT</pubDate>
+            <title><![CDATA[‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5469</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5469</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 도영, 뮤지컬 ‘마리 앙투아네트’ 금일 마지막 공연! 전석 매진+캐릭터 소화 호평 </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bdfc8829e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5452</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5452</guid>
-            <pubDate>Mon, 27 Sep 2021 10:45:29 GMT</pubDate>
+            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5468</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151937f72cea.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길'</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
