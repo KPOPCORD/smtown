@@ -4,9 +4,28 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 13:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 13:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[✳︎ OOTW ✳︎ Outfits Of Taro’s Week｜#SHOT...]]></title>
+            <link>https://www.youtube.com/watch?v=SB6zIBXWnhc</link>
+            <guid>https://www.youtube.com/watch?v=SB6zIBXWnhc</guid>
+            <pubDate>Sat, 02 Oct 2021 13:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[#SHOTARO #쇼타로 #NCT
+#Outfits_Of_Taros_Week
+#위클리룩...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/SB6zIBXWnhc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '...]]></title>
+            <link>https://www.youtube.com/watch?v=0VM4qMYhF3s</link>
+            <guid>https://www.youtube.com/watch?v=0VM4qMYhF3s</guid>
+            <pubDate>Sat, 02 Oct 2021 13:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0VM4qMYhF3s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] 💻XIAOJUN’s Challenge Assemb...]]></title>
             <link>https://www.youtube.com/watch?v=5pWNNCO3F2Q</link>
@@ -221,24 +240,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ivhuAKF-WSU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리랑 잘 어울리지 않아요?💚✨ | FCMM Behind]]></title>
-            <link>https://www.youtube.com/watch?v=mhl9CVohy-s</link>
-            <guid>https://www.youtube.com/watch?v=mhl9CVohy-s</guid>
-            <pubDate>Sat, 02 Oct 2021 04:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[#NCTDREAM #FCMM #Behind
-
-NCT DREAM Official
-htt...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/mhl9CVohy-s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 The 3rd Album ‘Sticker’ records...]]></title>
-            <link>https://now.smtown.com/news/detail/2378632</link>
-            <guid>https://now.smtown.com/news/detail/2378632</guid>
-            <pubDate>Sat, 02 Oct 2021 04:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) records 3rd place on the US Billbo...]]></content:encoded>
         </item>
     </channel>
 </rss>
