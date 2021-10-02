@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 08:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 09:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WayV-log] 💻XIAOJUN’s Challenge Assemb... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=5pWNNCO3F2Q</link>
+            <guid>https://www.youtube.com/watch?v=5pWNNCO3F2Q</guid>
+            <pubDate>Sat, 02 Oct 2021 09:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5pWNNCO3F2Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=M3u5U2lFuQo</link>
             <guid>https://www.youtube.com/watch?v=M3u5U2lFuQo</guid>
@@ -792,13 +802,6 @@ htt...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378632</guid>
             <pubDate>Sat, 02 Oct 2021 04:53:26 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) records 3rd place on the US Billbo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Double million seller’ NCT 127’s 3rd a... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378631</link>
-            <guid>https://now.smtown.com/news/detail/2378631</guid>
-            <pubDate>Sat, 02 Oct 2021 04:53:26 GMT</pubDate>
-            <content:encoded><![CDATA['Double million seller' NCT 127 (SM) is continu...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
