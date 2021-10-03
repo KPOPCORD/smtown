@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 11:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 13:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -428,6 +428,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[놀라운 토요일(Amazing Saturday) ReactionㅣKEY ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=-hdmCbJ8ALU</link>
+            <guid>https://www.youtube.com/watch?v=-hdmCbJ8ALU</guid>
+            <pubDate>Sun, 03 Oct 2021 13:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-hdmCbJ8ALU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[✳︎ OOTW ✳︎ Outfits Of Taro’s Week｜#SHOT... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=SB6zIBXWnhc</link>
             <guid>https://www.youtube.com/watch?v=SB6zIBXWnhc</guid>
@@ -651,15 +659,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/6NFvh88xkLQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ivhuAKF-WSU</link>
-            <guid>https://www.youtube.com/watch?v=ivhuAKF-WSU</guid>
-            <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ivhuAKF-WSU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
