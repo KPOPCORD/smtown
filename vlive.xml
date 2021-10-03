@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 14:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 15:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-25764072</link>
+            <guid>https://vlive.tv/post/0-25764072</guid>
+            <pubDate>Sun, 03 Oct 2021 15:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211003_133/1633270076152Scf6E_JPEG/1633265434575.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Dance Practice]]></title>
             <link>https://vlive.tv/post/0-25658122</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25658282</guid>
             <pubDate>Sun, 03 Oct 2021 11:39:38 GMT</pubDate>
             <content:encoded><![CDATA[9.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210927_267/1632718396172d6z2y_JPEG/upload_76798080175987742083d9a0f-b373-4116-9a2b-39dec0cb7767.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-25430969</guid>
             <pubDate>Sun, 03 Oct 2021 11:39:37 GMT</pubDate>
             <content:encoded><![CDATA[9.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV]]></title>
-            <link>https://vlive.tv/post/0-25403564</link>
-            <guid>https://vlive.tv/post/0-25403564</guid>
-            <pubDate>Sun, 03 Oct 2021 11:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9.14.]]></content:encoded>
         </item>
     </channel>
 </rss>

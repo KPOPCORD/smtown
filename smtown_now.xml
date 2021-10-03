@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 14:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 15:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=1wXiJ01Tce0</link>
+            <guid>https://www.youtube.com/watch?v=1wXiJ01Tce0</guid>
+            <pubDate>Sun, 03 Oct 2021 15:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1wXiJ01Tce0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[놀라운 토요일(Amazing Saturday) ReactionㅣKEY ...]]></title>
             <link>https://www.youtube.com/watch?v=-hdmCbJ8ALU</link>
@@ -230,15 +238,6 @@ Listen an...]]></content:encoded>
             <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
             <content:encoded><![CDATA[JAKOMO x LISTEN | 정인 - 오르막길 LIVE CLIP (@MYSTIC ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/mMTKMuBXbII/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Dance Practi...]]></title>
-            <link>https://www.youtube.com/watch?v=6NFvh88xkLQ</link>
-            <guid>https://www.youtube.com/watch?v=6NFvh88xkLQ</guid>
-            <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6NFvh88xkLQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
