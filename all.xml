@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 13:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 13:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-9] SUPER JUNIOR-D&E The 10th Anniver... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=efn7aM5vOnc</link>
+            <guid>https://www.youtube.com/watch?v=efn7aM5vOnc</guid>
+            <pubDate>Mon, 04 Oct 2021 13:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/efn7aM5vOnc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' MV Teaser (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=1wXiJ01Tce0</link>
             <guid>https://www.youtube.com/watch?v=1wXiJ01Tce0</guid>
@@ -793,14 +802,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378658</guid>
             <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
             <content:encoded><![CDATA[SHINee KEY (SM) topped the charts at the same t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정인 - 오르막길 LIVE CLIP (@MYSTIC CONNECT) (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=mMTKMuBXbII</link>
-            <guid>https://www.youtube.com/watch?v=mMTKMuBXbII</guid>
-            <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[JAKOMO x LISTEN | 정인 - 오르막길 LIVE CLIP (@MYSTIC ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/mMTKMuBXbII/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 
