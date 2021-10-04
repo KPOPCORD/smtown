@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 13:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 14:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25764072</link>
             <guid>https://vlive.tv/post/0-25764072</guid>
             <pubDate>Mon, 04 Oct 2021 11:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211003_133/1633270076152Scf6E_JPEG/1633265434575.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#검은태양] 세상 유쾌한 서수연의 반전 찐텐 모음! #키동캠 #박하선... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=6HV8iq3Lbfc</link>
+            <guid>https://www.youtube.com/watch?v=6HV8iq3Lbfc</guid>
+            <pubDate>Mon, 04 Oct 2021 14:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[A collection of real tensions of the delightful...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6HV8iq3Lbfc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-9] SUPER JUNIOR-D&E The 10th Anniver... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=efn7aM5vOnc</link>
             <guid>https://www.youtube.com/watch?v=efn7aM5vOnc</guid>
@@ -795,13 +803,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378659</guid>
             <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation HYOYEON(SM) to become a live ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Almighty’ KEY’s 1st mini album tops th... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378658</link>
-            <guid>https://now.smtown.com/news/detail/2378658</guid>
-            <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY (SM) topped the charts at the same t...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[키] ‘BAD LOVE’ MV 촬영 현장 

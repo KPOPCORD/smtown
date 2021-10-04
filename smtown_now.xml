@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 13:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 14:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#검은태양] 세상 유쾌한 서수연의 반전 찐텐 모음! #키동캠 #박하선...]]></title>
+            <link>https://www.youtube.com/watch?v=6HV8iq3Lbfc</link>
+            <guid>https://www.youtube.com/watch?v=6HV8iq3Lbfc</guid>
+            <pubDate>Mon, 04 Oct 2021 14:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[A collection of real tensions of the delightful...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6HV8iq3Lbfc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-9] SUPER JUNIOR-D&E The 10th Anniver...]]></title>
             <link>https://www.youtube.com/watch?v=efn7aM5vOnc</link>
@@ -232,13 +240,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378659</guid>
             <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation HYOYEON(SM) to become a live ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Almighty’ KEY’s 1st mini album tops th...]]></title>
-            <link>https://now.smtown.com/news/detail/2378658</link>
-            <guid>https://now.smtown.com/news/detail/2378658</guid>
-            <pubDate>Sun, 03 Oct 2021 06:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY (SM) topped the charts at the same t...]]></content:encoded>
         </item>
     </channel>
 </rss>
