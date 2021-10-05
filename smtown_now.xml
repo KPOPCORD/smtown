@@ -1,8 +1,247 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-10-05T09:44:46.681Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Oct 2021 10:46:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : Day1]]></title>
+            <link>https://www.youtube.com/watch?v=6wNgwOB6PK0</link>
+            <guid>https://www.youtube.com/watch?v=6wNgwOB6PK0</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6wNgwOB6PK0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' MV]]></title>
+            <link>https://www.youtube.com/watch?v=WPdWvnAAurg</link>
+            <guid>https://www.youtube.com/watch?v=WPdWvnAAurg</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WPdWvnAAurg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Comeback D-day' aespa's 1st mini album...]]></title>
+            <link>https://now.smtown.com/news/detail/2378796</link>
+            <guid>https://now.smtown.com/news/detail/2378796</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa(SM)’s first mini a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEIL of NCT & rapper Lil Boi to featur...]]></title>
+            <link>https://now.smtown.com/news/detail/2378795</link>
+            <guid>https://now.smtown.com/news/detail/2378795</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM), NCT TAEIL, and rapper lI...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E, ‘Special Medley’ vide...]]></title>
+            <link>https://now.smtown.com/news/detail/2378794</link>
+            <guid>https://now.smtown.com/news/detail/2378794</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[Ahead of their comeback, SUPER JUNIOR-D&amp;E is re...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-9] SUPER JUNIOR-D&E The 10th Anniver...]]></title>
+            <link>https://www.youtube.com/watch?v=tNjOt08J_g0</link>
+            <guid>https://www.youtube.com/watch?v=tNjOt08J_g0</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tNjOt08J_g0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#검은태양] 세상 유쾌한 서수연의 반전 찐텐 모음! #키동캠 #박하선...]]></title>
+            <link>https://www.youtube.com/watch?v=6HV8iq3Lbfc</link>
+            <guid>https://www.youtube.com/watch?v=6HV8iq3Lbfc</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[A collection of real tensions of the delightful...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6HV8iq3Lbfc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Comeback D-1’ aespa’s first mini album...]]></title>
+            <link>https://now.smtown.com/news/detail/2378793</link>
+            <guid>https://now.smtown.com/news/detail/2378793</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA['SM Metaverse girl group' aespa (SM) has releas...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DJ Raiden, first mini album ‘Love Right...]]></title>
+            <link>https://now.smtown.com/news/detail/2378792</link>
+            <guid>https://now.smtown.com/news/detail/2378792</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SM's DJ artist Raiden will release his first mi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘대탈출4’ SHINDONG, ending impression “Alw...]]></title>
+            <link>https://now.smtown.com/news/detail/2378791</link>
+            <guid>https://now.smtown.com/news/detail/2378791</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[While '대탈출4' finished its last special broadcas...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=1wXiJ01Tce0</link>
+            <guid>https://www.youtube.com/watch?v=1wXiJ01Tce0</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1wXiJ01Tce0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀라운 토요일(Amazing Saturday) ReactionㅣKEY ...]]></title>
+            <link>https://www.youtube.com/watch?v=-hdmCbJ8ALU</link>
+            <guid>https://www.youtube.com/watch?v=-hdmCbJ8ALU</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-hdmCbJ8ALU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR, ‘Three Crowns’ at ‘2021 T...]]></title>
+            <link>https://now.smtown.com/news/detail/2378790</link>
+            <guid>https://now.smtown.com/news/detail/2378790</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR achieved 3 Crowns at the '2021 The...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[✳︎ OOTW ✳︎ Outfits Of Taro’s Week｜#SHOT...]]></title>
+            <link>https://www.youtube.com/watch?v=SB6zIBXWnhc</link>
+            <guid>https://www.youtube.com/watch?v=SB6zIBXWnhc</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[#SHOTARO #쇼타로 #NCT
+#Outfits_Of_Taros_Week
+#위클리룩...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/SB6zIBXWnhc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '...]]></title>
+            <link>https://www.youtube.com/watch?v=0VM4qMYhF3s</link>
+            <guid>https://www.youtube.com/watch?v=0VM4qMYhF3s</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0VM4qMYhF3s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-log] 💻XIAOJUN’s Challenge Assemb...]]></title>
+            <link>https://www.youtube.com/watch?v=5pWNNCO3F2Q</link>
+            <guid>https://www.youtube.com/watch?v=5pWNNCO3F2Q</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5pWNNCO3F2Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Comeback’ aespa, ae-aespa and group te...]]></title>
+            <link>https://now.smtown.com/news/detail/2378789</link>
+            <guid>https://now.smtown.com/news/detail/2378789</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) has released ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“A must-have chemistry for a day, in on...]]></title>
+            <link>https://now.smtown.com/news/detail/2378788</link>
+            <guid>https://now.smtown.com/news/detail/2378788</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's delightful CF parody video i...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '...]]></title>
+            <link>https://www.youtube.com/watch?v=M3u5U2lFuQo</link>
+            <guid>https://www.youtube.com/watch?v=M3u5U2lFuQo</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/M3u5U2lFuQo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나 혼자 산다' 무지개 회원🌈 ReactionㅣKEY 'BAD LO...]]></title>
+            <link>https://www.youtube.com/watch?v=d9-pp6cxGn4</link>
+            <guid>https://www.youtube.com/watch?v=d9-pp6cxGn4</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/d9-pp6cxGn4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 WORLD PREMIERE STICKER Behind T...]]></title>
+            <link>https://www.youtube.com/watch?v=FgI6Zu9eamM</link>
+            <guid>https://www.youtube.com/watch?v=FgI6Zu9eamM</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FgI6Zu9eamM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Double million seller’ NCT 127’s 3rd a...]]></title>
+            <link>https://now.smtown.com/news/detail/2378739</link>
+            <guid>https://now.smtown.com/news/detail/2378739</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA['Double million seller' NCT 127 (SM) continues ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini...]]></title>
+            <link>https://now.smtown.com/news/detail/2378738</link>
+            <guid>https://now.smtown.com/news/detail/2378738</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) presents a de...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘낫아웃’ SONG YI JAE, first starring role ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378737</link>
+            <guid>https://now.smtown.com/news/detail/2378737</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[Newcomer SONG YI JAE, who appeared like a comet...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jo Woo Ri reveals a beautiful pictorial]]></title>
+            <link>https://now.smtown.com/news/detail/2378735</link>
+            <guid>https://now.smtown.com/news/detail/2378735</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Jo Woo Ri showed off his clear visuals.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '...]]></title>
+            <link>https://www.youtube.com/watch?v=_K8UIWGN_rM</link>
+            <guid>https://www.youtube.com/watch?v=_K8UIWGN_rM</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/_K8UIWGN_rM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] KEY's 'BAD LOVE' ODYSSEY | Cou...]]></title>
+            <link>https://www.youtube.com/watch?v=OK2KWuvjZ9s</link>
+            <guid>https://www.youtube.com/watch?v=OK2KWuvjZ9s</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OK2KWuvjZ9s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ESteem Academy Opens Influencer Class f...]]></title>
+            <link>https://now.smtown.com/news/detail/2378705</link>
+            <guid>https://now.smtown.com/news/detail/2378705</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[EStudio, an artist training institution operate...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 The 3rd Album ‘Sticker’ makes i...]]></title>
+            <link>https://now.smtown.com/news/detail/2378703</link>
+            <guid>https://now.smtown.com/news/detail/2378703</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) is creating a strong hit on the gl...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa to show their young & powerful en...]]></title>
+            <link>https://now.smtown.com/news/detail/2378702</link>
+            <guid>https://now.smtown.com/news/detail/2378702</guid>
+            <pubDate>Tue, 05 Oct 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa(SM) to show their ...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
