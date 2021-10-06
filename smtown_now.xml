@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 04:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378822</link>
+            <guid>https://now.smtown.com/news/detail/2378822</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378821</link>
+            <guid>https://now.smtown.com/news/detail/2378821</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378820</link>
+            <guid>https://now.smtown.com/news/detail/2378820</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378819</link>
+            <guid>https://now.smtown.com/news/detail/2378819</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[#경찰수업] 훈훈함 가득한 경찰대학교 선배 만난 썰👮🏻‍♀️✨#김...]]></title>
             <link>https://www.youtube.com/watch?v=Em4QIkrI_mQ</link>
@@ -220,34 +240,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FgI6Zu9eamM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Double million seller’ NCT 127’s 3rd a...]]></title>
-            <link>https://now.smtown.com/news/detail/2378739</link>
-            <guid>https://now.smtown.com/news/detail/2378739</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA['Double million seller' NCT 127 (SM) continues ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini...]]></title>
-            <link>https://now.smtown.com/news/detail/2378738</link>
-            <guid>https://now.smtown.com/news/detail/2378738</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) presents a de...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘낫아웃’ SONG YI JAE, first starring role ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378737</link>
-            <guid>https://now.smtown.com/news/detail/2378737</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Newcomer SONG YI JAE, who appeared like a comet...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jo Woo Ri reveals a beautiful pictorial]]></title>
-            <link>https://now.smtown.com/news/detail/2378735</link>
-            <guid>https://now.smtown.com/news/detail/2378735</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Jo Woo Ri showed off his clear visuals.]]></content:encoded>
         </item>
     </channel>
 </rss>

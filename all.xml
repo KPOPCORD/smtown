@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 04:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25802464</link>
             <guid>https://vlive.tv/post/1-25802464</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_96/1633438812364IYt8P_JPEG/1633437907015.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25802046</link>
             <guid>https://vlive.tv/post/1-25802046</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_289/16334371093907gfTt_JPEG/1633435613359.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://vlive.tv/post/1-25797989</link>
             <guid>https://vlive.tv/post/1-25797989</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_27/1633421099029mmkgL_JPEG/1633419837363.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5483</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5483</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d365cbc558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5480</link>
             <guid>https://www.smtown.com/artist/newsDetail/5480</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5479</link>
             <guid>https://www.smtown.com/artist/newsDetail/5479</guid>
             <pubDate>Tue, 05 Oct 2021 03:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">레이든 신곡 ‘Love Right Back’ NCT 태일, 래퍼 릴보이 피처링! 감성 시너지 예고!</span>]]></content:encoded>
+            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)과 NCT 태일, 래퍼 릴보이 (lIlBOI)가 신곡 ‘Love Right Back’(러브 라이트 백)으로 호흡을 맞췄다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc243a0856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘컴백 D-1’ 에스파 첫 미니앨범 ‘Savage’ MV 티저 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5477</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5477</guid>
+            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘SM 메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지) 뮤직비디오 티저 영상을 공개해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc1961a6ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, ‘2021 TMA’서 ‘3관왕’ 등극! 여전히 뜨겁다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5474</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5474</guid>
+            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 ‘2021 더팩트 뮤직 어워즈’(이하 ‘2021 TMA’)서 3관왕을 달성했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbef5eb268.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“하루 필수 케미, D&E 앨범 한 장에!” 슈퍼주니어-D&E, 유쾌한 CF 패러디 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5472</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5472</guid>
+            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 유쾌한 CF 패러디 영상이 화제를 얻고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbdd179094.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5470</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5470</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 짙은 감성을 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156be86e7b0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 10년 史 담은 ‘스페셜 메들리’ 영상 오늘 밤 10시 공개! 히트곡만 모았다! (SMTOWN ─ Musicians News)]]></title>
@@ -433,62 +473,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d947a019.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘컴백 D-1’ 에스파 첫 미니앨범 ‘Savage’ MV 티저 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5477</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5477</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘SM 메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지) 뮤직비디오 티저 영상을 공개해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc1961a6ba.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5482</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5482</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, ‘2021 TMA’서 ‘3관왕’ 등극! 여전히 뜨겁다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5474</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5474</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 ‘2021 더팩트 뮤직 어워즈’(이하 ‘2021 TMA’)서 3관왕을 달성했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbef5eb268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“하루 필수 케미, D&E 앨범 한 장에!” 슈퍼주니어-D&E, 유쾌한 CF 패러디 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5472</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5472</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 유쾌한 CF 패러디 영상이 화제를 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbdd179094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5470</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5470</guid>
-            <pubDate>Fri, 01 Oct 2021 08:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 짙은 감성을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156be86e7b0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 미니앨범 ‘Savage’, 에스파만의 영&파워풀 매력 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5466</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5466</guid>
-            <pubDate>Thu, 30 Sep 2021 03:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 파워풀한 매력을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d2bb3086.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5481</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5481</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d35c568f9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5469</link>
             <guid>https://www.smtown.com/artist/newsDetail/5469</guid>
             <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘낫아웃’으로 충무로에 혜성처럼 나타난 신예 송이재가 영화 ‘더씬’의 주인공으로 캐스팅됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bdfc8829e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길' (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5468</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
-            <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길'</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 도영, 뮤지컬 ‘마리 앙투아네트’ 금일 마지막 공연! 전석 매진+캐릭터 소화 호평 (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c232b98df7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5424</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5424</guid>
-            <pubDate>Fri, 17 Sep 2021 07:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)의 ‘웹툰 실사화’ 비주얼이 드디어 베일을 벗는다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443b7332381.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길' (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5468</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
+            <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조우리가 보기만 해도 절로 개안되는 맑은 비주얼을 과시했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류! (SMTOWN ─ Actors News)]]></title>
@@ -563,12 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5419</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
-            <pubDate>Thu, 16 Sep 2021 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 '영화의 거리'를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378822</link>
+            <guid>https://now.smtown.com/news/detail/2378822</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378821</link>
+            <guid>https://now.smtown.com/news/detail/2378821</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378820</link>
+            <guid>https://now.smtown.com/news/detail/2378820</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378819</link>
+            <guid>https://now.smtown.com/news/detail/2378819</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[#경찰수업] 훈훈함 가득한 경찰대학교 선배 만난 썰👮🏻‍♀️✨#김... (SMTOWN ─ NOW)]]></title>
@@ -783,34 +807,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FgI6Zu9eamM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Double million seller’ NCT 127’s 3rd a... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378739</link>
-            <guid>https://now.smtown.com/news/detail/2378739</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA['Double million seller' NCT 127 (SM) continues ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378738</link>
-            <guid>https://now.smtown.com/news/detail/2378738</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) presents a de...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘낫아웃’ SONG YI JAE, first starring role ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378737</link>
-            <guid>https://now.smtown.com/news/detail/2378737</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Newcomer SONG YI JAE, who appeared like a comet...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jo Woo Ri reveals a beautiful pictorial (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378735</link>
-            <guid>https://now.smtown.com/news/detail/2378735</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Jo Woo Ri showed off his clear visuals.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

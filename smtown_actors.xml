@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 04:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5469</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5469</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘낫아웃’으로 충무로에 혜성처럼 나타난 신예 송이재가 영화 ‘더씬’의 주인공으로 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bdfc8829e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 도영, 뮤지컬 ‘마리 앙투아네트’ 금일 마지막 공연! 전석 매진+캐릭터 소화 호평]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5461</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c232b98df7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘(17일) 첫 방송 ‘유미의 세포들’ 최민호, ‘웹툰 실사화 비주얼’ 담은 스틸 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5424</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5424</guid>
-            <pubDate>Thu, 23 Sep 2021 06:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)의 ‘웹툰 실사화’ 비주얼이 드디어 베일을 벗는다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443b7332381.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5468</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조우리가 보기만 해도 절로 개안되는 맑은 비주얼을 과시했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Sep 2021 06:51:08 GMT</pubDate>
             <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아시아 최대 글로벌 비즈니스 포럼 ‘2021 세계지식포럼’에 연사로 참석했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영화의 거리' 한선화, 브라운관 넘어 성공적 스크린 주연 데뷔]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5419</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5419</guid>
-            <pubDate>Fri, 17 Sep 2021 07:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 '영화의 거리'를 통해 풋풋하면서도 당차고 쾌활한 매력으로 관객들을 매료시킬 예정이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6142cdb4d8ba6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

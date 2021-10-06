@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 04:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5469</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5469</guid>
-            <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
+            <title><![CDATA[임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5482</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5482</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘낫아웃’ 송이재, 영화 ‘더씬’으로 스크린 첫 주연 도전</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bdfc8829e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5468</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
-            <pubDate>Fri, 01 Oct 2021 08:45:59 GMT</pubDate>
+            <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5481</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5481</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길'</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d35c568f9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

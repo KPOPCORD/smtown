@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 04:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5483</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5483</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d365cbc558.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5480</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc29f5b535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이든 신곡 ‘Love Right Back’ NCT 태일, 래퍼 릴보이 피처링! 감성 시너지 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5479</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5479</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">레이든 신곡 ‘Love Right Back’ NCT 태일, 래퍼 릴보이 피처링! 감성 시너지 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc243a0856.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
