@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 09:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 10:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25802464</link>
             <guid>https://vlive.tv/post/1-25802464</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_96/1633438812364IYt8P_JPEG/1633437907015.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25802046</link>
             <guid>https://vlive.tv/post/1-25802046</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_289/16334371093907gfTt_JPEG/1633435613359.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,24 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🤟🏻aespa 'Savage' MV Reaction🤟🏻 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=LIkcrAhjDGo</link>
+            <guid>https://www.youtube.com/watch?v=LIkcrAhjDGo</guid>
+            <pubDate>Wed, 06 Oct 2021 10:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LIkcrAhjDGo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 아름다운 사실 (부활) (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=-5CM_sb6K1U</link>
+            <guid>https://www.youtube.com/watch?v=-5CM_sb6K1U</guid>
+            <pubDate>Wed, 06 Oct 2021 10:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #아름다운사실 #부활
+
+MAX CHAN...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-5CM_sb6K1U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 The 3rd Album 'Sticker', enteri... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378823</link>
             <guid>https://now.smtown.com/news/detail/2378823</guid>
@@ -799,25 +817,6 @@ Listen ...]]></content:encoded>
 #Outfits_Of_Taros_Week
 #위클리룩...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/SB6zIBXWnhc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=0VM4qMYhF3s</link>
-            <guid>https://www.youtube.com/watch?v=0VM4qMYhF3s</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0VM4qMYhF3s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 💻XIAOJUN’s Challenge Assemb... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5pWNNCO3F2Q</link>
-            <guid>https://www.youtube.com/watch?v=5pWNNCO3F2Q</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5pWNNCO3F2Q/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
