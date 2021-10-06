@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 13:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 14:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름다운건 늘 짜릿해, #문가영 화보 비하인드 #키동캠 ｜문가영]]></title>
+            <link>https://www.youtube.com/watch?v=AemSpdA5I8Y</link>
+            <guid>https://www.youtube.com/watch?v=AemSpdA5I8Y</guid>
+            <pubDate>Wed, 06 Oct 2021 14:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Beautiful things are always thrilling Behind-th...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AemSpdA5I8Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniver...]]></title>
+            <link>https://www.youtube.com/watch?v=jbOBW6mVSmI</link>
+            <guid>https://www.youtube.com/watch?v=jbOBW6mVSmI</guid>
+            <pubDate>Wed, 06 Oct 2021 14:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jbOBW6mVSmI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' Performance Video]]></title>
             <link>https://www.youtube.com/watch?v=1kov89n-_sw</link>
@@ -237,21 +254,6 @@ Listen ...]]></content:encoded>
             <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" will be release...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1wXiJ01Tce0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀라운 토요일(Amazing Saturday) ReactionㅣKEY ...]]></title>
-            <link>https://www.youtube.com/watch?v=-hdmCbJ8ALU</link>
-            <guid>https://www.youtube.com/watch?v=-hdmCbJ8ALU</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-hdmCbJ8ALU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR, ‘Three Crowns’ at ‘2021 T...]]></title>
-            <link>https://now.smtown.com/news/detail/2378790</link>
-            <guid>https://now.smtown.com/news/detail/2378790</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR achieved 3 Crowns at the '2021 The...]]></content:encoded>
         </item>
     </channel>
 </rss>
