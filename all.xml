@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 06:52:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25802464</link>
             <guid>https://vlive.tv/post/1-25802464</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_96/1633438812364IYt8P_JPEG/1633437907015.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25802046</link>
             <guid>https://vlive.tv/post/1-25802046</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_289/16334371093907gfTt_JPEG/1633435613359.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://vlive.tv/post/1-25797989</link>
             <guid>https://vlive.tv/post/1-25797989</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_27/1633421099029mmkgL_JPEG/1633419837363.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 美 ‘빌보드 200’ 2주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5485</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5485</guid>
+            <pubDate>Wed, 06 Oct 2021 06:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 美 ‘빌보드 200’ 2주 연속 차트인!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d3743b7780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 시작된 ‘Savage’ 신드롬, 에스파 3연속 히트 성공! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5484</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5484</guid>
+            <pubDate>Wed, 06 Oct 2021 06:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">벌써 시작된 ‘Savage’ 신드롬, 에스파 3연속 히트 성공!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36c328f3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5483</link>
             <guid>https://www.smtown.com/artist/newsDetail/5483</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)이 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)에 참여한 호화 피처링 라인업을 공개했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d365cbc558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5480</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5480</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc29f5b535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이든 신곡 ‘Love Right Back’ NCT 태일, 래퍼 릴보이 피처링! 감성 시너지 예고! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbdd179094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5470</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5470</guid>
-            <pubDate>Fri, 01 Oct 2021 08:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 짙은 감성을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156be86e7b0a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5480</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5480</guid>
+            <pubDate>Tue, 05 Oct 2021 03:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘Savage’(새비지) 선주문량이 40만 장을 돌파하며 신드롬을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc29f5b535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 10년 史 담은 ‘스페셜 메들리’ 영상 오늘 밤 10시 공개! 히트곡만 모았다! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Fri, 01 Oct 2021 08:45:36 GMT</pubDate>
             <content:encoded><![CDATA[‘더블 밀리언셀러’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 눈부신 1위 행진이 계속되고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bf0387146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 독일, 호주 공식 음악 차트도 TOP20 진입! 강력한 ‘글로벌 돌풍’ (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5467</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5467</guid>
-            <pubDate>Thu, 30 Sep 2021 03:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 글로벌 차트에서 강력한 인기 돌풍을 일으키고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d947a019.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증 (SMTOWN ─ Actors News)]]></title>
@@ -572,9 +572,16 @@
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378823</link>
+            <guid>https://now.smtown.com/news/detail/2378823</guid>
+            <pubDate>Wed, 06 Oct 2021 06:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Savage’ syndrome begins! (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378822</link>
             <guid>https://now.smtown.com/news/detail/2378822</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -583,10 +590,11 @@
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378820</link>
             <guid>https://now.smtown.com/news/detail/2378820</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -798,15 +806,6 @@ ht...]]></content:encoded>
             <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/d9-pp6cxGn4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 WORLD PREMIERE STICKER Behind T... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=FgI6Zu9eamM</link>
-            <guid>https://www.youtube.com/watch?v=FgI6Zu9eamM</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FgI6Zu9eamM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

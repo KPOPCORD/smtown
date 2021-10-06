@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 06:52:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM 소속 DJ 레이든, 첫 미니앨범 ‘Love Right Back’ 호화 피처링 라인업 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5483</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5483</guid>
+            <pubDate>Wed, 06 Oct 2021 06:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)이 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)에 참여한 호화 피처링 라인업을 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d365cbc558.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이든 신곡 ‘Love Right Back’ NCT 태일, 래퍼 릴보이 피처링! 감성 시너지 예고!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5479</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbdd179094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5470</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5470</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 짙은 감성을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156be86e7b0a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5480</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5480</guid>
+            <pubDate>Wed, 06 Oct 2021 06:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘Savage’(새비지) 선주문량이 40만 장을 돌파하며 신드롬을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc29f5b535.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 10년 史 담은 ‘스페셜 메들리’ 영상 오늘 밤 10시 공개! 히트곡만 모았다!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
             <content:encoded><![CDATA[‘더블 밀리언셀러’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 눈부신 1위 행진이 계속되고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bf0387146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 독일, 호주 공식 음악 차트도 TOP20 진입! 강력한 ‘글로벌 돌풍’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5467</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5467</guid>
-            <pubDate>Fri, 01 Oct 2021 08:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 글로벌 차트에서 강력한 인기 돌풍을 일으키고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d947a019.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

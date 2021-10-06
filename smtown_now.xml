@@ -4,13 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 06:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <link>https://now.smtown.com/news/detail/2378823</link>
+            <guid>https://now.smtown.com/news/detail/2378823</guid>
+            <pubDate>Wed, 06 Oct 2021 06:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Savage’ syndrome begins!]]></title>
             <link>https://now.smtown.com/news/detail/2378822</link>
             <guid>https://now.smtown.com/news/detail/2378822</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378821</link>
@@ -18,9 +25,11 @@
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi...]]></title>
             <link>https://now.smtown.com/news/detail/2378820</link>
             <guid>https://now.smtown.com/news/detail/2378820</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378819</link>
@@ -231,15 +240,6 @@ ht...]]></content:encoded>
             <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/d9-pp6cxGn4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 WORLD PREMIERE STICKER Behind T...]]></title>
-            <link>https://www.youtube.com/watch?v=FgI6Zu9eamM</link>
-            <guid>https://www.youtube.com/watch?v=FgI6Zu9eamM</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FgI6Zu9eamM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
