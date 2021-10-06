@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 11:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 13:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' Performance Video]]></title>
+            <link>https://tv.naver.com/v/22818808</link>
+            <guid>https://tv.naver.com/v/22818808</guid>
+            <pubDate>Wed, 06 Oct 2021 13:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_41/1seUy_1633508685815o2tEA_JPEG/1633508634149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniversary Special Medley]]></title>
             <link>https://tv.naver.com/v/22801717</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_72/v1EaI_1630978928883heg7W_JPEG/1630978652978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN 성민 'Goodnight, Summer' MV Teaser #2]]></title>
-            <link>https://tv.naver.com/v/22274224</link>
-            <guid>https://tv.naver.com/v/22274224</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210905_88/yNP5C_1630841700425mpbxo_JPEG/1630841696307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 11:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 13:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' Performance Video]]></title>
+            <link>https://www.youtube.com/watch?v=1kov89n-_sw</link>
+            <guid>https://www.youtube.com/watch?v=1kov89n-_sw</guid>
+            <pubDate>Wed, 06 Oct 2021 13:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1kov89n-_sw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🤟🏻aespa 'Savage' MV Reaction🤟🏻]]></title>
             <link>https://www.youtube.com/watch?v=LIkcrAhjDGo</link>
@@ -244,16 +252,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378790</guid>
             <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR achieved 3 Crowns at the '2021 The...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✳︎ OOTW ✳︎ Outfits Of Taro’s Week｜#SHOT...]]></title>
-            <link>https://www.youtube.com/watch?v=SB6zIBXWnhc</link>
-            <guid>https://www.youtube.com/watch?v=SB6zIBXWnhc</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[#SHOTARO #쇼타로 #NCT
-#Outfits_Of_Taros_Week
-#위클리룩...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SB6zIBXWnhc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
