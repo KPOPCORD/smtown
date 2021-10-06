@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 06:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25802464</link>
             <guid>https://vlive.tv/post/1-25802464</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_96/1633438812364IYt8P_JPEG/1633437907015.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25802046</link>
             <guid>https://vlive.tv/post/1-25802046</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_289/16334371093907gfTt_JPEG/1633435613359.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://vlive.tv/post/1-25797989</link>
             <guid>https://vlive.tv/post/1-25797989</guid>
             <pubDate>Wed, 06 Oct 2021 04:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_27/1633421099029mmkgL_JPEG/1633419837363.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443bd46911f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127 The 3rd Album 'Sticker', enteri... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378823</link>
             <guid>https://now.smtown.com/news/detail/2378823</guid>
             <pubDate>Wed, 06 Oct 2021 06:51:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) The 3rd Alb...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The ‘Savage’ syndrome begins! (SMTOWN ─ NOW)]]></title>
@@ -584,10 +585,11 @@
             <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM DJ Raiden’s 1st mini album ‘Love Rig... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378821</link>
             <guid>https://now.smtown.com/news/detail/2378821</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM) has unveiled a luxurious ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi... (SMTOWN ─ NOW)]]></title>
@@ -597,10 +599,51 @@
             <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Hong Ji Yoon to star in '오늘부터 우리는'... “... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378819</link>
             <guid>https://now.smtown.com/news/detail/2378819</guid>
             <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[Hong Ji Yoon has been cast as the main characte...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Savage Challenge🤟 - KARINA & NINGNING (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=YEBJ5jYDCbg</link>
+            <guid>https://www.youtube.com/watch?v=YEBJ5jYDCbg</guid>
+            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Challenge🤟
+
+Listen and download on your...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YEBJ5jYDCbg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savage Challenge🤟 - KARINA & NINGNING (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=x_bnQysN-5w</link>
+            <guid>https://www.youtube.com/watch?v=x_bnQysN-5w</guid>
+            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Challenge🤟
+
+Listen and download on your...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/x_bnQysN-5w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savage Challenge🤟 - WINTER & GISELLE (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=hTaTINRwfpc</link>
+            <guid>https://www.youtube.com/watch?v=hTaTINRwfpc</guid>
+            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Challenge🤟
+
+Listen and download on your...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hTaTINRwfpc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savage Challenge🤟 - WINTER & GISELLE (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=A9sDoGh1UtA</link>
+            <guid>https://www.youtube.com/watch?v=A9sDoGh1UtA</guid>
+            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Challenge🤟
+
+Listen and download on your...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/A9sDoGh1UtA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#경찰수업] 훈훈함 가득한 경찰대학교 선배 만난 썰👮🏻‍♀️✨#김... (SMTOWN ─ NOW)]]></title>
@@ -775,37 +818,6 @@ Listen ...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5pWNNCO3F2Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Comeback’ aespa, ae-aespa and group te... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378789</link>
-            <guid>https://now.smtown.com/news/detail/2378789</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) has released ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“A must-have chemistry for a day, in on... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378788</link>
-            <guid>https://now.smtown.com/news/detail/2378788</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's delightful CF parody video i...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-10] SUPER JUNIOR-D&E The 1st Album '... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=M3u5U2lFuQo</link>
-            <guid>https://www.youtube.com/watch?v=M3u5U2lFuQo</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/M3u5U2lFuQo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나 혼자 산다' 무지개 회원🌈 ReactionㅣKEY 'BAD LO... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=d9-pp6cxGn4</link>
-            <guid>https://www.youtube.com/watch?v=d9-pp6cxGn4</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/d9-pp6cxGn4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
