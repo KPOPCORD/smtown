@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 14:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 15:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 ‘The Late Late Show with James ...]]></title>
+            <link>https://www.youtube.com/watch?v=oDZwxhAg0YM</link>
+            <guid>https://www.youtube.com/watch?v=oDZwxhAg0YM</guid>
+            <pubDate>Thu, 07 Oct 2021 15:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oDZwxhAg0YM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV]]></title>
             <link>https://www.youtube.com/watch?v=sQJPZK_i1lc</link>
@@ -242,14 +251,6 @@ Listen and download on your...]]></content:encoded>
 
 Listen and download on your...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/A9sDoGh1UtA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#경찰수업] 훈훈함 가득한 경찰대학교 선배 만난 썰👮🏻‍♀️✨#김...]]></title>
-            <link>https://www.youtube.com/watch?v=Em4QIkrI_mQ</link>
-            <guid>https://www.youtube.com/watch?v=Em4QIkrI_mQ</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[[#Police University] An episode meeting handsom...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Em4QIkrI_mQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
