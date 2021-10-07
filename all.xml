@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 06:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 07:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25814361</link>
             <guid>https://vlive.tv/post/1-25814361</guid>
             <pubDate>Thu, 07 Oct 2021 04:52:07 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211006_118/1633508906957bK2GO_JPEG/1633508634149.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,10 +571,29 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c23d7221c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[[speeker] 드로잉작가/ 인플루언서 김수현 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=DKfEAbGSang</link>
+            <guid>https://www.youtube.com/watch?v=DKfEAbGSang</guid>
+            <pubDate>Thu, 07 Oct 2021 07:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, drawing writer 
+instagram @...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DKfEAbGSang/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 쿠킹 스페셜리스트 최광호 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=zpk9ze3cRpk</link>
+            <guid>https://www.youtube.com/watch?v=zpk9ze3cRpk</guid>
+            <pubDate>Thu, 07 Oct 2021 07:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, cooking specialist
+instagra...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zpk9ze3cRpk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Lee Sung Su's keynote speech at '202... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378853</link>
             <guid>https://now.smtown.com/news/detail/2378853</guid>
             <pubDate>Thu, 07 Oct 2021 05:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment (hereinafter referred to as SM...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[speeker] 그래픽디자이너 문호연 (SMTOWN ─ NOW)]]></title>
@@ -794,23 +813,6 @@ Listen and download on your...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/j9LGlpWuU3I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniver... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=CmbdiQjMBnQ</link>
-            <guid>https://www.youtube.com/watch?v=CmbdiQjMBnQ</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/CmbdiQjMBnQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재재 Reaction🔥ㅣKEY 'BAD LOVE' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=EPWGj0mYGAE</link>
-            <guid>https://www.youtube.com/watch?v=EPWGj0mYGAE</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/EPWGj0mYGAE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
