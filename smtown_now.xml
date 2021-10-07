@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 09:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 10:47:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Savage Angle Challenge😎]]></title>
+            <link>https://www.youtube.com/watch?v=4pCz54lZGT4</link>
+            <guid>https://www.youtube.com/watch?v=4pCz54lZGT4</guid>
+            <pubDate>Thu, 07 Oct 2021 10:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Angle Challenge😎
+
+Listen and download o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4pCz54lZGT4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[speeker] 드로잉작가/ 인플루언서 김수현]]></title>
             <link>https://www.youtube.com/watch?v=DKfEAbGSang</link>
@@ -241,15 +251,6 @@ Listen and download on your...]]></content:encoded>
 'Savage' 카메라워크 가이드 공유드려요~!
 뮤직비디오 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/kZlLTnE1y1Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너랑 나랑은 떨어질 수 없는 관계야💚ㅣ최고의 카우보이를 찾아라ㅣRou...]]></title>
-            <link>https://www.youtube.com/watch?v=j9LGlpWuU3I</link>
-            <guid>https://www.youtube.com/watch?v=j9LGlpWuU3I</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/j9LGlpWuU3I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
