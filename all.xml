@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 06:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25814361</link>
             <guid>https://vlive.tv/post/1-25814361</guid>
             <pubDate>Thu, 07 Oct 2021 04:52:07 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211006_118/1633508906957bK2GO_JPEG/1633508634149.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -577,6 +577,24 @@
             <pubDate>Thu, 07 Oct 2021 05:41:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[speeker] 그래픽디자이너 문호연 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=GBan7p_RZcE</link>
+            <guid>https://www.youtube.com/watch?v=GBan7p_RZcE</guid>
+            <pubDate>Thu, 07 Oct 2021 06:51:14 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, graphic designer
+instagram ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GBan7p_RZcE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 페인터 로렌정 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=bQqnzVLOqJ8</link>
+            <guid>https://www.youtube.com/watch?v=bQqnzVLOqJ8</guid>
+            <pubDate>Thu, 07 Oct 2021 06:51:14 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, painter
+instagram @laurenny...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bQqnzVLOqJ8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 sells over 2.27 million copies ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378852</link>
             <guid>https://now.smtown.com/news/detail/2378852</guid>
@@ -793,25 +811,6 @@ Listen an...]]></content:encoded>
             <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/EPWGj0mYGAE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : Day1 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=6wNgwOB6PK0</link>
-            <guid>https://www.youtube.com/watch?v=6wNgwOB6PK0</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6wNgwOB6PK0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=WPdWvnAAurg</link>
-            <guid>https://www.youtube.com/watch?v=WPdWvnAAurg</guid>
-            <pubDate>Tue, 05 Oct 2021 22:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WPdWvnAAurg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
