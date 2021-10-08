@@ -1,8 +1,234 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-10-08T02:54:16.678Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 08 Oct 2021 03:46:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378877</link>
+            <guid>https://now.smtown.com/news/detail/2378877</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378876</link>
+            <guid>https://now.smtown.com/news/detail/2378876</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378875</link>
+            <guid>https://now.smtown.com/news/detail/2378875</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378874</link>
+            <guid>https://now.smtown.com/news/detail/2378874</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378873</link>
+            <guid>https://now.smtown.com/news/detail/2378873</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 ‘The Late Late Show with James ...]]></title>
+            <link>https://www.youtube.com/watch?v=oDZwxhAg0YM</link>
+            <guid>https://www.youtube.com/watch?v=oDZwxhAg0YM</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oDZwxhAg0YM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV]]></title>
+            <link>https://www.youtube.com/watch?v=sQJPZK_i1lc</link>
+            <guid>https://www.youtube.com/watch?v=sQJPZK_i1lc</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV
+'BAD LOVE'...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sQJPZK_i1lc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savage Angle Challenge😎]]></title>
+            <link>https://www.youtube.com/watch?v=4pCz54lZGT4</link>
+            <guid>https://www.youtube.com/watch?v=4pCz54lZGT4</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Angle Challenge😎
+
+Listen and download o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4pCz54lZGT4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 드로잉작가/ 인플루언서 김수현]]></title>
+            <link>https://www.youtube.com/watch?v=DKfEAbGSang</link>
+            <guid>https://www.youtube.com/watch?v=DKfEAbGSang</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, drawing writer 
+instagram @...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DKfEAbGSang/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 쿠킹 스페셜리스트 최광호]]></title>
+            <link>https://www.youtube.com/watch?v=zpk9ze3cRpk</link>
+            <guid>https://www.youtube.com/watch?v=zpk9ze3cRpk</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, cooking specialist
+instagra...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zpk9ze3cRpk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Lee Sung Su's keynote speech at '202...]]></title>
+            <link>https://now.smtown.com/news/detail/2378853</link>
+            <guid>https://now.smtown.com/news/detail/2378853</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment (hereinafter referred to as SM...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 그래픽디자이너 문호연]]></title>
+            <link>https://www.youtube.com/watch?v=GBan7p_RZcE</link>
+            <guid>https://www.youtube.com/watch?v=GBan7p_RZcE</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, graphic designer
+instagram ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GBan7p_RZcE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 페인터 로렌정]]></title>
+            <link>https://www.youtube.com/watch?v=bQqnzVLOqJ8</link>
+            <guid>https://www.youtube.com/watch?v=bQqnzVLOqJ8</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, painter
+instagram @laurenny...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bQqnzVLOqJ8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 sells over 2.27 million copies ...]]></title>
+            <link>https://now.smtown.com/news/detail/2378852</link>
+            <guid>https://now.smtown.com/news/detail/2378852</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) sells over ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini...]]></title>
+            <link>https://now.smtown.com/news/detail/2378851</link>
+            <guid>https://now.smtown.com/news/detail/2378851</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) even took ove...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Raiden’s 1st mini album release celebra...]]></title>
+            <link>https://now.smtown.com/news/detail/2378850</link>
+            <guid>https://now.smtown.com/news/detail/2378850</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM)’s 1st mini album release ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee KEY ‘BAD LOVE’ performance video...]]></title>
+            <link>https://now.smtown.com/news/detail/2378849</link>
+            <guid>https://now.smtown.com/news/detail/2378849</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album title song 'B...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘10th Anniversary of Debut’ SUPER JUNIO...]]></title>
+            <link>https://now.smtown.com/news/detail/2378848</link>
+            <guid>https://now.smtown.com/news/detail/2378848</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E decorated the cover of '1st Lo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EXO LAY, Pre-release song ‘Samadhi Real...]]></title>
+            <link>https://now.smtown.com/news/detail/2378847</link>
+            <guid>https://now.smtown.com/news/detail/2378847</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[EXO LAY(SM)'s pre-release song 'Samadhi Real Fi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jae Chul to appear in KBS2's ‘연모’.....]]></title>
+            <link>https://now.smtown.com/news/detail/2378846</link>
+            <guid>https://now.smtown.com/news/detail/2378846</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Jae Chul transforms into a charismati...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jong Hoon, MBC ‘지금부터, 쇼타임!’ Casting]]></title>
+            <link>https://now.smtown.com/news/detail/2378845</link>
+            <guid>https://now.smtown.com/news/detail/2378845</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Jong Hoon has been cast in ‘지금부터, 쇼타임...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아름다운건 늘 짜릿해, #문가영 화보 비하인드 #키동캠 ｜문가영]]></title>
+            <link>https://www.youtube.com/watch?v=AemSpdA5I8Y</link>
+            <guid>https://www.youtube.com/watch?v=AemSpdA5I8Y</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Beautiful things are always thrilling Behind-th...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AemSpdA5I8Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniver...]]></title>
+            <link>https://www.youtube.com/watch?v=jbOBW6mVSmI</link>
+            <guid>https://www.youtube.com/watch?v=jbOBW6mVSmI</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jbOBW6mVSmI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' Performance Video]]></title>
+            <link>https://www.youtube.com/watch?v=1kov89n-_sw</link>
+            <guid>https://www.youtube.com/watch?v=1kov89n-_sw</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1kov89n-_sw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤟🏻aespa 'Savage' MV Reaction🤟🏻]]></title>
+            <link>https://www.youtube.com/watch?v=LIkcrAhjDGo</link>
+            <guid>https://www.youtube.com/watch?v=LIkcrAhjDGo</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LIkcrAhjDGo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 아름다운 사실 (부활)]]></title>
+            <link>https://www.youtube.com/watch?v=-5CM_sb6K1U</link>
+            <guid>https://www.youtube.com/watch?v=-5CM_sb6K1U</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #아름다운사실 #부활
+
+MAX CHAN...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-5CM_sb6K1U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 The 3rd Album 'Sticker', enteri...]]></title>
+            <link>https://now.smtown.com/news/detail/2378823</link>
+            <guid>https://now.smtown.com/news/detail/2378823</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) The 3rd Alb...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Savage’ syndrome begins!]]></title>
+            <link>https://now.smtown.com/news/detail/2378822</link>
+            <guid>https://now.smtown.com/news/detail/2378822</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM DJ Raiden’s 1st mini album ‘Love Rig...]]></title>
+            <link>https://now.smtown.com/news/detail/2378821</link>
+            <guid>https://now.smtown.com/news/detail/2378821</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM) has unveiled a luxurious ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi...]]></title>
+            <link>https://now.smtown.com/news/detail/2378820</link>
+            <guid>https://now.smtown.com/news/detail/2378820</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
+        </item>
+    </channel>
+</rss>

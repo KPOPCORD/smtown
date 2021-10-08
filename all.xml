@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 02:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 03:46:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,22 +232,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 9월 음반 판매량 227만장 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5493</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5493</guid>
-            <pubDate>Thu, 07 Oct 2021 04:52:58 GMT</pubDate>
+            <title><![CDATA[에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5498</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5498</guid>
+            <pubDate>Fri, 08 Oct 2021 03:44:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’ 9월 음반 판매량 227만장 돌파!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e65cfbfead.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb40daf652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 리패키지 ‘Favorite’ 10월 25일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5497</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5497</guid>
+            <pubDate>Fri, 08 Oct 2021 03:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 리패키지 ‘Favorite’ 10월 25일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb3b4154c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 레이든, 10일 ‘2021 월드 디제이 페스티벌’ 출연! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5496</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5496</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)의 신곡 ‘Love Right Back’(러브 라이트 백) 무대가 오는 10일 최초 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb33a2a864.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘메타버스 걸그룹’ 에스파, 음원 이어 음반 차트도 접수 완료! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5492</link>
             <guid>https://www.smtown.com/artist/newsDetail/5492</guid>
             <pubDate>Thu, 07 Oct 2021 04:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘메타버스 걸그룹’ 에스파, 음원 이어 음반 차트도 접수 완료!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 음반 차트까지 접수했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e65832467f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 키 ‘BAD LOVE’ 퍼포먼스 비디오 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5490</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5490</guid>
+            <pubDate>Thu, 07 Oct 2021 04:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)의 첫 미니앨범 타이틀 곡 ‘BAD LOVE’(배드 러브) 퍼포먼스 비디오가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e64dc2b25d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 레이, 선공개 싱글 ‘삼매진화’ 7일 낮 12시 국내 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5488</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5488</guid>
+            <pubDate>Thu, 07 Oct 2021 04:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 레이(에스엠엔터테인먼트 소속)의 선공개 싱글 ‘三昧真火 (Samadhi Real Fire)’(삼매진화)가 7일 국내 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e6420ea728.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌써 시작된 ‘Savage’ 신드롬, 에스파 3연속 히트 성공! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5484</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5484</guid>
+            <pubDate>Wed, 06 Oct 2021 06:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 컴백과 동시에 신드롬을 일으키고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36c328f3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 9월 음반 판매량 227만장 돌파! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5493</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5493</guid>
+            <pubDate>Thu, 07 Oct 2021 04:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[‘더블 밀리언셀러’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 ‘Sticker’(스티커) 9월 음반 판매량이 227만장을 돌파했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e65cfbfead.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 레이든, 첫 미니앨범 발매 기념 생방송 11일 오후 8시 진행! (SMTOWN ─ Musicians News)]]></title>
@@ -280,54 +328,6 @@
             <pubDate>Wed, 06 Oct 2021 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)이 첫 미니앨범 ‘Love Right Back’(러브 라이트 백)에 참여한 호화 피처링 라인업을 공개했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d365cbc558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이든 신곡 ‘Love Right Back’ NCT 태일, 래퍼 릴보이 피처링! 감성 시너지 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5479</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5479</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)과 NCT 태일, 래퍼 릴보이 (lIlBOI)가 신곡 ‘Love Right Back’(러브 라이트 백)으로 호흡을 맞췄다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc243a0856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 키 ‘BAD LOVE’ 퍼포먼스 비디오 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5490</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5490</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[‘만능 치트키’ 샤이니 키(에스엠엔터테인먼트 소속)의 첫 미니앨범 타이틀 곡 ‘BAD LOVE’(배드 러브) 퍼포먼스 비디오가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e64dc2b25d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 레이, 선공개 싱글 ‘삼매진화’ 7일 낮 12시 국내 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5488</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5488</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 레이(에스엠엔터테인먼트 소속)의 선공개 싱글 ‘三昧真火 (Samadhi Real Fire)’(삼매진화)가 7일 국내 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e6420ea728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 시작된 ‘Savage’ 신드롬, 에스파 3연속 히트 성공! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5484</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5484</guid>
-            <pubDate>Wed, 06 Oct 2021 06:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 컴백과 동시에 신드롬을 일으키고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36c328f3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백 D-DAY’ 에스파, 첫 미니앨범 ‘Savage’ 선주문 40만 장 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5480</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5480</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘Savage’(새비지) 선주문량이 40만 장을 돌파하며 신드롬을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc29f5b535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 10년 史 담은 ‘스페셜 메들리’ 영상 오늘 밤 10시 공개! 히트곡만 모았다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5478</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5478</guid>
-            <pubDate>Tue, 05 Oct 2021 03:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[컴백을 앞둔 슈퍼주니어-D&amp;E가 지난 10년간의 음악 활동을 돌아볼 수 있는 ‘스페셜 메들리’ 영상을 공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc1f992c8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강한나, CJ ENM tvN D ‘바이트 씨스터즈’ 캐스팅! (SMTOWN ─ Actors News)]]></title>
@@ -426,6 +426,234 @@
             <pubDate>Fri, 24 Sep 2021 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[배우 김강민이 tvN ‘슬기로운 의사생활’ 종영 소감을 전했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378877</link>
+            <guid>https://now.smtown.com/news/detail/2378877</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378876</link>
+            <guid>https://now.smtown.com/news/detail/2378876</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378875</link>
+            <guid>https://now.smtown.com/news/detail/2378875</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378874</link>
+            <guid>https://now.smtown.com/news/detail/2378874</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378873</link>
+            <guid>https://now.smtown.com/news/detail/2378873</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 ‘The Late Late Show with James ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=oDZwxhAg0YM</link>
+            <guid>https://www.youtube.com/watch?v=oDZwxhAg0YM</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oDZwxhAg0YM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=sQJPZK_i1lc</link>
+            <guid>https://www.youtube.com/watch?v=sQJPZK_i1lc</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV
+'BAD LOVE'...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sQJPZK_i1lc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savage Angle Challenge😎 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=4pCz54lZGT4</link>
+            <guid>https://www.youtube.com/watch?v=4pCz54lZGT4</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Angle Challenge😎
+
+Listen and download o...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4pCz54lZGT4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 드로잉작가/ 인플루언서 김수현 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=DKfEAbGSang</link>
+            <guid>https://www.youtube.com/watch?v=DKfEAbGSang</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, drawing writer 
+instagram @...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DKfEAbGSang/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 쿠킹 스페셜리스트 최광호 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=zpk9ze3cRpk</link>
+            <guid>https://www.youtube.com/watch?v=zpk9ze3cRpk</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, cooking specialist
+instagra...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zpk9ze3cRpk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Lee Sung Su's keynote speech at '202... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378853</link>
+            <guid>https://now.smtown.com/news/detail/2378853</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment (hereinafter referred to as SM...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 그래픽디자이너 문호연 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=GBan7p_RZcE</link>
+            <guid>https://www.youtube.com/watch?v=GBan7p_RZcE</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, graphic designer
+instagram ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GBan7p_RZcE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 페인터 로렌정 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=bQqnzVLOqJ8</link>
+            <guid>https://www.youtube.com/watch?v=bQqnzVLOqJ8</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, painter
+instagram @laurenny...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bQqnzVLOqJ8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 sells over 2.27 million copies ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378852</link>
+            <guid>https://now.smtown.com/news/detail/2378852</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) sells over ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378851</link>
+            <guid>https://now.smtown.com/news/detail/2378851</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) even took ove...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Raiden’s 1st mini album release celebra... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378850</link>
+            <guid>https://now.smtown.com/news/detail/2378850</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM)’s 1st mini album release ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee KEY ‘BAD LOVE’ performance video... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378849</link>
+            <guid>https://now.smtown.com/news/detail/2378849</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album title song 'B...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘10th Anniversary of Debut’ SUPER JUNIO... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378848</link>
+            <guid>https://now.smtown.com/news/detail/2378848</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E decorated the cover of '1st Lo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EXO LAY, Pre-release song ‘Samadhi Real... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378847</link>
+            <guid>https://now.smtown.com/news/detail/2378847</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[EXO LAY(SM)'s pre-release song 'Samadhi Real Fi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jae Chul to appear in KBS2's ‘연모’..... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378846</link>
+            <guid>https://now.smtown.com/news/detail/2378846</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Jae Chul transforms into a charismati...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jong Hoon, MBC ‘지금부터, 쇼타임!’ Casting (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378845</link>
+            <guid>https://now.smtown.com/news/detail/2378845</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Jong Hoon has been cast in ‘지금부터, 쇼타임...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아름다운건 늘 짜릿해, #문가영 화보 비하인드 #키동캠 ｜문가영 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=AemSpdA5I8Y</link>
+            <guid>https://www.youtube.com/watch?v=AemSpdA5I8Y</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Beautiful things are always thrilling Behind-th...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AemSpdA5I8Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniver... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=jbOBW6mVSmI</link>
+            <guid>https://www.youtube.com/watch?v=jbOBW6mVSmI</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jbOBW6mVSmI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY 키 'BAD LOVE' Performance Video (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=1kov89n-_sw</link>
+            <guid>https://www.youtube.com/watch?v=1kov89n-_sw</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1kov89n-_sw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤟🏻aespa 'Savage' MV Reaction🤟🏻 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=LIkcrAhjDGo</link>
+            <guid>https://www.youtube.com/watch?v=LIkcrAhjDGo</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LIkcrAhjDGo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 아름다운 사실 (부활) (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=-5CM_sb6K1U</link>
+            <guid>https://www.youtube.com/watch?v=-5CM_sb6K1U</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #아름다운사실 #부활
+
+MAX CHAN...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-5CM_sb6K1U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 The 3rd Album 'Sticker', enteri... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378823</link>
+            <guid>https://now.smtown.com/news/detail/2378823</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) The 3rd Alb...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The ‘Savage’ syndrome begins! (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378822</link>
+            <guid>https://now.smtown.com/news/detail/2378822</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM DJ Raiden’s 1st mini album ‘Love Rig... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378821</link>
+            <guid>https://now.smtown.com/news/detail/2378821</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM) has unveiled a luxurious ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2378820</link>
+            <guid>https://now.smtown.com/news/detail/2378820</guid>
+            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
