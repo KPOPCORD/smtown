@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 09:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 10:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,6 +18,16 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/wNWb4dEmKLc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[용맹백구는 환각 퀘스트를 부숴 👊]]></title>
+            <link>https://www.youtube.com/watch?v=uD5_4S8dfAk</link>
+            <guid>https://www.youtube.com/watch?v=uD5_4S8dfAk</guid>
+            <pubDate>Fri, 08 Oct 2021 10:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[용맹백구는 환각 퀘스트를 부숴 👊
+
+Listen and download on you...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uD5_4S8dfAk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KANGTA, 25th Debut Debut Project 3rd Si...]]></title>
             <link>https://now.smtown.com/news/detail/2378878</link>
             <guid>https://now.smtown.com/news/detail/2378878</guid>
@@ -25,9 +35,11 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[KANGTA (SM) will release the third single 'Mayb...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa ‘Savage’ MV, surpassed 50 million...]]></title>
             <link>https://now.smtown.com/news/detail/2378877</link>
             <guid>https://now.smtown.com/news/detail/2378877</guid>
             <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa(SM)’s first mini a...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378876</link>
@@ -227,13 +239,6 @@ MAX CHAN...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378823</guid>
             <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
             <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) The 3rd Alb...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The ‘Savage’ syndrome begins!]]></title>
-            <link>https://now.smtown.com/news/detail/2378822</link>
-            <guid>https://now.smtown.com/news/detail/2378822</guid>
-            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
         </item>
     </channel>
 </rss>
