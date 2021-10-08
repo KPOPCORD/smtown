@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 04:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강타, 데뷔 25주년 프로젝트 세 번째 싱글 ‘아마’ 10월 12일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5499</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5499</guid>
+            <pubDate>Fri, 08 Oct 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">강타, 데뷔 25주년 프로젝트 세 번째 싱글 ‘아마’ 10월 12일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fd5216d667.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5498</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb40daf652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 리패키지 ‘Favorite’ 10월 25일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5497</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5497</guid>
-            <pubDate>Fri, 08 Oct 2021 03:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 리패키지 ‘Favorite’ 10월 25일 발매!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb3b4154c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

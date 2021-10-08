@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 04:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2378878</link>
+            <guid>https://now.smtown.com/news/detail/2378878</guid>
+            <pubDate>Fri, 08 Oct 2021 05:40:51 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378877</link>
             <guid>https://now.smtown.com/news/detail/2378877</guid>
@@ -222,13 +227,6 @@ MAX CHAN...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378821</guid>
             <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
             <content:encoded><![CDATA[DJ artist Raiden (SM) has unveiled a luxurious ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi...]]></title>
-            <link>https://now.smtown.com/news/detail/2378820</link>
-            <guid>https://now.smtown.com/news/detail/2378820</guid>
-            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
         </item>
     </channel>
 </rss>
