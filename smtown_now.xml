@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 08:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 09:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : A Wa...]]></title>
+            <link>https://www.youtube.com/watch?v=wNWb4dEmKLc</link>
+            <guid>https://www.youtube.com/watch?v=wNWb4dEmKLc</guid>
+            <pubDate>Fri, 08 Oct 2021 09:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/wNWb4dEmKLc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA, 25th Debut Debut Project 3rd Si...]]></title>
             <link>https://now.smtown.com/news/detail/2378878</link>
@@ -224,13 +234,6 @@ MAX CHAN...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378822</guid>
             <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
             <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM DJ Raiden’s 1st mini album ‘Love Rig...]]></title>
-            <link>https://now.smtown.com/news/detail/2378821</link>
-            <guid>https://now.smtown.com/news/detail/2378821</guid>
-            <pubDate>Fri, 08 Oct 2021 03:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[DJ artist Raiden (SM) has unveiled a luxurious ...]]></content:encoded>
         </item>
     </channel>
 </rss>
