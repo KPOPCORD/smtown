@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 13:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 13:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,27 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1위다운 무대를 하는 거야🎤ㅣSticker 음악방송 대기실 비하인드 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=cz_YOU-yrRU</link>
+            <guid>https://www.youtube.com/watch?v=cz_YOU-yrRU</guid>
+            <pubDate>Fri, 08 Oct 2021 13:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
+Listen an...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cz_YOU-yrRU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혹시 오늘의 주제는 '호캉스'인가요?(♥︎) | KAIst EP. 02... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=_FjD4Xdp-I8</link>
+            <guid>https://www.youtube.com/watch?v=_FjD4Xdp-I8</guid>
+            <pubDate>Fri, 08 Oct 2021 13:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[(장소 제공 : 안다즈 호텔) 
+
+#KAIst #카이스트 #KAI #카이
+
+KAI O...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/_FjD4Xdp-I8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : A Wa... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=wNWb4dEmKLc</link>
             <guid>https://www.youtube.com/watch?v=wNWb4dEmKLc</guid>
@@ -791,23 +812,6 @@ instagram @laurenny...]]></content:encoded>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LIkcrAhjDGo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 아름다운 사실 (부활) (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=-5CM_sb6K1U</link>
-            <guid>https://www.youtube.com/watch?v=-5CM_sb6K1U</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #아름다운사실 #부활
-
-MAX CHAN...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-5CM_sb6K1U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 The 3rd Album 'Sticker', enteri... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378823</link>
-            <guid>https://now.smtown.com/news/detail/2378823</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) The 3rd Alb...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
