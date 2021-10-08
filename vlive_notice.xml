@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FD53B/board/69</id>
-    <title>SMTOWN ─ Notice</title>
-    <updated>2021-10-07T23:44:24.759Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Notice</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 08 Oct 2021 01:50:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집]]></title>
+            <link>https://www.vlive.tv/post/1-23827151</link>
+            <guid>https://www.vlive.tv/post/1-23827151</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210701_110/16251082221417MkDg_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[초대장] U-KNOW의 'NOIR' 특별 시사회에 여러분을 초대합니다!❤️]]></title>
+            <link>https://www.vlive.tv/post/0-20820700</link>
+            <guid>https://www.vlive.tv/post/0-20820700</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_84/1625912545990RKiUm_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA['믿듣탱' 태연의 컴백을 함께할 S♡NE 구합니다! (1/19890309)]]></title>
+            <link>https://www.vlive.tv/post/1-20308927</link>
+            <guid>https://www.vlive.tv/post/1-20308927</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[＜✌🏻점핑이들이 있어줘서 더 BETTER한 BoA✊🏻＞와 함께해 줄 점핑이들 메시지 모집 중💛]]></title>
+            <link>https://www.vlive.tv/post/1-20103428</link>
+            <guid>https://www.vlive.tv/post/1-20103428</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_41/1625921180776Uk0hu_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[👿'B.A.D'한 슈퍼주니어-D&E가 E.L.F.의 메시지를 기다립니다🚗]]></title>
+            <link>https://www.vlive.tv/post/1-17212329</link>
+            <guid>https://www.vlive.tv/post/1-17212329</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BoA Still Our No.1 – BoA Debut 20th Anniversary Special V LIVE💛]]></title>
+            <link>https://www.vlive.tv/post/1-16713406</link>
+            <guid>https://www.vlive.tv/post/1-16713406</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:00(KST), SUPER JUNIOR-K.R.Y.와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/0-16545407</link>
+            <guid>https://www.vlive.tv/post/0-16545407</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👫태민&SHINee World, '2 KIDS'의 이야기를 들려주세요👂🏻]]></title>
+            <link>https://www.vlive.tv/post/0-16022866</link>
+            <guid>https://www.vlive.tv/post/0-16022866</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HYO를 위한 S♡NE의 스윗한 ‘DESSERT’ 메시지 모집중🧁]]></title>
+            <link>https://www.vlive.tv/post/0-15775316</link>
+            <guid>https://www.vlive.tv/post/0-15775316</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸르게 빛나던 슈퍼주니어-K.R.Y.의 계절🌿]]></title>
+            <link>https://www.vlive.tv/post/1-14658723</link>
+            <guid>https://www.vlive.tv/post/1-14658723</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:50(KST), SUPER JUNIOR와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/1-14534593</link>
+            <guid>https://www.vlive.tv/post/1-14534593</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 19:40(KST), TVXQ!와 함께하는 실시간 채팅이 시작됩니다. Real time live cha...]]></title>
+            <link>https://www.vlive.tv/post/1-14349811</link>
+            <guid>https://www.vlive.tv/post/1-14349811</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 18:30 (KST), NCT 127과 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/1-14192517</link>
+            <guid>https://www.vlive.tv/post/1-14192517</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 18:10 (KST) NCT DREAM과 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/1-13978693</link>
+            <guid>https://www.vlive.tv/post/1-13978693</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 14:05 (KST) WayV와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/1-13961833</link>
+            <guid>https://www.vlive.tv/post/1-13961833</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 5분 뒤인 13시 (KST), WayV와 함께하는 실시간 채팅이 시작됩니다.]]></title>
+            <link>https://www.vlive.tv/post/0-13931435</link>
+            <guid>https://www.vlive.tv/post/0-13931435</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든 티켓 to 최강창민 입덕🎇]]></title>
+            <link>https://www.vlive.tv/post/0-13388732</link>
+            <guid>https://www.vlive.tv/post/0-13388732</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[태연의 랜선 생일파티! 파티원을 구합니다💗]]></title>
+            <link>https://www.vlive.tv/post/0-12989682</link>
+            <guid>https://www.vlive.tv/post/0-12989682</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[점핑보아에게 묻습니다💛: 2019 & 2020]]></title>
+            <link>https://www.vlive.tv/post/1-12362094</link>
+            <guid>https://www.vlive.tv/post/1-12362094</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성민의 Music Box에 질문을 보내주세요📬]]></title>
+            <link>https://www.vlive.tv/post/1-12246088</link>
+            <guid>https://www.vlive.tv/post/1-12246088</guid>
+            <pubDate>Fri, 08 Oct 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+    </channel>
+</rss>
