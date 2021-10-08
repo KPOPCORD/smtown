@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 01:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5487</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5487</guid>
+            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김재철이 '연모'에서 카리스마 넘치는 호위 무사로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e63a91fcf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5482</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d68b04ee2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 특별출연의 정석 보여줬다! 존재감 빛나]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5432</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5432</guid>
-            <pubDate>Fri, 24 Sep 2021 06:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)의 특별출연이 빛났다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c253e7221a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5486</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
+            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Sep 2021 10:45:41 GMT</pubDate>
             <content:encoded><![CDATA[배우 김강민이 tvN ‘슬기로운 의사생활’ 종영 소감을 전했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 첫 방송 포문 제대로 열었다]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5430</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5430</guid>
-            <pubDate>Fri, 24 Sep 2021 05:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 드라마의 포문을 제대로 열었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c23d7221c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

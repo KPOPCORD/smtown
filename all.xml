@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 01:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,22 +330,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc1f992c8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강한나, CJ ENM tvN D ‘바이트 씨스터즈’ 캐스팅! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5495</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5495</guid>
+            <pubDate>Fri, 08 Oct 2021 02:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">강한나, CJ ENM tvN D ‘바이트 씨스터즈’ 캐스팅!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb2707025f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5494</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
+            <pubDate>Fri, 08 Oct 2021 02:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5487</link>
             <guid>https://www.smtown.com/artist/newsDetail/5487</guid>
             <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 김재철이 '연모'에서 카리스마 넘치는 호위 무사로 변신한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e63a91fcf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5486</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증 (SMTOWN ─ Actors News)]]></title>
@@ -380,12 +388,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d68b04ee2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 특별출연의 정석 보여줬다! 존재감 빛나 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5432</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5432</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)의 특별출연이 빛났다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c253e7221a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5486</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
+            <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감 (SMTOWN ─ Actors News)]]></title>
@@ -418,259 +426,6 @@
             <pubDate>Fri, 24 Sep 2021 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[배우 김강민이 tvN ‘슬기로운 의사생활’ 종영 소감을 전했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호), 첫 방송 포문 제대로 열었다 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5430</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5430</guid>
-            <pubDate>Thu, 23 Sep 2021 07:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘유미의 세포들’ 최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 드라마의 포문을 제대로 열었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c23d7221c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 ‘The Late Late Show with James ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=oDZwxhAg0YM</link>
-            <guid>https://www.youtube.com/watch?v=oDZwxhAg0YM</guid>
-            <pubDate>Thu, 07 Oct 2021 15:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/oDZwxhAg0YM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=sQJPZK_i1lc</link>
-            <guid>https://www.youtube.com/watch?v=sQJPZK_i1lc</guid>
-            <pubDate>Thu, 07 Oct 2021 13:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[aespa 에스파 ReactionㅣKEY 'BAD LOVE' MV
-'BAD LOVE'...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/sQJPZK_i1lc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Angle Challenge😎 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=4pCz54lZGT4</link>
-            <guid>https://www.youtube.com/watch?v=4pCz54lZGT4</guid>
-            <pubDate>Thu, 07 Oct 2021 10:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Angle Challenge😎
-
-Listen and download o...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/4pCz54lZGT4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 드로잉작가/ 인플루언서 김수현 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=DKfEAbGSang</link>
-            <guid>https://www.youtube.com/watch?v=DKfEAbGSang</guid>
-            <pubDate>Thu, 07 Oct 2021 07:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, drawing writer 
-instagram @...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/DKfEAbGSang/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 쿠킹 스페셜리스트 최광호 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=zpk9ze3cRpk</link>
-            <guid>https://www.youtube.com/watch?v=zpk9ze3cRpk</guid>
-            <pubDate>Thu, 07 Oct 2021 07:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, cooking specialist
-instagra...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zpk9ze3cRpk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Lee Sung Su's keynote speech at '202... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378853</link>
-            <guid>https://now.smtown.com/news/detail/2378853</guid>
-            <pubDate>Thu, 07 Oct 2021 05:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment (hereinafter referred to as SM...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 그래픽디자이너 문호연 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=GBan7p_RZcE</link>
-            <guid>https://www.youtube.com/watch?v=GBan7p_RZcE</guid>
-            <pubDate>Thu, 07 Oct 2021 06:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, graphic designer
-instagram ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/GBan7p_RZcE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 페인터 로렌정 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=bQqnzVLOqJ8</link>
-            <guid>https://www.youtube.com/watch?v=bQqnzVLOqJ8</guid>
-            <pubDate>Thu, 07 Oct 2021 06:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, painter
-instagram @laurenny...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bQqnzVLOqJ8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 sells over 2.27 million copies ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378852</link>
-            <guid>https://now.smtown.com/news/detail/2378852</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) sells over ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378851</link>
-            <guid>https://now.smtown.com/news/detail/2378851</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) even took ove...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Raiden’s 1st mini album release celebra... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378850</link>
-            <guid>https://now.smtown.com/news/detail/2378850</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[DJ artist Raiden (SM)’s 1st mini album release ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee KEY ‘BAD LOVE’ performance video... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378849</link>
-            <guid>https://now.smtown.com/news/detail/2378849</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album title song 'B...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘10th Anniversary of Debut’ SUPER JUNIO... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378848</link>
-            <guid>https://now.smtown.com/news/detail/2378848</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E decorated the cover of '1st Lo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXO LAY, Pre-release song ‘Samadhi Real... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378847</link>
-            <guid>https://now.smtown.com/news/detail/2378847</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[EXO LAY(SM)'s pre-release song 'Samadhi Real Fi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Jae Chul to appear in KBS2's ‘연모’..... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378846</link>
-            <guid>https://now.smtown.com/news/detail/2378846</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kim Jae Chul transforms into a charismati...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Jong Hoon, MBC ‘지금부터, 쇼타임!’ Casting (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378845</link>
-            <guid>https://now.smtown.com/news/detail/2378845</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kim Jong Hoon has been cast in ‘지금부터, 쇼타임...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아름다운건 늘 짜릿해, #문가영 화보 비하인드 #키동캠 ｜문가영 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=AemSpdA5I8Y</link>
-            <guid>https://www.youtube.com/watch?v=AemSpdA5I8Y</guid>
-            <pubDate>Wed, 06 Oct 2021 14:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[Beautiful things are always thrilling Behind-th...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AemSpdA5I8Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniver... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=jbOBW6mVSmI</link>
-            <guid>https://www.youtube.com/watch?v=jbOBW6mVSmI</guid>
-            <pubDate>Wed, 06 Oct 2021 14:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/jbOBW6mVSmI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' Performance Video (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=1kov89n-_sw</link>
-            <guid>https://www.youtube.com/watch?v=1kov89n-_sw</guid>
-            <pubDate>Wed, 06 Oct 2021 13:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1kov89n-_sw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🤟🏻aespa 'Savage' MV Reaction🤟🏻 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=LIkcrAhjDGo</link>
-            <guid>https://www.youtube.com/watch?v=LIkcrAhjDGo</guid>
-            <pubDate>Wed, 06 Oct 2021 10:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/LIkcrAhjDGo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | 아름다운 사실 (부활) (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=-5CM_sb6K1U</link>
-            <guid>https://www.youtube.com/watch?v=-5CM_sb6K1U</guid>
-            <pubDate>Wed, 06 Oct 2021 10:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #아름다운사실 #부활
-
-MAX CHAN...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-5CM_sb6K1U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 The 3rd Album 'Sticker', enteri... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378823</link>
-            <guid>https://now.smtown.com/news/detail/2378823</guid>
-            <pubDate>Wed, 06 Oct 2021 06:51:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) The 3rd Alb...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The ‘Savage’ syndrome begins! (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378822</link>
-            <guid>https://now.smtown.com/news/detail/2378822</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) is creating a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM DJ Raiden’s 1st mini album ‘Love Rig... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378821</link>
-            <guid>https://now.smtown.com/news/detail/2378821</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[DJ artist Raiden (SM) has unveiled a luxurious ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LIM YOONA becomes the ambassador of ‘Mi... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378820</link>
-            <guid>https://now.smtown.com/news/detail/2378820</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) was sel...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hong Ji Yoon to star in '오늘부터 우리는'... “... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378819</link>
-            <guid>https://now.smtown.com/news/detail/2378819</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[Hong Ji Yoon has been cast as the main characte...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge🤟 - KARINA & NINGNING (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=YEBJ5jYDCbg</link>
-            <guid>https://www.youtube.com/watch?v=YEBJ5jYDCbg</guid>
-            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge🤟
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YEBJ5jYDCbg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge🤟 - KARINA & NINGNING (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=x_bnQysN-5w</link>
-            <guid>https://www.youtube.com/watch?v=x_bnQysN-5w</guid>
-            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge🤟
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/x_bnQysN-5w/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge🤟 - WINTER & GISELLE (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=hTaTINRwfpc</link>
-            <guid>https://www.youtube.com/watch?v=hTaTINRwfpc</guid>
-            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge🤟
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hTaTINRwfpc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge🤟 - WINTER & GISELLE (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=A9sDoGh1UtA</link>
-            <guid>https://www.youtube.com/watch?v=A9sDoGh1UtA</guid>
-            <pubDate>Wed, 06 Oct 2021 07:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge🤟
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/A9sDoGh1UtA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
