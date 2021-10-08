@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 13:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 14:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEXT LEVEL🖤이 확실한 #채정안 화보 비하인드 #키동캠｜채정안]]></title>
+            <link>https://www.youtube.com/watch?v=HKKCjfkl-do</link>
+            <guid>https://www.youtube.com/watch?v=HKKCjfkl-do</guid>
+            <pubDate>Fri, 08 Oct 2021 14:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene of the photoshoot by #ChaeJung...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HKKCjfkl-do/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1위다운 무대를 하는 거야🎤ㅣSticker 음악방송 대기실 비하인드]]></title>
             <link>https://www.youtube.com/watch?v=cz_YOU-yrRU</link>
@@ -241,14 +249,6 @@ instagram @laurenny...]]></content:encoded>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1kov89n-_sw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🤟🏻aespa 'Savage' MV Reaction🤟🏻]]></title>
-            <link>https://www.youtube.com/watch?v=LIkcrAhjDGo</link>
-            <guid>https://www.youtube.com/watch?v=LIkcrAhjDGo</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/LIkcrAhjDGo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
