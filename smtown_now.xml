@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 13:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 13:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['BAD LOVE' MV Shooting Behind | KEY 키]]></title>
+            <link>https://www.youtube.com/watch?v=uSOfzOeMUXI</link>
+            <guid>https://www.youtube.com/watch?v=uSOfzOeMUXI</guid>
+            <pubDate>Sat, 09 Oct 2021 13:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uSOfzOeMUXI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Un Cut] Take #1｜'Sticker' Jacket Behin...]]></title>
             <link>https://www.youtube.com/watch?v=IS-x22WaHJc</link>
@@ -244,14 +252,6 @@ instagram @laurenny...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378845</guid>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[Actor Kim Jong Hoon has been cast in ‘지금부터, 쇼타임...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아름다운건 늘 짜릿해, #문가영 화보 비하인드 #키동캠 ｜문가영]]></title>
-            <link>https://www.youtube.com/watch?v=AemSpdA5I8Y</link>
-            <guid>https://www.youtube.com/watch?v=AemSpdA5I8Y</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[Beautiful things are always thrilling Behind-th...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AemSpdA5I8Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
