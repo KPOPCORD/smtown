@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 13:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 14:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/qFaqaSSrcQQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
+            <link>https://www.youtube.com/watch?v=85eFH55upTQ</link>
+            <guid>https://www.youtube.com/watch?v=85eFH55upTQ</guid>
+            <pubDate>Sun, 10 Oct 2021 14:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/85eFH55upTQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꺄항~ 누구 찍어줄까?💚 | U+아이돌Live - XR LIVE : ...]]></title>
@@ -248,13 +257,6 @@ instagram @laurenny...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378848</guid>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E decorated the cover of '1st Lo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXO LAY, Pre-release song ‘Samadhi Real...]]></title>
-            <link>https://now.smtown.com/news/detail/2378847</link>
-            <guid>https://now.smtown.com/news/detail/2378847</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[EXO LAY(SM)'s pre-release song 'Samadhi Real Fi...]]></content:encoded>
         </item>
     </channel>
 </rss>
