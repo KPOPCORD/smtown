@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 14:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 15:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-25866600</link>
+            <guid>https://vlive.tv/post/1-25866600</guid>
+            <pubDate>Sun, 10 Oct 2021 15:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211010_98/1633791945903Tgjv5_JPEG/1633791892175.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY 키 'BAD LOVE' Performance Video]]></title>
             <link>https://vlive.tv/post/1-25814361</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25802046</guid>
             <pubDate>Sun, 10 Oct 2021 10:43:21 GMT</pubDate>
             <content:encoded><![CDATA[10.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211005_289/16334371093907gfTt_JPEG/1633435613359.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
             <link>https://vlive.tv/post/0-25473684</link>
             <guid>https://vlive.tv/post/0-25473684</guid>
-            <pubDate>Sun, 10 Oct 2021 10:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[9.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 Intro + 영웅 (英雄; Kick It) @NCT 127 WORLD PREMIERE STICKER]]></title>
-            <link>https://vlive.tv/post/1-25479274</link>
-            <guid>https://vlive.tv/post/1-25479274</guid>
             <pubDate>Sun, 10 Oct 2021 10:43:21 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
         </item>
