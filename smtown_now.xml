@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 09:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 10:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,14 @@
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1TFLO56p6uA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 o...]]></title>
+            <link>https://www.youtube.com/watch?v=apogZTk06-U</link>
+            <guid>https://www.youtube.com/watch?v=apogZTk06-U</guid>
+            <pubDate>Mon, 11 Oct 2021 10:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[Raiden’s 1st mini album “Love Right Back” is ou...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/apogZTk06-U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
@@ -255,13 +263,6 @@ instagram @laurenny...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378852</guid>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[‘Double Million Seller’ NCT 127(SM) sells over ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Metaverse girl group’ aespa’s 1st mini...]]></title>
-            <link>https://now.smtown.com/news/detail/2378851</link>
-            <guid>https://now.smtown.com/news/detail/2378851</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) even took ove...]]></content:encoded>
         </item>
     </channel>
 </rss>
