@@ -4,9 +4,25 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 14:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 15:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Classic]]></title>
+            <link>https://tv.naver.com/v/22904223</link>
+            <guid>https://tv.naver.com/v/22904223</guid>
+            <pubDate>Mon, 11 Oct 2021 15:49:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_50/dsFPb_1633962016440OqnaI_JPEG/1633962000411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1]]></title>
+            <link>https://tv.naver.com/v/22903203</link>
+            <guid>https://tv.naver.com/v/22903203</guid>
+            <pubDate>Mon, 11 Oct 2021 15:49:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_262/r0f9Q_1633956949979cN5Qq_JPEG/1633956089132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #1]]></title>
             <link>https://tv.naver.com/v/22902201</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_179/djrvX_1631704608628PdFhl_JPEG/1631704438227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Next Level (Habstrakt Remix)' MV]]></title>
-            <link>https://tv.naver.com/v/22447125</link>
-            <guid>https://tv.naver.com/v/22447125</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_198/gywe3_16316095336463HrGc_JPEG/1631609527349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY The 1st Mini Album 〈BAD LOVE〉 : Mood Sampler]]></title>
-            <link>https://tv.naver.com/v/22429078</link>
-            <guid>https://tv.naver.com/v/22429078</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_86/v7Hwy_1631541480345FXSfk_JPEG/1631541476046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
