@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 04:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 05:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=4qe5iml_BZk</link>
+            <guid>https://www.youtube.com/watch?v=4qe5iml_BZk</guid>
+            <pubDate>Mon, 11 Oct 2021 05:41:13 GMT</pubDate>
+            <content:encoded><![CDATA[KANGTA's new single "아마 (Maybe)" will be releas...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4qe5iml_BZk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 o...]]></title>
             <link>https://www.youtube.com/watch?v=vesbZ4o_oK0</link>
@@ -251,13 +259,6 @@ instagram @laurenny...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378850</guid>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[DJ artist Raiden (SM)’s 1st mini album release ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee KEY ‘BAD LOVE’ performance video...]]></title>
-            <link>https://now.smtown.com/news/detail/2378849</link>
-            <guid>https://now.smtown.com/news/detail/2378849</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee KEY(SM)'s first mini album title song 'B...]]></content:encoded>
         </item>
     </channel>
 </rss>
