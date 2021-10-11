@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 15:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 17:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
 Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/9o-hlEJQKQU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Class...]]></title>
+            <link>https://www.youtube.com/watch?v=Lg_PzxCsWE4</link>
+            <guid>https://www.youtube.com/watch?v=Lg_PzxCsWE4</guid>
+            <pubDate>Mon, 11 Oct 2021 17:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Lg_PzxCsWE4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat...]]></title>
@@ -255,15 +263,6 @@ instagra...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378853</guid>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment (hereinafter referred to as SM...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 그래픽디자이너 문호연]]></title>
-            <link>https://www.youtube.com/watch?v=GBan7p_RZcE</link>
-            <guid>https://www.youtube.com/watch?v=GBan7p_RZcE</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, graphic designer
-instagram ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/GBan7p_RZcE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
