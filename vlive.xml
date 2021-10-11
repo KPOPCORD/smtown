@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 08:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 09:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV]]></title>
+            <link>https://vlive.tv/post/1-25891918</link>
+            <guid>https://vlive.tv/post/1-25891918</guid>
+            <pubDate>Mon, 11 Oct 2021 09:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211011_182/1633941711028isTmk_JPEG/upload_78021429295260389f4d92aea-f7ab-4de8-84d1-411accea8bf3.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
             <link>https://vlive.tv/post/1-25887277</link>
             <guid>https://vlive.tv/post/1-25887277</guid>
             <pubDate>Mon, 11 Oct 2021 07:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211011_259/1633916489008vPQh1_JPEG/1633915767742.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-25866600</link>
             <guid>https://vlive.tv/post/1-25866600</guid>
             <pubDate>Mon, 11 Oct 2021 07:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211010_98/1633791945903Tgjv5_JPEG/1633791892175.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25814361</guid>
             <pubDate>Mon, 11 Oct 2021 07:39:31 GMT</pubDate>
             <content:encoded><![CDATA[10.6.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211006_118/1633508906957bK2GO_JPEG/1633508634149.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniversary Special Medley]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' @NCT 127 WORLD PREMIERE STICKER]]></title>
             <link>https://vlive.tv/post/1-25479363</link>
             <guid>https://vlive.tv/post/1-25479363</guid>
-            <pubDate>Mon, 11 Oct 2021 07:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[9.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live]]></title>
-            <link>https://vlive.tv/post/0-25473690</link>
-            <guid>https://vlive.tv/post/0-25473690</guid>
             <pubDate>Mon, 11 Oct 2021 07:39:31 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
         </item>

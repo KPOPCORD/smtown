@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 08:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 09:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : A Wa...]]></title>
+            <link>https://www.youtube.com/watch?v=1TFLO56p6uA</link>
+            <guid>https://www.youtube.com/watch?v=1TFLO56p6uA</guid>
+            <pubDate>Mon, 11 Oct 2021 09:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1TFLO56p6uA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
             <link>https://www.youtube.com/watch?v=4qe5iml_BZk</link>
@@ -20,7 +30,7 @@
             <link>https://www.youtube.com/watch?v=vesbZ4o_oK0</link>
             <guid>https://www.youtube.com/watch?v=vesbZ4o_oK0</guid>
             <pubDate>Sun, 10 Oct 2021 17:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[Raiden’s 1st mini album “Love Right Back” will ...]]></content:encoded>
+            <content:encoded><![CDATA[Raiden’s 1st mini album “Love Right Back” is ou...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/vesbZ4o_oK0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -252,13 +262,6 @@ instagram @laurenny...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378851</guid>
             <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) even took ove...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Raiden’s 1st mini album release celebra...]]></title>
-            <link>https://now.smtown.com/news/detail/2378850</link>
-            <guid>https://now.smtown.com/news/detail/2378850</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[DJ artist Raiden (SM)’s 1st mini album release ...]]></content:encoded>
         </item>
     </channel>
 </rss>
