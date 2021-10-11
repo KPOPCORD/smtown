@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 02:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 03:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
+            <link>https://tv.naver.com/v/22893249</link>
+            <guid>https://tv.naver.com/v/22893249</guid>
+            <pubDate>Mon, 11 Oct 2021 03:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_146/KJ8eE_1633915808156vPFBz_JPEG/1633915767742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV Teaser]]></title>
             <link>https://tv.naver.com/v/22878737</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_167/djDMu_1631199970707GG1XX_JPEG/1631199968062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video #3]]></title>
-            <link>https://tv.naver.com/v/22324585</link>
-            <guid>https://tv.naver.com/v/22324585</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_111/KXbh2_1631026271362BBmxC_JPEG/1631026225271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

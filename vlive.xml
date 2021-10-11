@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 02:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 03:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
+            <link>https://vlive.tv/post/1-25887277</link>
+            <guid>https://vlive.tv/post/1-25887277</guid>
+            <pubDate>Mon, 11 Oct 2021 03:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211011_259/1633916489008vPQh1_JPEG/1633915767742.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV Teaser]]></title>
             <link>https://vlive.tv/post/1-25866600</link>
             <guid>https://vlive.tv/post/1-25866600</guid>
             <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211010_98/1633791945903Tgjv5_JPEG/1633791892175.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25802464</guid>
             <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
             <content:encoded><![CDATA[10.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211005_96/1633438812364IYt8P_JPEG/1633437907015.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' Camerawork Guide for Creators]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live]]></title>
             <link>https://vlive.tv/post/0-25473690</link>
             <guid>https://vlive.tv/post/0-25473690</guid>
-            <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[9.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
-            <link>https://vlive.tv/post/0-25473684</link>
-            <guid>https://vlive.tv/post/0-25473684</guid>
             <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
         </item>

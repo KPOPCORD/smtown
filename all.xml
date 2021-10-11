@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 02:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 03:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25887277</link>
+            <guid>https://vlive.tv/post/1-25887277</guid>
+            <pubDate>Mon, 11 Oct 2021 03:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211011_259/1633916489008vPQh1_JPEG/1633915767742.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25866600</link>
             <guid>https://vlive.tv/post/1-25866600</guid>
             <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211010_98/1633791945903Tgjv5_JPEG/1633791892175.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25802464</guid>
             <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
             <content:encoded><![CDATA[10.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211005_96/1633438812364IYt8P_JPEG/1633437907015.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' Camerawork Guide for Creators (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25473690</link>
             <guid>https://vlive.tv/post/0-25473690</guid>
-            <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[9.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Lemonade' Live @NCT 127 WORLD PREMIERE STICKER (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25473684</link>
-            <guid>https://vlive.tv/post/0-25473684</guid>
             <pubDate>Mon, 11 Oct 2021 02:51:05 GMT</pubDate>
             <content:encoded><![CDATA[9.18.]]></content:encoded>
         </item>
@@ -1372,6 +1372,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22893249</link>
+            <guid>https://tv.naver.com/v/22893249</guid>
+            <pubDate>Mon, 11 Oct 2021 03:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_146/KJ8eE_1633915808156vPFBz_JPEG/1633915767742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22878737</link>
             <guid>https://tv.naver.com/v/22878737</guid>
@@ -1602,14 +1610,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_167/djDMu_1631199970707GG1XX_JPEG/1631199968062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Road Trip' Track Video #3 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22324585</link>
-            <guid>https://tv.naver.com/v/22324585</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_111/KXbh2_1631026271362BBmxC_JPEG/1631026225271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
