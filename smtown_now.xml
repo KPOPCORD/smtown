@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 10:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 11:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,9 +67,11 @@ Li...]]></content:encoded>
             <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Park Ha Seon, selected as an exclusive ...]]></title>
             <link>https://now.smtown.com/news/detail/2378947</link>
             <guid>https://now.smtown.com/news/detail/2378947</guid>
             <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Ha Seon is continuing her strong foo...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[LIVE PREMIERE] Artist on The Rise: aes...]]></title>
