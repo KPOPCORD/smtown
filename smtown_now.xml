@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 09:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 10:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,16 @@
             <content:encoded><![CDATA[KANGTA's new single "아마 (Maybe)" is out now!
 Li...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/TuAWforbaic/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이비스 위러브유~ 🥺💗 nævis why do we love yo...]]></title>
+            <link>https://www.youtube.com/watch?v=s2bTEwdVt5s</link>
+            <guid>https://www.youtube.com/watch?v=s2bTEwdVt5s</guid>
+            <pubDate>Tue, 12 Oct 2021 10:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[나이비스 위러브유~ 🥺💗 nævis why do we love you?? 😳
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/s2bTEwdVt5s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KANGTA, new song 'Maybe' released at 6p...]]></title>
@@ -60,6 +70,14 @@ Li...]]></content:encoded>
             <link>https://now.smtown.com/news/detail/2378947</link>
             <guid>https://now.smtown.com/news/detail/2378947</guid>
             <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE PREMIERE] Artist on The Rise: aes...]]></title>
+            <link>https://www.youtube.com/watch?v=hmZbsfel4jM</link>
+            <guid>https://www.youtube.com/watch?v=hmZbsfel4jM</guid>
+            <pubDate>Tue, 12 Oct 2021 10:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 12일 저녁 8시 'Artist on The Rise: aespa' 유튜브 최...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hmZbsfel4jM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stag...]]></title>
@@ -223,27 +241,6 @@ Listen an...]]></content:encoded>
             <pubDate>Fri, 08 Oct 2021 14:41:52 GMT</pubDate>
             <content:encoded><![CDATA[Behind-the-scene of the photoshoot by #ChaeJung...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HKKCjfkl-do/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1위다운 무대를 하는 거야🎤ㅣSticker 음악방송 대기실 비하인드]]></title>
-            <link>https://www.youtube.com/watch?v=cz_YOU-yrRU</link>
-            <guid>https://www.youtube.com/watch?v=cz_YOU-yrRU</guid>
-            <pubDate>Fri, 08 Oct 2021 13:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/cz_YOU-yrRU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혹시 오늘의 주제는 '호캉스'인가요?(♥︎) | KAIst EP. 02...]]></title>
-            <link>https://www.youtube.com/watch?v=_FjD4Xdp-I8</link>
-            <guid>https://www.youtube.com/watch?v=_FjD4Xdp-I8</guid>
-            <pubDate>Fri, 08 Oct 2021 13:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[(장소 제공 : 안다즈 호텔) 
-
-#KAIst #카이스트 #KAI #카이
-
-KAI O...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/_FjD4Xdp-I8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
