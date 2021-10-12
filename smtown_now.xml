@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 11:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 13:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #2 | ‘Dreamer’ + ‘Magic C...]]></title>
+            <link>https://www.youtube.com/watch?v=9KcXoXiAEWQ</link>
+            <guid>https://www.youtube.com/watch?v=9KcXoXiAEWQ</guid>
+            <pubDate>Tue, 12 Oct 2021 13:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9KcXoXiAEWQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video]]></title>
             <link>https://www.youtube.com/watch?v=TuAWforbaic</link>
@@ -62,9 +70,11 @@ Li...]]></content:encoded>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE has transformed into a...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Top model Han Hye Jin, L'Officiel YK Ed...]]></title>
             <link>https://now.smtown.com/news/detail/2378948</link>
             <guid>https://now.smtown.com/news/detail/2378948</guid>
             <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[In commemoration of the 100th anniversary of th...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Park Ha Seon, selected as an exclusive ...]]></title>
@@ -74,11 +84,12 @@ Li...]]></content:encoded>
             <content:encoded><![CDATA[Actor Park Ha Seon is continuing her strong foo...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[LIVE PREMIERE] Artist on The Rise: aes...]]></title>
+            <title><![CDATA[Artist on The Rise: aespa]]></title>
             <link>https://www.youtube.com/watch?v=hmZbsfel4jM</link>
             <guid>https://www.youtube.com/watch?v=hmZbsfel4jM</guid>
             <pubDate>Tue, 12 Oct 2021 10:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 12일 저녁 8시 'Artist on The Rise: aespa' 유튜브 최...]]></content:encoded>
+            <content:encoded><![CDATA[첫 미니앨범 'Savage'로 돌아온 aespa,
+멤버들이 직접 알려주는 ae-s-p...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hmZbsfel4jM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -235,14 +246,6 @@ Listen an...]]></content:encoded>
 세종대왕님 감사합니다❗
 가사 하면 미스틱💜 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/KCNFYVgSBt0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEXT LEVEL🖤이 확실한 #채정안 화보 비하인드 #키동캠｜채정안]]></title>
-            <link>https://www.youtube.com/watch?v=HKKCjfkl-do</link>
-            <guid>https://www.youtube.com/watch?v=HKKCjfkl-do</guid>
-            <pubDate>Fri, 08 Oct 2021 14:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scene of the photoshoot by #ChaeJung...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HKKCjfkl-do/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
