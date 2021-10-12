@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 13:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 14:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보기만해도 눈이 번쩍✨ 뜨이는 스윗한 조우리와의 #1분인터뷰 #조우리 ...]]></title>
+            <link>https://www.youtube.com/watch?v=7Qi41NN-AYc</link>
+            <guid>https://www.youtube.com/watch?v=7Qi41NN-AYc</guid>
+            <pubDate>Tue, 12 Oct 2021 14:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[#1min_interview with sweet #JoWooRi making our ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/7Qi41NN-AYc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat...]]></title>
             <link>https://www.youtube.com/watch?v=MBSGyTEuLpQ</link>
@@ -234,17 +242,6 @@ Listen an...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378941</guid>
             <pubDate>Tue, 12 Oct 2021 07:41:08 GMT</pubDate>
             <content:encoded><![CDATA[The schedule poster for NCT 127 (SM)'s 3rd albu...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Playlist | 가사 하면 미스틱💜 한글날 특집 가사 집중 노래 ...]]></title>
-            <link>https://www.youtube.com/watch?v=KCNFYVgSBt0</link>
-            <guid>https://www.youtube.com/watch?v=KCNFYVgSBt0</guid>
-            <pubDate>Sat, 09 Oct 2021 03:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[#한글날특집 #가사에집중 #노래모음집
-
-세종대왕님 감사합니다❗
-가사 하면 미스틱💜 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KCNFYVgSBt0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
