@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 07:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 08:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5494</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
+            <pubDate>Tue, 12 Oct 2021 08:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 제15회 아시아필름어워즈(Asian Film Awards) 여우조연상에 노미네이트됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5486</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
+            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5481</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5481</guid>
+            <pubDate>Thu, 07 Oct 2021 04:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[신예 홍지윤이 로맨틱 코미디 새 드라마 '오늘부터 우리는'의 주인공으로 전격 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d35c568f9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5468</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조우리가 보기만 해도 절로 개안되는 맑은 비주얼을 과시했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5452</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5452</guid>
+            <pubDate>Fri, 01 Oct 2021 08:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 드라마 ‘IDOL (아이돌 : The Coup)’에 합류한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151937f72cea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5487</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 29 Sep 2021 11:41:07 GMT</pubDate>
             <content:encoded><![CDATA[배우 황세온이 종합 엔터테인먼트그룹 키이스트와 전속계약을 체결했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d68b04ee2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5486</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
-            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5481</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5481</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[신예 홍지윤이 로맨틱 코미디 새 드라마 '오늘부터 우리는'의 주인공으로 전격 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d35c568f9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조우리, 보기만 해도 절로 개안 되는 청아한 화보 공개 '눈길']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5468</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5468</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조우리가 보기만 해도 절로 개안되는 맑은 비주얼을 과시했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bd5e876b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 조준영, JTBC 새 드라마 ‘IDOL (아이돌 : The Coup)’ 합류!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5452</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5452</guid>
-            <pubDate>Fri, 01 Oct 2021 08:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 드라마 ‘IDOL (아이돌 : The Coup)’에 합류한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_6151937f72cea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘슬의생2’ 김강민 “정경호, 배우로서도 사람으로서도 본받을 점 많은 선배” [종영소감]]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5440</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5440</guid>
-            <pubDate>Mon, 27 Sep 2021 10:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김강민이 tvN ‘슬기로운 의사생활’ 종영 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d61084fb8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

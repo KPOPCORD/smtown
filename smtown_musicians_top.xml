@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 07:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 08:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[슈퍼주니어 히트곡 ‘하우스 파티’, 두바이에 울려 퍼진다! 은혁-규현 두바이 行]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5504</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5504</guid>
-            <pubDate>Tue, 12 Oct 2021 07:40:17 GMT</pubDate>
+            <title><![CDATA[강타, 신곡 ‘아마’ 오늘 오후 6시 공개! 감미로운 가을 감성곡 기대감 UP!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5512</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5512</guid>
+            <pubDate>Tue, 12 Oct 2021 08:46:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어 히트곡 ‘하우스 파티’, 두바이에 울려 퍼진다! 은혁-규현 두바이 行</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653b9645934.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">강타, 신곡 ‘아마’ 오늘 오후 6시 공개! 감미로운 가을 감성곡 기대감 UP!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653ef8f2c29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E 동해, 10월 13일 디지털 싱글 ‘캘리포니아 러브’ 발매! NCT 제노 피처링!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5503</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5503</guid>
-            <pubDate>Tue, 12 Oct 2021 07:40:17 GMT</pubDate>
+            <title><![CDATA[‘Savage 신드롬’ 에스파, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 16일 출격!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5511</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5511</guid>
+            <pubDate>Tue, 12 Oct 2021 08:46:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E 동해, 10월 13일 디지털 싱글 ‘캘리포니아 러브’ 발매! NCT 제노 피처링!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653b1c7dc18.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘Savage 신드롬’ 에스파, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 16일 출격!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653e99e78a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
