@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 08:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 09:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25908451</link>
+            <guid>https://vlive.tv/post/1-25908451</guid>
+            <pubDate>Tue, 12 Oct 2021 09:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211012_206/1634019132816tdKQA_JPEG/1634019059853.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Classic (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25897533</link>
             <guid>https://vlive.tv/post/1-25897533</guid>
             <pubDate>Tue, 12 Oct 2021 07:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211011_7/1633962049203fiQwI_JPEG/1633962000411.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-25888848</link>
             <guid>https://vlive.tv/post/0-25888848</guid>
             <pubDate>Tue, 12 Oct 2021 07:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211011_55/1633961613430maRzI_JPEG/1633956089132.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,15 +36,14 @@
             <link>https://vlive.tv/post/0-25887640</link>
             <guid>https://vlive.tv/post/0-25887640</guid>
             <pubDate>Tue, 12 Oct 2021 07:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211011_152/1633953235672JFMbK_JPEG/1633951886441.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25891918</link>
             <guid>https://vlive.tv/post/1-25891918</guid>
             <pubDate>Tue, 12 Oct 2021 07:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10.11.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25622724</guid>
             <pubDate>Tue, 12 Oct 2021 07:39:28 GMT</pubDate>
             <content:encoded><![CDATA[9.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #1 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25602354</link>
-            <guid>https://vlive.tv/post/0-25602354</guid>
-            <pubDate>Tue, 12 Oct 2021 07:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[9.24.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SM 이성수 대표 ‘2021 스타트업콘’ 기조연설 (SMTOWN ─ News)]]></title>
@@ -428,6 +428,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d68b04ee2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=TuAWforbaic</link>
+            <guid>https://www.youtube.com/watch?v=TuAWforbaic</guid>
+            <pubDate>Tue, 12 Oct 2021 09:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[KANGTA's new single "아마 (Maybe)" is out now!
+Li...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TuAWforbaic/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KANGTA, new song 'Maybe' released at 6p... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378953</link>
             <guid>https://now.smtown.com/news/detail/2378953</guid>
@@ -539,10 +548,11 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE will release the digit...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM DJ Raiden, first mini album 'Love Ri... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378943</link>
             <guid>https://now.smtown.com/news/detail/2378943</guid>
             <pubDate>Tue, 12 Oct 2021 07:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[DJ artist Raiden (SM)'s first mini album 'Love ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser (SMTOWN ─ NOW)]]></title>
@@ -658,22 +668,21 @@ KAI O...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/_FjD4Xdp-I8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : A Wa... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=wNWb4dEmKLc</link>
-            <guid>https://www.youtube.com/watch?v=wNWb4dEmKLc</guid>
-            <pubDate>Fri, 08 Oct 2021 13:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/wNWb4dEmKLc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 초호화 피처링진과 함께, 레이든 is Back! "Love Right Back" (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32515073&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32515073&amp;memberNo=41350603&amp;navigationType=push</guid>
             <pubDate>Mon, 11 Oct 2021 09:44:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTFfMjE3/MDAxNjMzOTM0OTM1MzE1.DyrjOJAXyYHqDY-5iBcYxd1OmvrVS_dvI1rOZ1OSPSkg.ajQttCahHV8BRFcHEZykDiHGGZCL15MkcGRtoHyrOAMg.JPEG/ISyYyAwUhD3Zf0GxUOC2NXqLBuS8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올 가을을 감성으로 채워줄
+강타의 ‘아마 (Maybe)’ (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32512188&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32512188&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Tue, 12 Oct 2021 09:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfOTkg/MDAxNjMzNjIwNjUwNzI1.nSWv59dRKjpwasL6qS1KVoADnAD5iUFHw97L9uaL1pIg.EjJgSnmAitpPEQ5dtTxbdLMdYzd82fIIWn6JgwC7dpQg.JPEG/IVaeBlXG6k1mKCwf_lIp85OJdh-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -831,14 +840,6 @@ WayV-TEN&YANGYANG 'Low Low' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjVfMTAg/MDAxNjI3MjEzMjE1NDg0.d5mAB2d7IVIMSiQguOFahDpwCx9XCWzexh9AuzWAwHIg.4xzWj9AdSQWC847MYF8qMTN3vdWzHUF2EFw822aoWV8g.JPEG/IOY8oP3IgZso4eSVqDe8ZS2lFrdE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NCT DREAM] 첫 정규 앨범 활약 모아 DREAM (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31983396&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31983396&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTdfNjkg/MDAxNjI2NDk3MjY2ODcz.tmb-t_XXTK0MLARVT4SmjxBf3lns4PzPvxu7BzV5LQ0g.9a07VZjgv-5w6PL3CeeCLz5NprtZ8P_J1N_ByHyl2O4g.JPEG/IFxKiAUtqW7STxnBAn2-zAPobAWM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[에스파] 신곡 'Savage' 세계관 예습하고 광야에서 만나! (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
@@ -1217,6 +1218,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22913555</link>
+            <guid>https://tv.naver.com/v/22913555</guid>
+            <pubDate>Tue, 12 Oct 2021 09:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_231/3pAXt_1634019090254XzrLo_JPEG/1634019059853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Classic (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22904223</link>
             <guid>https://tv.naver.com/v/22904223</guid>
@@ -1447,14 +1456,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Fri, 17 Sep 2021 04:53:46 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_211/9S0e5_1631800505777hsvQl_JPEG/1631800500153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22472301</link>
-            <guid>https://tv.naver.com/v/22472301</guid>
-            <pubDate>Wed, 15 Sep 2021 22:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210915_179/djrvX_1631704608628PdFhl_JPEG/1631704438227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
