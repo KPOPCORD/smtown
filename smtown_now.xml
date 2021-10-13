@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 11:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 13:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONEW & MINHO Reaction💎ㅣKEY 'BAD LOVE' ...]]></title>
+            <link>https://www.youtube.com/watch?v=VOqLaosu_so</link>
+            <guid>https://www.youtube.com/watch?v=VOqLaosu_so</guid>
+            <pubDate>Wed, 13 Oct 2021 13:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VOqLaosu_so/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #3｜'Sticker' MV Behind th...]]></title>
+            <link>https://www.youtube.com/watch?v=Op1ZB0Xx6dE</link>
+            <guid>https://www.youtube.com/watch?v=Op1ZB0Xx6dE</guid>
+            <pubDate>Wed, 13 Oct 2021 13:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Op1ZB0Xx6dE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : The ...]]></title>
             <link>https://www.youtube.com/watch?v=zp0-LIQ76q4</link>
@@ -232,23 +248,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/qFaqaSSrcQQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
-            <link>https://www.youtube.com/watch?v=85eFH55upTQ</link>
-            <guid>https://www.youtube.com/watch?v=85eFH55upTQ</guid>
-            <pubDate>Sun, 10 Oct 2021 14:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/85eFH55upTQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꺄항~ 누구 찍어줄까?💚 | U+아이돌Live - XR LIVE : ...]]></title>
-            <link>https://www.youtube.com/watch?v=qowpWFVNDUg</link>
-            <guid>https://www.youtube.com/watch?v=qowpWFVNDUg</guid>
-            <pubDate>Sun, 10 Oct 2021 13:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM LIVE + "DREAM CINEMA" : 10.12 8PM (KS...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qowpWFVNDUg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
