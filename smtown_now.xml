@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 23:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 01:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,15 @@ Li...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378947</guid>
             <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
             <content:encoded><![CDATA[Actor Park Ha Seon is continuing her strong foo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Artist on The Rise: aespa]]></title>
+            <link>https://www.youtube.com/watch?v=hmZbsfel4jM</link>
+            <guid>https://www.youtube.com/watch?v=hmZbsfel4jM</guid>
+            <pubDate>Wed, 13 Oct 2021 01:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[첫 미니앨범 'Savage'로 돌아온 aespa,
+멤버들이 직접 알려주는 ae-s-p...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hmZbsfel4jM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stag...]]></title>
@@ -235,13 +244,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
 Listen an...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/IS-x22WaHJc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album repackage 'Favorite'...]]></title>
-            <link>https://now.smtown.com/news/detail/2378941</link>
-            <guid>https://now.smtown.com/news/detail/2378941</guid>
-            <pubDate>Tue, 12 Oct 2021 07:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[The schedule poster for NCT 127 (SM)'s 3rd albu...]]></content:encoded>
         </item>
     </channel>
 </rss>
