@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV]]></title>
+            <link>https://tv.naver.com/v/22934152</link>
+            <guid>https://tv.naver.com/v/22934152</guid>
+            <pubDate>Wed, 13 Oct 2021 09:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_233/fvdQy_16341036826124CKtc_JPEG/1634103622300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video]]></title>
             <link>https://tv.naver.com/v/22913555</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Sep 2021 13:43:19 GMT</pubDate>
             <content:encoded><![CDATA[4:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210917_204/XcVEy_1631869857920LSFsB_JPEG/1631869850055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip]]></title>
-            <link>https://tv.naver.com/v/22496853</link>
-            <guid>https://tv.naver.com/v/22496853</guid>
-            <pubDate>Thu, 16 Sep 2021 15:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_270/NrY7R_1631798050346CxUd0_JPEG/1631798015400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

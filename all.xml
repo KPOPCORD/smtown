@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-25959528</link>
+            <guid>https://vlive.tv/post/1-25959528</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_273/1634106824179pkCPp_JPEG/1634103622300.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #2 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25905605</link>
             <guid>https://vlive.tv/post/1-25905605</guid>
             <pubDate>Wed, 13 Oct 2021 01:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211012_20/1634009075441U2BAA_JPEG/1634008144171.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-25908451</link>
             <guid>https://vlive.tv/post/1-25908451</guid>
             <pubDate>Wed, 13 Oct 2021 01:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10.12.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211012_206/1634019132816tdKQA_JPEG/1634019059853.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25897533</guid>
             <pubDate>Wed, 13 Oct 2021 01:45:53 GMT</pubDate>
             <content:encoded><![CDATA[10.11.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211011_7/1633962049203fiQwI_JPEG/1633962000411.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1 (SMTOWN ─ Media Board)]]></title>
@@ -144,11 +151,147 @@
             <content:encoded><![CDATA[9.26.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NINGNING (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25640605</link>
-            <guid>https://vlive.tv/post/0-25640605</guid>
-            <pubDate>Wed, 13 Oct 2021 01:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[9.26.]]></content:encoded>
+            <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-23827151</link>
+            <guid>https://www.vlive.tv/post/1-23827151</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210701_110/16251082221417MkDg_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[초대장] U-KNOW의 'NOIR' 특별 시사회에 여러분을 초대합니다!❤️ (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-20820700</link>
+            <guid>https://www.vlive.tv/post/0-20820700</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_84/1625912545990RKiUm_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA['믿듣탱' 태연의 컴백을 함께할 S♡NE 구합니다! (1/19890309) (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-20308927</link>
+            <guid>https://www.vlive.tv/post/1-20308927</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[＜✌🏻점핑이들이 있어줘서 더 BETTER한 BoA✊🏻＞와 함께해 줄 점핑이들 메시지 모집 중💛 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-20103428</link>
+            <guid>https://www.vlive.tv/post/1-20103428</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_41/1625921180776Uk0hu_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[👿'B.A.D'한 슈퍼주니어-D&E가 E.L.F.의 메시지를 기다립니다🚗 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-17212329</link>
+            <guid>https://www.vlive.tv/post/1-17212329</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BoA Still Our No.1 – BoA Debut 20th Anniversary Special V LIVE💛 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-16713406</link>
+            <guid>https://www.vlive.tv/post/1-16713406</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:00(KST), SUPER JUNIOR-K.R.Y.와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-16545407</link>
+            <guid>https://www.vlive.tv/post/0-16545407</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👫태민&SHINee World, '2 KIDS'의 이야기를 들려주세요👂🏻 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-16022866</link>
+            <guid>https://www.vlive.tv/post/0-16022866</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HYO를 위한 S♡NE의 스윗한 ‘DESSERT’ 메시지 모집중🧁 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-15775316</link>
+            <guid>https://www.vlive.tv/post/0-15775316</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸르게 빛나던 슈퍼주니어-K.R.Y.의 계절🌿 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14658723</link>
+            <guid>https://www.vlive.tv/post/1-14658723</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:50(KST), SUPER JUNIOR와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14534593</link>
+            <guid>https://www.vlive.tv/post/1-14534593</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 19:40(KST), TVXQ!와 함께하는 실시간 채팅이 시작됩니다. Real time live cha... (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14349811</link>
+            <guid>https://www.vlive.tv/post/1-14349811</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 18:30 (KST), NCT 127과 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14192517</link>
+            <guid>https://www.vlive.tv/post/1-14192517</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 18:10 (KST) NCT DREAM과 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-13978693</link>
+            <guid>https://www.vlive.tv/post/1-13978693</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 14:05 (KST) WayV와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-13961833</link>
+            <guid>https://www.vlive.tv/post/1-13961833</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 5분 뒤인 13시 (KST), WayV와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-13931435</link>
+            <guid>https://www.vlive.tv/post/0-13931435</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든 티켓 to 최강창민 입덕🎇 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-13388732</link>
+            <guid>https://www.vlive.tv/post/0-13388732</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[태연의 랜선 생일파티! 파티원을 구합니다💗 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-12989682</link>
+            <guid>https://www.vlive.tv/post/0-12989682</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[점핑보아에게 묻습니다💛: 2019 & 2020 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-12362094</link>
+            <guid>https://www.vlive.tv/post/1-12362094</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성민의 Music Box에 질문을 보내주세요📬 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-12246088</link>
+            <guid>https://www.vlive.tv/post/1-12246088</guid>
+            <pubDate>Wed, 13 Oct 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SM 이성수 대표 ‘2021 스타트업콘’ 기조연설 (SMTOWN ─ News)]]></title>
@@ -428,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614d68b04ee2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=HMQc3PdLOQ8</link>
+            <guid>https://www.youtube.com/watch?v=HMQc3PdLOQ8</guid>
+            <pubDate>Wed, 13 Oct 2021 09:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HMQc3PdLOQ8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MY 모두 함께 외쳐요🗣 | aespa 에스파 'Savage' 응원법 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=yWSnSq6TyTM</link>
             <guid>https://www.youtube.com/watch?v=yWSnSq6TyTM</guid>
@@ -449,7 +601,8 @@ Listen ...]]></content:encoded>
             <link>https://www.youtube.com/watch?v=MBSGyTEuLpQ</link>
             <guid>https://www.youtube.com/watch?v=MBSGyTEuLpQ</guid>
             <pubDate>Tue, 12 Oct 2021 13:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE's new single "California Love" will be ...]]></content:encoded>
+            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
+...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/MBSGyTEuLpQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -658,14 +811,6 @@ Listen an...]]></content:encoded>
             <content:encoded><![CDATA[The global popularity of NCT 127 (SM) continues.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['BAD LOVE' MV Shooting Behind | KEY 키 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=uSOfzOeMUXI</link>
-            <guid>https://www.youtube.com/watch?v=uSOfzOeMUXI</guid>
-            <pubDate>Sat, 09 Oct 2021 13:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/uSOfzOeMUXI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 초호화 피처링진과 함께, 레이든 is Back! "Love Right Back" (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32515073&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32515073&amp;memberNo=41350603&amp;navigationType=push</guid>
@@ -681,6 +826,15 @@ Listen an...]]></content:encoded>
             <pubDate>Tue, 12 Oct 2021 09:44:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfOTkg/MDAxNjMzNjIwNjUwNzI1.nSWv59dRKjpwasL6qS1KVoADnAD5iUFHw97L9uaL1pIg.EjJgSnmAitpPEQ5dtTxbdLMdYzd82fIIWn6JgwC7dpQg.JPEG/IVaeBlXG6k1mKCwf_lIp85OJdh-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["어디서 달달한 냄새 안 나요..?"
+동해 싱글 'California Love' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32499948&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32499948&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Oct 2021 09:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMjcg/MDAxNjMzNjcxNzE2ODI4.SPMxA72UAqOoCwoQDuMFG3_ZQgArKUyd7RfzbdUeRNYg.gL_HsOTvBzzWlaRNiprs6c1mVKLzf84Y4sLXz4C_y8Yg.JPEG/I6mTo_EbMFrFo0UHBvHx-9SUlB7o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] Oh my gosh! 에스파 첫 미니앨범 'Savage' 발매 3시간 전! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -830,14 +984,6 @@ WayV-TEN&YANGYANG 'Low Low' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjdfMjU1/MDAxNjI3Mzc0MTU0MzMw.DwziY3mqsUX3L3kUdf4DUU0SzZI52kentVuL8boyfCEg.tIyhWg7O60G7RhBLA-zE9n0vXKRwGXd9addk4ASIS2kg.JPEG/I4yRxgXBAcOIyJhXM2mFIRU0eVo0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디오 '공감' 자켓 & MV 촬영 비하인드 준비했됴 (Feat. 이벤트) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32038931&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32038931&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjVfMTAg/MDAxNjI3MjEzMjE1NDg0.d5mAB2d7IVIMSiQguOFahDpwCx9XCWzexh9AuzWAwHIg.4xzWj9AdSQWC847MYF8qMTN3vdWzHUF2EFw822aoWV8g.JPEG/IOY8oP3IgZso4eSVqDe8ZS2lFrdE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[에스파] 신곡 'Savage' 세계관 예습하고 광야에서 만나! (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
@@ -1216,6 +1362,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22934152</link>
+            <guid>https://tv.naver.com/v/22934152</guid>
+            <pubDate>Wed, 13 Oct 2021 09:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211013_233/fvdQy_16341036826124CKtc_JPEG/1634103622300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22913555</link>
             <guid>https://tv.naver.com/v/22913555</guid>
@@ -1446,14 +1600,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Fri, 17 Sep 2021 13:43:19 GMT</pubDate>
             <content:encoded><![CDATA[4:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210917_204/XcVEy_1631869857920LSFsB_JPEG/1631869850055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' P.O.S (Case Ver.) Concept Clip (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22496853</link>
-            <guid>https://tv.naver.com/v/22496853</guid>
-            <pubDate>Thu, 16 Sep 2021 15:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_270/NrY7R_1631798050346CxUd0_JPEG/1631798015400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
