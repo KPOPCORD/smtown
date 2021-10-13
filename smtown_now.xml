@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 13:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 14:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 촬영 방불케 한 #김서형 #세사패 광고 현장 #키동캠｜Kim Se...]]></title>
+            <link>https://www.youtube.com/watch?v=NLa85UqKe9I</link>
+            <guid>https://www.youtube.com/watch?v=NLa85UqKe9I</guid>
+            <pubDate>Wed, 13 Oct 2021 14:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[Shooting field of AD by #KimSeoHyung like a sho...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NLa85UqKe9I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ONEW & MINHO Reaction💎ㅣKEY 'BAD LOVE' ...]]></title>
             <link>https://www.youtube.com/watch?v=VOqLaosu_so</link>
@@ -239,15 +247,6 @@ ht...]]></content:encoded>
             <pubDate>Sun, 10 Oct 2021 17:01:33 GMT</pubDate>
             <content:encoded><![CDATA[Raiden’s 1st mini album “Love Right Back” is ou...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/vesbZ4o_oK0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해찬랜드에 오신 걸 환영합니다🧸💛ㅣ최고의 카우보이를 찾아라ㅣRoun...]]></title>
-            <link>https://www.youtube.com/watch?v=qFaqaSSrcQQ</link>
-            <guid>https://www.youtube.com/watch?v=qFaqaSSrcQQ</guid>
-            <pubDate>Sun, 10 Oct 2021 13:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album "Sticker" is out!
-Listen an...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qFaqaSSrcQQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
