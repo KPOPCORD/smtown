@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[강타, 신곡 ‘아마’ 오늘 오후 6시 공개! 감미로운 가을 감성곡 기대감 UP!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5512</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5512</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:20 GMT</pubDate>
+            <title><![CDATA[동해 신곡 ‘캘리포니아 러브’, 아이튠즈 톱 송 차트 10개 지역 1위! 오늘 음악 방송 첫 무대!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5520</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5520</guid>
+            <pubDate>Thu, 14 Oct 2021 03:44:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">강타, 신곡 ‘아마’ 오늘 오후 6시 공개! 감미로운 가을 감성곡 기대감 UP!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653ef8f2c29.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">동해 신곡 ‘캘리포니아 러브’, 아이튠즈 톱 송 차트 10개 지역 1위! 오늘 음악 방송 첫 무대!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a77b10bce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘Savage 신드롬’ 에스파, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 16일 출격!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5511</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5511</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:20 GMT</pubDate>
+            <title><![CDATA[에스파, 신곡 ‘Savage’로 ‘Next Level’ 이어 2연속 멜론 일간 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5517</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5517</guid>
+            <pubDate>Thu, 14 Oct 2021 03:44:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘Savage 신드롬’ 에스파, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 16일 출격!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653e99e78a7.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파, 신곡 ‘Savage’로 ‘Next Level’ 이어 2연속 멜론 일간 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a58a87ec1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
