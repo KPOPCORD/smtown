@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 03:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 04:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25959528</link>
             <guid>https://vlive.tv/post/1-25959528</guid>
             <pubDate>Thu, 14 Oct 2021 02:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_273/1634106824179pkCPp_JPEG/1634103622300.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스파 첫 미니앨범 ‘Savage’ 가온차트도 1위! 'Savage' 신드롬 ING! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5522</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5522</guid>
+            <pubDate>Thu, 14 Oct 2021 04:52:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">에스파 첫 미니앨범 ‘Savage’ 가온차트도 1위! 'Savage' 신드롬 ING!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a85d4a35e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 리패키지, 사랑 테마 R&B 음악으로 매력 UP! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5521</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5521</guid>
+            <pubDate>Thu, 14 Oct 2021 04:52:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 리패키지, 사랑 테마 R&amp;B 음악으로 매력 UP!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a7e68ce4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[동해 신곡 ‘캘리포니아 러브’, 아이튠즈 톱 송 차트 10개 지역 1위! 오늘 음악 방송 첫 무대! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5520</link>
             <guid>https://www.smtown.com/artist/newsDetail/5520</guid>
             <pubDate>Thu, 14 Oct 2021 03:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">동해 신곡 ‘캘리포니아 러브’, 아이튠즈 톱 송 차트 10개 지역 1위! 오늘 음악 방송 첫 무대!</span>]]></content:encoded>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E 동해가 글로벌 팬들에게 강렬한 인상을 남겼다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a77b10bce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 신곡 ‘Savage’로 ‘Next Level’ 이어 2연속 멜론 일간 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5517</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5517</guid>
-            <pubDate>Thu, 14 Oct 2021 03:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파, 신곡 ‘Savage’로 ‘Next Level’ 이어 2연속 멜론 일간 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a58a87ec1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 레이든, 데뷔 첫 음악 방송 출연! 신곡 ‘Love Right Back’ 무대 선사! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653d18d79e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어 히트곡 ‘하우스 파티’, 두바이에 울려 퍼진다! 은혁-규현 두바이 行 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5504</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5504</guid>
-            <pubDate>Tue, 12 Oct 2021 07:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어의 히트곡 ‘House Party’(하우스 파티)가 두바이에 울려 퍼진다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653b9645934.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에스파, 신곡 ‘Savage’로 ‘Next Level’ 이어 2연속 멜론 일간 1위! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5517</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5517</guid>
+            <pubDate>Thu, 14 Oct 2021 03:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 멜론 일간 차트 1위에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a58a87ec1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동해 디지털 싱글 ‘캘리포니아 러브’, 오늘 오후 6시 공개! 감성 자작곡으로 채웠다! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 12 Oct 2021 08:46:35 GMT</pubDate>
             <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 주간 음반 차트에서도 1위를 차지했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653bf4c0272.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E 동해, 10월 13일 디지털 싱글 ‘캘리포니아 러브’ 발매! NCT 제노 피처링! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5503</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5503</guid>
-            <pubDate>Tue, 12 Oct 2021 07:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E 동해가 10월 13일 오후 6시 디지털 싱글 ‘California Love’ (캘리포니아 러브)를 발매한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653b1c7dc18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,18 @@
             <pubDate>Wed, 29 Sep 2021 10:45:04 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 도영(엔시티 127 도영, 에스엠엔터테인먼트 소속)이 금일(29일) 뮤지컬 ‘마리 앙투아네트’의 마지막 공연을 펼친다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379005</link>
+            <guid>https://now.smtown.com/news/detail/2379005</guid>
+            <pubDate>Thu, 14 Oct 2021 04:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379004</link>
+            <guid>https://now.smtown.com/news/detail/2379004</guid>
+            <pubDate>Thu, 14 Oct 2021 04:53:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -780,22 +792,6 @@ Li...]]></content:encoded>
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
 Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/9o-hlEJQKQU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Class... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Lg_PzxCsWE4</link>
-            <guid>https://www.youtube.com/watch?v=Lg_PzxCsWE4</guid>
-            <pubDate>Mon, 11 Oct 2021 17:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Lg_PzxCsWE4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=uG0QIgwwaXU</link>
-            <guid>https://www.youtube.com/watch?v=uG0QIgwwaXU</guid>
-            <pubDate>Mon, 11 Oct 2021 14:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE's new single "California Love" will be ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/uG0QIgwwaXU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 초호화 피처링진과 함께, 레이든 is Back! "Love Right Back" (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
