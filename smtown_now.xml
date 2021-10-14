@@ -4,23 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[aespa’s first mini album ‘Savage’ wins ...]]></title>
             <link>https://now.smtown.com/news/detail/2379005</link>
             <guid>https://now.smtown.com/news/detail/2379005</guid>
             <pubDate>Thu, 14 Oct 2021 04:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) topped the Ga...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NCT 127 3rd album repackage, charm UP w...]]></title>
             <link>https://now.smtown.com/news/detail/2379004</link>
             <guid>https://now.smtown.com/news/detail/2379004</guid>
             <pubDate>Thu, 14 Oct 2021 04:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album repackage will present...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DONGHAE's new song 'California Love' to...]]></title>
             <link>https://now.smtown.com/news/detail/2379003</link>
             <guid>https://now.smtown.com/news/detail/2379003</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE left a strong impressi...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379002</link>
@@ -76,6 +82,13 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HMQc3PdLOQ8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' recorded ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379006</link>
+            <guid>https://now.smtown.com/news/detail/2379006</guid>
+            <pubDate>Thu, 14 Oct 2021 06:51:02 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album 'Sticker' has been on ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[aespa's new song 'Savage' tops the Melo...]]></title>
             <link>https://now.smtown.com/news/detail/2379000</link>
             <guid>https://now.smtown.com/news/detail/2379000</guid>
@@ -88,9 +101,11 @@ ht...]]></content:encoded>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DONGHAE digital single ‘California Love...]]></title>
             <link>https://now.smtown.com/news/detail/2378998</link>
             <guid>https://now.smtown.com/news/detail/2378998</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE's digital single 'Cali...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2378997</link>
@@ -212,15 +227,6 @@ Li...]]></content:encoded>
             <content:encoded><![CDATA[첫 미니앨범 'Savage'로 돌아온 aespa,
 멤버들이 직접 알려주는 ae-s-p...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hmZbsfel4jM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stag...]]></title>
-            <link>https://www.youtube.com/watch?v=9o-hlEJQKQU</link>
-            <guid>https://www.youtube.com/watch?v=9o-hlEJQKQU</guid>
-            <pubDate>Mon, 11 Oct 2021 15:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/9o-hlEJQKQU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

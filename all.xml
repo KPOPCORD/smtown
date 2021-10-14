@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-25959528</link>
             <guid>https://vlive.tv/post/1-25959528</guid>
             <pubDate>Thu, 14 Oct 2021 02:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_273/1634106824179pkCPp_JPEG/1634103622300.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -401,38 +401,6 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a77b10bce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DJ 레이든, 데뷔 첫 음악 방송 출연! 신곡 ‘Love Right Back’ 무대 선사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5516</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5516</guid>
-            <pubDate>Thu, 14 Oct 2021 03:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)이 데뷔 첫 음악 방송 무대에 오른다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a5057b828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강타, 신곡 ‘아마’ 오늘 오후 6시 공개! 감미로운 가을 감성곡 기대감 UP! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5512</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5512</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)의 신곡 ‘아마 (Maybe)’가 오늘(12일) 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653ef8f2c29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 신곡 ‘Favorite’ 치명적인 매력으로 가요계 중독시킨다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5510</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5510</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 치명적인 매력의 신곡 ‘Favorite’(페이보릿)으로 가요계를 강타한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653e591686d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘핑크 헤어’ 변신한 동해, 솔로곡 ‘캘리포니아 러브’ MV 티저 영상 화제! “조각 같은 비주얼” (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5508</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5508</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E 동해가 파격적인 핑크 헤어로 변신했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653d18d79e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에스파, 신곡 ‘Savage’로 ‘Next Level’ 이어 2연속 멜론 일간 1위! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5517</link>
             <guid>https://www.smtown.com/artist/newsDetail/5517</guid>
@@ -465,12 +433,44 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653debd7d3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 주간 음반 차트 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5505</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5505</guid>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’ 美 ‘빌보드 200’ 3주 연속 차트인 기록! 롱런 인기 행진! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5523</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5523</guid>
+            <pubDate>Thu, 14 Oct 2021 06:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 미국 빌보드 메인 차트에 3주 연속 이름을 올렸다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167c5e6beeba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 레이든, 데뷔 첫 음악 방송 출연! 신곡 ‘Love Right Back’ 무대 선사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5516</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5516</guid>
+            <pubDate>Thu, 14 Oct 2021 03:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)이 데뷔 첫 음악 방송 무대에 오른다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a5057b828.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강타, 신곡 ‘아마’ 오늘 오후 6시 공개! 감미로운 가을 감성곡 기대감 UP! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5512</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5512</guid>
+            <pubDate>Tue, 12 Oct 2021 08:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)의 신곡 ‘아마 (Maybe)’가 오늘(12일) 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653ef8f2c29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 신곡 ‘Favorite’ 치명적인 매력으로 가요계 중독시킨다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5510</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5510</guid>
             <pubDate>Tue, 12 Oct 2021 08:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 주간 음반 차트에서도 1위를 차지했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653bf4c0272.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 치명적인 매력의 신곡 ‘Favorite’(페이보릿)으로 가요계를 강타한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653e591686d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘핑크 헤어’ 변신한 동해, 솔로곡 ‘캘리포니아 러브’ MV 티저 영상 화제! “조각 같은 비주얼” (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5508</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5508</guid>
+            <pubDate>Tue, 12 Oct 2021 08:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E 동해가 파격적인 핑크 헤어로 변신했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653d18d79e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[aespa’s first mini album ‘Savage’ wins ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379005</link>
             <guid>https://now.smtown.com/news/detail/2379005</guid>
             <pubDate>Thu, 14 Oct 2021 04:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) topped the Ga...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127 3rd album repackage, charm UP w... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379004</link>
             <guid>https://now.smtown.com/news/detail/2379004</guid>
             <pubDate>Thu, 14 Oct 2021 04:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album repackage will present...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[DONGHAE's new song 'California Love' to... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379003</link>
             <guid>https://now.smtown.com/news/detail/2379003</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE left a strong impressi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -644,6 +647,13 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HMQc3PdLOQ8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' recorded ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379006</link>
+            <guid>https://now.smtown.com/news/detail/2379006</guid>
+            <pubDate>Thu, 14 Oct 2021 06:51:02 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album 'Sticker' has been on ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[aespa's new song 'Savage' tops the Melo... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379000</link>
             <guid>https://now.smtown.com/news/detail/2379000</guid>
@@ -657,10 +667,11 @@ ht...]]></content:encoded>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[DONGHAE digital single ‘California Love... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2378998</link>
             <guid>https://now.smtown.com/news/detail/2378998</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE's digital single 'Cali...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -784,15 +795,6 @@ Li...]]></content:encoded>
             <content:encoded><![CDATA[첫 미니앨범 'Savage'로 돌아온 aespa,
 멤버들이 직접 알려주는 ae-s-p...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hmZbsfel4jM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stag... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=9o-hlEJQKQU</link>
-            <guid>https://www.youtube.com/watch?v=9o-hlEJQKQU</guid>
-            <pubDate>Mon, 11 Oct 2021 15:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/9o-hlEJQKQU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 초호화 피처링진과 함께, 레이든 is Back! "Love Right Back" (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
