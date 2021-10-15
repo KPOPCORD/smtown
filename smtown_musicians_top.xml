@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 02:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 03:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[에스파 첫 미니앨범 ‘Savage’ 가온차트도 1위! 'Savage' 신드롬 ING!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5522</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5522</guid>
-            <pubDate>Thu, 14 Oct 2021 04:52:37 GMT</pubDate>
+            <title><![CDATA[에스파, 美 피플지 선정 ‘2021년 알아야 할 라이징 스타’ 등극!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5528</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5528</guid>
+            <pubDate>Fri, 15 Oct 2021 03:45:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파 첫 미니앨범 ‘Savage’ 가온차트도 1위! 'Savage' 신드롬 ING!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a85d4a35e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파, 美 피플지 선정 ‘2021년 알아야 할 라이징 스타’ 등극!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f5066f42a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 리패키지, 사랑 테마 R&B 음악으로 매력 UP!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5521</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5521</guid>
-            <pubDate>Thu, 14 Oct 2021 04:52:37 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5527</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5527</guid>
+            <pubDate>Fri, 15 Oct 2021 03:45:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 리패키지, 사랑 테마 R&amp;B 음악으로 매력 UP!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a7e68ce4e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 리패키지 ‘Favorite’ 티저 이미지 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f456e45ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

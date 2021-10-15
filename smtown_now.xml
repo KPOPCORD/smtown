@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 02:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 03:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379030</link>
+            <guid>https://now.smtown.com/news/detail/2379030</guid>
+            <pubDate>Fri, 15 Oct 2021 03:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 3rd album repackage 'Favorite'...]]></title>
+            <link>https://now.smtown.com/news/detail/2379029</link>
+            <guid>https://now.smtown.com/news/detail/2379029</guid>
+            <pubDate>Fri, 15 Oct 2021 03:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[On October 25th, a new teaser image of NCT 127 ...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379028</link>
+            <guid>https://now.smtown.com/news/detail/2379028</guid>
+            <pubDate>Fri, 15 Oct 2021 03:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379027</link>
+            <guid>https://now.smtown.com/news/detail/2379027</guid>
+            <pubDate>Fri, 15 Oct 2021 03:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379026</link>
+            <guid>https://now.smtown.com/news/detail/2379026</guid>
+            <pubDate>Fri, 15 Oct 2021 03:46:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remi...]]></title>
             <link>https://www.youtube.com/watch?v=lny-58fAcMo</link>
@@ -201,41 +228,6 @@ Li...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378952</guid>
             <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
             <content:encoded><![CDATA['Metaverse girl group' aespa (SM) will appear f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's new song 'Favorite' poisons t...]]></title>
-            <link>https://now.smtown.com/news/detail/2378951</link>
-            <guid>https://now.smtown.com/news/detail/2378951</guid>
-            <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) hits the music scene with a new so...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM Vol.11 : Queendom Remix’ to be...]]></title>
-            <link>https://now.smtown.com/news/detail/2378950</link>
-            <guid>https://now.smtown.com/news/detail/2378950</guid>
-            <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet (SM)'s 'Queendom' remix version  to ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DONGHAE, who transformed into ‘Pink Hai...]]></title>
-            <link>https://now.smtown.com/news/detail/2378949</link>
-            <guid>https://now.smtown.com/news/detail/2378949</guid>
-            <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE has transformed into a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top model Han Hye Jin, L'Officiel YK Ed...]]></title>
-            <link>https://now.smtown.com/news/detail/2378948</link>
-            <guid>https://now.smtown.com/news/detail/2378948</guid>
-            <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[In commemoration of the 100th anniversary of th...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Park Ha Seon, selected as an exclusive ...]]></title>
-            <link>https://now.smtown.com/news/detail/2378947</link>
-            <guid>https://now.smtown.com/news/detail/2378947</guid>
-            <pubDate>Tue, 12 Oct 2021 08:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Park Ha Seon is continuing her strong foo...]]></content:encoded>
         </item>
     </channel>
 </rss>
