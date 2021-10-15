@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 08:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 09:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LISTEN STAGE] 210929 - 윤종신 (Long D./고립...]]></title>
+            <link>https://www.youtube.com/watch?v=yg5Pppri5Ng</link>
+            <guid>https://www.youtube.com/watch?v=yg5Pppri5Ng</guid>
+            <pubDate>Fri, 15 Oct 2021 09:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[#윤종신리슨스테이지 #윤종신 #나이
+🚩JONGSHIN YOON's Instagram...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yg5Pppri5Ng/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remi...]]></title>
+            <link>https://www.youtube.com/watch?v=cgFg0ghNqVA</link>
+            <guid>https://www.youtube.com/watch?v=cgFg0ghNqVA</guid>
+            <pubDate>Fri, 15 Oct 2021 09:44:12 GMT</pubDate>
+            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cgFg0ghNqVA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE – KEY: 'GROKS IN THE IN THE...]]></title>
             <link>https://www.youtube.com/watch?v=5hOJCQchJvA</link>
@@ -226,23 +243,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
 Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yWSnSq6TyTM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만해도 눈이 번쩍✨ 뜨이는 스윗한 조우리와의 #1분인터뷰 #조우리 ...]]></title>
-            <link>https://www.youtube.com/watch?v=7Qi41NN-AYc</link>
-            <guid>https://www.youtube.com/watch?v=7Qi41NN-AYc</guid>
-            <pubDate>Tue, 12 Oct 2021 14:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[#1min_interview with sweet #JoWooRi making our ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7Qi41NN-AYc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat...]]></title>
-            <link>https://www.youtube.com/watch?v=MBSGyTEuLpQ</link>
-            <guid>https://www.youtube.com/watch?v=MBSGyTEuLpQ</guid>
-            <pubDate>Tue, 12 Oct 2021 13:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MBSGyTEuLpQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
