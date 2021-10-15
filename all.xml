@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 13:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 13:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,23 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=2CdsRWeecj0</link>
+            <guid>https://www.youtube.com/watch?v=2CdsRWeecj0</guid>
+            <pubDate>Fri, 15 Oct 2021 13:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2CdsRWeecj0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Team 'KEY Dancers' Reaction💃🎵ㅣKEY 'BA... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=2in4tC6rX8s</link>
+            <guid>https://www.youtube.com/watch?v=2in4tC6rX8s</guid>
+            <pubDate>Fri, 15 Oct 2021 13:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2in4tC6rX8s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[REPLAY] SYNK DIVE: aespa 'Savage' SHOW... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=xBPkheRn60E</link>
             <guid>https://www.youtube.com/watch?v=xBPkheRn60E</guid>
@@ -578,6 +595,14 @@
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
 Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xBPkheRn60E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #4｜'Sticker' Dance Practi... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=LneM0Ah1sCI</link>
+            <guid>https://www.youtube.com/watch?v=LneM0Ah1sCI</guid>
+            <pubDate>Fri, 15 Oct 2021 13:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LneM0Ah1sCI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LISTEN STAGE] 210929 - 윤종신 (Long D./고립... (SMTOWN ─ NOW)]]></title>
@@ -785,27 +810,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378999</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
             <content:encoded><![CDATA[DJ artist Raiden (SM) will perform on the first...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DONGHAE digital single ‘California Love... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378998</link>
-            <guid>https://now.smtown.com/news/detail/2378998</guid>
-            <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE's digital single 'Cali...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Han Seon Hwa Appears in KAFA's Feature ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378997</link>
-            <guid>https://now.smtown.com/news/detail/2378997</guid>
-            <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[Han Seon Hwa continues her career with a succes...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top model Song Hae Na, ‘나는 SOLO’ MC sel... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2378996</link>
-            <guid>https://now.smtown.com/news/detail/2378996</guid>
-            <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[Top model and broadcaster Song Hae Na has been ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
