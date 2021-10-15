@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 11:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 13:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] SYNK DIVE: aespa 'Savage' SHOW...]]></title>
+            <link>https://www.youtube.com/watch?v=xBPkheRn60E</link>
+            <guid>https://www.youtube.com/watch?v=xBPkheRn60E</guid>
+            <pubDate>Fri, 15 Oct 2021 13:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xBPkheRn60E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LISTEN STAGE] 210929 - 윤종신 (Long D./고립...]]></title>
             <link>https://www.youtube.com/watch?v=yg5Pppri5Ng</link>
@@ -234,15 +243,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378996</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
             <content:encoded><![CDATA[Top model and broadcaster Song Hae Na has been ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MY 모두 함께 외쳐요🗣 | aespa 에스파 'Savage' 응원법]]></title>
-            <link>https://www.youtube.com/watch?v=yWSnSq6TyTM</link>
-            <guid>https://www.youtube.com/watch?v=yWSnSq6TyTM</guid>
-            <pubDate>Wed, 13 Oct 2021 04:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yWSnSq6TyTM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

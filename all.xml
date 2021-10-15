@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 11:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 13:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25996405</link>
             <guid>https://vlive.tv/post/0-25996405</guid>
             <pubDate>Fri, 15 Oct 2021 09:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_49/1634288428421ol3gz_JPEG/1634282900386.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25992134</link>
             <guid>https://vlive.tv/post/1-25992134</guid>
             <pubDate>Fri, 15 Oct 2021 04:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_50/16342236399239eMRw_JPEG/1634219599100.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[REPLAY] SYNK DIVE: aespa 'Savage' SHOW... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=xBPkheRn60E</link>
+            <guid>https://www.youtube.com/watch?v=xBPkheRn60E</guid>
+            <pubDate>Fri, 15 Oct 2021 13:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xBPkheRn60E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LISTEN STAGE] 210929 - 윤종신 (Long D./고립... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=yg5Pppri5Ng</link>
             <guid>https://www.youtube.com/watch?v=yg5Pppri5Ng</guid>
@@ -797,15 +806,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2378996</guid>
             <pubDate>Thu, 14 Oct 2021 03:45:18 GMT</pubDate>
             <content:encoded><![CDATA[Top model and broadcaster Song Hae Na has been ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MY 모두 함께 외쳐요🗣 | aespa 에스파 'Savage' 응원법 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=yWSnSq6TyTM</link>
-            <guid>https://www.youtube.com/watch?v=yWSnSq6TyTM</guid>
-            <pubDate>Wed, 13 Oct 2021 04:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yWSnSq6TyTM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
