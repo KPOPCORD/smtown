@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 08:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 09:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] 🚘The Fair Match : Kart Mast...]]></title>
+            <link>https://www.youtube.com/watch?v=eumKT3o7-9A</link>
+            <guid>https://www.youtube.com/watch?v=eumKT3o7-9A</guid>
+            <pubDate>Sat, 16 Oct 2021 09:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/eumKT3o7-9A/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat...]]></title>
             <link>https://www.youtube.com/watch?v=6pu9neE0Kcc</link>
@@ -242,13 +252,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HMQc3PdLOQ8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album 'Sticker' recorded ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379006</link>
-            <guid>https://now.smtown.com/news/detail/2379006</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album 'Sticker' has been on ...]]></content:encoded>
         </item>
     </channel>
 </rss>
