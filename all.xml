@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 11:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 13:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26007951</link>
             <guid>https://vlive.tv/post/0-26007951</guid>
             <pubDate>Sat, 16 Oct 2021 09:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211016_26/1634341942855XTt7M_JPEG/1634339641813.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-25999994</link>
             <guid>https://vlive.tv/post/0-25999994</guid>
             <pubDate>Sat, 16 Oct 2021 09:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_32/1634303439134X2O6k_JPEG/1634302346960.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1224,6 +1224,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22992457</link>
+            <guid>https://tv.naver.com/v/22992457</guid>
+            <pubDate>Sat, 16 Oct 2021 13:01:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_41/XX23X_1634341997984XKpGt_JPEG/1634341980473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22992187</link>
             <guid>https://tv.naver.com/v/22992187</guid>
@@ -1454,14 +1462,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
             <content:encoded><![CDATA[3:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210918_146/0sSiL_1631927590813CSOM8_JPEG/1631927583681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '같은 시선 (Focus) + Road Trip + Bring The Noize' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22523773</link>
-            <guid>https://tv.naver.com/v/22523773</guid>
-            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[5:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_186/PYh7C_1631927606237qIQWp_JPEG/1631927599457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
