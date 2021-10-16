@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 13:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 14:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#유미의세포들] 오늘도 열일하는 미람의 발랄 세포🥰 #미람 #키동캠...]]></title>
+            <link>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</link>
+            <guid>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</guid>
+            <pubDate>Sat, 16 Oct 2021 14:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[[#Yumiscells] Miram's bright cell working hard�...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hMNqVg9ZJ-I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 o...]]></title>
             <link>https://www.youtube.com/watch?v=l3pXHJTmpqU</link>
@@ -243,14 +251,6 @@ Listen and download on your...]]></content:encoded>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/VOqLaosu_so/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #3｜'Sticker' MV Behind th...]]></title>
-            <link>https://www.youtube.com/watch?v=Op1ZB0Xx6dE</link>
-            <guid>https://www.youtube.com/watch?v=Op1ZB0Xx6dE</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Op1ZB0Xx6dE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
