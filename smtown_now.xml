@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 13:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 13:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 o...]]></title>
+            <link>https://www.youtube.com/watch?v=l3pXHJTmpqU</link>
+            <guid>https://www.youtube.com/watch?v=l3pXHJTmpqU</guid>
+            <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[N’-168] 가자... Love Right Back✨ | 'Love...]]></title>
+            <link>https://www.youtube.com/watch?v=JwMoqyKgu5Q</link>
+            <guid>https://www.youtube.com/watch?v=JwMoqyKgu5Q</guid>
+            <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[#태일 #TAEIL 
+#Love_Right_Back #MV #Behind
+#NCT #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JwMoqyKgu5Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] 🚘The Fair Match : Kart Mast...]]></title>
             <link>https://www.youtube.com/watch?v=eumKT3o7-9A</link>
@@ -233,25 +251,6 @@ Listen and download on your...]]></content:encoded>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Op1ZB0Xx6dE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] TEN's Quarantine Vlog : The ...]]></title>
-            <link>https://www.youtube.com/watch?v=zp0-LIQ76q4</link>
-            <guid>https://www.youtube.com/watch?v=zp0-LIQ76q4</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zp0-LIQ76q4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat...]]></title>
-            <link>https://www.youtube.com/watch?v=HMQc3PdLOQ8</link>
-            <guid>https://www.youtube.com/watch?v=HMQc3PdLOQ8</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HMQc3PdLOQ8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
