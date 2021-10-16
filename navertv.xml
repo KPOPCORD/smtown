@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 23:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 01:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video]]></title>
+            <link>https://tv.naver.com/v/22992187</link>
+            <guid>https://tv.naver.com/v/22992187</guid>
+            <pubDate>Sat, 16 Oct 2021 01:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_248/ruIcy_1634339659808oE7ky_JPEG/1634339641813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis]]></title>
             <link>https://tv.naver.com/v/22987804</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
             <content:encoded><![CDATA[5:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210918_186/PYh7C_1631927606237qIQWp_JPEG/1631927599457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 Intro + '영웅 (英雄; Kick It)' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
-            <link>https://tv.naver.com/v/22523763</link>
-            <guid>https://tv.naver.com/v/22523763</guid>
-            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[6:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_56/G26bR_16319276177758JLEg_JPEG/1631927612087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

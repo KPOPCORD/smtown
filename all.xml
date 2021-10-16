@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 23:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 01:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26007951</link>
+            <guid>https://vlive.tv/post/0-26007951</guid>
+            <pubDate>Sat, 16 Oct 2021 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211016_26/1634341942855XTt7M_JPEG/1634339641813.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-25999994</link>
             <guid>https://vlive.tv/post/0-25999994</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_32/1634303439134X2O6k_JPEG/1634302346960.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-25996405</link>
             <guid>https://vlive.tv/post/0-25996405</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_49/1634288428421ol3gz_JPEG/1634282900386.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25992134</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
             <content:encoded><![CDATA[10.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211015_50/16342236399239eMRw_JPEG/1634219599100.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25664299</link>
             <guid>https://vlive.tv/post/1-25664299</guid>
-            <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-25658282</link>
-            <guid>https://vlive.tv/post/1-25658282</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
             <content:encoded><![CDATA[9.27.]]></content:encoded>
         </item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=6pu9neE0Kcc</link>
+            <guid>https://www.youtube.com/watch?v=6pu9neE0Kcc</guid>
+            <pubDate>Sat, 16 Oct 2021 01:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6pu9neE0Kcc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catha... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=MEFiaAxgq4I</link>
             <guid>https://www.youtube.com/watch?v=MEFiaAxgq4I</guid>
@@ -804,13 +812,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379006</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album 'Sticker' has been on ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa's new song 'Savage' tops the Melo... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379000</link>
-            <guid>https://now.smtown.com/news/detail/2379000</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) topped the Me...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -1363,6 +1364,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/22992187</link>
+            <guid>https://tv.naver.com/v/22992187</guid>
+            <pubDate>Sat, 16 Oct 2021 01:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_248/ruIcy_1634339659808oE7ky_JPEG/1634339641813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/22987804</link>
             <guid>https://tv.naver.com/v/22987804</guid>
@@ -1593,14 +1602,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
             <content:encoded><![CDATA[5:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210918_186/PYh7C_1631927606237qIQWp_JPEG/1631927599457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 Intro + '영웅 (英雄; Kick It)' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22523763</link>
-            <guid>https://tv.naver.com/v/22523763</guid>
-            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[6:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_56/G26bR_16319276177758JLEg_JPEG/1631927612087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

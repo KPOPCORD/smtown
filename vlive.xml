@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 23:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 01:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-26007951</link>
+            <guid>https://vlive.tv/post/0-26007951</guid>
+            <pubDate>Sat, 16 Oct 2021 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211016_26/1634341942855XTt7M_JPEG/1634339641813.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis]]></title>
             <link>https://vlive.tv/post/0-25999994</link>
             <guid>https://vlive.tv/post/0-25999994</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_32/1634303439134X2O6k_JPEG/1634302346960.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-25996405</link>
             <guid>https://vlive.tv/post/0-25996405</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211015_49/1634288428421ol3gz_JPEG/1634282900386.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-25992134</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
             <content:encoded><![CDATA[10.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211015_50/16342236399239eMRw_JPEG/1634219599100.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice]]></title>
             <link>https://vlive.tv/post/1-25664299</link>
             <guid>https://vlive.tv/post/1-25664299</guid>
-            <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV]]></title>
-            <link>https://vlive.tv/post/1-25658282</link>
-            <guid>https://vlive.tv/post/1-25658282</guid>
             <pubDate>Fri, 15 Oct 2021 22:41:05 GMT</pubDate>
             <content:encoded><![CDATA[9.27.]]></content:encoded>
         </item>
