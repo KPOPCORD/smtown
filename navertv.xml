@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 14:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 15:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2]]></title>
+            <link>https://tv.naver.com/v/23011543</link>
+            <guid>https://tv.naver.com/v/23011543</guid>
+            <pubDate>Sun, 17 Oct 2021 15:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211017_1/rFa4d_1634467806889mVbzs_JPEG/1634467731817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video]]></title>
             <link>https://tv.naver.com/v/22992457</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210918_254/ZgDdD_1631927575416PhGQB_JPEG/1631927494163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 '다시 만나는 날 (Promise You)' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
-            <link>https://tv.naver.com/v/22523798</link>
-            <guid>https://tv.naver.com/v/22523798</guid>
-            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_146/0sSiL_1631927590813CSOM8_JPEG/1631927583681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
