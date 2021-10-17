@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 13:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 14:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
 👑 2...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fljhXcznc98/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Good Lemonade For One Good Talk🍋｜O...]]></title>
+            <link>https://www.youtube.com/watch?v=TutHkl0Dd7I</link>
+            <guid>https://www.youtube.com/watch?v=TutHkl0Dd7I</guid>
+            <pubDate>Sun, 17 Oct 2021 14:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TutHkl0Dd7I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Believe I Can Fly~🕊 약간 이런 느낌 | 천지의 이...]]></title>
@@ -246,13 +254,6 @@ Listen and download on your...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379002</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[CHOI MINHO (SHINee MINHO, SM) has officially jo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top model Jang Yoon Ju reveals a pictor...]]></title>
-            <link>https://now.smtown.com/news/detail/2379001</link>
-            <guid>https://now.smtown.com/news/detail/2379001</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Top model and actor Jang Yoon Ju released a pic...]]></content:encoded>
         </item>
     </channel>
 </rss>
