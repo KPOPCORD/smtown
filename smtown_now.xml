@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 13:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 13:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
+            <link>https://www.youtube.com/watch?v=fljhXcznc98</link>
+            <guid>https://www.youtube.com/watch?v=fljhXcznc98</guid>
+            <pubDate>Sun, 17 Oct 2021 13:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 2...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fljhXcznc98/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Believe I Can Fly~🕊 약간 이런 느낌 | 천지의 이...]]></title>
+            <link>https://www.youtube.com/watch?v=fZSnvbyw5fQ</link>
+            <guid>https://www.youtube.com/watch?v=fZSnvbyw5fQ</guid>
+            <pubDate>Sun, 17 Oct 2021 13:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
+#천지​ #이것저것​ #ThisA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fZSnvbyw5fQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#유미의세포들] 오늘도 열일하는 미람의 발랄 세포🥰 #미람 #키동캠...]]></title>
             <link>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</link>
@@ -235,22 +253,6 @@ Listen and download on your...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379001</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[Top model and actor Jang Yoon Ju released a pic...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영화 촬영 방불케 한 #김서형 #세사패 광고 현장 #키동캠｜Kim Se...]]></title>
-            <link>https://www.youtube.com/watch?v=NLa85UqKe9I</link>
-            <guid>https://www.youtube.com/watch?v=NLa85UqKe9I</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Shooting field of AD by #KimSeoHyung like a sho...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/NLa85UqKe9I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEW & MINHO Reaction💎ㅣKEY 'BAD LOVE' ...]]></title>
-            <link>https://www.youtube.com/watch?v=VOqLaosu_so</link>
-            <guid>https://www.youtube.com/watch?v=VOqLaosu_so</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/VOqLaosu_so/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
