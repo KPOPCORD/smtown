@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 15:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 17:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -428,6 +428,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stag... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Y2yNcldFa6E</link>
+            <guid>https://www.youtube.com/watch?v=Y2yNcldFa6E</guid>
+            <pubDate>Sun, 17 Oct 2021 17:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Y2yNcldFa6E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=fljhXcznc98</link>
             <guid>https://www.youtube.com/watch?v=fljhXcznc98</guid>
@@ -667,13 +676,6 @@ Listen and download on your...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379003</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E DONGHAE left a strong impressi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHOI MINHO(SHINee MINHO) joins ‘골프왕’ se... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379002</link>
-            <guid>https://now.smtown.com/news/detail/2379002</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[CHOI MINHO (SHINee MINHO, SM) has officially jo...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
