@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 13:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 13:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
+            <link>https://www.youtube.com/watch?v=FfEpbKlgjQ4</link>
+            <guid>https://www.youtube.com/watch?v=FfEpbKlgjQ4</guid>
+            <pubDate>Mon, 18 Oct 2021 13:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FfEpbKlgjQ4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Un Cut] Take #5｜‘Sticker’ Recording Be...]]></title>
             <link>https://www.youtube.com/watch?v=zZwC3_2FrOM</link>
@@ -248,16 +256,6 @@ Listen and download on your...]]></content:encoded>
 
 Listen and download on your...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/d8PbGq25vGE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge😎 - KARINA & WINTER]]></title>
-            <link>https://www.youtube.com/watch?v=fG6sOO_TVUc</link>
-            <guid>https://www.youtube.com/watch?v=fG6sOO_TVUc</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge😎
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fG6sOO_TVUc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
