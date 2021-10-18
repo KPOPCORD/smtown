@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 11:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 13:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #5｜‘Sticker’ Recording Be...]]></title>
+            <link>https://www.youtube.com/watch?v=zZwC3_2FrOM</link>
+            <guid>https://www.youtube.com/watch?v=zZwC3_2FrOM</guid>
+            <pubDate>Mon, 18 Oct 2021 13:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zZwC3_2FrOM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] DONGHAE 동해 〈California Love〉 C...]]></title>
             <link>https://www.youtube.com/watch?v=6-_aS7_6uPI</link>
@@ -250,13 +258,6 @@ Listen and download on your...]]></content:encoded>
 
 Listen and download on your...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fG6sOO_TVUc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa has been named by ‘People Magazin...]]></title>
-            <link>https://now.smtown.com/news/detail/2379030</link>
-            <guid>https://now.smtown.com/news/detail/2379030</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa(SM) has been named...]]></content:encoded>
         </item>
     </channel>
 </rss>
