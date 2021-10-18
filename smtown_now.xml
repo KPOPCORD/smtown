@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 'Savage', the first K-pop girl gr...]]></title>
+            <link>https://now.smtown.com/news/detail/2379093</link>
+            <guid>https://now.smtown.com/news/detail/2379093</guid>
+            <pubDate>Mon, 18 Oct 2021 08:47:38 GMT</pubDate>
+            <content:encoded><![CDATA['Metaverse girl group' aespa (SM) made a splend...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[aespa wins 1st place on 4 music shows w...]]></title>
             <link>https://now.smtown.com/news/detail/2379092</link>
@@ -22,14 +29,18 @@
             <content:encoded><![CDATA[NCT 127 (SM) will meet global fans with a live ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DJ Raiden releases the Highlight Medley...]]></title>
             <link>https://now.smtown.com/news/detail/2379090</link>
             <guid>https://now.smtown.com/news/detail/2379090</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[The Highlight Medley video, where you can enjoy...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[EUNHYUK, digital single ‘be’ released o...]]></title>
             <link>https://now.smtown.com/news/detail/2379089</link>
             <guid>https://now.smtown.com/news/detail/2379089</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK will release a solo digital single ‘be’...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stag...]]></title>
@@ -103,14 +114,18 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/eumKT3o7-9A/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“It surprised the world” aespa, first a...]]></title>
             <link>https://now.smtown.com/news/detail/2379088</link>
             <guid>https://now.smtown.com/news/detail/2379088</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) made their fi...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DONGHAE releases live video of new song...]]></title>
             <link>https://now.smtown.com/news/detail/2379087</link>
             <guid>https://now.smtown.com/news/detail/2379087</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[DONGHAE has released a live video where you can...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat...]]></title>
@@ -240,13 +255,6 @@ Listen and download on your...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379029</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[On October 25th, a new teaser image of NCT 127 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, regular album ‘Countd...]]></title>
-            <link>https://now.smtown.com/news/detail/2379028</link>
-            <guid>https://now.smtown.com/news/detail/2379028</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E will release their regular alb...]]></content:encoded>
         </item>
     </channel>
 </rss>

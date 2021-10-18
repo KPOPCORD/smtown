@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26037525</link>
             <guid>https://vlive.tv/post/1-26037525</guid>
             <pubDate>Sun, 17 Oct 2021 23:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211017_248/163446842168039fwr_JPEG/1634467731817.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5535</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5535</guid>
+            <pubDate>Mon, 18 Oct 2021 08:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d25d6ab2c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5534</link>
             <guid>https://www.smtown.com/artist/newsDetail/5534</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5533</link>
             <guid>https://www.smtown.com/artist/newsDetail/5533</guid>
             <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 25일 정규 3집 리패키지 앨범 발매 기념 카운트다운 생방송으로 글로벌 팬들과 만난다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d1447e0fe6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁, 10월 20일 디지털 싱글 ‘be’ 발매! 자유분방+독보적 분위기 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5531</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5531</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[은혁이 10월 20일 솔로 디지털 싱글 ‘be’(비)를 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d13524f845.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동해, 신곡 ‘캘리포니아 러브’ 라이브 비디오 화제! 16일 밤 10시에는 ‘블루문’ 비디오 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5529</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5529</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[동해가 솔로 디지털 싱글 ‘California Love’를 색다르게 즐길 수 있는 라이브 비디오를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12914a668.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’ 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5527</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5527</guid>
+            <pubDate>Fri, 15 Oct 2021 03:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[10월 25일 정규 3집 리패키지 앨범을 발표하는 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 새로운 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f456e45ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 ‘Queendom’ 리믹스 싱글 15일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5525</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5525</guid>
+            <pubDate>Fri, 15 Oct 2021 03:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Queendom’(퀸덤) 리믹스 버전이 15일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f3293270b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 레이든, 첫 미니앨범 수록곡 하이라이트 메들리 영상 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Fri, 15 Oct 2021 03:45:27 GMT</pubDate>
             <content:encoded><![CDATA[엑소 레이(에스엠엔터테인먼트 소속)의 새 솔로 앨범 ‘東 (EAST)’(동)이 15일 낮 12시 각종 음악 사이트에서 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f2bca070e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁, 10월 20일 디지털 싱글 ‘be’ 발매! 자유분방+독보적 분위기 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5531</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5531</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[은혁이 10월 20일 솔로 디지털 싱글 ‘be’(비)를 발매한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d13524f845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해, 신곡 ‘캘리포니아 러브’ 라이브 비디오 화제! 16일 밤 10시에는 ‘블루문’ 비디오 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5529</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5529</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[동해가 솔로 디지털 싱글 ‘California Love’를 색다르게 즐길 수 있는 라이브 비디오를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12914a668.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’ 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5527</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5527</guid>
-            <pubDate>Fri, 15 Oct 2021 03:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[10월 25일 정규 3집 리패키지 앨범을 발표하는 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 새로운 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f456e45ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 ‘Queendom’ 리믹스 싱글 15일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5525</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5525</guid>
-            <pubDate>Fri, 15 Oct 2021 03:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Queendom’(퀸덤) 리믹스 버전이 15일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f3293270b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 첫 미니앨범 ‘Savage’ 가온차트도 1위! 'Savage' 신드롬 ING! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5522</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5522</guid>
-            <pubDate>Thu, 14 Oct 2021 04:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 가온차트 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a85d4a35e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
@@ -571,6 +571,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[aespa 'Savage', the first K-pop girl gr... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379093</link>
+            <guid>https://now.smtown.com/news/detail/2379093</guid>
+            <pubDate>Mon, 18 Oct 2021 08:47:38 GMT</pubDate>
+            <content:encoded><![CDATA['Metaverse girl group' aespa (SM) made a splend...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[aespa wins 1st place on 4 music shows w... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379092</link>
             <guid>https://now.smtown.com/news/detail/2379092</guid>
@@ -585,16 +592,18 @@
             <content:encoded><![CDATA[NCT 127 (SM) will meet global fans with a live ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[DJ Raiden releases the Highlight Medley... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379090</link>
             <guid>https://now.smtown.com/news/detail/2379090</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[The Highlight Medley video, where you can enjoy...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[EUNHYUK, digital single ‘be’ released o... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379089</link>
             <guid>https://now.smtown.com/news/detail/2379089</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK will release a solo digital single ‘be’...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stag... (SMTOWN ─ NOW)]]></title>
@@ -668,16 +677,18 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/eumKT3o7-9A/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[“It surprised the world” aespa, first a... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379088</link>
             <guid>https://now.smtown.com/news/detail/2379088</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) made their fi...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[DONGHAE releases live video of new song... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379087</link>
             <guid>https://now.smtown.com/news/detail/2379087</guid>
             <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[DONGHAE has released a live video where you can...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat... (SMTOWN ─ NOW)]]></title>
@@ -807,13 +818,6 @@ Listen and download on your...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379029</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[On October 25th, a new teaser image of NCT 127 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, regular album ‘Countd... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379028</link>
-            <guid>https://now.smtown.com/news/detail/2379028</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E will release their regular alb...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

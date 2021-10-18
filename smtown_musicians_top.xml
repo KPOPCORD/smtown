@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5535</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5535</guid>
+            <pubDate>Mon, 18 Oct 2021 08:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d25d6ab2c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5534</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d14b2353e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5533</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5533</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d1447e0fe6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
