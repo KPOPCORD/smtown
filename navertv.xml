@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 08:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 09:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley]]></title>
+            <link>https://tv.naver.com/v/23026849</link>
+            <guid>https://tv.naver.com/v/23026849</guid>
+            <pubDate>Mon, 18 Oct 2021 09:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_152/5NxjH_1634545239245n1xc8_JPEG/1634545230523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2]]></title>
             <link>https://tv.naver.com/v/23011543</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Sep 2021 17:03:13 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_244/tRe5X_1632492430828NpnvK_JPEG/1632492376634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER]]></title>
-            <link>https://tv.naver.com/v/22523832</link>
-            <guid>https://tv.naver.com/v/22523832</guid>
-            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_254/ZgDdD_1631927575416PhGQB_JPEG/1631927494163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

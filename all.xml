@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 08:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 09:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-26049473</link>
+            <guid>https://vlive.tv/post/1-26049473</guid>
+            <pubDate>Mon, 18 Oct 2021 09:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211018_26/1634545262234Iy47M_JPEG/1634545230523.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26037525</link>
             <guid>https://vlive.tv/post/1-26037525</guid>
             <pubDate>Sun, 17 Oct 2021 23:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211017_248/163446842168039fwr_JPEG/1634467731817.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26007951</guid>
             <pubDate>Sun, 17 Oct 2021 23:41:50 GMT</pubDate>
             <content:encoded><![CDATA[10.16.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211016_26/1634341942855XTt7M_JPEG/1634339641813.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25797989</guid>
             <pubDate>Sun, 17 Oct 2021 23:41:50 GMT</pubDate>
             <content:encoded><![CDATA[10.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25764072</link>
-            <guid>https://vlive.tv/post/0-25764072</guid>
-            <pubDate>Sun, 17 Oct 2021 23:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[10.3.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543b8a62380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[REPLAY] DONGHAE 동해 〈California Love〉 C... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=6-_aS7_6uPI</link>
+            <guid>https://www.youtube.com/watch?v=6-_aS7_6uPI</guid>
+            <pubDate>Mon, 18 Oct 2021 09:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6-_aS7_6uPI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 'Savage', the first K-pop girl gr... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379093</link>
             <guid>https://now.smtown.com/news/detail/2379093</guid>
@@ -811,13 +820,6 @@ Listen and download on your...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379030</guid>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[‘Metaverse girl group’ aespa(SM) has been named...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album repackage 'Favorite'... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379029</link>
-            <guid>https://now.smtown.com/news/detail/2379029</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[On October 25th, a new teaser image of NCT 127 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -1370,6 +1372,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23026849</link>
+            <guid>https://tv.naver.com/v/23026849</guid>
+            <pubDate>Mon, 18 Oct 2021 09:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_152/5NxjH_1634545239245n1xc8_JPEG/1634545230523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2 (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23011543</link>
             <guid>https://tv.naver.com/v/23011543</guid>
@@ -1600,14 +1610,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Fri, 24 Sep 2021 17:03:13 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_244/tRe5X_1632492430828NpnvK_JPEG/1632492376634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Sticker' Live @NCT 127 WORLD PREMIERE STICKER (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22523832</link>
-            <guid>https://tv.naver.com/v/22523832</guid>
-            <pubDate>Sat, 18 Sep 2021 06:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210918_254/ZgDdD_1631927575416PhGQB_JPEG/1631927494163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
