@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26052997</link>
             <guid>https://vlive.tv/post/1-26052997</guid>
             <pubDate>Mon, 18 Oct 2021 21:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211018_57/1634562028381IlRMS_JPEG/1634530239620.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6156bdfc8829e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[닝 안의 호랑이〰️🎵🐯 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=s6yELUT-OZU</link>
+            <guid>https://www.youtube.com/watch?v=s6yELUT-OZU</guid>
+            <pubDate>Tue, 19 Oct 2021 10:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[닝 안의 호랑이〰️🎵🐯
+
+Listen and download on your fav...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/s6yELUT-OZU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127, 3rd album repackage 2nd concep... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379116</link>
             <guid>https://now.smtown.com/news/detail/2379116</guid>
@@ -801,15 +811,6 @@ Listen ...]]></content:encoded>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LneM0Ah1sCI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LISTEN STAGE] 210929 - 윤종신 (Long D./고립... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=yg5Pppri5Ng</link>
-            <guid>https://www.youtube.com/watch?v=yg5Pppri5Ng</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[#윤종신리슨스테이지 #윤종신 #나이
-🚩JONGSHIN YOON's Instagram...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yg5Pppri5Ng/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

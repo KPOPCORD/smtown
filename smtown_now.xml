@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닝 안의 호랑이〰️🎵🐯]]></title>
+            <link>https://www.youtube.com/watch?v=s6yELUT-OZU</link>
+            <guid>https://www.youtube.com/watch?v=s6yELUT-OZU</guid>
+            <pubDate>Tue, 19 Oct 2021 10:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[닝 안의 호랑이〰️🎵🐯
+
+Listen and download on your fav...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/s6yELUT-OZU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127, 3rd album repackage 2nd concep...]]></title>
             <link>https://now.smtown.com/news/detail/2379116</link>
@@ -238,15 +248,6 @@ Listen ...]]></content:encoded>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LneM0Ah1sCI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LISTEN STAGE] 210929 - 윤종신 (Long D./고립...]]></title>
-            <link>https://www.youtube.com/watch?v=yg5Pppri5Ng</link>
-            <guid>https://www.youtube.com/watch?v=yg5Pppri5Ng</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[#윤종신리슨스테이지 #윤종신 #나이
-🚩JONGSHIN YOON's Instagram...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yg5Pppri5Ng/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
