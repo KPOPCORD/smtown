@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 13:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
+            <link>https://www.youtube.com/watch?v=Pcl6AR2wWH4</link>
+            <guid>https://www.youtube.com/watch?v=Pcl6AR2wWH4</guid>
+            <pubDate>Tue, 19 Oct 2021 13:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Pcl6AR2wWH4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Un Cut] Take #6｜‘Magic Carpet Ride’ Re...]]></title>
             <link>https://www.youtube.com/watch?v=L-Vbeqax7d0</link>
@@ -239,15 +247,6 @@ ht...]]></content:encoded>
             <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/2in4tC6rX8s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] SYNK DIVE: aespa 'Savage' SHOW...]]></title>
-            <link>https://www.youtube.com/watch?v=xBPkheRn60E</link>
-            <guid>https://www.youtube.com/watch?v=xBPkheRn60E</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xBPkheRn60E/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
