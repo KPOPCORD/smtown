@@ -4,9 +4,38 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 02:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 03:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379116</link>
+            <guid>https://now.smtown.com/news/detail/2379116</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379115</link>
+            <guid>https://now.smtown.com/news/detail/2379115</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379114</link>
+            <guid>https://now.smtown.com/news/detail/2379114</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379113</link>
+            <guid>https://now.smtown.com/news/detail/2379113</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Special Video] 2021 월간 윤종신 Repair 10월호...]]></title>
+            <link>https://www.youtube.com/watch?v=qybeiLwHkX8</link>
+            <guid>https://www.youtube.com/watch?v=qybeiLwHkX8</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[#이승기 #LeeSeungGi #SlowStarter #월간윤종신
+2021. 10. ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qybeiLwHkX8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
             <link>https://www.youtube.com/watch?v=FfEpbKlgjQ4</link>
@@ -210,52 +239,6 @@ Listen ...]]></content:encoded>
             <content:encoded><![CDATA[#윤종신리슨스테이지 #윤종신 #나이
 🚩JONGSHIN YOON's Instagram...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yg5Pppri5Ng/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remi...]]></title>
-            <link>https://www.youtube.com/watch?v=cgFg0ghNqVA</link>
-            <guid>https://www.youtube.com/watch?v=cgFg0ghNqVA</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/cgFg0ghNqVA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – KEY: 'GROKS IN THE IN THE...]]></title>
-            <link>https://www.youtube.com/watch?v=5hOJCQchJvA</link>
-            <guid>https://www.youtube.com/watch?v=5hOJCQchJvA</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5hOJCQchJvA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge😎 - GISELLE & NINGNING]]></title>
-            <link>https://www.youtube.com/watch?v=S7ZlpmqhjAs</link>
-            <guid>https://www.youtube.com/watch?v=S7ZlpmqhjAs</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge😎
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/S7ZlpmqhjAs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge😎 - KARINA & WINTER]]></title>
-            <link>https://www.youtube.com/watch?v=qtYPPA8PqNs</link>
-            <guid>https://www.youtube.com/watch?v=qtYPPA8PqNs</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge😎
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qtYPPA8PqNs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Challenge😎 - GISELLE & NINGNING]]></title>
-            <link>https://www.youtube.com/watch?v=d8PbGq25vGE</link>
-            <guid>https://www.youtube.com/watch?v=d8PbGq25vGE</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Challenge😎
-
-Listen and download on your...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/d8PbGq25vGE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
