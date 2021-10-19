@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 11:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
+            <link>https://tv.naver.com/v/23049468</link>
+            <guid>https://tv.naver.com/v/23049468</guid>
+            <pubDate>Tue, 19 Oct 2021 13:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_195/AeP7D_1634633362871sr2Ms_JPEG/1634633350474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley]]></title>
             <link>https://tv.naver.com/v/23026849</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210926_246/2ODD4_16326624472784YIbY_JPEG/1632662399031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' MV Teaser #2]]></title>
-            <link>https://tv.naver.com/v/22616286</link>
-            <guid>https://tv.naver.com/v/22616286</guid>
-            <pubDate>Sat, 25 Sep 2021 15:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_29/PlzE0_1632563725077wU2h0_JPEG/1632563667538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

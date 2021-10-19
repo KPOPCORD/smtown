@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 11:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/0-26061083</link>
+            <guid>https://vlive.tv/post/0-26061083</guid>
+            <pubDate>Tue, 19 Oct 2021 13:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[지금]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211019_271/1634648434976wUeVW_JPEG/1634633350474.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
             <link>https://vlive.tv/post/1-26052997</link>
             <guid>https://vlive.tv/post/1-26052997</guid>
             <pubDate>Mon, 18 Oct 2021 21:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10.18.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211018_57/1634562028381IlRMS_JPEG/1634530239620.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26037525</guid>
             <pubDate>Mon, 18 Oct 2021 21:41:25 GMT</pubDate>
             <content:encoded><![CDATA[10.17.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211017_248/163446842168039fwr_JPEG/1634467731817.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniversary Special Medley]]></title>
             <link>https://vlive.tv/post/1-25802464</link>
             <guid>https://vlive.tv/post/1-25802464</guid>
-            <pubDate>Mon, 18 Oct 2021 21:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[10.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' Camerawork Guide for Creators]]></title>
-            <link>https://vlive.tv/post/1-25802046</link>
-            <guid>https://vlive.tv/post/1-25802046</guid>
             <pubDate>Mon, 18 Oct 2021 21:41:25 GMT</pubDate>
             <content:encoded><![CDATA[10.5.]]></content:encoded>
         </item>
