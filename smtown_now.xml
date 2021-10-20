@@ -4,18 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' is on the...]]></title>
+            <link>https://now.smtown.com/news/detail/2379141</link>
+            <guid>https://now.smtown.com/news/detail/2379141</guid>
+            <pubDate>Wed, 20 Oct 2021 07:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) is continuing its global popularit...]]></content:encoded>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379138</link>
             <guid>https://now.smtown.com/news/detail/2379138</guid>
             <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NCT 127's new song 'Favorite' meets fir...]]></title>
             <link>https://now.smtown.com/news/detail/2379137</link>
             <guid>https://now.smtown.com/news/detail/2379137</guid>
             <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite' has been rel...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379136</link>
@@ -218,16 +227,6 @@ Listen ...]]></content:encoded>
             <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N’-168] 가자... Love Right Back✨ | 'Love...]]></title>
-            <link>https://www.youtube.com/watch?v=JwMoqyKgu5Q</link>
-            <guid>https://www.youtube.com/watch?v=JwMoqyKgu5Q</guid>
-            <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[#태일 #TAEIL 
-#Love_Right_Back #MV #Behind
-#NCT #...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JwMoqyKgu5Q/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26061083</link>
             <guid>https://vlive.tv/post/0-26061083</guid>
             <pubDate>Wed, 20 Oct 2021 06:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211019_271/1634648434976wUeVW_JPEG/1634633350474.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5546</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5546</guid>
+            <pubDate>Wed, 20 Oct 2021 07:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616fbf788bf79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5545</link>
             <guid>https://www.smtown.com/artist/newsDetail/5545</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5544</link>
             <guid>https://www.smtown.com/artist/newsDetail/5544</guid>
             <pubDate>Wed, 20 Oct 2021 03:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 신곡 ‘Favorite’, 단편 소설로 먼저 만난다!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite’(페이보릿)을 단편 소설로 미리 만날 수 있는 이색 콘텐츠가 공개되어 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8975d4c5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5539</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5539</guid>
+            <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 리패키지 두 번째 콘셉트 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e8d82197.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5535</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5535</guid>
+            <pubDate>Mon, 18 Oct 2021 08:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 미국 빌보드의 메인 차트인 ‘빌보드 200’에 20위로 첫 진입하는 쾌거를 거뒀다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d25d6ab2c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5533</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5533</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 25일 정규 3집 리패키지 앨범 발매 기념 카운트다운 생방송으로 글로벌 팬들과 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d1447e0fe6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁, 10월 20일 디지털 싱글 ‘be’ 발매! 자유분방+독보적 분위기 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5531</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5531</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[은혁이 10월 20일 솔로 디지털 싱글 ‘be’(비)를 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d13524f845.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은혁, 20일 오후 6시 데뷔 첫 싱글 ‘be’ 전곡 음원, 타이틀 곡 MV 공개! 전곡 단독 작사! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
             <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12e351269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5539</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5539</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 리패키지 두 번째 콘셉트 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e8d82197.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5535</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5535</guid>
-            <pubDate>Mon, 18 Oct 2021 08:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 미국 빌보드의 메인 차트인 ‘빌보드 200’에 20위로 첫 진입하는 쾌거를 거뒀다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d25d6ab2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5533</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5533</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 25일 정규 3집 리패키지 앨범 발매 기념 카운트다운 생방송으로 글로벌 팬들과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d1447e0fe6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁, 10월 20일 디지털 싱글 ‘be’ 발매! 자유분방+독보적 분위기 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5531</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5531</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[은혁이 10월 20일 솔로 디지털 싱글 ‘be’(비)를 발매한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d13524f845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해, 신곡 ‘캘리포니아 러브’ 라이브 비디오 화제! 16일 밤 10시에는 ‘블루문’ 비디오 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5529</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5529</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[동해가 솔로 디지털 싱글 ‘California Love’를 색다르게 즐길 수 있는 라이브 비디오를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12914a668.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다 (SMTOWN ─ Actors News)]]></title>
@@ -571,16 +571,24 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' is on the... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379141</link>
+            <guid>https://now.smtown.com/news/detail/2379141</guid>
+            <pubDate>Wed, 20 Oct 2021 07:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) is continuing its global popularit...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379138</link>
             <guid>https://now.smtown.com/news/detail/2379138</guid>
             <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127's new song 'Favorite' meets fir... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379137</link>
             <guid>https://now.smtown.com/news/detail/2379137</guid>
             <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite' has been rel...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -787,16 +795,6 @@ Listen ...]]></content:encoded>
             <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N’-168] 가자... Love Right Back✨ | 'Love... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=JwMoqyKgu5Q</link>
-            <guid>https://www.youtube.com/watch?v=JwMoqyKgu5Q</guid>
-            <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[#태일 #TAEIL 
-#Love_Right_Back #MV #Behind
-#NCT #...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JwMoqyKgu5Q/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
