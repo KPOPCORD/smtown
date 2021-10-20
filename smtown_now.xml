@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379134</link>
+            <guid>https://now.smtown.com/news/detail/2379134</guid>
+            <pubDate>Wed, 20 Oct 2021 02:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379133</link>
+            <guid>https://now.smtown.com/news/detail/2379133</guid>
+            <pubDate>Wed, 20 Oct 2021 02:53:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[#연모] 호위 무사 윤형설의 촬영 준비📹 #김재철 #키동캠 | Ki...]]></title>
             <link>https://www.youtube.com/watch?v=s6v_4k-EFMY</link>
@@ -230,23 +240,6 @@ ht...]]></content:encoded>
             <pubDate>Sat, 16 Oct 2021 01:49:12 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/6pu9neE0Kcc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catha...]]></title>
-            <link>https://www.youtube.com/watch?v=MEFiaAxgq4I</link>
-            <guid>https://www.youtube.com/watch?v=MEFiaAxgq4I</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MEFiaAxgq4I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat...]]></title>
-            <link>https://www.youtube.com/watch?v=2CdsRWeecj0</link>
-            <guid>https://www.youtube.com/watch?v=2CdsRWeecj0</guid>
-            <pubDate>Fri, 15 Oct 2021 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2CdsRWeecj0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
