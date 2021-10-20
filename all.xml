@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26072886</link>
+            <guid>https://vlive.tv/post/0-26072886</guid>
+            <pubDate>Wed, 20 Oct 2021 09:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211020_69/1634720416908qBuLF_JPEG/1634699545131.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26061083</link>
             <guid>https://vlive.tv/post/0-26061083</guid>
             <pubDate>Wed, 20 Oct 2021 06:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211019_271/1634648434976wUeVW_JPEG/1634633350474.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26049473</guid>
             <pubDate>Wed, 20 Oct 2021 06:50:01 GMT</pubDate>
             <content:encoded><![CDATA[10.18.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211018_26/1634545262234Iy47M_JPEG/1634545230523.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2 (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25814361</guid>
             <pubDate>Wed, 20 Oct 2021 06:50:01 GMT</pubDate>
             <content:encoded><![CDATA[10.6.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-8] SUPER JUNIOR-D&E The 10th Anniversary Special Medley (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-25802464</link>
-            <guid>https://vlive.tv/post/1-25802464</guid>
-            <pubDate>Wed, 20 Oct 2021 06:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[10.5.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SM 이성수 대표 ‘2021 스타트업콘’ 기조연설 (SMTOWN ─ News)]]></title>
@@ -428,6 +428,34 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=OklxvRChfS4</link>
+            <guid>https://www.youtube.com/watch?v=OklxvRChfS4</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OklxvRChfS4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LISTEN STAGE] 211013 - 손태진 (잠든 그대/오래전 ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=GFN4hbItaug</link>
+            <guid>https://www.youtube.com/watch?v=GFN4hbItaug</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진리슨스테이지 #손태진 #오르골
+🚩TAEJIN SON's Instagram :...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GFN4hbItaug/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=PFESwy579nU</link>
+            <guid>https://www.youtube.com/watch?v=PFESwy579nU</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/PFESwy579nU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127's 3rd album 'Sticker' is on the... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379141</link>
             <guid>https://now.smtown.com/news/detail/2379141</guid>
@@ -489,7 +517,8 @@
             <link>https://www.youtube.com/watch?v=Pcl6AR2wWH4</link>
             <guid>https://www.youtube.com/watch?v=Pcl6AR2wWH4</guid>
             <pubDate>Tue, 19 Oct 2021 13:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Pcl6AR2wWH4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -634,29 +663,13 @@ Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/TutHkl0Dd7I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[I Believe I Can Fly~🕊 약간 이런 느낌 | 천지의 이... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=fZSnvbyw5fQ</link>
-            <guid>https://www.youtube.com/watch?v=fZSnvbyw5fQ</guid>
-            <pubDate>Sun, 17 Oct 2021 13:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fZSnvbyw5fQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#유미의세포들] 오늘도 열일하는 미람의 발랄 세포🥰 #미람 #키동캠... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</link>
-            <guid>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</guid>
-            <pubDate>Sat, 16 Oct 2021 14:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[[#Yumiscells] Miram's bright cell working hard�...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hMNqVg9ZJ-I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 o... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=l3pXHJTmpqU</link>
-            <guid>https://www.youtube.com/watch?v=l3pXHJTmpqU</guid>
-            <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
+은혁의 데뷔 첫 싱글 'be' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTgw/MDAxNjM0NDgzNjE0NDMw.YxM6mY-TACfQJ06rjEUuialpQ71Oxf681DSh7N8yncwg.TMdFapV15Htfc-rIQfOjRUKGzcjjsngnenk7x_1TGykg.JPEG/I-rQgp66oPedD-QH3oAVVL_kjYF4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -822,15 +835,6 @@ Listen ...]]></content:encoded>
             <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTVfMTE0/MDAxNjI5MDE3NjI3MDkx.QgCtf9KEWzvGzxPWxBXdmKhANX2ve5KZUzIT2laYIj4g.VRyeCDQV9zHVjop43h9H3Tte6L-TQZb5Y6yH81dyTjEg.JPEG/IDGCWufOOLrG4qJqI9L0ycxpzL5Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러움이 두 배!
-WayV-TEN&YANGYANG 'Low Low' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32133275&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32133275&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMTA1/MDAxNjI5MTY2OTM3MDY1.WNf_R01TSX9owVzvo0sLnWTDiDz8Qe63PrQwX9X2Z9Ig.W1l8X5VRosMXSiNSMd0VfOpXMjo2NHnnvIxiBar2OBgg.JPEG/Ixs6_TiOXowdUoEdubw08VKzFElQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[에스파] 신곡 'Savage' 세계관 예습하고 광야에서 만나! (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
@@ -1209,6 +1213,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23054613</link>
+            <guid>https://tv.naver.com/v/23054613</guid>
+            <pubDate>Wed, 20 Oct 2021 09:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_234/ksdtL_163469956285700eK7_JPEG/1634699545131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2 (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23049468</link>
             <guid>https://tv.naver.com/v/23049468</guid>
@@ -1439,14 +1451,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210926_263/GUell_16326624942338hgxQ_JPEG/1632662468372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22629081</link>
-            <guid>https://tv.naver.com/v/22629081</guid>
-            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_246/2ODD4_16326624472784YIbY_JPEG/1632662399031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

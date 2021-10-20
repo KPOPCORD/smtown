@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
+            <link>https://tv.naver.com/v/23054613</link>
+            <guid>https://tv.naver.com/v/23054613</guid>
+            <pubDate>Wed, 20 Oct 2021 09:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_234/ksdtL_163469956285700eK7_JPEG/1634699545131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
             <link>https://tv.naver.com/v/23049468</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210926_263/GUell_16326624942338hgxQ_JPEG/1632662468372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - GISELLE]]></title>
-            <link>https://tv.naver.com/v/22629081</link>
-            <guid>https://tv.naver.com/v/22629081</guid>
-            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_246/2ODD4_16326624472784YIbY_JPEG/1632662399031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,37 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
+            <link>https://www.youtube.com/watch?v=OklxvRChfS4</link>
+            <guid>https://www.youtube.com/watch?v=OklxvRChfS4</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OklxvRChfS4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LISTEN STAGE] 211013 - 손태진 (잠든 그대/오래전 ...]]></title>
+            <link>https://www.youtube.com/watch?v=GFN4hbItaug</link>
+            <guid>https://www.youtube.com/watch?v=GFN4hbItaug</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진리슨스테이지 #손태진 #오르골
+🚩TAEJIN SON's Instagram :...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GFN4hbItaug/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=PFESwy579nU</link>
+            <guid>https://www.youtube.com/watch?v=PFESwy579nU</guid>
+            <pubDate>Wed, 20 Oct 2021 09:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/PFESwy579nU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127's 3rd album 'Sticker' is on the...]]></title>
             <link>https://now.smtown.com/news/detail/2379141</link>
@@ -69,7 +97,8 @@
             <link>https://www.youtube.com/watch?v=Pcl6AR2wWH4</link>
             <guid>https://www.youtube.com/watch?v=Pcl6AR2wWH4</guid>
             <pubDate>Tue, 19 Oct 2021 13:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Pcl6AR2wWH4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,31 +241,6 @@ Listen ...]]></content:encoded>
             <pubDate>Sun, 17 Oct 2021 14:41:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/TutHkl0Dd7I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Believe I Can Fly~🕊 약간 이런 느낌 | 천지의 이...]]></title>
-            <link>https://www.youtube.com/watch?v=fZSnvbyw5fQ</link>
-            <guid>https://www.youtube.com/watch?v=fZSnvbyw5fQ</guid>
-            <pubDate>Sun, 17 Oct 2021 13:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fZSnvbyw5fQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#유미의세포들] 오늘도 열일하는 미람의 발랄 세포🥰 #미람 #키동캠...]]></title>
-            <link>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</link>
-            <guid>https://www.youtube.com/watch?v=hMNqVg9ZJ-I</guid>
-            <pubDate>Sat, 16 Oct 2021 14:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[[#Yumiscells] Miram's bright cell working hard�...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hMNqVg9ZJ-I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 o...]]></title>
-            <link>https://www.youtube.com/watch?v=l3pXHJTmpqU</link>
-            <guid>https://www.youtube.com/watch?v=l3pXHJTmpqU</guid>
-            <pubDate>Sat, 16 Oct 2021 13:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/l3pXHJTmpqU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
