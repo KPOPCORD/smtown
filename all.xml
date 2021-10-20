@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 02:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26061083</link>
             <guid>https://vlive.tv/post/0-26061083</guid>
             <pubDate>Wed, 20 Oct 2021 02:51:53 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211019_271/1634648434976wUeVW_JPEG/1634633350474.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5539</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5539</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
+            <title><![CDATA[‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5545</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5545</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e8d82197.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f89d4b0428.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 신곡 ‘Favorite’, 단편 소설로 먼저 만난다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5544</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5544</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 신곡 ‘Favorite’, 단편 소설로 먼저 만난다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8975d4c5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁, 20일 오후 6시 데뷔 첫 싱글 ‘be’ 전곡 음원, 타이틀 곡 MV 공개! 전곡 단독 작사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5543</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5543</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[은혁이 20일 데뷔 이래 첫 싱글인 ‘be’(비)를 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f88fd930a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘발매 D-1’ 은혁, 신곡 ‘be’ MV 티저 영상 공개! 감각적인 영상미로 기대감 UP! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5538</link>
             <guid>https://www.smtown.com/artist/newsDetail/5538</guid>
             <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘발매 D-1’ 은혁, 신곡 ‘be’ MV 티저 영상 공개! 감각적인 영상미로 기대감 UP!</span>]]></content:encoded>
+            <content:encoded><![CDATA[은혁이 신곡 ‘be’(비) 뮤직비디오 티저 영상을 공개해 눈길을 모은다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e0ec7a49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5534</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5534</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 음악방송 4관왕에 오르며 흥행 질주를 이어가고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d14b2353e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 레이든, 첫 미니앨범 수록곡 하이라이트 메들리 영상 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5532</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5532</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)의 첫 미니앨범 수록곡 분위기를 한 번에 감상할 수 있는 하이라이트 메들리 영상이 18일 오후 6시 유튜브 ScreaM Records 채널을 통해 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d13dd4fe3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“세상을 놀라게 했다” 에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5530</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5530</guid>
+            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12e351269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5539</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5539</guid>
+            <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 리패키지 두 번째 콘셉트 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e8d82197.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파 ‘Savage’, 美 ‘빌보드 200’ 20위로 K팝 걸그룹 첫 앨범 최고 순위 기록! (SMTOWN ─ Musicians News)]]></title>
@@ -425,52 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12914a668.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’ 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5527</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5527</guid>
-            <pubDate>Fri, 15 Oct 2021 03:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[10월 25일 정규 3집 리패키지 앨범을 발표하는 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 새로운 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f456e45ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5534</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5534</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 음악방송 4관왕에 오르며 흥행 질주를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d14b2353e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 레이든, 첫 미니앨범 수록곡 하이라이트 메들리 영상 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5532</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5532</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 아티스트 레이든(Raiden, 에스엠엔터테인먼트 소속)의 첫 미니앨범 수록곡 분위기를 한 번에 감상할 수 있는 하이라이트 메들리 영상이 18일 오후 6시 유튜브 ScreaM Records 채널을 통해 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d13dd4fe3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“세상을 놀라게 했다” 에스파, 美 ‘켈리 클락슨 쇼’ 첫 출연 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5530</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5530</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d12e351269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 美 피플지 선정 ‘2021년 알아야 할 라이징 스타’ 등극! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5528</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5528</guid>
-            <pubDate>Fri, 15 Oct 2021 03:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 피플지(People)가 선정한 ‘2021년 알아야 할 라이징 스타’로 등극했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f5066f42a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 정규 앨범 ‘카운트다운’ 11월 2일 발매! 15일부터 앨범 3종 예약판매 돌입! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5526</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5526</guid>
-            <pubDate>Fri, 15 Oct 2021 03:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 11월 2일 정규 앨범 ‘COUNTDOWN’(카운트다운)을 발매한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6168f3af94522.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5542</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5542</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f884ef2bd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개 (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5537</link>
             <guid>https://www.smtown.com/artist/newsDetail/5537</guid>
             <pubDate>Tue, 19 Oct 2021 03:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">강한나, KBS2 '붉은 단심(가제)' 출연 확정!</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 강한나가 변신에 변신을 거듭한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3da0e8280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5519</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
+            <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박하선, 생활환경가전 전문 브랜드 전속 모델 발탁 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5506</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5506</guid>
+            <pubDate>Tue, 12 Oct 2021 08:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5494</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
+            <pubDate>Fri, 08 Oct 2021 02:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 제15회 아시아필름어워즈(Asian Film Awards) 여우조연상에 노미네이트됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5486</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
+            <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정 (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5519</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
-            <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379138</link>
+            <guid>https://now.smtown.com/news/detail/2379138</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[박하선, 생활환경가전 전문 브랜드 전속 모델 발탁 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5506</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5506</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379137</link>
+            <guid>https://now.smtown.com/news/detail/2379137</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5494</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
-            <pubDate>Fri, 08 Oct 2021 02:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 제15회 아시아필름어워즈(Asian Film Awards) 여우조연상에 노미네이트됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379136</link>
+            <guid>https://now.smtown.com/news/detail/2379136</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5486</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5481</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5481</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[신예 홍지윤이 로맨틱 코미디 새 드라마 '오늘부터 우리는'의 주인공으로 전격 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d35c568f9b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379135</link>
+            <guid>https://now.smtown.com/news/detail/2379135</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -773,38 +797,6 @@ Listen ...]]></content:encoded>
 #Love_Right_Back #MV #Behind
 #NCT #...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/JwMoqyKgu5Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🚘The Fair Match : Kart Mast... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=eumKT3o7-9A</link>
-            <guid>https://www.youtube.com/watch?v=eumKT3o7-9A</guid>
-            <pubDate>Sat, 16 Oct 2021 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eumKT3o7-9A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“It surprised the world” aespa, first a... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379088</link>
-            <guid>https://now.smtown.com/news/detail/2379088</guid>
-            <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) made their fi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DONGHAE releases live video of new song... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379087</link>
-            <guid>https://now.smtown.com/news/detail/2379087</guid>
-            <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE has released a live video where you can...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=6pu9neE0Kcc</link>
-            <guid>https://www.youtube.com/watch?v=6pu9neE0Kcc</guid>
-            <pubDate>Sat, 16 Oct 2021 01:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6pu9neE0Kcc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이가 들려주는 마음의 여행, '東 (EAST)' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 02:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379138</link>
+            <guid>https://now.smtown.com/news/detail/2379138</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379137</link>
+            <guid>https://now.smtown.com/news/detail/2379137</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379136</link>
+            <guid>https://now.smtown.com/news/detail/2379136</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379135</link>
+            <guid>https://now.smtown.com/news/detail/2379135</guid>
+            <pubDate>Wed, 20 Oct 2021 03:46:11 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379134</link>
             <guid>https://now.smtown.com/news/detail/2379134</guid>
@@ -208,38 +228,6 @@ Listen ...]]></content:encoded>
 #Love_Right_Back #MV #Behind
 #NCT #...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/JwMoqyKgu5Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🚘The Fair Match : Kart Mast...]]></title>
-            <link>https://www.youtube.com/watch?v=eumKT3o7-9A</link>
-            <guid>https://www.youtube.com/watch?v=eumKT3o7-9A</guid>
-            <pubDate>Sat, 16 Oct 2021 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eumKT3o7-9A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“It surprised the world” aespa, first a...]]></title>
-            <link>https://now.smtown.com/news/detail/2379088</link>
-            <guid>https://now.smtown.com/news/detail/2379088</guid>
-            <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) made their fi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DONGHAE releases live video of new song...]]></title>
-            <link>https://now.smtown.com/news/detail/2379087</link>
-            <guid>https://now.smtown.com/news/detail/2379087</guid>
-            <pubDate>Mon, 18 Oct 2021 06:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE has released a live video where you can...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat...]]></title>
-            <link>https://www.youtube.com/watch?v=6pu9neE0Kcc</link>
-            <guid>https://www.youtube.com/watch?v=6pu9neE0Kcc</guid>
-            <pubDate>Sat, 16 Oct 2021 01:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6pu9neE0Kcc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

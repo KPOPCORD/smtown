@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 02:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5539</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5539</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
+            <title><![CDATA[‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5545</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5545</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 리패키지 두 번째 콘셉트 티저 이미지 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e8d82197.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f89d4b0428.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘발매 D-1’ 은혁, 신곡 ‘be’ MV 티저 영상 공개! 감각적인 영상미로 기대감 UP!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5538</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5538</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:28 GMT</pubDate>
+            <title><![CDATA[NCT 127 신곡 ‘Favorite’, 단편 소설로 먼저 만난다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5544</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5544</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘발매 D-1’ 은혁, 신곡 ‘be’ MV 티저 영상 공개! 감각적인 영상미로 기대감 UP!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e0ec7a49.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 신곡 ‘Favorite’, 단편 소설로 먼저 만난다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8975d4c5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

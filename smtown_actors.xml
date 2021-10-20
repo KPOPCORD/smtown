@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 02:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 03:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강한나, KBS2 '붉은 단심(가제)' 출연 확정!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5537</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5537</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 변신에 변신을 거듭한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3da0e8280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5519</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박하선, 생활환경가전 전문 브랜드 전속 모델 발탁]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5506</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5506</guid>
+            <pubDate>Thu, 14 Oct 2021 03:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5494</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
+            <pubDate>Tue, 12 Oct 2021 08:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 제15회 아시아필름어워즈(Asian Film Awards) 여우조연상에 노미네이트됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5486</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
+            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5536</link>
@@ -46,46 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 04:53:31 GMT</pubDate>
             <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘미우미우’(Miu Miu) 앰버서더로 선정돼 ‘글로벌 퀸’의 저력을 보여줬다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5519</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
-            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박하선, 생활환경가전 전문 브랜드 전속 모델 발탁]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5506</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5506</guid>
-            <pubDate>Thu, 14 Oct 2021 03:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5494</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
-            <pubDate>Tue, 12 Oct 2021 08:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 제15회 아시아필름어워즈(Asian Film Awards) 여우조연상에 노미네이트됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5486</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
-            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 홍지윤, '오늘부터 우리는' 주연 발탁…“함께 하게 돼 영광” 소감]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5481</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5481</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[신예 홍지윤이 로맨틱 코미디 새 드라마 '오늘부터 우리는'의 주인공으로 전격 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d35c568f9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
