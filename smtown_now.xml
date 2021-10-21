@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379160</link>
+            <guid>https://now.smtown.com/news/detail/2379160</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379159</link>
+            <guid>https://now.smtown.com/news/detail/2379159</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379158</link>
+            <guid>https://now.smtown.com/news/detail/2379158</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379157</link>
+            <guid>https://now.smtown.com/news/detail/2379157</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
             <link>https://www.youtube.com/watch?v=OklxvRChfS4</link>
@@ -208,39 +228,6 @@ Listen and download on your fav...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379090</guid>
             <pubDate>Wed, 20 Oct 2021 23:44:38 GMT</pubDate>
             <content:encoded><![CDATA[The Highlight Medley video, where you can enjoy...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK, digital single ‘be’ released o...]]></title>
-            <link>https://now.smtown.com/news/detail/2379089</link>
-            <guid>https://now.smtown.com/news/detail/2379089</guid>
-            <pubDate>Wed, 20 Oct 2021 23:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK will release a solo digital single ‘be’...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stag...]]></title>
-            <link>https://www.youtube.com/watch?v=Y2yNcldFa6E</link>
-            <guid>https://www.youtube.com/watch?v=Y2yNcldFa6E</guid>
-            <pubDate>Wed, 20 Oct 2021 23:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Y2yNcldFa6E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
-            <link>https://www.youtube.com/watch?v=fljhXcznc98</link>
-            <guid>https://www.youtube.com/watch?v=fljhXcznc98</guid>
-            <pubDate>Wed, 20 Oct 2021 23:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 2...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fljhXcznc98/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Good Lemonade For One Good Talk🍋｜O...]]></title>
-            <link>https://www.youtube.com/watch?v=TutHkl0Dd7I</link>
-            <guid>https://www.youtube.com/watch?v=TutHkl0Dd7I</guid>
-            <pubDate>Wed, 20 Oct 2021 23:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TutHkl0Dd7I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

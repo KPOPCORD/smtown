@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5546</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5546</guid>
-            <pubDate>Wed, 20 Oct 2021 07:40:31 GMT</pubDate>
+            <title><![CDATA[에스파, 첫 미니앨범 ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5550</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5550</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616fbf788bf79.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파, 첫 미니앨범 ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f722b9ec2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5545</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5545</guid>
-            <pubDate>Wed, 20 Oct 2021 03:45:20 GMT</pubDate>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5549</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5549</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘Savage’ 신드롬! 에스파 美 빌보드 10개 차트 입성!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f89d4b0428.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6e911167.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

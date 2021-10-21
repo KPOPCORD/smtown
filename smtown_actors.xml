@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5541</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5541</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 파격적인 스타일을 선보였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8056776dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5536</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5536</guid>
+            <pubDate>Wed, 20 Oct 2021 02:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한선화, KAFA 장편 영화 '교토에서 온 편지' 출연]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5514</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5514</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강한나, CJ ENM tvN D ‘바이트 씨스터즈’ 캐스팅!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5495</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5495</guid>
+            <pubDate>Thu, 14 Oct 2021 03:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 구미호에 이어 이번에는 뱀파이어로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb2707025f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5487</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5487</guid>
+            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김재철이 '연모'에서 카리스마 넘치는 호위 무사로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e63a91fcf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강한나, KBS2 '붉은 단심(가제)' 출연 확정!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5537</link>
@@ -46,46 +86,6 @@
             <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
             <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5536</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5536</guid>
-            <pubDate>Wed, 20 Oct 2021 02:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화, KAFA 장편 영화 '교토에서 온 편지' 출연]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5514</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5514</guid>
-            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강한나, CJ ENM tvN D ‘바이트 씨스터즈’ 캐스팅!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5495</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5495</guid>
-            <pubDate>Thu, 14 Oct 2021 03:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 구미호에 이어 이번에는 뱀파이어로 변신한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb2707025f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5487</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5487</guid>
-            <pubDate>Fri, 08 Oct 2021 02:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김재철이 '연모'에서 카리스마 넘치는 호위 무사로 변신한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e63a91fcf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임윤아, ‘미우미우’(Miu Miu) 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5482</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5482</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘미우미우’(Miu Miu) 앰버서더로 선정돼 ‘글로벌 퀸’의 저력을 보여줬다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615d36101b4c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
