@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 13:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 14:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고독한 패션 리더😎 #배정남 화보 비하인드 #키동캠 | 배정남]]></title>
+            <link>https://www.youtube.com/watch?v=JmgnlhBX6xI</link>
+            <guid>https://www.youtube.com/watch?v=JmgnlhBX6xI</guid>
+            <pubDate>Thu, 21 Oct 2021 14:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[Lonely Fashion Leader😎 Behind-the-scene of the...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JmgnlhBX6xI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video]]></title>
+            <link>https://www.youtube.com/watch?v=vfYd7dL0xqI</link>
+            <guid>https://www.youtube.com/watch?v=vfYd7dL0xqI</guid>
+            <pubDate>Thu, 21 Oct 2021 14:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vfYd7dL0xqI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 살았던 동네가 어디더라? l KAIst EP.03 카이와 엄친아]]></title>
             <link>https://www.youtube.com/watch?v=d_vVrHu_l1g</link>
@@ -232,22 +248,6 @@ Listen and download on your fav...]]></content:encoded>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/zZwC3_2FrOM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] DONGHAE 동해 〈California Love〉 C...]]></title>
-            <link>https://www.youtube.com/watch?v=6-_aS7_6uPI</link>
-            <guid>https://www.youtube.com/watch?v=6-_aS7_6uPI</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6-_aS7_6uPI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 'Savage', the first K-pop girl gr...]]></title>
-            <link>https://now.smtown.com/news/detail/2379093</link>
-            <guid>https://now.smtown.com/news/detail/2379093</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA['Metaverse girl group' aespa (SM) made a splend...]]></content:encoded>
         </item>
     </channel>
 </rss>

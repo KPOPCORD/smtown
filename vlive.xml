@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2021-10-21T13:46:03.451Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Oct 2021 14:43:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video]]></title>
+            <link>https://vlive.tv/post/1-26094948</link>
+            <guid>https://vlive.tv/post/1-26094948</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_66/163479824533007VQr_JPEG/1634798008862.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
+            <link>https://vlive.tv/post/0-26072886</link>
+            <guid>https://vlive.tv/post/0-26072886</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.20.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211020_69/1634720416908qBuLF_JPEG/1634699545131.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/0-26061083</link>
+            <guid>https://vlive.tv/post/0-26061083</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.19.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211019_271/1634648434976wUeVW_JPEG/1634633350474.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/1-26052997</link>
+            <guid>https://vlive.tv/post/1-26052997</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley]]></title>
+            <link>https://vlive.tv/post/1-26049473</link>
+            <guid>https://vlive.tv/post/1-26049473</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2]]></title>
+            <link>https://vlive.tv/post/1-26037525</link>
+            <guid>https://vlive.tv/post/1-26037525</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-26007968</link>
+            <guid>https://vlive.tv/post/0-26007968</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-26007951</link>
+            <guid>https://vlive.tv/post/0-26007951</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis]]></title>
+            <link>https://vlive.tv/post/0-25999994</link>
+            <guid>https://vlive.tv/post/0-25999994</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV]]></title>
+            <link>https://vlive.tv/post/0-25996405</link>
+            <guid>https://vlive.tv/post/0-25996405</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-25992134</link>
+            <guid>https://vlive.tv/post/1-25992134</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV]]></title>
+            <link>https://vlive.tv/post/1-25959528</link>
+            <guid>https://vlive.tv/post/1-25959528</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.13.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/1-25905605</link>
+            <guid>https://vlive.tv/post/1-25905605</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video]]></title>
+            <link>https://vlive.tv/post/1-25908451</link>
+            <guid>https://vlive.tv/post/1-25908451</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Classic]]></title>
+            <link>https://vlive.tv/post/1-25897533</link>
+            <guid>https://vlive.tv/post/1-25897533</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1]]></title>
+            <link>https://vlive.tv/post/0-25888848</link>
+            <guid>https://vlive.tv/post/0-25888848</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/0-25887640</link>
+            <guid>https://vlive.tv/post/0-25887640</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV]]></title>
+            <link>https://vlive.tv/post/1-25891918</link>
+            <guid>https://vlive.tv/post/1-25891918</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
+            <link>https://vlive.tv/post/1-25887277</link>
+            <guid>https://vlive.tv/post/1-25887277</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-25866600</link>
+            <guid>https://vlive.tv/post/1-25866600</guid>
+            <pubDate>Thu, 21 Oct 2021 14:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[10.10.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
