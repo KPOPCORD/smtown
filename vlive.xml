@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 11:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 13:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video]]></title>
+            <link>https://vlive.tv/post/1-26094948</link>
+            <guid>https://vlive.tv/post/1-26094948</guid>
+            <pubDate>Thu, 21 Oct 2021 13:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211021_66/163479824533007VQr_JPEG/1634798008862.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
             <link>https://vlive.tv/post/0-26072886</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26052997</guid>
             <pubDate>Thu, 21 Oct 2021 10:45:14 GMT</pubDate>
             <content:encoded><![CDATA[10.18.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211018_57/1634562028381IlRMS_JPEG/1634530239620.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25866600</guid>
             <pubDate>Thu, 21 Oct 2021 10:45:14 GMT</pubDate>
             <content:encoded><![CDATA[10.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KEY 키 'BAD LOVE' Performance Video]]></title>
-            <link>https://vlive.tv/post/1-25814361</link>
-            <guid>https://vlive.tv/post/1-25814361</guid>
-            <pubDate>Thu, 21 Oct 2021 10:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[10.6.]]></content:encoded>
         </item>
     </channel>
 </rss>
