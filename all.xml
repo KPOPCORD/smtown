@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 07:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 08:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26072886</link>
             <guid>https://vlive.tv/post/0-26072886</guid>
             <pubDate>Thu, 21 Oct 2021 03:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211020_69/1634720416908qBuLF_JPEG/1634699545131.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -569,6 +569,236 @@
             <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
             <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa becomes a half-million seller wit... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379160</link>
+            <guid>https://now.smtown.com/news/detail/2379160</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) became a half...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's new song 'Favorite' is a dram... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379159</link>
+            <guid>https://now.smtown.com/news/detail/2379159</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA['Performance King' NCT 127 (SM) captivates musi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EUNHYUK's new song 'be' topped the iTun... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379158</link>
+            <guid>https://now.smtown.com/news/detail/2379158</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new song 'be' is getting a hot respon...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Moon Juyeon and singer Lim Sang H... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379157</link>
+            <guid>https://now.smtown.com/news/detail/2379157</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[The music video for singer Lim Sang Hyun's new ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=OklxvRChfS4</link>
+            <guid>https://www.youtube.com/watch?v=OklxvRChfS4</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OklxvRChfS4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LISTEN STAGE] 211013 - 손태진 (잠든 그대/오래전 ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=GFN4hbItaug</link>
+            <guid>https://www.youtube.com/watch?v=GFN4hbItaug</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진리슨스테이지 #손태진 #오르골
+🚩TAEJIN SON's Instagram :...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GFN4hbItaug/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=PFESwy579nU</link>
+            <guid>https://www.youtube.com/watch?v=PFESwy579nU</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/PFESwy579nU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' is on the... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379141</link>
+            <guid>https://now.smtown.com/news/detail/2379141</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) is continuing its global popularit...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Savage' syndrome! aespa enters 10 Bill... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379138</link>
+            <guid>https://now.smtown.com/news/detail/2379138</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) swept the US ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's new song 'Favorite' meets fir... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379137</link>
+            <guid>https://now.smtown.com/news/detail/2379137</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite' has been rel...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EUNHYUK, debut first single 'be' at 6 p... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379136</link>
+            <guid>https://now.smtown.com/news/detail/2379136</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK will release first single ‘be’ since hi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ko A Sung confirmed to appear in drama ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379135</link>
+            <guid>https://now.smtown.com/news/detail/2379135</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[Actress Ko A Sung confirmed her appearance in t...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Digital drama '바이트 씨스터즈' Kang Han Na re... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379134</link>
+            <guid>https://now.smtown.com/news/detail/2379134</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kang Han Na showed off his unconventional...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dancer AIKI, 'HAAGENDAZS' New Product A... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379133</link>
+            <guid>https://now.smtown.com/news/detail/2379133</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[Dancer AIKI has been selected as a new advertis...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[#연모] 호위 무사 윤형설의 촬영 준비📹 #김재철 #키동캠 | Ki... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=s6v_4k-EFMY</link>
+            <guid>https://www.youtube.com/watch?v=s6v_4k-EFMY</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[[#TheKingsAffection] Preparing shooting by the ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/s6v_4k-EFMY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Pcl6AR2wWH4</link>
+            <guid>https://www.youtube.com/watch?v=Pcl6AR2wWH4</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Pcl6AR2wWH4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #6｜‘Magic Carpet Ride’ Re... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=L-Vbeqax7d0</link>
+            <guid>https://www.youtube.com/watch?v=L-Vbeqax7d0</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/L-Vbeqax7d0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닝 안의 호랑이〰️🎵🐯 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=s6yELUT-OZU</link>
+            <guid>https://www.youtube.com/watch?v=s6yELUT-OZU</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[닝 안의 호랑이〰️🎵🐯
+
+Listen and download on your fav...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/s6yELUT-OZU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 3rd album repackage 2nd concep... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379116</link>
+            <guid>https://now.smtown.com/news/detail/2379116</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[The second concept teaser image of NCT 127 (SM)...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Release D-1’ EUNHYUK, new song ‘be’ MV... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379115</link>
+            <guid>https://now.smtown.com/news/detail/2379115</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK has released a teaser video for the new...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kang Han Na confirmed to appear in KBS2... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379114</link>
+            <guid>https://now.smtown.com/news/detail/2379114</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kang Han Na repeatedly transforms through...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hwang In Youp Confirmed to Appear in SB... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379113</link>
+            <guid>https://now.smtown.com/news/detail/2379113</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Hwang In Youp has confirmed his appearanc...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Special Video] 2021 월간 윤종신 Repair 10월호... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=qybeiLwHkX8</link>
+            <guid>https://www.youtube.com/watch?v=qybeiLwHkX8</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[#이승기 #LeeSeungGi #SlowStarter #월간윤종신
+2021. 10. ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qybeiLwHkX8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=FfEpbKlgjQ4</link>
+            <guid>https://www.youtube.com/watch?v=FfEpbKlgjQ4</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FfEpbKlgjQ4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #5｜‘Sticker’ Recording Be... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=zZwC3_2FrOM</link>
+            <guid>https://www.youtube.com/watch?v=zZwC3_2FrOM</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zZwC3_2FrOM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] DONGHAE 동해 〈California Love〉 C... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=6-_aS7_6uPI</link>
+            <guid>https://www.youtube.com/watch?v=6-_aS7_6uPI</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[DONGHAE's new single "California Love" is out!
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6-_aS7_6uPI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 'Savage', the first K-pop girl gr... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379093</link>
+            <guid>https://now.smtown.com/news/detail/2379093</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA['Metaverse girl group' aespa (SM) made a splend...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa wins 1st place on 4 music shows w... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379092</link>
+            <guid>https://now.smtown.com/news/detail/2379092</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA['Metaverse girl group' aespa (SM) is continuing...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album repackage release c... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379091</link>
+            <guid>https://now.smtown.com/news/detail/2379091</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) will meet global fans with a live ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DJ Raiden releases the Highlight Medley... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379090</link>
+            <guid>https://now.smtown.com/news/detail/2379090</guid>
+            <pubDate>Thu, 21 Oct 2021 08:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[The Highlight Medley video, where you can enjoy...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
