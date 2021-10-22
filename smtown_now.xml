@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 14:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 15:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공식 예고편 | 아날로그 트립 (Analog Trip NCT 127: ...]]></title>
+            <link>https://www.youtube.com/watch?v=TgwBWqLiQbQ</link>
+            <guid>https://www.youtube.com/watch?v=TgwBWqLiQbQ</guid>
+            <pubDate>Fri, 22 Oct 2021 15:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[신비하고 아름다운 섬, 소무의도로 떠난 NCT 127!
+그림 같은 풍경에 들뜬 것도 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TgwBWqLiQbQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Behind Film]]></title>
             <link>https://www.youtube.com/watch?v=muidg1QwkgI</link>
@@ -238,14 +247,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
 Listen and do...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Pcl6AR2wWH4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #6｜‘Magic Carpet Ride’ Re...]]></title>
-            <link>https://www.youtube.com/watch?v=L-Vbeqax7d0</link>
-            <guid>https://www.youtube.com/watch?v=L-Vbeqax7d0</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/L-Vbeqax7d0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
