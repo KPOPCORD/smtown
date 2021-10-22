@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 11:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 13:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26094948</link>
             <guid>https://vlive.tv/post/1-26094948</guid>
             <pubDate>Thu, 21 Oct 2021 19:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10.21.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211021_66/163479824533007VQr_JPEG/1634798008862.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎬DREAM CINEMA🎬에 오신 여러분 환영합니다💚 | U+아이... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=SoOGrGdF35s</link>
+            <guid>https://www.youtube.com/watch?v=SoOGrGdF35s</guid>
+            <pubDate>Fri, 22 Oct 2021 13:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT #NCTDREAM #Behind 
+#XRLIVE #DREAMCINEMA #아...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/SoOGrGdF35s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379192</link>
             <guid>https://now.smtown.com/news/detail/2379192</guid>
@@ -798,13 +807,6 @@ Listen and do...]]></content:encoded>
 
 Listen and download on your fav...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/s6yELUT-OZU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 3rd album repackage 2nd concep... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379116</link>
-            <guid>https://now.smtown.com/news/detail/2379116</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[The second concept teaser image of NCT 127 (SM)...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
