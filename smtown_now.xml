@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 13:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 13:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Behind Film]]></title>
+            <link>https://www.youtube.com/watch?v=muidg1QwkgI</link>
+            <guid>https://www.youtube.com/watch?v=muidg1QwkgI</guid>
+            <pubDate>Fri, 22 Oct 2021 13:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/muidg1QwkgI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎬DREAM CINEMA🎬에 오신 여러분 환영합니다💚 | U+아이...]]></title>
             <link>https://www.youtube.com/watch?v=SoOGrGdF35s</link>
@@ -17,9 +26,11 @@
             <enclosure url="https://i.ytimg.com/vi/SoOGrGdF35s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NETFLIX series ‘마이 네임’]]></title>
             <link>https://now.smtown.com/news/detail/2379192</link>
             <guid>https://now.smtown.com/news/detail/2379192</guid>
             <pubDate>Fri, 22 Oct 2021 09:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[Lee Hak Joo immersed himself in action with the...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127's new song 'Favorite' listening...]]></title>
@@ -43,9 +54,11 @@
             <content:encoded><![CDATA[TVING's original '술꾼도시여자들' Han Seon Hwa has com...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Kim Sae Byuk to appear in the omnibus p...]]></title>
             <link>https://now.smtown.com/news/detail/2379181</link>
             <guid>https://now.smtown.com/news/detail/2379181</guid>
             <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Sae Byuk reunites with director Kim I...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고독한 패션 리더😎 #배정남 화보 비하인드 #키동캠 | 배정남]]></title>
@@ -231,16 +244,6 @@ Listen and do...]]></content:encoded>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/L-Vbeqax7d0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닝 안의 호랑이〰️🎵🐯]]></title>
-            <link>https://www.youtube.com/watch?v=s6yELUT-OZU</link>
-            <guid>https://www.youtube.com/watch?v=s6yELUT-OZU</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[닝 안의 호랑이〰️🎵🐯
-
-Listen and download on your fav...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/s6yELUT-OZU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
