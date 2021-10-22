@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 02:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 03:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파, 첫 미니앨범 ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5550</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5550</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 하프 밀리언셀러에 등극했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f722b9ec2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은혁 신곡 ‘be’ 아이튠즈 톱 송 차트 9개 지역 1위! 21일 밤 10시 ‘be’ 퍼포먼스 비디오 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5548</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e0ec7a49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5534</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5534</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 음악방송 4관왕에 오르며 흥행 질주를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d14b2353e5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5549</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5549</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘퍼포먼스 킹’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 신곡 ‘Favorite’(페이보릿)의 드라마틱한 퍼포먼스로 전 세계 음악 팬들을 매료시킨다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6e911167.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Oct 2021 03:45:41 GMT</pubDate>
             <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 미국 빌보드의 메인 차트인 ‘빌보드 200’에 20위로 첫 진입하는 쾌거를 거뒀다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d25d6ab2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5533</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5533</guid>
-            <pubDate>Mon, 18 Oct 2021 08:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 25일 정규 3집 리패키지 앨범 발매 기념 카운트다운 생방송으로 글로벌 팬들과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d1447e0fe6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

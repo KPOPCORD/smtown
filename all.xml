@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 02:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 03:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26094948</link>
             <guid>https://vlive.tv/post/1-26094948</guid>
             <pubDate>Thu, 21 Oct 2021 19:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211021_66/163479824533007VQr_JPEG/1634798008862.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127이 직접 들려준 신곡 ‘Favorite’ 감상 포인트! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5555</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5555</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127이 직접 들려준 신곡 ‘Favorite’ 감상 포인트!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617232ed948e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5554</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5554</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172329092366.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에스파, 첫 미니앨범 ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5550</link>
             <guid>https://www.smtown.com/artist/newsDetail/5550</guid>
             <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파, 첫 미니앨범 ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 하프 밀리언셀러에 등극했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f722b9ec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5549</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5549</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6e911167.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은혁 신곡 ‘be’ 아이튠즈 톱 송 차트 9개 지역 1위! 21일 밤 10시 ‘be’ 퍼포먼스 비디오 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3e0ec7a49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어차피 1위는 에스파, 신곡 ‘Savage’ 4관왕 등극! 음악 방송 1위 자체 격돌 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5534</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5534</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Savage’(새비지)로 음악방송 4관왕에 오르며 흥행 질주를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d14b2353e5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5549</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5549</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[‘퍼포먼스 킹’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 신곡 ‘Favorite’(페이보릿)의 드라마틱한 퍼포먼스로 전 세계 음악 팬들을 매료시킨다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6e911167.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
@@ -465,30 +473,70 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d25d6ab2c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 리패키지 발매 기념 카운트다운 생방송 25일 오후 5시 진행! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5533</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5533</guid>
-            <pubDate>Mon, 18 Oct 2021 06:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 25일 정규 3집 리패키지 앨범 발매 기념 카운트다운 생방송으로 글로벌 팬들과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616d1447e0fe6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5553</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5553</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172322a74ebe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5547</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5547</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:30 GMT</pubDate>
+            <title><![CDATA[김새벽, 옴니버스 프로젝트 '하나이야기' 출연 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5552</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5552</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f66dd6688.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">김새벽, 옴니버스 프로젝트 '하나이야기' 출연</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617231f674653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 역대급 비주얼 장착하고 ‘로코 장인’으로 돌아온다! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5551</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5551</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 티빙 오리지널 ‘술꾼도시여자들’로 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172316db2430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5542</link>
             <guid>https://www.smtown.com/artist/newsDetail/5542</guid>
             <pubDate>Wed, 20 Oct 2021 03:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 고아성이 OTT 웨이브(wavve) 오리지널 드라마 ‘트레이서’에 출연을 확정 지어 열일 행보를 이어간다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f884ef2bd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강한나, KBS2 '붉은 단심(가제)' 출연 확정! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5537</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5537</guid>
+            <pubDate>Tue, 19 Oct 2021 03:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 변신에 변신을 거듭한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3da0e8280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5519</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
+            <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박하선, 생활환경가전 전문 브랜드 전속 모델 발탁 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5506</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5506</guid>
+            <pubDate>Tue, 12 Oct 2021 08:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5547</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5547</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문주연이 출연한 가수 임상현의 새 디지털 싱글 ‘이럴거면’ 뮤직비디오가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f66dd6688.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개 (SMTOWN ─ Actors News)]]></title>
@@ -523,52 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb2707025f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김재철, KBS2 ‘연모’ 출연… 이필모 호위 무사 윤형설役 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5487</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5487</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김재철이 '연모'에서 카리스마 넘치는 호위 무사로 변신한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e63a91fcf6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379184</link>
+            <guid>https://now.smtown.com/news/detail/2379184</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[강한나, KBS2 '붉은 단심(가제)' 출연 확정! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5537</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5537</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 변신에 변신을 거듭한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3da0e8280.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379183</link>
+            <guid>https://now.smtown.com/news/detail/2379183</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5519</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
-            <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379182</link>
+            <guid>https://now.smtown.com/news/detail/2379182</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[박하선, 생활환경가전 전문 브랜드 전속 모델 발탁 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5506</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5506</guid>
-            <pubDate>Tue, 12 Oct 2021 08:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장윤주, 제15회 아시아필름어워즈 여우조연상 노미네이트…8일 시상식 참석 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5494</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5494</guid>
-            <pubDate>Fri, 08 Oct 2021 02:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 제15회 아시아필름어워즈(Asian Film Awards) 여우조연상에 노미네이트됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb21c68f50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종훈, MBC ‘지금부터, 쇼타임!’ 캐스팅 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5486</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5486</guid>
-            <pubDate>Thu, 07 Oct 2021 04:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김종훈이 ‘지금부터, 쇼타임!’에 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e635430e24.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379181</link>
+            <guid>https://now.smtown.com/news/detail/2379181</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[고독한 패션 리더😎 #배정남 화보 비하인드 #키동캠 | 배정남 (SMTOWN ─ NOW)]]></title>
@@ -646,6 +670,12 @@ Listen and download on your favorite...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379157</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[The music video for singer Lim Sang Hyun's new ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379180</link>
+            <guid>https://now.smtown.com/news/detail/2379180</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV (SMTOWN ─ NOW)]]></title>
@@ -772,45 +802,6 @@ Listen and download on your fav...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379115</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[EUNHYUK has released a teaser video for the new...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kang Han Na confirmed to appear in KBS2... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379114</link>
-            <guid>https://now.smtown.com/news/detail/2379114</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Han Na repeatedly transforms through...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hwang In Youp Confirmed to Appear in SB... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379113</link>
-            <guid>https://now.smtown.com/news/detail/2379113</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Hwang In Youp has confirmed his appearanc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Special Video] 2021 월간 윤종신 Repair 10월호... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=qybeiLwHkX8</link>
-            <guid>https://www.youtube.com/watch?v=qybeiLwHkX8</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[#이승기 #LeeSeungGi #SlowStarter #월간윤종신
-2021. 10. ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qybeiLwHkX8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=FfEpbKlgjQ4</link>
-            <guid>https://www.youtube.com/watch?v=FfEpbKlgjQ4</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FfEpbKlgjQ4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #5｜‘Sticker’ Recording Be... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=zZwC3_2FrOM</link>
-            <guid>https://www.youtube.com/watch?v=zZwC3_2FrOM</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zZwC3_2FrOM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 

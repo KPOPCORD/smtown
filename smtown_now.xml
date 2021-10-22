@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 02:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 03:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379184</link>
+            <guid>https://now.smtown.com/news/detail/2379184</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379183</link>
+            <guid>https://now.smtown.com/news/detail/2379183</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379182</link>
+            <guid>https://now.smtown.com/news/detail/2379182</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379181</link>
+            <guid>https://now.smtown.com/news/detail/2379181</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[고독한 패션 리더😎 #배정남 화보 비하인드 #키동캠 | 배정남]]></title>
             <link>https://www.youtube.com/watch?v=JmgnlhBX6xI</link>
@@ -83,6 +103,11 @@ Listen and download on your favorite...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379157</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[The music video for singer Lim Sang Hyun's new ...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379180</link>
+            <guid>https://now.smtown.com/news/detail/2379180</guid>
+            <pubDate>Fri, 22 Oct 2021 03:46:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
@@ -209,45 +234,6 @@ Listen and download on your fav...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379115</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[EUNHYUK has released a teaser video for the new...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kang Han Na confirmed to appear in KBS2...]]></title>
-            <link>https://now.smtown.com/news/detail/2379114</link>
-            <guid>https://now.smtown.com/news/detail/2379114</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Han Na repeatedly transforms through...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hwang In Youp Confirmed to Appear in SB...]]></title>
-            <link>https://now.smtown.com/news/detail/2379113</link>
-            <guid>https://now.smtown.com/news/detail/2379113</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Hwang In Youp has confirmed his appearanc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Special Video] 2021 월간 윤종신 Repair 10월호...]]></title>
-            <link>https://www.youtube.com/watch?v=qybeiLwHkX8</link>
-            <guid>https://www.youtube.com/watch?v=qybeiLwHkX8</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[#이승기 #LeeSeungGi #SlowStarter #월간윤종신
-2021. 10. ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qybeiLwHkX8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
-            <link>https://www.youtube.com/watch?v=FfEpbKlgjQ4</link>
-            <guid>https://www.youtube.com/watch?v=FfEpbKlgjQ4</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" will be released on O...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FfEpbKlgjQ4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #5｜‘Sticker’ Recording Be...]]></title>
-            <link>https://www.youtube.com/watch?v=zZwC3_2FrOM</link>
-            <guid>https://www.youtube.com/watch?v=zZwC3_2FrOM</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zZwC3_2FrOM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
