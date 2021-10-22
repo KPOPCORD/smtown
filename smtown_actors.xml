@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 08:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 09:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김새벽, 옴니버스 프로젝트 '하나이야기' 출연]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5552</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5552</guid>
+            <pubDate>Fri, 22 Oct 2021 09:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김새벽이 김인선 감독과 또 한 번 뭉쳤다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617231f674653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5547</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5547</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문주연이 출연한 가수 임상현의 새 디지털 싱글 ‘이럴거면’ 뮤직비디오가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f66dd6688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5541</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5541</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 파격적인 스타일을 선보였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8056776dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5536</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5536</guid>
+            <pubDate>Wed, 20 Oct 2021 02:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한선화, KAFA 장편 영화 '교토에서 온 편지' 출연]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5514</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5514</guid>
+            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 역대급 비주얼 장착하고 ‘로코 장인’으로 돌아온다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5551</link>
@@ -46,46 +86,6 @@
             <pubDate>Thu, 14 Oct 2021 03:45:04 GMT</pubDate>
             <content:encoded><![CDATA[배우 박하선이 광고계의 굳건한 대세 행보를 이어가고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5547</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5547</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문주연이 출연한 가수 임상현의 새 디지털 싱글 ‘이럴거면’ 뮤직비디오가 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f66dd6688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5541</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5541</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 파격적인 스타일을 선보였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8056776dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5536</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5536</guid>
-            <pubDate>Wed, 20 Oct 2021 02:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화, KAFA 장편 영화 '교토에서 온 편지' 출연]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5514</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5514</guid>
-            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강한나, CJ ENM tvN D ‘바이트 씨스터즈’ 캐스팅!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5495</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5495</guid>
-            <pubDate>Thu, 14 Oct 2021 03:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 구미호에 이어 이번에는 뱀파이어로 변신한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb2707025f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
