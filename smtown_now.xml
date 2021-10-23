@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 13:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 14:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Vi...]]></title>
+            <link>https://www.youtube.com/watch?v=eNh0jPQRbb4</link>
+            <guid>https://www.youtube.com/watch?v=eNh0jPQRbb4</guid>
+            <pubDate>Sat, 23 Oct 2021 14:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/eNh0jPQRbb4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] 🏸The Fair Match : Badminton...]]></title>
             <link>https://www.youtube.com/watch?v=OK4OaAaSQQM</link>
@@ -240,14 +249,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379133</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[Dancer AIKI has been selected as a new advertis...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[#연모] 호위 무사 윤형설의 촬영 준비📹 #김재철 #키동캠 | Ki...]]></title>
-            <link>https://www.youtube.com/watch?v=s6v_4k-EFMY</link>
-            <guid>https://www.youtube.com/watch?v=s6v_4k-EFMY</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[[#TheKingsAffection] Preparing shooting by the ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/s6v_4k-EFMY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
