@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 14:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 15:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26124320</link>
+            <guid>https://vlive.tv/post/1-26124320</guid>
+            <pubDate>Sat, 23 Oct 2021 15:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211023_292/1634974471163YEVms_JPEG/1634974372830.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Video]]></title>
             <link>https://vlive.tv/post/0-26122806</link>
             <guid>https://vlive.tv/post/0-26122806</guid>
             <pubDate>Sat, 23 Oct 2021 13:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211023_10/1634994039277GCK80_JPEG/1634991302096.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26072886</guid>
             <pubDate>Sat, 23 Oct 2021 04:51:52 GMT</pubDate>
             <content:encoded><![CDATA[10.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211020_69/1634720416908qBuLF_JPEG/1634699545131.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV]]></title>
             <link>https://vlive.tv/post/1-25891918</link>
             <guid>https://vlive.tv/post/1-25891918</guid>
-            <pubDate>Sat, 23 Oct 2021 04:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[10.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video Teaser]]></title>
-            <link>https://vlive.tv/post/1-25887277</link>
-            <guid>https://vlive.tv/post/1-25887277</guid>
             <pubDate>Sat, 23 Oct 2021 04:51:52 GMT</pubDate>
             <content:encoded><![CDATA[10.11.]]></content:encoded>
         </item>

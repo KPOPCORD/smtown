@@ -4,7 +4,7 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 14:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 15:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 23 Oct 2021 13:02:16 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211023_289/SfmsZ_1634991319837K84iM_JPEG/1634991302096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/23130301</link>
+            <guid>https://tv.naver.com/v/23130301</guid>
+            <pubDate>Sat, 23 Oct 2021 15:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211023_18/qjKwW_1634974401700lLau4_JPEG/1634974372830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Sep 2021 09:44:52 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_13/36exG_1632718350449STT88_JPEG/1632718347616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA]]></title>
-            <link>https://tv.naver.com/v/22629125</link>
-            <guid>https://tv.naver.com/v/22629125</guid>
-            <pubDate>Sun, 26 Sep 2021 15:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210926_281/xfcg6_1632662668173IaxJg_JPEG/1632662664753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
