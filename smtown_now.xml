@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 13:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 13:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
+            <link>https://www.youtube.com/watch?v=fz60u7k7Z60</link>
+            <guid>https://www.youtube.com/watch?v=fz60u7k7Z60</guid>
+            <pubDate>Sun, 24 Oct 2021 13:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 2...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fz60u7k7Z60/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite' MV Teaser]]></title>
             <link>https://www.youtube.com/watch?v=HqKpTVw2a4Y</link>
@@ -243,13 +252,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379135</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[Actress Ko A Sung confirmed her appearance in t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Digital drama '바이트 씨스터즈' Kang Han Na re...]]></title>
-            <link>https://now.smtown.com/news/detail/2379134</link>
-            <guid>https://now.smtown.com/news/detail/2379134</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Han Na showed off his unconventional...]]></content:encoded>
         </item>
     </channel>
 </rss>

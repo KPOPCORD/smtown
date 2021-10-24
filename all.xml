@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 13:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 13:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26124320</link>
             <guid>https://vlive.tv/post/1-26124320</guid>
             <pubDate>Sun, 24 Oct 2021 11:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211023_292/1634974471163YEVms_JPEG/1634974372830.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-26122806</link>
             <guid>https://vlive.tv/post/0-26122806</guid>
             <pubDate>Sun, 24 Oct 2021 11:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10.23.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211023_10/1634994039277GCK80_JPEG/1634991302096.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653c5f529a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=fz60u7k7Z60</link>
+            <guid>https://www.youtube.com/watch?v=fz60u7k7Z60</guid>
+            <pubDate>Sun, 24 Oct 2021 13:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
+👑 2...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fz60u7k7Z60/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite' MV Teaser (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=HqKpTVw2a4Y</link>
             <guid>https://www.youtube.com/watch?v=HqKpTVw2a4Y</guid>
@@ -806,13 +815,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379135</guid>
             <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
             <content:encoded><![CDATA[Actress Ko A Sung confirmed her appearance in t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Digital drama '바이트 씨스터즈' Kang Han Na re... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379134</link>
-            <guid>https://now.smtown.com/news/detail/2379134</guid>
-            <pubDate>Thu, 21 Oct 2021 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Han Na showed off his unconventional...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
