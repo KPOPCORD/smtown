@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV]]></title>
+            <link>https://vlive.tv/post/1-26166981</link>
+            <guid>https://vlive.tv/post/1-26166981</guid>
+            <pubDate>Mon, 25 Oct 2021 09:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211025_185/1635152996754GEJoY_PNG/1635152654788.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV Teaser]]></title>
             <link>https://vlive.tv/post/1-26124320</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26094948</guid>
             <pubDate>Mon, 25 Oct 2021 06:50:30 GMT</pubDate>
             <content:encoded><![CDATA[10.21.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211021_66/163479824533007VQr_JPEG/1634798008862.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #1]]></title>
             <link>https://vlive.tv/post/0-25887640</link>
             <guid>https://vlive.tv/post/0-25887640</guid>
-            <pubDate>Mon, 25 Oct 2021 06:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[10.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV]]></title>
-            <link>https://vlive.tv/post/1-25891918</link>
-            <guid>https://vlive.tv/post/1-25891918</guid>
             <pubDate>Mon, 25 Oct 2021 06:50:30 GMT</pubDate>
             <content:encoded><![CDATA[10.11.]]></content:encoded>
         </item>
