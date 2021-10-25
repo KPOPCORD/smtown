@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 04:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 오리지널 '술꾼도시여자들']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5557</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5557</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">티빙 오리지널 '술꾼도시여자들' </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617641eb2b3aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 시리즈 ‘마이 네임’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5556</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">넷플릭스 시리즈 ‘마이 네임’</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617282061de96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5553</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5553</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172322a74ebe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

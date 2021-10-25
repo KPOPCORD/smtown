@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 04:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127이 직접 들려준 신곡 ‘Favorite’ 감상 포인트!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5555</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5555</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
+            <title><![CDATA[‘하프 밀리언셀러’ 에스파, 첫 미니앨범 ‘Savage’ 유나이티드 월드 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5559</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5559</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127이 직접 들려준 신곡 ‘Favorite’ 감상 포인트!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617232ed948e8.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘하프 밀리언셀러’ 에스파, 첫 미니앨범 ‘Savage’ 유나이티드 월드 차트 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176431ea6333.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5554</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5554</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
+            <title><![CDATA[은혁, 23일 밤 10시 신곡 ‘레드 뮬리’ 스페셜 비디오 오픈! 팬들과 함께 완성한 ‘노을 전시회’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5558</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5558</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172329092366.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">은혁, 23일 밤 10시 신곡 ‘레드 뮬리’ 스페셜 비디오 오픈! 팬들과 함께 완성한 ‘노을 전시회’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764279bd9e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
