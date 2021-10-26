@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26166981</link>
             <guid>https://vlive.tv/post/1-26166981</guid>
             <pubDate>Mon, 25 Oct 2021 09:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211025_185/1635152996754GEJoY_PNG/1635152654788.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’도 선주문량 106만장 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5563</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5563</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:17 GMT</pubDate>
+            <title><![CDATA[효연, ‘26일의 셀럽’ 두 번째 방송 26일 6시 진행! 쇼핑 큐레이터 부캐 ‘효사장’ 활약! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5566</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5566</guid>
+            <pubDate>Tue, 26 Oct 2021 06:50:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 정규 3집 리패키지 ‘Favorite’도 선주문량 106만장 돌파!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617646119c890.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">효연, ‘26일의 셀럽’ 두 번째 방송 26일 6시 진행! 쇼핑 큐레이터 부캐 ‘효사장’ 활약!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779c3b81175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5565</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5565</guid>
+            <pubDate>Tue, 26 Oct 2021 06:50:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779bdc25811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5564</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
+            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 새 앨범 타이틀 곡 ‘ZERO’(제로)로 힙한 변신을 꾀한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 몽환적 티저 이미지 공개! 정규 앨범 ‘카운트다운’으로 11월 2일 컴백! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5562</link>
             <guid>https://www.smtown.com/artist/newsDetail/5562</guid>
             <pubDate>Mon, 25 Oct 2021 06:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 몽환적 티저 이미지 공개! 정규 앨범 ‘카운트다운’으로 11월 2일 컴백!</span>]]></content:encoded>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 11월 2일 컴백을 앞두고 프로모션에 본격적인 시동을 걸었다]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176458463aaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파 ‘Savage’ MV 공개 17일 만에 조회수 1억 뷰 돌파! 화제성 甲! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5560</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5560</guid>
+            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘하프 밀리언셀러’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 신곡 ‘Savage’(새비지) 뮤직비디오가 유튜브 조회수 1억 뷰를 달성했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764392c2e97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁, 23일 밤 10시 신곡 ‘레드 뮬리’ 스페셜 비디오 오픈! 팬들과 함께 완성한 ‘노을 전시회’ (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5558</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5558</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[은혁이 팬들과 협업해 색다른 콘텐츠를 완성해냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764279bd9e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5554</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5554</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[은혁이 22일 음악 방송에서 신곡 ‘be’(비) 무대 첫 선을 보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172329092366.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’도 선주문량 106만장 돌파! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5563</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5563</guid>
+            <pubDate>Mon, 25 Oct 2021 06:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 리패키지 앨범도 선주문량 106만장을 돌파했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617646119c890.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127, 신곡 ‘Favorite’ MV 티저 영상 23일 밤 12시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -423,54 +471,6 @@
             <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 하프 밀리언셀러에 등극했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f722b9ec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁 신곡 ‘be’ 아이튠즈 톱 송 차트 9개 지역 1위! 21일 밤 10시 ‘be’ 퍼포먼스 비디오 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5548</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5548</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[은혁의 신곡 ‘be’(비)가 글로벌 팬들 사이 뜨거운 반응을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6a754688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 ‘Savage’ MV 공개 17일 만에 조회수 1억 뷰 돌파! 화제성 甲! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5560</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5560</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘하프 밀리언셀러’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 신곡 ‘Savage’(새비지) 뮤직비디오가 유튜브 조회수 1억 뷰를 달성했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764392c2e97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁, 23일 밤 10시 신곡 ‘레드 뮬리’ 스페셜 비디오 오픈! 팬들과 함께 완성한 ‘노을 전시회’ (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5558</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5558</guid>
-            <pubDate>Mon, 25 Oct 2021 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[은혁이 팬들과 협업해 색다른 콘텐츠를 완성해냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764279bd9e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5554</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5554</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[은혁이 22일 음악 방송에서 신곡 ‘be’(비) 무대 첫 선을 보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172329092366.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5549</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5549</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘퍼포먼스 킹’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 신곡 ‘Favorite’(페이보릿)의 드라마틱한 퍼포먼스로 전 세계 음악 팬들을 매료시킨다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6e911167.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 4주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5546</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5546</guid>
-            <pubDate>Wed, 20 Oct 2021 07:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 글로벌 인기 질주를 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616fbf788bf79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 '술꾼도시여자들' (SMTOWN ─ Actors News)]]></title>
@@ -569,252 +569,6 @@
             <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
             <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] NCT 127 'Favorite' Countdown L... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=nIXCpJg9HIs</link>
-            <guid>https://www.youtube.com/watch?v=nIXCpJg9HIs</guid>
-            <pubDate>Tue, 26 Oct 2021 04:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[*English/Japanese/Chinese/Indonesian subtitles ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nIXCpJg9HIs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Favorite (Vampire)' (Official ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=djIl18UxemE</link>
-            <guid>https://www.youtube.com/watch?v=djIl18UxemE</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/djIl18UxemE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Love On The Floor' (Official A... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=9c3Iq-BOrhM</link>
-            <guid>https://www.youtube.com/watch?v=9c3Iq-BOrhM</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/9c3Iq-BOrhM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Pilot' (Official Audio) | Favo... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=dUVbD-S6Ts8</link>
-            <guid>https://www.youtube.com/watch?v=dUVbD-S6Ts8</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/dUVbD-S6Ts8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=7uxu4Z2HAnA</link>
-            <guid>https://www.youtube.com/watch?v=7uxu4Z2HAnA</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7uxu4Z2HAnA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] EUNHYUK 은혁 〈be〉 COUNTDOWN LIVE (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=P6fpQDPw0gg</link>
-            <guid>https://www.youtube.com/watch?v=P6fpQDPw0gg</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/P6fpQDPw0gg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album repackage 'Favorite... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379225</link>
-            <guid>https://now.smtown.com/news/detail/2379225</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album repackage album also s...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, released a dreamy tea... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379224</link>
-            <guid>https://now.smtown.com/news/detail/2379224</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E started a full-fledged promoti...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=fz60u7k7Z60</link>
-            <guid>https://www.youtube.com/watch?v=fz60u7k7Z60</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
-👑 2...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fz60u7k7Z60/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite' MV Teaser (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=HqKpTVw2a4Y</link>
-            <guid>https://www.youtube.com/watch?v=HqKpTVw2a4Y</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HqKpTVw2a4Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Vi... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=eNh0jPQRbb4</link>
-            <guid>https://www.youtube.com/watch?v=eNh0jPQRbb4</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eNh0jPQRbb4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🏸The Fair Match : Badminton... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=OK4OaAaSQQM</link>
-            <guid>https://www.youtube.com/watch?v=OK4OaAaSQQM</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/OK4OaAaSQQM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, new song 'Favorite' MV teaser ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379223</link>
-            <guid>https://now.smtown.com/news/detail/2379223</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite' music video ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa's 'Savage' MV surpasses 100 milli... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379222</link>
-            <guid>https://now.smtown.com/news/detail/2379222</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA['Half million seller' aespa(SM)'s new song 'Sav...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Half million seller' aespa, 1st mini a... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379221</link>
-            <guid>https://now.smtown.com/news/detail/2379221</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girlgroup’ aespa (SM) is continuing ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK, new song ‘Red Muhly’ special v... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379220</link>
-            <guid>https://now.smtown.com/news/detail/2379220</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK collaborated with fans to create unique...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING Original '술꾼도시여자들' (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379219</link>
-            <guid>https://now.smtown.com/news/detail/2379219</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[Han Seon Hwa showed off her lovely presence in ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공식 예고편 | 아날로그 트립 (Analog Trip NCT 127: ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=TgwBWqLiQbQ</link>
-            <guid>https://www.youtube.com/watch?v=TgwBWqLiQbQ</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[신비하고 아름다운 섬, 소무의도로 떠난 NCT 127!
-그림 같은 풍경에 들뜬 것도 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TgwBWqLiQbQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Behind Film (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=muidg1QwkgI</link>
-            <guid>https://www.youtube.com/watch?v=muidg1QwkgI</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/muidg1QwkgI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎬DREAM CINEMA🎬에 오신 여러분 환영합니다💚 | U+아이... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=SoOGrGdF35s</link>
-            <guid>https://www.youtube.com/watch?v=SoOGrGdF35s</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[#NCT #NCTDREAM #Behind 
-#XRLIVE #DREAMCINEMA #아...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SoOGrGdF35s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NETFLIX series ‘마이 네임’ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379192</link>
-            <guid>https://now.smtown.com/news/detail/2379192</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[Lee Hak Joo immersed himself in action with the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's new song 'Favorite' listening... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379184</link>
-            <guid>https://now.smtown.com/news/detail/2379184</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM), which releases the 3rd album repa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Unique performer' EUNHYUK, the first m... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379183</link>
-            <guid>https://now.smtown.com/news/detail/2379183</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new song 'be' will be shown for the f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING Original '술꾼도시여자들' Han Seon Hwa, ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379182</link>
-            <guid>https://now.smtown.com/news/detail/2379182</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[TVING's original '술꾼도시여자들' Han Seon Hwa has com...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Sae Byuk to appear in the omnibus p... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379181</link>
-            <guid>https://now.smtown.com/news/detail/2379181</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kim Sae Byuk reunites with director Kim I...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고독한 패션 리더😎 #배정남 화보 비하인드 #키동캠 | 배정남 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=JmgnlhBX6xI</link>
-            <guid>https://www.youtube.com/watch?v=JmgnlhBX6xI</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[Lonely Fashion Leader😎 Behind-the-scene of the...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JmgnlhBX6xI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=vfYd7dL0xqI</link>
-            <guid>https://www.youtube.com/watch?v=vfYd7dL0xqI</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vfYd7dL0xqI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 살았던 동네가 어디더라? l KAIst EP.03 카이와 엄친아 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=d_vVrHu_l1g</link>
-            <guid>https://www.youtube.com/watch?v=d_vVrHu_l1g</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[#KAIst #카이스트 #KAI #카이
-
-KAI Official
-http://www....]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/d_vVrHu_l1g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김이 김이나 🤟 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=KeXncH_NZII</link>
-            <guid>https://www.youtube.com/watch?v=KeXncH_NZII</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[김이 김이나 🤟
-
-Listen and download on your favorite...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KeXncH_NZII/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 2021 월간 윤종신 Repair 10월호 - Slow Sta... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=YqR6XjghZGM</link>
-            <guid>https://www.youtube.com/watch?v=YqR6XjghZGM</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[[10월호 이야기]
-
-“돌아보면 다 Slow Starter.”
-
-2021 [월간 윤종...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YqR6XjghZGM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
