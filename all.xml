@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 03:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 04:54:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26166981</link>
             <guid>https://vlive.tv/post/1-26166981</guid>
             <pubDate>Mon, 25 Oct 2021 09:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211025_185/1635152996754GEJoY_PNG/1635152654788.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[REPLAY] NCT 127 'Favorite' Countdown L... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=nIXCpJg9HIs</link>
+            <guid>https://www.youtube.com/watch?v=nIXCpJg9HIs</guid>
+            <pubDate>Tue, 26 Oct 2021 04:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[*English/Japanese/Chinese/Indonesian subtitles ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nIXCpJg9HIs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 'Favorite (Vampire)' (Official ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=djIl18UxemE</link>
             <guid>https://www.youtube.com/watch?v=djIl18UxemE</guid>
@@ -807,13 +815,6 @@ Listen and download on your favorite...]]></content:encoded>
 
 2021 [월간 윤종...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/YqR6XjghZGM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa becomes a half-million seller wit... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379160</link>
-            <guid>https://now.smtown.com/news/detail/2379160</guid>
-            <pubDate>Mon, 25 Oct 2021 09:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girl group’ aespa (SM) became a half...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
