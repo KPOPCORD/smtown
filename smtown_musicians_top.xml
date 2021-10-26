@@ -4,18 +4,9 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[효연, ‘26일의 셀럽’ 두 번째 방송 26일 6시 진행! 쇼핑 큐레이터 부캐 ‘효사장’ 활약!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5566</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5566</guid>
-            <pubDate>Tue, 26 Oct 2021 06:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">효연, ‘26일의 셀럽’ 두 번째 방송 26일 6시 진행! 쇼핑 큐레이터 부캐 ‘효사장’ 활약!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779c3b81175.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5565</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! </span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779bdc25811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5564</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
+            <pubDate>Tue, 26 Oct 2021 07:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">슈퍼주니어-D&amp;E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
