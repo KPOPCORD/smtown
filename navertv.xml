@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 11:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 13:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1]]></title>
+            <link>https://tv.naver.com/v/23172570</link>
+            <guid>https://tv.naver.com/v/23172570</guid>
+            <pubDate>Tue, 26 Oct 2021 13:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_291/z28OV_1635217948515v4vlb_JPEG/1635217832744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV]]></title>
             <link>https://tv.naver.com/v/23159673</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Sep 2021 14:42:51 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_126/naJGv_1632746388756I687a_JPEG/1632746376742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker' Dance Practice]]></title>
-            <link>https://tv.naver.com/v/22647573</link>
-            <guid>https://tv.naver.com/v/22647573</guid>
-            <pubDate>Mon, 27 Sep 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_53/ObvLv_1632743666252Aa2VE_JPEG/1632743634424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
