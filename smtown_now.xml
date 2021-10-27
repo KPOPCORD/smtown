@@ -4,9 +4,21 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379255</link>
+            <guid>https://now.smtown.com/news/detail/2379255</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E releases new album tra...]]></title>
+            <link>https://now.smtown.com/news/detail/2379254</link>
+            <guid>https://now.smtown.com/news/detail/2379254</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[The tracklist for SUPER JUNIOR-D&amp;E's new album ...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO'...]]></title>
             <link>https://www.youtube.com/watch?v=wterj8Xhu_Y</link>
@@ -224,20 +236,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379183</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[EUNHYUK's new song 'be' will be shown for the f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING Original '술꾼도시여자들' Han Seon Hwa, ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379182</link>
-            <guid>https://now.smtown.com/news/detail/2379182</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[TVING's original '술꾼도시여자들' Han Seon Hwa has com...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Sae Byuk to appear in the omnibus p...]]></title>
-            <link>https://now.smtown.com/news/detail/2379181</link>
-            <guid>https://now.smtown.com/news/detail/2379181</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kim Sae Byuk reunites with director Kim I...]]></content:encoded>
         </item>
     </channel>
 </rss>

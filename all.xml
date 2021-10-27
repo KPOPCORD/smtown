@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26179175</link>
             <guid>https://vlive.tv/post/1-26179175</guid>
             <pubDate>Tue, 26 Oct 2021 17:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211026_124/1635218778214MwWfU_JPEG/1635217832744.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다” (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5569</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 새 앨범 트랙리스트 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5568</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5568</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">슈퍼주니어-D&amp;E, 새 앨범 트랙리스트 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c6cdb3925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5565</link>
             <guid>https://www.smtown.com/artist/newsDetail/5565</guid>
             <pubDate>Tue, 26 Oct 2021 06:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! </span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 이번 주 음악 방송에 출격해 치명적인 매력을 선보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779bdc25811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5564</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
-            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’도 선주문량 106만장 돌파! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617232ed948e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파, 첫 미니앨범 ‘Savage’로 발매 15일 만에 음반 판매량 51만장 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5550</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5550</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 하프 밀리언셀러에 등극했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f722b9ec2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5564</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
+            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 새 앨범 타이틀 곡 ‘ZERO’(제로)로 힙한 변신을 꾀한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 몽환적 티저 이미지 공개! 정규 앨범 ‘카운트다운’으로 11월 2일 컴백! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
             <content:encoded><![CDATA[은혁이 22일 음악 방송에서 신곡 ‘be’(비) 무대 첫 선을 보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172329092366.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 전 세계 매료시킬 드라마틱한 퍼포먼스! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5549</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5549</guid>
-            <pubDate>Tue, 26 Oct 2021 07:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[‘퍼포먼스 킹’ NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 신곡 ‘Favorite’(페이보릿)의 드라마틱한 퍼포먼스로 전 세계 음악 팬들을 매료시킨다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f6e911167.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 '술꾼도시여자들' (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,19 @@
             <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
             <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379255</link>
+            <guid>https://now.smtown.com/news/detail/2379255</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E releases new album tra... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379254</link>
+            <guid>https://now.smtown.com/news/detail/2379254</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[The tracklist for SUPER JUNIOR-D&amp;E's new album ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO'... (SMTOWN ─ NOW)]]></title>
@@ -787,20 +800,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379183</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[EUNHYUK's new song 'be' will be shown for the f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING Original '술꾼도시여자들' Han Seon Hwa, ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379182</link>
-            <guid>https://now.smtown.com/news/detail/2379182</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[TVING's original '술꾼도시여자들' Han Seon Hwa has com...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Sae Byuk to appear in the omnibus p... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379181</link>
-            <guid>https://now.smtown.com/news/detail/2379181</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kim Sae Byuk reunites with director Kim I...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

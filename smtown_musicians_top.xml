@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5565</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5565</guid>
-            <pubDate>Tue, 26 Oct 2021 06:50:56 GMT</pubDate>
+            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5569</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779bdc25811.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5564</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
-            <pubDate>Tue, 26 Oct 2021 07:40:58 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어-D&E, 새 앨범 트랙리스트 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5568</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5568</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어-D&amp;E, 새 앨범 트랙리스트 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c6cdb3925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
