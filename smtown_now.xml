@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 14:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 15:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
+            <link>https://www.youtube.com/watch?v=FqwmGR_kG7k</link>
+            <guid>https://www.youtube.com/watch?v=FqwmGR_kG7k</guid>
+            <pubDate>Wed, 27 Oct 2021 15:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FqwmGR_kG7k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
+            <link>https://www.youtube.com/watch?v=6gcl3IB4JbM</link>
+            <guid>https://www.youtube.com/watch?v=6gcl3IB4JbM</guid>
+            <pubDate>Wed, 27 Oct 2021 15:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6gcl3IB4JbM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
             <link>https://www.youtube.com/watch?v=XYJ_paR8DTE</link>
@@ -226,24 +242,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379219</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[Han Seon Hwa showed off her lovely presence in ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공식 예고편 | 아날로그 트립 (Analog Trip NCT 127: ...]]></title>
-            <link>https://www.youtube.com/watch?v=TgwBWqLiQbQ</link>
-            <guid>https://www.youtube.com/watch?v=TgwBWqLiQbQ</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[신비하고 아름다운 섬, 소무의도로 떠난 NCT 127!
-그림 같은 풍경에 들뜬 것도 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TgwBWqLiQbQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Behind Film]]></title>
-            <link>https://www.youtube.com/watch?v=muidg1QwkgI</link>
-            <guid>https://www.youtube.com/watch?v=muidg1QwkgI</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/muidg1QwkgI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
