@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Teaser] 손태진 - 깊어지네 (Duet With 웬디) MV T...]]></title>
+            <link>https://www.youtube.com/watch?v=fTF8UHdARsg</link>
+            <guid>https://www.youtube.com/watch?v=fTF8UHdARsg</guid>
+            <pubDate>Wed, 27 Oct 2021 09:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #깊어지네 #레드벨벳 #웬디
+
+'깊어지네 (Duet With 웬디)' MV ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fTF8UHdARsg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=K70AuxON944</link>
+            <guid>https://www.youtube.com/watch?v=K70AuxON944</guid>
+            <pubDate>Wed, 27 Oct 2021 09:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/K70AuxON944/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forbes, aespa’s first mini album ‘Savag...]]></title>
             <link>https://now.smtown.com/news/detail/2379255</link>
@@ -224,20 +244,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379192</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[Lee Hak Joo immersed himself in action with the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's new song 'Favorite' listening...]]></title>
-            <link>https://now.smtown.com/news/detail/2379184</link>
-            <guid>https://now.smtown.com/news/detail/2379184</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM), which releases the 3rd album repa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Unique performer' EUNHYUK, the first m...]]></title>
-            <link>https://now.smtown.com/news/detail/2379183</link>
-            <guid>https://now.smtown.com/news/detail/2379183</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new song 'be' will be shown for the f...]]></content:encoded>
         </item>
     </channel>
 </rss>
