@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 11:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 13:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Dance Practice (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26191140</link>
+            <guid>https://vlive.tv/post/0-26191140</guid>
+            <pubDate>Thu, 28 Oct 2021 13:00:56 GMT</pubDate>
+            <content:encoded><![CDATA[지금]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1 (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26179175</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26124320</guid>
             <pubDate>Thu, 28 Oct 2021 05:39:39 GMT</pubDate>
             <content:encoded><![CDATA[10.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211025_19/16351254839506KVPA_JPEG/1634974372830.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Video (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Classic (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-25897533</link>
             <guid>https://vlive.tv/post/1-25897533</guid>
-            <pubDate>Thu, 28 Oct 2021 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[10.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25888848</link>
-            <guid>https://vlive.tv/post/0-25888848</guid>
             <pubDate>Thu, 28 Oct 2021 05:39:39 GMT</pubDate>
             <content:encoded><![CDATA[10.11.]]></content:encoded>
         </item>
@@ -1361,6 +1361,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Dance Practice (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23203072</link>
+            <guid>https://tv.naver.com/v/23203072</guid>
+            <pubDate>Thu, 28 Oct 2021 13:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_82/RcGiN_1635324887518vOSoY_JPEG/1635324764582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1 (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23172570</link>
             <guid>https://tv.naver.com/v/23172570</guid>
@@ -1591,14 +1599,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 03 Oct 2021 15:48:10 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211003_189/kO9Bv_1633265783877NbHSv_JPEG/1633265434575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Lemonade' Dance Practice (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22648228</link>
-            <guid>https://tv.naver.com/v/22648228</guid>
-            <pubDate>Mon, 27 Sep 2021 14:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_126/naJGv_1632746388756I687a_JPEG/1632746376742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

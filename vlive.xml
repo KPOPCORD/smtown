@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 11:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 13:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-26191140</link>
+            <guid>https://vlive.tv/post/0-26191140</guid>
+            <pubDate>Thu, 28 Oct 2021 13:00:56 GMT</pubDate>
+            <content:encoded><![CDATA[지금]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1]]></title>
             <link>https://vlive.tv/post/1-26179175</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26124320</guid>
             <pubDate>Thu, 28 Oct 2021 09:43:44 GMT</pubDate>
             <content:encoded><![CDATA[10.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211025_19/16351254839506KVPA_JPEG/1634974372830.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Video]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Classic]]></title>
             <link>https://vlive.tv/post/1-25897533</link>
             <guid>https://vlive.tv/post/1-25897533</guid>
-            <pubDate>Thu, 28 Oct 2021 09:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[10.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1]]></title>
-            <link>https://vlive.tv/post/0-25888848</link>
-            <guid>https://vlive.tv/post/0-25888848</guid>
             <pubDate>Thu, 28 Oct 2021 09:43:44 GMT</pubDate>
             <content:encoded><![CDATA[10.11.]]></content:encoded>
         </item>
