@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 13:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 13:45:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26191140</link>
             <guid>https://vlive.tv/post/0-26191140</guid>
             <pubDate>Thu, 28 Oct 2021 13:00:56 GMT</pubDate>
-            <content:encoded><![CDATA[지금]]></content:encoded>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-1] '웃음 ZERO' UNBOXING of SUPER JUNIO... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=HF1CHItNhWs</link>
+            <guid>https://www.youtube.com/watch?v=HF1CHItNhWs</guid>
+            <pubDate>Thu, 28 Oct 2021 13:44:22 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HF1CHItNhWs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 & 제작진 인터뷰 | 아날로그 트립 (Analog Tri... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=TGpPUh_9MHA</link>
             <guid>https://www.youtube.com/watch?v=TGpPUh_9MHA</guid>
@@ -801,13 +809,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379221</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[‘Metaverse girlgroup’ aespa (SM) is continuing ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK, new song ‘Red Muhly’ special v... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379220</link>
-            <guid>https://now.smtown.com/news/detail/2379220</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK collaborated with fans to create unique...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
