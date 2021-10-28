@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26191140</link>
             <guid>https://vlive.tv/post/0-26191140</guid>
             <pubDate>Thu, 28 Oct 2021 13:00:56 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Da... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=oMGRxF7_Z20</link>
+            <guid>https://www.youtube.com/watch?v=oMGRxF7_Z20</guid>
+            <pubDate>Thu, 28 Oct 2021 15:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oMGRxF7_Z20/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-1] '웃음 ZERO' UNBOXING of SUPER JUNIO... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=HF1CHItNhWs</link>
             <guid>https://www.youtube.com/watch?v=HF1CHItNhWs</guid>
@@ -802,13 +810,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379222</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA['Half million seller' aespa(SM)'s new song 'Sav...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Half million seller' aespa, 1st mini a... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379221</link>
-            <guid>https://now.smtown.com/news/detail/2379221</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girlgroup’ aespa (SM) is continuing ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
