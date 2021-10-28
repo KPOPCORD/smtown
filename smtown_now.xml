@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 03:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 04:55:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 & 제작진 인터뷰 | 아날로그 트립 (Analog Tri...]]></title>
+            <link>https://www.youtube.com/watch?v=TGpPUh_9MHA</link>
+            <guid>https://www.youtube.com/watch?v=TGpPUh_9MHA</guid>
+            <pubDate>Thu, 28 Oct 2021 04:54:32 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일 (금) 밤 11시 최초 공개
+
+아날로그 트립 NCT 127 멤버들과 제...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TGpPUh_9MHA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
             <link>https://www.youtube.com/watch?v=FqwmGR_kG7k</link>
@@ -235,13 +245,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379220</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[EUNHYUK collaborated with fans to create unique...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING Original '술꾼도시여자들']]></title>
-            <link>https://now.smtown.com/news/detail/2379219</link>
-            <guid>https://now.smtown.com/news/detail/2379219</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[Han Seon Hwa showed off her lovely presence in ...]]></content:encoded>
         </item>
     </channel>
 </rss>
