@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:53:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26191140</link>
             <guid>https://vlive.tv/post/0-26191140</guid>
             <pubDate>Fri, 29 Oct 2021 02:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,12 +375,12 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일늘 밤 10시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일 밤 10시 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5573</link>
             <guid>https://www.smtown.com/artist/newsDetail/5573</guid>
             <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E 신곡 ‘ZERO’ MV 티저 영상 29일늘 밤 10시 공개!</span>]]></content:encoded>
+                                        <span class="title">슈퍼주니어-D&amp;E 신곡 ‘ZERO’ MV 티저 영상 29일 밤 10시 공개!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b868861c77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,16 +571,18 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SUPER JUNIOR-D&E's new song 'ZERO' MV t... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379295</link>
             <guid>https://now.smtown.com/news/detail/2379295</guid>
             <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[The second teaser video for SUPER JUNIOR-D&amp;E's ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT 127, new song 'Favorite' choreograp... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379294</link>
             <guid>https://now.smtown.com/news/detail/2379294</guid>
             <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite (Vampire)' ch...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EXO KAI '음 (Mmmh)' MV surpasses 100 Mil... (SMTOWN ─ NOW)]]></title>
@@ -590,10 +592,11 @@
             <content:encoded><![CDATA[EXO KAI(SM)'s solo debut song ‘음 (Mmmh)’ MV sur...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON, ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379292</link>
             <guid>https://now.smtown.com/news/detail/2379292</guid>
             <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON (SM) catc...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Da... (SMTOWN ─ NOW)]]></title>
