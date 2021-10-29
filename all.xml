@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26191140</link>
             <guid>https://vlive.tv/post/0-26191140</guid>
             <pubDate>Fri, 29 Oct 2021 02:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다” (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5569</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
-            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일늘 밤 10시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5573</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5573</guid>
+            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어-D&amp;E 신곡 ‘ZERO’ MV 티저 영상 29일늘 밤 10시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b868861c77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5572</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5572</guid>
+            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b8609ea10b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 카이 ‘음 (Mmmh)’ MV 유튜브 조회수 1억뷰 돌파! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5571</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5571</guid>
+            <pubDate>Fri, 29 Oct 2021 05:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)의 솔로 데뷔곡 ‘음 (Mmmh)’ 뮤직비디오가 유튜브 조회수 1억뷰를 달성했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b85986695d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 새 앨범 트랙리스트 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5568</link>
             <guid>https://www.smtown.com/artist/newsDetail/5568</guid>
             <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 새 앨범 트랙리스트 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 새 앨범 ‘COUNTDOWN’(카운트다운)트랙리스트가 공개됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c6cdb3925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5564</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
+            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 새 앨범 타이틀 곡 ‘ZERO’(제로)로 힙한 변신을 꾀한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 몽환적 티저 이미지 공개! 정규 앨범 ‘카운트다운’으로 11월 2일 컴백! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5562</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5562</guid>
+            <pubDate>Mon, 25 Oct 2021 06:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 11월 2일 컴백을 앞두고 프로모션에 본격적인 시동을 걸었다]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176458463aaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파 ‘Savage’ MV 공개 17일 만에 조회수 1억 뷰 돌파! 화제성 甲! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5560</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5560</guid>
+            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘하프 밀리언셀러’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 신곡 ‘Savage’(새비지) 뮤직비디오가 유튜브 조회수 1억 뷰를 달성했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764392c2e97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다” (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5569</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속) 첫 미니앨범 ‘Savage’가 미국 포브스의 집중 조명을 받았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! (SMTOWN ─ Musicians News)]]></title>
@@ -425,52 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176431ea6333.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127이 직접 들려준 신곡 ‘Favorite’ 감상 포인트! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5555</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5555</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[10월 25일 정규 3집 리패키지 앨범을 발매하는 NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 신곡 ‘Favorite’(페이보릿)의 감상 포인트를 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617232ed948e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5564</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
-            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 새 앨범 타이틀 곡 ‘ZERO’(제로)로 힙한 변신을 꾀한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 몽환적 티저 이미지 공개! 정규 앨범 ‘카운트다운’으로 11월 2일 컴백! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5562</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5562</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 11월 2일 컴백을 앞두고 프로모션에 본격적인 시동을 걸었다]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176458463aaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 ‘Savage’ MV 공개 17일 만에 조회수 1억 뷰 돌파! 화제성 甲! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5560</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5560</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘하프 밀리언셀러’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 신곡 ‘Savage’(새비지) 뮤직비디오가 유튜브 조회수 1억 뷰를 달성했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764392c2e97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁, 23일 밤 10시 신곡 ‘레드 뮬리’ 스페셜 비디오 오픈! 팬들과 함께 완성한 ‘노을 전시회’ (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5558</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5558</guid>
-            <pubDate>Mon, 25 Oct 2021 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[은혁이 팬들과 협업해 색다른 콘텐츠를 완성해냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764279bd9e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘독보적 퍼포머’ 은혁, 22일 신곡 ‘be’ 음악 방송 첫 선! 감각적 무대 꾸민다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5554</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5554</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[은혁이 22일 음악 방송에서 신곡 ‘be’(비) 무대 첫 선을 보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172329092366.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, ‘생동감’ 불어넣는 연기력으로 대체 불가 존재감 선사 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5570</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5570</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 최시원, ‘생동감’ 불어넣는 연기력으로 대체 불가 존재감 선사</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b847991c7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 '술꾼도시여자들' (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5556</link>
             <guid>https://www.smtown.com/artist/newsDetail/5556</guid>
             <pubDate>Fri, 22 Oct 2021 09:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">넷플릭스 시리즈 ‘마이 네임’</span>]]></content:encoded>
+            <content:encoded><![CDATA[이학주가 넷플릭스(NETFLIX) 시리즈 ‘마이 네임’으로 액션까지 섭렵했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617282061de96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김새벽, 옴니버스 프로젝트 '하나이야기' 출연 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5552</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5552</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김새벽이 김인선 감독과 또 한 번 뭉쳤다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617231f674653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5547</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5547</guid>
+            <pubDate>Thu, 21 Oct 2021 05:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문주연이 출연한 가수 임상현의 새 디지털 싱글 ‘이럴거면’ 뮤직비디오가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f66dd6688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5541</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5541</guid>
+            <pubDate>Wed, 20 Oct 2021 02:53:05 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 파격적인 스타일을 선보였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8056776dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5536</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5536</guid>
+            <pubDate>Tue, 19 Oct 2021 03:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신 (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,29 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김새벽, 옴니버스 프로젝트 '하나이야기' 출연 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5552</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5552</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김새벽이 김인선 감독과 또 한 번 뭉쳤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617231f674653.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379295</link>
+            <guid>https://now.smtown.com/news/detail/2379295</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[배우 문주연, 가수 임상현 신곡 ‘이럴거면’ 뮤직비디오 출연…섬세한 연기로 곡 몰입감 높여 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5547</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5547</guid>
-            <pubDate>Thu, 21 Oct 2021 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문주연이 출연한 가수 임상현의 새 디지털 싱글 ‘이럴거면’ 뮤직비디오가 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6170f66dd6688.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379294</link>
+            <guid>https://now.smtown.com/news/detail/2379294</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[디지털 드라마 '바이트 씨스터즈' 강한나, 비하인드 컷 공개 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5541</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5541</guid>
-            <pubDate>Wed, 20 Oct 2021 02:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 파격적인 스타일을 선보였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f8056776dc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[EXO KAI '음 (Mmmh)' MV surpasses 100 Mil... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379293</link>
+            <guid>https://now.smtown.com/news/detail/2379293</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI(SM)'s solo debut song ‘음 (Mmmh)’ MV sur...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황인엽, SBS ‘왜 오수재인가’ 출연 확정 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5536</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5536</guid>
-            <pubDate>Tue, 19 Oct 2021 03:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화, KAFA 장편 영화 '교토에서 온 편지' 출연 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5514</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5514</guid>
-            <pubDate>Thu, 14 Oct 2021 03:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 연이어 스크린 주연으로 나서며 열일 행보를 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a3d286b95.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379292</link>
+            <guid>https://now.smtown.com/news/detail/2379292</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Da... (SMTOWN ─ NOW)]]></title>
@@ -777,39 +802,6 @@ Listen and do...]]></content:encoded>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HqKpTVw2a4Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Vi... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=eNh0jPQRbb4</link>
-            <guid>https://www.youtube.com/watch?v=eNh0jPQRbb4</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eNh0jPQRbb4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🏸The Fair Match : Badminton... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=OK4OaAaSQQM</link>
-            <guid>https://www.youtube.com/watch?v=OK4OaAaSQQM</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/OK4OaAaSQQM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, new song 'Favorite' MV teaser ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379223</link>
-            <guid>https://now.smtown.com/news/detail/2379223</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite' music video ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa's 'Savage' MV surpasses 100 milli... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379222</link>
-            <guid>https://now.smtown.com/news/detail/2379222</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA['Half million seller' aespa(SM)'s new song 'Sav...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>

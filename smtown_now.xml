@@ -4,9 +4,31 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379295</link>
+            <guid>https://now.smtown.com/news/detail/2379295</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379294</link>
+            <guid>https://now.smtown.com/news/detail/2379294</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EXO KAI '음 (Mmmh)' MV surpasses 100 Mil...]]></title>
+            <link>https://now.smtown.com/news/detail/2379293</link>
+            <guid>https://now.smtown.com/news/detail/2379293</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI(SM)'s solo debut song ‘음 (Mmmh)’ MV sur...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379292</link>
+            <guid>https://now.smtown.com/news/detail/2379292</guid>
+            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Da...]]></title>
             <link>https://www.youtube.com/watch?v=oMGRxF7_Z20</link>
@@ -214,39 +236,6 @@ Listen and do...]]></content:encoded>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HqKpTVw2a4Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Vi...]]></title>
-            <link>https://www.youtube.com/watch?v=eNh0jPQRbb4</link>
-            <guid>https://www.youtube.com/watch?v=eNh0jPQRbb4</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eNh0jPQRbb4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🏸The Fair Match : Badminton...]]></title>
-            <link>https://www.youtube.com/watch?v=OK4OaAaSQQM</link>
-            <guid>https://www.youtube.com/watch?v=OK4OaAaSQQM</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/OK4OaAaSQQM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, new song 'Favorite' MV teaser ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379223</link>
-            <guid>https://now.smtown.com/news/detail/2379223</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite' music video ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa's 'Savage' MV surpasses 100 milli...]]></title>
-            <link>https://now.smtown.com/news/detail/2379222</link>
-            <guid>https://now.smtown.com/news/detail/2379222</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA['Half million seller' aespa(SM)'s new song 'Sav...]]></content:encoded>
         </item>
     </channel>
 </rss>

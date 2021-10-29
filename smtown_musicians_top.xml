@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5569</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
-            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일늘 밤 10시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5573</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5573</guid>
+            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어-D&amp;E 신곡 ‘ZERO’ MV 티저 영상 29일늘 밤 10시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b868861c77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 새 앨범 트랙리스트 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5568</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5568</guid>
-            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5572</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5572</guid>
+            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 새 앨범 트랙리스트 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c6cdb3925.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b8609ea10b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
