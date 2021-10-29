@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26191140</link>
             <guid>https://vlive.tv/post/0-26191140</guid>
             <pubDate>Fri, 29 Oct 2021 02:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[MV] 손태진 SON TJ  - 깊어지네 (Duet With 웬디)'... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=1Y07koZ-De0</link>
+            <guid>https://www.youtube.com/watch?v=1Y07koZ-De0</guid>
+            <pubDate>Fri, 29 Oct 2021 09:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #SONTJ #레드벨벳 #웬디 #WENDY
+
+'깊어지네 (Duet With ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1Y07koZ-De0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUPER JUNIOR-D&E's new song 'ZERO' MV t... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379295</link>
             <guid>https://now.smtown.com/news/detail/2379295</guid>
@@ -797,14 +807,6 @@ Listen and do...]]></content:encoded>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album [COUNTDOWN]
 👑 2...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fz60u7k7Z60/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite' MV Teaser (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=HqKpTVw2a4Y</link>
-            <guid>https://www.youtube.com/watch?v=HqKpTVw2a4Y</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album repackage "Favorite" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HqKpTVw2a4Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
