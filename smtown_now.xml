@@ -4,19 +4,9 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 14:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 15:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Ep 1. 모두가 사라진 섬, 그곳에 숨겨진 비밀! | 아날로그 트립]]></title>
-            <link>https://www.youtube.com/watch?v=B-5wDgBNTU0</link>
-            <guid>https://www.youtube.com/watch?v=B-5wDgBNTU0</guid>
-            <pubDate>Fri, 29 Oct 2021 14:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일 (금) 밤 11시 최초 공개
-
-MV 촬영을 위해 소무의도로 떠난 NCT...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/B-5wDgBNTU0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[#크라임퍼즐] 장르물 장인의 컴백🙌 #고아성 #키동캠 | Ko A ...]]></title>
             <link>https://www.youtube.com/watch?v=u6ujYVMCkIc</link>
@@ -247,6 +237,13 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
 Listen and do...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/P6fpQDPw0gg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album repackage 'Favorite...]]></title>
+            <link>https://now.smtown.com/news/detail/2379225</link>
+            <guid>https://now.smtown.com/news/detail/2379225</guid>
+            <pubDate>Fri, 29 Oct 2021 15:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album repackage album also s...]]></content:encoded>
         </item>
     </channel>
 </rss>
