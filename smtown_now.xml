@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 13:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 14:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼굴이 작품 그 자체 #조보아 화보 비하인드 #키동캠｜Cho Bo Ah]]></title>
+            <link>https://www.youtube.com/watch?v=cX15hWkPRT8</link>
+            <guid>https://www.youtube.com/watch?v=cX15hWkPRT8</guid>
+            <pubDate>Sat, 30 Oct 2021 14:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[The face is art, Behind-the-scene of the photos...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cX15hWkPRT8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정중하고 우아한 뱀파이어들의 의회 | Vampire House : Th...]]></title>
             <link>https://www.youtube.com/watch?v=4wbE7h36luQ</link>
@@ -236,15 +244,6 @@ ht...]]></content:encoded>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/7uxu4Z2HAnA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] EUNHYUK 은혁 〈be〉 COUNTDOWN LIVE]]></title>
-            <link>https://www.youtube.com/watch?v=P6fpQDPw0gg</link>
-            <guid>https://www.youtube.com/watch?v=P6fpQDPw0gg</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[EUNHYUK's new single "be" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/P6fpQDPw0gg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
