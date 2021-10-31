@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 13:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 14:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#뫼비우스_검은태양] 국정원 요원 밀착 취재기! #박하선 #키동캠 ｜...]]></title>
+            <link>https://www.youtube.com/watch?v=Mx4DSYb0ua8</link>
+            <guid>https://www.youtube.com/watch?v=Mx4DSYb0ua8</guid>
+            <pubDate>Sun, 31 Oct 2021 14:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[[#Moebiusproject2012_TheVeil] close-up reporter...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Mx4DSYb0ua8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
             <link>https://www.youtube.com/watch?v=W6eBOptr4uY</link>
@@ -240,13 +248,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379240</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) will appear on a music show this w...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E releases the poster fo...]]></title>
-            <link>https://now.smtown.com/news/detail/2379239</link>
-            <guid>https://now.smtown.com/news/detail/2379239</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is making a hip transformation...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 13:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 14:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26234517</link>
             <guid>https://vlive.tv/post/0-26234517</guid>
             <pubDate>Sun, 31 Oct 2021 11:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211030_147/1635593376773KjXEM_JPEG/upload_7967309386060852569cfc3d0-57d8-4411-97c1-ca06db63a442.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26256526</link>
             <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Sun, 31 Oct 2021 09:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#뫼비우스_검은태양] 국정원 요원 밀착 취재기! #박하선 #키동캠 ｜... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Mx4DSYb0ua8</link>
+            <guid>https://www.youtube.com/watch?v=Mx4DSYb0ua8</guid>
+            <pubDate>Sun, 31 Oct 2021 14:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[[#Moebiusproject2012_TheVeil] close-up reporter...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Mx4DSYb0ua8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=W6eBOptr4uY</link>
             <guid>https://www.youtube.com/watch?v=W6eBOptr4uY</guid>
@@ -803,13 +811,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379240</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) will appear on a music show this w...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E releases the poster fo... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379239</link>
-            <guid>https://now.smtown.com/news/detail/2379239</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is making a hip transformation...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
