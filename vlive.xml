@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 08:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 09:45:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26256526</link>
+            <guid>https://vlive.tv/post/1-26256526</guid>
+            <pubDate>Sun, 31 Oct 2021 09:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #2]]></title>
             <link>https://vlive.tv/post/1-26211903</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26179175</guid>
             <pubDate>Sat, 30 Oct 2021 23:42:13 GMT</pubDate>
             <content:encoded><![CDATA[10.26.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211026_124/1635218778214MwWfU_JPEG/1635217832744.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #2]]></title>
             <link>https://vlive.tv/post/1-25905605</link>
             <guid>https://vlive.tv/post/1-25905605</guid>
-            <pubDate>Sat, 30 Oct 2021 23:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA 강타 '아마 (Maybe)' Live Video]]></title>
-            <link>https://vlive.tv/post/1-25908451</link>
-            <guid>https://vlive.tv/post/1-25908451</guid>
             <pubDate>Sat, 30 Oct 2021 23:42:13 GMT</pubDate>
             <content:encoded><![CDATA[10.12.]]></content:encoded>
         </item>

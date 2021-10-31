@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 08:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 09:45:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' ...]]></title>
+            <link>https://www.youtube.com/watch?v=DT2XSpsDUHQ</link>
+            <guid>https://www.youtube.com/watch?v=DT2XSpsDUHQ</guid>
+            <pubDate>Sun, 31 Oct 2021 09:44:31 GMT</pubDate>
+            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DT2XSpsDUHQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼굴이 작품 그 자체 #조보아 화보 비하인드 #키동캠｜Cho Bo Ah]]></title>
             <link>https://www.youtube.com/watch?v=cX15hWkPRT8</link>
@@ -236,14 +244,6 @@ ht...]]></content:encoded>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dUVbD-S6Ts8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV]]></title>
-            <link>https://www.youtube.com/watch?v=7uxu4Z2HAnA</link>
-            <guid>https://www.youtube.com/watch?v=7uxu4Z2HAnA</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7uxu4Z2HAnA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
