@@ -4,7 +4,7 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 10:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 11:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 31 Oct 2021 09:45:18 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_6/y7mAe_1635593147152KpQYT_JPEG/1635593142294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver.]]></title>
+            <link>https://tv.naver.com/v/23253366</link>
+            <guid>https://tv.naver.com/v/23253366</guid>
+            <pubDate>Sun, 31 Oct 2021 11:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_194/KHUBP_1635585259319R3pvV_JPEG/1635585235413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #2]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Oct 2021 13:03:48 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_40/K8Zkl_16334379195476THuY_JPEG/1633437907015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' Camerawork Guide for Creators]]></title>
-            <link>https://tv.naver.com/v/22801240</link>
-            <guid>https://tv.naver.com/v/22801240</guid>
-            <pubDate>Tue, 05 Oct 2021 13:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_133/DUgo8_1633436000083P086A_JPEG/1633435613359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

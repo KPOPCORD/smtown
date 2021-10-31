@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 10:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 11:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver. (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26234517</link>
+            <guid>https://vlive.tv/post/0-26234517</guid>
+            <pubDate>Sun, 31 Oct 2021 11:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211030_147/1635593376773KjXEM_JPEG/upload_7967309386060852569cfc3d0-57d8-4411-97c1-ca06db63a442.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26256526</link>
             <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Sun, 31 Oct 2021 09:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26191140</guid>
             <pubDate>Sat, 30 Oct 2021 23:42:13 GMT</pubDate>
             <content:encoded><![CDATA[10.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211028_13/1635410187173qcii8_JPEG/upload_516795698733387021b92bba2-7e41-4b57-bd18-58f71be25d7a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1 (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-25959528</guid>
             <pubDate>Sat, 30 Oct 2021 23:42:13 GMT</pubDate>
             <content:encoded><![CDATA[10.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-6] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' MV Teaser #2 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-25905605</link>
-            <guid>https://vlive.tv/post/1-25905605</guid>
-            <pubDate>Sat, 30 Oct 2021 23:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[10.12.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -1368,6 +1368,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_6/y7mAe_1635593147152KpQYT_JPEG/1635593142294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver. (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23253366</link>
+            <guid>https://tv.naver.com/v/23253366</guid>
+            <pubDate>Sun, 31 Oct 2021 11:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_194/KHUBP_1635585259319R3pvV_JPEG/1635585235413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #2 (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23223077</link>
             <guid>https://tv.naver.com/v/23223077</guid>
@@ -1590,14 +1598,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Tue, 05 Oct 2021 13:03:48 GMT</pubDate>
             <content:encoded><![CDATA[7:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_40/K8Zkl_16334379195476THuY_JPEG/1633437907015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' Camerawork Guide for Creators (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22801240</link>
-            <guid>https://tv.naver.com/v/22801240</guid>
-            <pubDate>Tue, 05 Oct 2021 13:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_133/DUgo8_1633436000083P086A_JPEG/1633435613359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
