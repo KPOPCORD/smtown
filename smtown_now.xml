@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 14:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 15:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,16 @@
             <pubDate>Sun, 31 Oct 2021 14:41:40 GMT</pubDate>
             <content:encoded><![CDATA[[#Moebiusproject2012_TheVeil] close-up reporter...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Mx4DSYb0ua8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Savage Angle Challenge 🎃 Edition]]></title>
+            <link>https://www.youtube.com/watch?v=sRJ7OTsTMKE</link>
+            <guid>https://www.youtube.com/watch?v=sRJ7OTsTMKE</guid>
+            <pubDate>Sun, 31 Oct 2021 15:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Angle Challenge 🎃 Edition
+
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sRJ7OTsTMKE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
@@ -31,6 +41,16 @@
             <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito
 #NCT127 #NCTDREAM #WayV...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZjRTZgnmh8Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Halloween Special Medley 🐍😎🤟]]></title>
+            <link>https://www.youtube.com/watch?v=JTNwrxckeuQ</link>
+            <guid>https://www.youtube.com/watch?v=JTNwrxckeuQ</guid>
+            <pubDate>Sun, 31 Oct 2021 15:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[Halloween Special Medley 🐍😎🤟
+
+Listen and dow...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JTNwrxckeuQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM HALLOWEEN HOUSE 2021 Behind the Scene]]></title>
@@ -234,20 +254,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379242</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) succeeded in transformi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HYOYEON, the second broadcast of '26 Da...]]></title>
-            <link>https://now.smtown.com/news/detail/2379241</link>
-            <guid>https://now.smtown.com/news/detail/2379241</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation's HYOYEON (SM) will start the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Performance King' NCT 127 This week's ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379240</link>
-            <guid>https://now.smtown.com/news/detail/2379240</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) will appear on a music show this w...]]></content:encoded>
         </item>
     </channel>
 </rss>

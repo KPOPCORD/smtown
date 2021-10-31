@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 14:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 15:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26234517</link>
             <guid>https://vlive.tv/post/0-26234517</guid>
             <pubDate>Sun, 31 Oct 2021 11:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211030_147/1635593376773KjXEM_JPEG/upload_7967309386060852569cfc3d0-57d8-4411-97c1-ca06db63a442.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26256526</link>
             <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Sun, 31 Oct 2021 09:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -579,6 +579,16 @@
             <enclosure url="https://i.ytimg.com/vi/Mx4DSYb0ua8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Savage Angle Challenge 🎃 Edition (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=sRJ7OTsTMKE</link>
+            <guid>https://www.youtube.com/watch?v=sRJ7OTsTMKE</guid>
+            <pubDate>Sun, 31 Oct 2021 15:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[Savage Angle Challenge 🎃 Edition
+
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sRJ7OTsTMKE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=W6eBOptr4uY</link>
             <guid>https://www.youtube.com/watch?v=W6eBOptr4uY</guid>
@@ -594,6 +604,16 @@
             <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito
 #NCT127 #NCTDREAM #WayV...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZjRTZgnmh8Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Halloween Special Medley 🐍😎🤟 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=JTNwrxckeuQ</link>
+            <guid>https://www.youtube.com/watch?v=JTNwrxckeuQ</guid>
+            <pubDate>Sun, 31 Oct 2021 15:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[Halloween Special Medley 🐍😎🤟
+
+Listen and dow...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JTNwrxckeuQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM HALLOWEEN HOUSE 2021 Behind the Scene (SMTOWN ─ NOW)]]></title>
@@ -797,20 +817,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379242</guid>
             <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) succeeded in transformi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[HYOYEON, the second broadcast of '26 Da... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379241</link>
-            <guid>https://now.smtown.com/news/detail/2379241</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation's HYOYEON (SM) will start the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Performance King' NCT 127 This week's ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379240</link>
-            <guid>https://now.smtown.com/news/detail/2379240</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) will appear on a music show this w...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
