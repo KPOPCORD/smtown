@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 02:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 03:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26234517</link>
             <guid>https://vlive.tv/post/0-26234517</guid>
             <pubDate>Sun, 31 Oct 2021 21:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211030_147/1635593376773KjXEM_JPEG/upload_7967309386060852569cfc3d0-57d8-4411-97c1-ca06db63a442.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26256526</link>
             <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Sun, 31 Oct 2021 21:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211031_183/1635670822685rIj4Y_JPEG/1635593142294.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,41 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 TVXQ! SEASON’S GREETINGS CONCEPT T... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=vObJMKvlcH0</link>
+            <guid>https://www.youtube.com/watch?v=vObJMKvlcH0</guid>
+            <pubDate>Mon, 01 Nov 2021 03:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SUPERJUNIOR
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vObJMKvlcH0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WayV SEASON’S GREETINGS CONCEPT TR... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=nwLQthwP2bw</link>
+            <guid>https://www.youtube.com/watch?v=nwLQthwP2bw</guid>
+            <pubDate>Mon, 01 Nov 2021 03:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SEASON’S GREETINGS #WayV
+预计从11月3日（周三）开始在多平...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nwLQthwP2bw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SHINee SEASON’S GREETINGS CONCEPT ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=xObOB2Qw_AE</link>
+            <guid>https://www.youtube.com/watch?v=xObOB2Qw_AE</guid>
+            <pubDate>Mon, 01 Nov 2021 03:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SHINee
+11월 3...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xObOB2Qw_AE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Girls’ Generation-Oh!GG SEASON’S G... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=SAvZsdVE7RU</link>
+            <guid>https://www.youtube.com/watch?v=SAvZsdVE7RU</guid>
+            <pubDate>Mon, 01 Nov 2021 03:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #GirlsGenerat...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/SAvZsdVE7RU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[#뫼비우스_검은태양] 국정원 요원 밀착 취재기! #박하선 #키동캠 ｜... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=Mx4DSYb0ua8</link>
             <guid>https://www.youtube.com/watch?v=Mx4DSYb0ua8</guid>
@@ -788,35 +823,6 @@ h...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/K70AuxON944/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forbes, aespa’s first mini album ‘Savag... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379255</link>
-            <guid>https://now.smtown.com/news/detail/2379255</guid>
-            <pubDate>Wed, 27 Oct 2021 03:45:49 GMT</pubDate>
-            <content:encoded><![CDATA['Metaverse girlgroup' aespa(SM)'s first mini-al...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E releases new album tra... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379254</link>
-            <guid>https://now.smtown.com/news/detail/2379254</guid>
-            <pubDate>Wed, 27 Oct 2021 03:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[The tracklist for SUPER JUNIOR-D&amp;E's new album ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO'... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=wterj8Xhu_Y</link>
-            <guid>https://www.youtube.com/watch?v=wterj8Xhu_Y</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/wterj8Xhu_Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['시고르 경양식' MAX CHANGMIN Transformed into... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379242</link>
-            <guid>https://now.smtown.com/news/detail/2379242</guid>
-            <pubDate>Tue, 26 Oct 2021 23:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) succeeded in transformi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
