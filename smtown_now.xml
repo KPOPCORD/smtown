@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,9 +12,18 @@
             <link>https://www.youtube.com/watch?v=vObJMKvlcH0</link>
             <guid>https://www.youtube.com/watch?v=vObJMKvlcH0</guid>
             <pubDate>Mon, 01 Nov 2021 03:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SUPERJUNIOR
-...]]></content:encoded>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #TVXQ!
+12월 16...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/vObJMKvlcH0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 NCT 127 SEASON’S GREETINGS CONCEPT...]]></title>
+            <link>https://www.youtube.com/watch?v=vYzUenHqKhs</link>
+            <guid>https://www.youtube.com/watch?v=vYzUenHqKhs</guid>
+            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #NCT127
+11월 3...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vYzUenHqKhs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 WayV SEASON’S GREETINGS CONCEPT TR...]]></title>
@@ -24,6 +33,24 @@
             <content:encoded><![CDATA[2022 SEASON’S GREETINGS #WayV
 预计从11月3日（周三）开始在多平...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nwLQthwP2bw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 aespa SEASON’S GREETINGS CONCEPT T...]]></title>
+            <link>https://www.youtube.com/watch?v=e22z8gow8yg</link>
+            <guid>https://www.youtube.com/watch?v=e22z8gow8yg</guid>
+            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #aespa
+11월 3일...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/e22z8gow8yg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 NCT DREAM SEASON’S GREETINGS CONCE...]]></title>
+            <link>https://www.youtube.com/watch?v=vXBJGQR7P-Y</link>
+            <guid>https://www.youtube.com/watch?v=vXBJGQR7P-Y</guid>
+            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #NCTDREAM 
+11...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vXBJGQR7P-Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 SHINee SEASON’S GREETINGS CONCEPT ...]]></title>
@@ -41,6 +68,33 @@
             <pubDate>Mon, 01 Nov 2021 03:46:33 GMT</pubDate>
             <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #GirlsGenerat...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/SAvZsdVE7RU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 EXO SEASON’S GREETINGS CONCEPT TRA...]]></title>
+            <link>https://www.youtube.com/watch?v=hEN8XFqpJu8</link>
+            <guid>https://www.youtube.com/watch?v=hEN8XFqpJu8</guid>
+            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #EXO
+11월 3일(수...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hEN8XFqpJu8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Red Velvet SEASON’S GREETINGS CONC...]]></title>
+            <link>https://www.youtube.com/watch?v=cTjSbnA4WhI</link>
+            <guid>https://www.youtube.com/watch?v=cTjSbnA4WhI</guid>
+            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #RedVelvet
+11...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cTjSbnA4WhI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SUPER JUNIOR SEASON’S GREETINGS CO...]]></title>
+            <link>https://www.youtube.com/watch?v=PQlIaD1Vygs</link>
+            <guid>https://www.youtube.com/watch?v=PQlIaD1Vygs</guid>
+            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SUPERJUNIOR
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/PQlIaD1Vygs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#뫼비우스_검은태양] 국정원 요원 밀착 취재기! #박하선 #키동캠 ｜...]]></title>
@@ -208,58 +262,6 @@ h...]]></content:encoded>
 
 아날로그 트립 NCT 127 멤버들과 제...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/TGpPUh_9MHA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
-            <link>https://www.youtube.com/watch?v=FqwmGR_kG7k</link>
-            <guid>https://www.youtube.com/watch?v=FqwmGR_kG7k</guid>
-            <pubDate>Wed, 27 Oct 2021 15:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FqwmGR_kG7k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
-            <link>https://www.youtube.com/watch?v=6gcl3IB4JbM</link>
-            <guid>https://www.youtube.com/watch?v=6gcl3IB4JbM</guid>
-            <pubDate>Wed, 27 Oct 2021 15:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/6gcl3IB4JbM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-2] SUPER JUNIOR-D&E Special Talk ‘여백...]]></title>
-            <link>https://www.youtube.com/watch?v=XYJ_paR8DTE</link>
-            <guid>https://www.youtube.com/watch?v=XYJ_paR8DTE</guid>
-            <pubDate>Wed, 27 Oct 2021 14:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/XYJ_paR8DTE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[REACTION to 'Favorite (Vampire)' MVㅣNCT...]]></title>
-            <link>https://www.youtube.com/watch?v=nLa8K3AMAPQ</link>
-            <guid>https://www.youtube.com/watch?v=nLa8K3AMAPQ</guid>
-            <pubDate>Wed, 27 Oct 2021 13:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd Album Repackage 'Favorite' is out...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nLa8K3AMAPQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Teaser] 손태진 - 깊어지네 (Duet With 웬디) MV T...]]></title>
-            <link>https://www.youtube.com/watch?v=fTF8UHdARsg</link>
-            <guid>https://www.youtube.com/watch?v=fTF8UHdARsg</guid>
-            <pubDate>Wed, 27 Oct 2021 09:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[#손태진 #깊어지네 #레드벨벳 #웬디
-
-'깊어지네 (Duet With 웬디)' MV ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fTF8UHdARsg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
-            <link>https://www.youtube.com/watch?v=K70AuxON944</link>
-            <guid>https://www.youtube.com/watch?v=K70AuxON944</guid>
-            <pubDate>Wed, 27 Oct 2021 09:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/K70AuxON944/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
