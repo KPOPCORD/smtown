@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 13:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 13:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👻Reaction👻 NCT Halloween Manito | Mak...]]></title>
+            <link>https://www.youtube.com/watch?v=WTnLnXyF870</link>
+            <guid>https://www.youtube.com/watch?v=WTnLnXyF870</guid>
+            <pubDate>Mon, 01 Nov 2021 13:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito #Reaction
+#NCT127 #NCTD...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WTnLnXyF870/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDO...]]></title>
             <link>https://www.youtube.com/watch?v=Yz35KPWeR1s</link>
@@ -252,13 +261,6 @@ h...]]></content:encoded>
 
 '깊어지네 (Duet With ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1Y07koZ-De0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E's new song 'ZERO' MV t...]]></title>
-            <link>https://now.smtown.com/news/detail/2379295</link>
-            <guid>https://now.smtown.com/news/detail/2379295</guid>
-            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[The second teaser video for SUPER JUNIOR-D&amp;E's ...]]></content:encoded>
         </item>
     </channel>
 </rss>
