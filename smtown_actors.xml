@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 07:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 08:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 오리지널 '술꾼도시여자들']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5557</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5557</guid>
+            <pubDate>Mon, 01 Nov 2021 08:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[한선화가 티빙 오리지널 '술꾼도시여자들'에서 ‘러블리 끝판왕’의 존재감을 과시했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617641eb2b3aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5553</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5553</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화가 하이텐션의 애주가로 완벽 변신했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172322a74ebe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 역대급 비주얼 장착하고 ‘로코 장인’으로 돌아온다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5551</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5551</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 티빙 오리지널 ‘술꾼도시여자들’로 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172316db2430.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5542</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5542</guid>
+            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고아성이 OTT 웨이브(wavve) 오리지널 드라마 ‘트레이서’에 출연을 확정 지어 열일 행보를 이어간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f884ef2bd5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강한나, KBS2 '붉은 단심(가제)' 출연 확정!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5537</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5537</guid>
+            <pubDate>Wed, 20 Oct 2021 03:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강한나가 변신에 변신을 거듭한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3da0e8280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 시리즈 ‘마이 네임’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5556</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 20 Oct 2021 02:53:18 GMT</pubDate>
             <content:encoded><![CDATA[배우 황인엽이 SBS 새 드라마 ‘왜 오수재인가’(연출 박수진 / 극본 김지은)에 출연을 확정, 설레는 로맨스 연기로 대체 불가한 매력을 발산한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5553</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5553</guid>
-            <pubDate>Mon, 25 Oct 2021 05:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화가 하이텐션의 애주가로 완벽 변신했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172322a74ebe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 역대급 비주얼 장착하고 ‘로코 장인’으로 돌아온다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5551</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5551</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 티빙 오리지널 ‘술꾼도시여자들’로 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172316db2430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고아성, 드라마 ‘트레이서’ 출연 확정! 열일 행보 잇는다]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5542</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5542</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고아성이 OTT 웨이브(wavve) 오리지널 드라마 ‘트레이서’에 출연을 확정 지어 열일 행보를 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616f884ef2bd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강한나, KBS2 '붉은 단심(가제)' 출연 확정!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5537</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5537</guid>
-            <pubDate>Wed, 20 Oct 2021 03:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 변신에 변신을 거듭한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3da0e8280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민호(샤이니 민호), TV CHOSUN ‘골프왕’ 시즌 2 정식 합류! ‘맹활약 기대’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5519</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5519</guid>
-            <pubDate>Tue, 19 Oct 2021 03:46:03 GMT</pubDate>
-            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 ‘골프왕’ 시즌 2에 정식 합류해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6167a6f8109eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

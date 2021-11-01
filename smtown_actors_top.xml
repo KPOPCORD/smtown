@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 07:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 08:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘술꾼도시여자들’ 최시원, 반박 불가 ‘매력 만발’ 캐릭터 탄생시켰다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5575</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5575</guid>
+            <pubDate>Mon, 01 Nov 2021 08:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘술꾼도시여자들’ 최시원, 반박 불가 ‘매력 만발’ 캐릭터 탄생시켰다! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa5f1453c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, ‘생동감’ 불어넣는 연기력으로 대체 불가 존재감 선사]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5570</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 최시원, ‘생동감’ 불어넣는 연기력으로 대체 불가 존재감 선사</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b847991c7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 '술꾼도시여자들']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5557</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5557</guid>
-            <pubDate>Mon, 25 Oct 2021 05:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">티빙 오리지널 '술꾼도시여자들' </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617641eb2b3aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

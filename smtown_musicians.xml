@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 07:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 08:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일 밤 10시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5573</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5573</guid>
+            <pubDate>Mon, 01 Nov 2021 08:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 신곡 ‘ZERO’(제로) 뮤직비디오 두 번째 티저 영상이 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b868861c77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이 ‘음 (Mmmh)’ MV 유튜브 조회수 1억뷰 돌파!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5571</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176458463aaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파 ‘Savage’ MV 공개 17일 만에 조회수 1억 뷰 돌파! 화제성 甲!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5560</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5560</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘하프 밀리언셀러’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 신곡 ‘Savage’(새비지) 뮤직비디오가 유튜브 조회수 1억 뷰를 달성했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61764392c2e97.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5572</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5572</guid>
+            <pubDate>Mon, 01 Nov 2021 08:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite (Vampire)’(페이보릿) 안무 연습 영상이 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b8609ea10b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다”]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite’(페이보릿) 뮤직비디오 티저 영상이 23일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176442018c8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘하프 밀리언셀러’ 에스파, 첫 미니앨범 ‘Savage’ 유나이티드 월드 차트 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5559</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5559</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 인기 행진을 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176431ea6333.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
