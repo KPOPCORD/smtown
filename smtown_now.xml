@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 09:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 10:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDO...]]></title>
+            <link>https://www.youtube.com/watch?v=Yz35KPWeR1s</link>
+            <guid>https://www.youtube.com/watch?v=Yz35KPWeR1s</guid>
+            <pubDate>Mon, 01 Nov 2021 10:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Yz35KPWeR1s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' ...]]></title>
             <link>https://www.youtube.com/watch?v=Da7emYCsCrE</link>
@@ -251,13 +259,6 @@ h...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379295</guid>
             <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
             <content:encoded><![CDATA[The second teaser video for SUPER JUNIOR-D&amp;E's ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, new song 'Favorite' choreograp...]]></title>
-            <link>https://now.smtown.com/news/detail/2379294</link>
-            <guid>https://now.smtown.com/news/detail/2379294</guid>
-            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite (Vampire)' ch...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 09:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 10:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26273308</link>
             <guid>https://vlive.tv/post/1-26273308</guid>
             <pubDate>Mon, 01 Nov 2021 09:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211101_298/1635757214589GIuxj_JPEG/1635749496716.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26226163</link>
             <guid>https://vlive.tv/post/1-26226163</guid>
             <pubDate>Mon, 01 Nov 2021 09:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211031_62/1635644720458INvDD_JPEG/1635496731171.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://vlive.tv/post/0-26234517</link>
             <guid>https://vlive.tv/post/0-26234517</guid>
             <pubDate>Mon, 01 Nov 2021 09:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211030_147/1635593376773KjXEM_JPEG/upload_7967309386060852569cfc3d0-57d8-4411-97c1-ca06db63a442.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_616e3d450365e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDO... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Yz35KPWeR1s</link>
+            <guid>https://www.youtube.com/watch?v=Yz35KPWeR1s</guid>
+            <pubDate>Mon, 01 Nov 2021 10:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Yz35KPWeR1s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=Da7emYCsCrE</link>
             <guid>https://www.youtube.com/watch?v=Da7emYCsCrE</guid>
@@ -814,13 +822,6 @@ h...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379295</guid>
             <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
             <content:encoded><![CDATA[The second teaser video for SUPER JUNIOR-D&amp;E's ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, new song 'Favorite' choreograp... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379294</link>
-            <guid>https://now.smtown.com/news/detail/2379294</guid>
-            <pubDate>Fri, 29 Oct 2021 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s new song 'Favorite (Vampire)' ch...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
