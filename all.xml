@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 23:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 01:45:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -474,6 +474,14 @@
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's first full-length Korean alb...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO'... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=uUWjTEYWBvA</link>
+            <guid>https://www.youtube.com/watch?v=uUWjTEYWBvA</guid>
+            <pubDate>Tue, 02 Nov 2021 01:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 'ZERO' music video will star...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uUWjTEYWBvA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 TVXQ! SEASON’S GREETINGS CONCEPT T... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=vObJMKvlcH0</link>
             <guid>https://www.youtube.com/watch?v=vObJMKvlcH0</guid>
@@ -671,16 +679,6 @@ h...]]></content:encoded>
             <pubDate>Fri, 29 Oct 2021 13:45:10 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/rQwX3wK97aI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 손태진 SON TJ  - 깊어지네 (Duet With 웬디)'... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=1Y07koZ-De0</link>
-            <guid>https://www.youtube.com/watch?v=1Y07koZ-De0</guid>
-            <pubDate>Fri, 29 Oct 2021 09:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[#손태진 #SONTJ #레드벨벳 #웬디 #WENDY
-
-'깊어지네 (Duet With ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1Y07koZ-De0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT 127, 넌 내 "Favorite" (+ NCT 127의 취향집합소) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
