@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,18 @@
             <content:encoded><![CDATA['Metaverse girlgroup' aespa (SM) to participate...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Yoon Bo Ra, selected as the main MC for...]]></title>
             <link>https://now.smtown.com/news/detail/2379418</link>
             <guid>https://now.smtown.com/news/detail/2379418</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Yoon Bo Ra is expected to generously shar...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SBS ‘Penthouse’ Yoon Jong Hoon, KEYEAST...]]></title>
             <link>https://now.smtown.com/news/detail/2379417</link>
             <guid>https://now.smtown.com/news/detail/2379417</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Yoon Jong Hoon has signed an exclusive co...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👻Reaction👻 NCT Halloween Manito | Mak...]]></title>
@@ -86,9 +90,11 @@
             <enclosure url="https://i.ytimg.com/vi/uUWjTEYWBvA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['술꾼도시여자들' Han Seon Hwa, charm explosion]]></title>
             <link>https://now.smtown.com/news/detail/2379416</link>
             <guid>https://now.smtown.com/news/detail/2379416</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA['술꾼도시여자들' Han Seon Hwa exploded his overflowing...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379415</link>
