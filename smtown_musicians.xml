@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5576</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5576</guid>
+            <pubDate>Tue, 02 Nov 2021 07:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Bad Boy’(배드 보이)를 새롭게 즐길 수 있는 리믹스 싱글이 1일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa6d8991b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일 밤 10시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5573</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 몽환적 티저 이미지 공개! 정규 앨범 ‘카운트다운’으로 11월 2일 컴백!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5562</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5562</guid>
-            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 11월 2일 컴백을 앞두고 프로모션에 본격적인 시동을 걸었다]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176458463aaf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘컴백 D-1’ 슈퍼주니어-D&E, 정규 앨범 작업기 담은 다큐멘터리 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5574</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5574</guid>
+            <pubDate>Tue, 02 Nov 2021 07:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 국내 첫 정규 앨범 ‘COUNTDOWN’(카운트다운) 작업 비하인드를 담은 다큐멘터리가 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa55f402f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 리패키지 앨범도 선주문량 106만장을 돌파했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617646119c890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ MV 티저 영상 23일 밤 12시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5561</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5561</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite’(페이보릿) 뮤직비디오 티저 영상이 23일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6176442018c8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

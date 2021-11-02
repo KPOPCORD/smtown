@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 06:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 07:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5576</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5576</guid>
-            <pubDate>Mon, 01 Nov 2021 08:47:30 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어-D&E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5584</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5584</guid>
+            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa6d8991b2.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어-D&amp;E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e7b5b4e6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘컴백 D-1’ 슈퍼주니어-D&E, 정규 앨범 작업기 담은 다큐멘터리 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5574</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5574</guid>
-            <pubDate>Mon, 01 Nov 2021 08:47:30 GMT</pubDate>
+            <title><![CDATA[에스파, 美 대규모 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’ 참석!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5583</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5583</guid>
+            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-1’ 슈퍼주니어-D&amp;E, 정규 앨범 작업기 담은 다큐멘터리 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa55f402f8.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파, 美 대규모 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’ 참석!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e75cde721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
