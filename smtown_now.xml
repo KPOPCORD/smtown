@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:46:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -97,19 +97,25 @@
             <content:encoded><![CDATA['술꾼도시여자들' Han Seon Hwa exploded his overflowing...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[JTBC ‘구경이’ Baek Sung Chul and Lee Young...]]></title>
             <link>https://now.smtown.com/news/detail/2379415</link>
             <guid>https://now.smtown.com/news/detail/2379415</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[Baek Sung Chul was scouted by Lee Young Ae.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘뫼비우스 : 검은 태양’ Park Ha Seon, “Seo Suyeo...]]></title>
             <link>https://now.smtown.com/news/detail/2379414</link>
             <guid>https://now.smtown.com/news/detail/2379414</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Ha Seon succeeded in broadening his ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TVING's original ‘유미의 세포들’ Mi Ram revea...]]></title>
             <link>https://now.smtown.com/news/detail/2379413</link>
             <guid>https://now.smtown.com/news/detail/2379413</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Mi Ram expressed his disappointment after...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 TVXQ! SEASON’S GREETINGS CONCEPT T...]]></title>
