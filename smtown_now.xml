@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Danc...]]></title>
+            <link>https://www.youtube.com/watch?v=jVkHUbF_rfg</link>
+            <guid>https://www.youtube.com/watch?v=jVkHUbF_rfg</guid>
+            <pubDate>Tue, 02 Nov 2021 10:47:16 GMT</pubDate>
+            <content:encoded><![CDATA['Savage' MV hits 100M views!
+Thank you so much ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jVkHUbF_rfg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E, Korea's first full al...]]></title>
             <link>https://now.smtown.com/news/detail/2379420</link>
@@ -86,7 +95,7 @@
             <link>https://www.youtube.com/watch?v=uUWjTEYWBvA</link>
             <guid>https://www.youtube.com/watch?v=uUWjTEYWBvA</guid>
             <pubDate>Tue, 02 Nov 2021 01:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 'ZERO' music video will star...]]></content:encoded>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/uUWjTEYWBvA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -240,16 +249,6 @@ Listen and d...]]></content:encoded>
             <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito
 #NCT127 #NCTDREAM #WayV...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZjRTZgnmh8Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Halloween Special Medley 🐍😎🤟]]></title>
-            <link>https://www.youtube.com/watch?v=JTNwrxckeuQ</link>
-            <guid>https://www.youtube.com/watch?v=JTNwrxckeuQ</guid>
-            <pubDate>Sun, 31 Oct 2021 15:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[Halloween Special Medley 🐍😎🤟
-
-Listen and dow...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JTNwrxckeuQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
