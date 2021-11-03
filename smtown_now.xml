@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 릴레이 인터뷰 #1 | 아날로그 트립 (Analog Tr...]]></title>
+            <link>https://www.youtube.com/watch?v=KG9uQSY8etk</link>
+            <guid>https://www.youtube.com/watch?v=KG9uQSY8etk</guid>
+            <pubDate>Wed, 03 Nov 2021 03:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[아날로그 트립 NCT 127 릴레이 인터뷰!
+NCT 127이 무인도에 가져가고 싶은 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/KG9uQSY8etk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Danc...]]></title>
             <link>https://www.youtube.com/watch?v=jVkHUbF_rfg</link>
@@ -240,15 +249,6 @@ Listen and d...]]></content:encoded>
             <pubDate>Sun, 31 Oct 2021 13:42:57 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/W6eBOptr4uY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎃NCT Halloween Manito🎃 | Making Hallo...]]></title>
-            <link>https://www.youtube.com/watch?v=ZjRTZgnmh8Y</link>
-            <guid>https://www.youtube.com/watch?v=ZjRTZgnmh8Y</guid>
-            <pubDate>Sun, 31 Oct 2021 13:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito
-#NCT127 #NCTDREAM #WayV...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZjRTZgnmh8Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
