@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26273198</link>
             <guid>https://vlive.tv/post/1-26273198</guid>
             <pubDate>Wed, 03 Nov 2021 04:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211101_215/1635756687427Aio7j_JPEG/1635755594612.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-26267473</link>
             <guid>https://vlive.tv/post/0-26267473</guid>
             <pubDate>Wed, 03 Nov 2021 04:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211101_298/1635761172053OEem0_JPEG/1635760370319.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5584</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5584</guid>
-            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 누적 음반 판매량 358만장 돌파! 트리플 밀리언셀러 등극! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5589</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5589</guid>
+            <pubDate>Wed, 03 Nov 2021 06:50:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e7b5b4e6a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 누적 음반 판매량 358만장 돌파! 트리플 밀리언셀러 등극!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618224d0be9af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5588</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5588</guid>
+            <pubDate>Wed, 03 Nov 2021 06:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">슈퍼주니어-D&amp;E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6182246bd4154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강창민 ‘Paris In The Rain’ 커버 영상 3일 오후 6시 공개! 로맨틱 지수 MAX! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5587</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5587</guid>
+            <pubDate>Wed, 03 Nov 2021 06:50:56 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 ‘Paris In The Rain’(파리스 인 더 레인) 커버 영상이 3일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618223f5c4177.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파, 美 대규모 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’ 참석! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5583</link>
             <guid>https://www.smtown.com/artist/newsDetail/5583</guid>
             <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파, 美 대규모 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’ 참석!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 최대 규모의 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’(메이시스 땡스기빙 데이 퍼레이드)에 참석한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e75cde721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘컴백 D-1’ 슈퍼주니어-D&E, 정규 앨범 작업기 담은 다큐멘터리 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5574</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5574</guid>
+            <pubDate>Mon, 01 Nov 2021 08:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 국내 첫 정규 앨범 ‘COUNTDOWN’(카운트다운) 작업 비하인드를 담은 다큐멘터리가 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa55f402f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5572</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5572</guid>
+            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite (Vampire)’(페이보릿) 안무 연습 영상이 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b8609ea10b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다” (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5569</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
+            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속) 첫 미니앨범 ‘Savage’가 미국 포브스의 집중 조명을 받았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5584</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5584</guid>
+            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 대망의 국내 첫 번째 정규 앨범 ‘COUNTDOWN’(카운트다운)을 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e7b5b4e6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -425,70 +473,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c6cdb3925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 타이틀 곡 ‘ZERO’ 포스터 공개! 일렉트릭 힙합 장르로 ‘힙한’ 변신! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5564</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5564</guid>
-            <pubDate>Tue, 26 Oct 2021 06:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 새 앨범 타이틀 곡 ‘ZERO’(제로)로 힙한 변신을 꾀한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779b607218a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5586</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5586</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618223452e6fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘컴백 D-1’ 슈퍼주니어-D&E, 정규 앨범 작업기 담은 다큐멘터리 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5574</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5574</guid>
-            <pubDate>Mon, 01 Nov 2021 08:47:30 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 국내 첫 정규 앨범 ‘COUNTDOWN’(카운트다운) 작업 비하인드를 담은 다큐멘터리가 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa55f402f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5572</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5572</guid>
-            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite (Vampire)’(페이보릿) 안무 연습 영상이 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b8609ea10b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포브스, 에스파 첫 미니앨범 ‘Savage’ “美 판매량 기록 썼다” (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5569</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5569</guid>
-            <pubDate>Wed, 27 Oct 2021 03:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속) 첫 미니앨범 ‘Savage’가 미국 포브스의 집중 조명을 받았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6178c70d39639.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘퍼포먼스 킹’ NCT 127 이번 주 음악 방송 출격! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5565</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5565</guid>
-            <pubDate>Tue, 26 Oct 2021 06:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 이번 주 음악 방송에 출격해 치명적인 매력을 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61779bdc25811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 정규 3집 리패키지 ‘Favorite’도 선주문량 106만장 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5563</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5563</guid>
-            <pubDate>Mon, 25 Oct 2021 06:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 리패키지 앨범도 선주문량 106만장을 돌파했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617646119c890.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5585</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">배우 유승목, SM C&amp;C 전속계약 체결</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤보라, 뷰티 예능 KBS Joy ‘해피뷰티데이’ 메인 MC 발탁! (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5582</link>
             <guid>https://www.smtown.com/artist/newsDetail/5582</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">윤보라, 뷰티 예능 KBS Joy ‘해피뷰티데이’ 메인 MC 발탁!</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 윤보라가 자신만의 뷰티 노하우를 아낌없이 공유할 것으로 기대된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e6f668497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5581</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5581</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e67fd5fb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['술꾼도시여자들' 한선화, 잔망미 폭발 '대체 불가 소화력' (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617641eb2b3aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화, 美친텐션 애주가X요가강사 완벽 변신 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5553</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5553</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 '술꾼도시여자들' 한선화가 하이텐션의 애주가로 완벽 변신했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_6172322a74ebe.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5581</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5581</guid>
+            <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤종훈이 종합 엔터테인먼트 그룹 키이스트와 전속계약을 체결했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e67fd5fb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘구경이’ 백성철, 이영애에게 스카우트 당해! (SMTOWN ─ Actors News)]]></title>
@@ -563,12 +571,39 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617282061de96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김새벽, 옴니버스 프로젝트 '하나이야기' 출연 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5552</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5552</guid>
-            <pubDate>Fri, 22 Oct 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김새벽이 김인선 감독과 또 한 번 뭉쳤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617231f674653.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127's 3rd album cumulative album sa... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379454</link>
+            <guid>https://now.smtown.com/news/detail/2379454</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album cumulative album sales...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E's 1st album 'COUNTDOWN... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379453</link>
+            <guid>https://now.smtown.com/news/detail/2379453</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving worldwide love wi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN’s cover of ‘Paris In The R... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379452</link>
+            <guid>https://now.smtown.com/news/detail/2379452</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ!'s MAX CHANGMIN(SM)'s 'Paris In The Rain' ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cho Ba Ah, tvN's new drama ‘군검사 도베르만’..... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379451</link>
+            <guid>https://now.smtown.com/news/detail/2379451</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[Cho Ba Ah has confirmed the appearance of tvN's...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Yoo Seungmok signs exclusive cont... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379450</link>
+            <guid>https://now.smtown.com/news/detail/2379450</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Yoo Seungmok signed an exclusive contract...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 릴레이 인터뷰 #1 | 아날로그 트립 (Analog Tr... (SMTOWN ─ NOW)]]></title>
@@ -768,50 +803,6 @@ Thank you so much ...]]></content:encoded>
             <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #EXO
 11월 3일(수...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/hEN8XFqpJu8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Red Velvet SEASON’S GREETINGS CONC... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=cTjSbnA4WhI</link>
-            <guid>https://www.youtube.com/watch?v=cTjSbnA4WhI</guid>
-            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #RedVelvet
-11...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/cTjSbnA4WhI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SUPER JUNIOR SEASON’S GREETINGS CO... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=PQlIaD1Vygs</link>
-            <guid>https://www.youtube.com/watch?v=PQlIaD1Vygs</guid>
-            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SUPERJUNIOR
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/PQlIaD1Vygs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#뫼비우스_검은태양] 국정원 요원 밀착 취재기! #박하선 #키동캠 ｜... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Mx4DSYb0ua8</link>
-            <guid>https://www.youtube.com/watch?v=Mx4DSYb0ua8</guid>
-            <pubDate>Sun, 31 Oct 2021 14:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[[#Moebiusproject2012_TheVeil] close-up reporter...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Mx4DSYb0ua8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Savage Angle Challenge 🎃 Edition (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=sRJ7OTsTMKE</link>
-            <guid>https://www.youtube.com/watch?v=sRJ7OTsTMKE</guid>
-            <pubDate>Sun, 31 Oct 2021 15:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[Savage Angle Challenge 🎃 Edition
-
-Listen and d...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/sRJ7OTsTMKE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=W6eBOptr4uY</link>
-            <guid>https://www.youtube.com/watch?v=W6eBOptr4uY</guid>
-            <pubDate>Sun, 31 Oct 2021 13:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/W6eBOptr4uY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 

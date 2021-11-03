@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5584</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5584</guid>
-            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
+            <title><![CDATA[NCT 127, 정규 3집 누적 음반 판매량 358만장 돌파! 트리플 밀리언셀러 등극!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5589</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5589</guid>
+            <pubDate>Wed, 03 Nov 2021 06:50:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e7b5b4e6a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 정규 3집 누적 음반 판매량 358만장 돌파! 트리플 밀리언셀러 등극!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618224d0be9af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 대규모 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’ 참석!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5583</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5583</guid>
-            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어-D&E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5588</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5588</guid>
+            <pubDate>Wed, 03 Nov 2021 06:50:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파, 美 대규모 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’ 참석!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e75cde721.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어-D&amp;E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6182246bd4154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[윤보라, 뷰티 예능 KBS Joy ‘해피뷰티데이’ 메인 MC 발탁!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5582</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5582</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
+            <title><![CDATA[조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5586</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5586</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">윤보라, 뷰티 예능 KBS Joy ‘해피뷰티데이’ 메인 MC 발탁!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e6f668497.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618223452e6fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5581</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5581</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
+            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5585</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e67fd5fb1.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">배우 유승목, SM C&amp;C 전속계약 체결</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
