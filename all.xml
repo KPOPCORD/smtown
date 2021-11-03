@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 13:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 13:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617282061de96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO'... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=A31kxm58EJY</link>
+            <guid>https://www.youtube.com/watch?v=A31kxm58EJY</guid>
+            <pubDate>Wed, 03 Nov 2021 13:44:22 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/A31kxm58EJY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뜬금 LIVE] 윤종신 - 가을옷 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=oLgYtrdBCvI</link>
             <guid>https://www.youtube.com/watch?v=oLgYtrdBCvI</guid>
@@ -794,15 +802,6 @@ Thank you so much ...]]></content:encoded>
             <content:encoded><![CDATA[2022 SEASON’S GREETINGS #WayV
 预计从11月3日（周三）开始在多平...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nwLQthwP2bw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 aespa SEASON’S GREETINGS CONCEPT T... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=e22z8gow8yg</link>
-            <guid>https://www.youtube.com/watch?v=e22z8gow8yg</guid>
-            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #aespa
-11월 3일...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/e22z8gow8yg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
