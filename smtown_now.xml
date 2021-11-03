@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 10:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 11:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뜬금 LIVE] 윤종신 - 가을옷]]></title>
+            <link>https://www.youtube.com/watch?v=oLgYtrdBCvI</link>
+            <guid>https://www.youtube.com/watch?v=oLgYtrdBCvI</guid>
+            <pubDate>Wed, 03 Nov 2021 11:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
+👉 https://www.youtube.com/playli...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oLgYtrdBCvI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] 🥰🍯A Perfect(?) Match | At ...]]></title>
             <link>https://www.youtube.com/watch?v=x2z6LZG3dOI</link>
@@ -231,15 +240,6 @@ Thank you so much ...]]></content:encoded>
             <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #aespa
 11월 3일...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/e22z8gow8yg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 NCT DREAM SEASON’S GREETINGS CONCE...]]></title>
-            <link>https://www.youtube.com/watch?v=vXBJGQR7P-Y</link>
-            <guid>https://www.youtube.com/watch?v=vXBJGQR7P-Y</guid>
-            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #NCTDREAM 
-11...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vXBJGQR7P-Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
