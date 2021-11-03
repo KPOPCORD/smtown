@@ -4,9 +4,35 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] 🥰🍯A Perfect(?) Match | At ...]]></title>
+            <link>https://www.youtube.com/watch?v=x2z6LZG3dOI</link>
+            <guid>https://www.youtube.com/watch?v=x2z6LZG3dOI</guid>
+            <pubDate>Wed, 03 Nov 2021 09:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/x2z6LZG3dOI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | Paris in th...]]></title>
+            <link>https://www.youtube.com/watch?v=bEDK4XV1cj4</link>
+            <guid>https://www.youtube.com/watch?v=bEDK4XV1cj4</guid>
+            <pubDate>Wed, 03 Nov 2021 09:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #ParisintheRain #Lauv...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bEDK4XV1cj4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원신 | GENSHIN CONCERT 2021 [Melodies of ...]]></title>
+            <link>https://www.youtube.com/watch?v=PySKh0QBwBE</link>
+            <guid>https://www.youtube.com/watch?v=PySKh0QBwBE</guid>
+            <pubDate>Wed, 03 Nov 2021 09:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[⚠️주의: 해당 영상은 광감수성 간질 환자에게 불편함을 줄 수도 있어 시청 시 주의하...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/PySKh0QBwBE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127's 3rd album cumulative album sa...]]></title>
             <link>https://now.smtown.com/news/detail/2379454</link>
@@ -214,32 +240,6 @@ Thank you so much ...]]></content:encoded>
             <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #NCTDREAM 
 11...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/vXBJGQR7P-Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SHINee SEASON’S GREETINGS CONCEPT ...]]></title>
-            <link>https://www.youtube.com/watch?v=xObOB2Qw_AE</link>
-            <guid>https://www.youtube.com/watch?v=xObOB2Qw_AE</guid>
-            <pubDate>Mon, 01 Nov 2021 03:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SHINee
-11월 3...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xObOB2Qw_AE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Girls’ Generation-Oh!GG SEASON’S G...]]></title>
-            <link>https://www.youtube.com/watch?v=SAvZsdVE7RU</link>
-            <guid>https://www.youtube.com/watch?v=SAvZsdVE7RU</guid>
-            <pubDate>Mon, 01 Nov 2021 03:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #GirlsGenerat...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SAvZsdVE7RU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 EXO SEASON’S GREETINGS CONCEPT TRA...]]></title>
-            <link>https://www.youtube.com/watch?v=hEN8XFqpJu8</link>
-            <guid>https://www.youtube.com/watch?v=hEN8XFqpJu8</guid>
-            <pubDate>Mon, 01 Nov 2021 04:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #EXO
-11월 3일(수...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hEN8XFqpJu8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
