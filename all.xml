@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 13:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 14:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b847991c7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장르물 장인 #고아성 화보 비하인드 #키동캠 | 고아성 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=tKzjHY9mnE0</link>
+            <guid>https://www.youtube.com/watch?v=tKzjHY9mnE0</guid>
+            <pubDate>Thu, 04 Nov 2021 14:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[A master of genre Behind-the-scene of photoshoo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tKzjHY9mnE0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Un Cut] Take #1｜'Story of Favorite' Be... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=6XxYchSFt1s</link>
             <guid>https://www.youtube.com/watch?v=6XxYchSFt1s</guid>
@@ -796,13 +804,6 @@ Thank you so much ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379393</guid>
             <pubDate>Mon, 01 Nov 2021 08:48:32 GMT</pubDate>
             <content:encoded><![CDATA[A remix single where you can enjoy Red Velvet (...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['술꾼도시여자들' CHOI SIWON, created an irrefu... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379392</link>
-            <guid>https://now.smtown.com/news/detail/2379392</guid>
-            <pubDate>Mon, 01 Nov 2021 08:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[TVING original '술꾼도시여자들' CHOI SIWON (SM) create...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
