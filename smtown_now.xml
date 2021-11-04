@@ -4,9 +4,42 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BoA’s Japan debut 20th anniversary digi...]]></title>
+            <link>https://now.smtown.com/news/detail/2379478</link>
+            <guid>https://now.smtown.com/news/detail/2379478</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[BoA(SM)'s new Japanese digital single 'My Dear'...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E, the first stage of th...]]></title>
+            <link>https://now.smtown.com/news/detail/2379477</link>
+            <guid>https://now.smtown.com/news/detail/2379477</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E will perform the new song 'ZER...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON, ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379476</link>
+            <guid>https://now.smtown.com/news/detail/2379476</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON (SM) is m...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Park Jae Min, cast for the play '...]]></title>
+            <link>https://now.smtown.com/news/detail/2379475</link>
+            <guid>https://now.smtown.com/news/detail/2379475</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Jae Min is cast as 'Edgar' and 'Tom'...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379474</link>
+            <guid>https://now.smtown.com/news/detail/2379474</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 127 릴레이 인터뷰 #2 | 아날로그 트립 (Analog Tr...]]></title>
             <link>https://www.youtube.com/watch?v=cEqXdlor2Jg</link>
@@ -203,43 +236,6 @@ Thank you so much ...]]></content:encoded>
             <pubDate>Tue, 02 Nov 2021 01:45:00 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/uUWjTEYWBvA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['술꾼도시여자들' Han Seon Hwa, charm explosion]]></title>
-            <link>https://now.smtown.com/news/detail/2379416</link>
-            <guid>https://now.smtown.com/news/detail/2379416</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA['술꾼도시여자들' Han Seon Hwa exploded his overflowing...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘구경이’ Baek Sung Chul and Lee Young...]]></title>
-            <link>https://now.smtown.com/news/detail/2379415</link>
-            <guid>https://now.smtown.com/news/detail/2379415</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[Baek Sung Chul was scouted by Lee Young Ae.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘뫼비우스 : 검은 태양’ Park Ha Seon, “Seo Suyeo...]]></title>
-            <link>https://now.smtown.com/news/detail/2379414</link>
-            <guid>https://now.smtown.com/news/detail/2379414</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Park Ha Seon succeeded in broadening his ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING's original ‘유미의 세포들’ Mi Ram revea...]]></title>
-            <link>https://now.smtown.com/news/detail/2379413</link>
-            <guid>https://now.smtown.com/news/detail/2379413</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Mi Ram expressed his disappointment after...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 TVXQ! SEASON’S GREETINGS CONCEPT T...]]></title>
-            <link>https://www.youtube.com/watch?v=vObJMKvlcH0</link>
-            <guid>https://www.youtube.com/watch?v=vObJMKvlcH0</guid>
-            <pubDate>Mon, 01 Nov 2021 03:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #TVXQ!
-12월 16...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vObJMKvlcH0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

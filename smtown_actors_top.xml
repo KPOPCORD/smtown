@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5586</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5586</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 촉촉한 눈빛으로 ‘러브라인’ 기대 증폭]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5591</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5591</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618223452e6fa.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 최시원, 촉촉한 눈빛으로 ‘러브라인’ 기대 증폭</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369271357d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5585</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
+            <title><![CDATA[배우 박재민, 연극 ‘리어왕’ 캐스팅…4일 공연 오른다]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5590</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5590</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">배우 유승목, SM C&amp;C 전속계약 체결</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">배우 박재민, 연극 ‘리어왕’ 캐스팅…4일 공연 오른다</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618368adc0ba1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

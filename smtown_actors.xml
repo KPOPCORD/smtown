@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5586</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5586</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[조보아가 차기작으로 tvN 새 드라마 ‘군검사 도베르만’의 출연을 확정 지었다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618223452e6fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤보라, 뷰티 예능 KBS Joy ‘해피뷰티데이’ 메인 MC 발탁!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5582</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa5f1453c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 '술꾼도시여자들']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5557</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5557</guid>
-            <pubDate>Mon, 01 Nov 2021 08:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[한선화가 티빙 오리지널 '술꾼도시여자들'에서 ‘러블리 끝판왕’의 존재감을 과시했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617641eb2b3aa.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5585</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
+            <pubDate>Thu, 04 Nov 2021 05:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유승목이 SM C&amp;C와 전속계약을 체결했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Nov 2021 07:41:23 GMT</pubDate>
             <content:encoded><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 생생한 표현력으로 시선을 사로잡는다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b847991c7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 시리즈 ‘마이 네임’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5556</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5556</guid>
-            <pubDate>Fri, 29 Oct 2021 05:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[이학주가 넷플릭스(NETFLIX) 시리즈 ‘마이 네임’으로 액션까지 섭렵했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617282061de96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
