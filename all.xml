@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 06:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 07:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -592,10 +592,11 @@
             <content:encoded><![CDATA[SUPER JUNIOR will hold a countdown live to comm...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Woo Do Hwan confirmed for the role of '... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379498</link>
             <guid>https://now.smtown.com/news/detail/2379498</guid>
             <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[Woo Do Hwan confirmed to star in Netflix series...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[REPLAY] SUPER JUNIOR-D&E 〈COUNTDOWN〉 L... (SMTOWN ─ NOW)]]></title>
