@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 14:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 15:49:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ep 2. 산 넘어 산, 일촉즉발 위기의 연속 | 아날로그 트립 (An...]]></title>
+            <link>https://www.youtube.com/watch?v=0GjwhJSPuto</link>
+            <guid>https://www.youtube.com/watch?v=0GjwhJSPuto</guid>
+            <pubDate>Fri, 05 Nov 2021 15:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[날은 어두워지고… 드디어 숙소에 도착한 NCT 127!
+두려움 속에 잠이 든 멤버들!...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0GjwhJSPuto/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 생각에는 오늘 역대급 찍겠네😎ㅣFavorite (Vampire) ...]]></title>
+            <link>https://www.youtube.com/watch?v=rrDJBSQwsxs</link>
+            <guid>https://www.youtube.com/watch?v=rrDJBSQwsxs</guid>
+            <pubDate>Fri, 05 Nov 2021 15:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rrDJBSQwsxs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
             <link>https://www.youtube.com/watch?v=_NyOywpFLLY</link>
@@ -227,20 +244,6 @@ NCT 127이 무인도에 가져가고 싶은 ...]]></content:encoded>
             <content:encoded><![CDATA['Savage' MV hits 100M views!
 Thank you so much ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jVkHUbF_rfg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, Korea's first full al...]]></title>
-            <link>https://now.smtown.com/news/detail/2379420</link>
-            <guid>https://now.smtown.com/news/detail/2379420</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E releases the long-awaited firs...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa to participate in 'Macy's Thanksg...]]></title>
-            <link>https://now.smtown.com/news/detail/2379419</link>
-            <guid>https://now.smtown.com/news/detail/2379419</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA['Metaverse girlgroup' aespa (SM) to participate...]]></content:encoded>
         </item>
     </channel>
 </rss>
