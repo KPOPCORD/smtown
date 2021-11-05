@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 03:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 04:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5593</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5593</guid>
-            <pubDate>Thu, 04 Nov 2021 05:40:57 GMT</pubDate>
+            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5597</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61836a2a46001.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 美 FOX5 채널 유명 토크쇼 ‘굿데이 뉴욕’ 출연! 여전한 글로벌 인기! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5596</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5596</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">슈퍼주니어-D&amp;E, 美 FOX5 채널 유명 토크쇼 ‘굿데이 뉴욕’ 출연! 여전한 글로벌 인기!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b25f581af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 5일 밤 11시 데뷔 16주년 기념 라이브 진행! 다락방 ‘하우스 파티’ 콘셉트! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5595</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5595</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 데뷔 16주년을 기념하는 카운트다운 라이브를 진행한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b21a85673.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 4일 음악 방송에서 신곡 ‘ZERO’ 첫 무대! 포인트 안무로 매력 극대화! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5592</link>
             <guid>https://www.smtown.com/artist/newsDetail/5592</guid>
             <pubDate>Thu, 04 Nov 2021 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 4일 음악 방송에서 신곡 ‘ZERO’ 첫 무대! 포인트 안무로 매력 극대화!</span>]]></content:encoded>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 이번 주 음악 방송에서 신곡 ‘ZERO’ 무대를 선보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369b6aafc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5588</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5588</guid>
+            <pubDate>Wed, 03 Nov 2021 06:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 정규 1집 ‘COUNTDOWN’(카운트다운)으로 글로벌적인 사랑을 받고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6182246bd4154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5584</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5584</guid>
+            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 대망의 국내 첫 번째 정규 앨범 ‘COUNTDOWN’(카운트다운)을 발매한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e7b5b4e6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5576</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5576</guid>
+            <pubDate>Mon, 01 Nov 2021 08:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Bad Boy’(배드 보이)를 새롭게 즐길 수 있는 리믹스 싱글이 1일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa6d8991b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5593</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5593</guid>
+            <pubDate>Thu, 04 Nov 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘아시아의 별’ 보아(BoA, 에스엠엔터테인먼트 소속)의 일본 새 디지털 싱글 ‘My Dear’(마이 디어)가 5일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61836a2a46001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127, 정규 3집 누적 음반 판매량 358만장 돌파! 트리플 밀리언셀러 등극! (SMTOWN ─ Musicians News)]]></title>
@@ -425,52 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa55f402f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 신곡 ‘Favorite’ 안무 연습 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5572</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5572</guid>
-            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 신곡 ‘Favorite (Vampire)’(페이보릿) 안무 연습 영상이 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b8609ea10b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5588</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5588</guid>
-            <pubDate>Wed, 03 Nov 2021 06:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 정규 1집 ‘COUNTDOWN’(카운트다운)으로 글로벌적인 사랑을 받고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6182246bd4154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 2일 국내 첫 정규 앨범 ‘카운트다운’ 발매! ‘데뷔 10주년’ 화려하게 장식! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5584</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5584</guid>
-            <pubDate>Tue, 02 Nov 2021 07:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 대망의 국내 첫 번째 정규 앨범 ‘COUNTDOWN’(카운트다운)을 발매한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e7b5b4e6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM’ 12번째 싱글, 레드벨벳 ‘Bad Boy’ 리믹스 버전 1일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5576</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5576</guid>
-            <pubDate>Mon, 01 Nov 2021 08:47:30 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)의 히트곡 ‘Bad Boy’(배드 보이)를 새롭게 즐길 수 있는 리믹스 싱글이 1일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa6d8991b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E 신곡 ‘ZERO’ MV 티저 영상 29일 밤 10시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5573</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5573</guid>
-            <pubDate>Fri, 29 Oct 2021 05:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E의 신곡 ‘ZERO’(제로) 뮤직비디오 두 번째 티저 영상이 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b868861c77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이 ‘음 (Mmmh)’ MV 유튜브 조회수 1억뷰 돌파! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5571</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5571</guid>
-            <pubDate>Fri, 29 Oct 2021 05:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)의 솔로 데뷔곡 ‘음 (Mmmh)’ 뮤직비디오가 유튜브 조회수 1억뷰를 달성했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b85986695d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우도환, 넷플릭스 시리즈 '사냥개들' 주연 건우役 출연 확정! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5594</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5594</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">우도환, 넷플릭스 시리즈 '사냥개들' 주연 건우役 출연 확정!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b19a23404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 촉촉한 눈빛으로 ‘러브라인’ 기대 증폭 (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5590</link>
             <guid>https://www.smtown.com/artist/newsDetail/5590</guid>
             <pubDate>Thu, 04 Nov 2021 05:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">배우 박재민, 연극 ‘리어왕’ 캐스팅…4일 공연 오른다</span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 박재민이 연극 ‘리어왕’에서 ‘에드가’ 및 ‘톰’ 역으로 캐스팅, 4일 공연에 오른다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618368adc0ba1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5585</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
+            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유승목이 SM C&amp;C와 전속계약을 체결했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5581</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5581</guid>
+            <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤종훈이 종합 엔터테인먼트 그룹 키이스트와 전속계약을 체결했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e67fd5fb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘구경이’ 백성철, 이영애에게 스카우트 당해! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5579</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5579</guid>
+            <pubDate>Tue, 02 Nov 2021 07:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[백성철이 이영애에게 스카우트를 당했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e56a56f61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘유미의 세포들’ 미람, 종영 소감 공개 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5577</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5577</guid>
+            <pubDate>Tue, 02 Nov 2021 07:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 미람이 ‘유미의 세포들’을 떠나보내며 아쉬운 종영 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e4bc6de01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정 (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa5f1453c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5585</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[배우 유승목이 SM C&amp;C와 전속계약을 체결했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379501</link>
+            <guid>https://now.smtown.com/news/detail/2379501</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SBS ‘펜트하우스’ 하박사 윤종훈, 키이스트 전속계약! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5581</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5581</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤종훈이 종합 엔터테인먼트 그룹 키이스트와 전속계약을 체결했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e67fd5fb1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379500</link>
+            <guid>https://now.smtown.com/news/detail/2379500</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JTBC ‘구경이’ 백성철, 이영애에게 스카우트 당해! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5579</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5579</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[백성철이 이영애에게 스카우트를 당했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e56a56f61.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379499</link>
+            <guid>https://now.smtown.com/news/detail/2379499</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 ‘유미의 세포들’ 미람, 종영 소감 공개 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5577</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5577</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[배우 미람이 ‘유미의 세포들’을 떠나보내며 아쉬운 종영 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e4bc6de01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, ‘생동감’ 불어넣는 연기력으로 대체 불가 존재감 선사 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5570</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5570</guid>
-            <pubDate>Fri, 29 Oct 2021 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 생생한 표현력으로 시선을 사로잡는다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_617b847991c7c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379498</link>
+            <guid>https://now.smtown.com/news/detail/2379498</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[REPLAY] SUPER JUNIOR-D&E 〈COUNTDOWN〉 L... (SMTOWN ─ NOW)]]></title>
@@ -773,38 +797,6 @@ Thank you so much ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379418</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
             <content:encoded><![CDATA[Actor Yoon Bo Ra is expected to generously shar...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘Penthouse’ Yoon Jong Hoon, KEYEAST... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379417</link>
-            <guid>https://now.smtown.com/news/detail/2379417</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Yoon Jong Hoon has signed an exclusive co...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👻Reaction👻 NCT Halloween Manito | Mak... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=WTnLnXyF870</link>
-            <guid>https://www.youtube.com/watch?v=WTnLnXyF870</guid>
-            <pubDate>Mon, 01 Nov 2021 13:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito #Reaction
-#NCT127 #NCTD...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WTnLnXyF870/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDO... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Yz35KPWeR1s</link>
-            <guid>https://www.youtube.com/watch?v=Yz35KPWeR1s</guid>
-            <pubDate>Mon, 01 Nov 2021 10:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Yz35KPWeR1s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Da7emYCsCrE</link>
-            <guid>https://www.youtube.com/watch?v=Da7emYCsCrE</guid>
-            <pubDate>Mon, 01 Nov 2021 09:45:45 GMT</pubDate>
-            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Da7emYCsCrE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 

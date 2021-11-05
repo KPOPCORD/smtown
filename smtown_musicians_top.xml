@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 03:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 04:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5593</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5593</guid>
-            <pubDate>Thu, 04 Nov 2021 05:40:57 GMT</pubDate>
+            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5597</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61836a2a46001.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 4일 음악 방송에서 신곡 ‘ZERO’ 첫 무대! 포인트 안무로 매력 극대화!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5592</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5592</guid>
-            <pubDate>Thu, 04 Nov 2021 05:40:57 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어-D&E, 美 FOX5 채널 유명 토크쇼 ‘굿데이 뉴욕’ 출연! 여전한 글로벌 인기!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5596</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5596</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 4일 음악 방송에서 신곡 ‘ZERO’ 첫 무대! 포인트 안무로 매력 극대화!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369b6aafc2.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어-D&amp;E, 美 FOX5 채널 유명 토크쇼 ‘굿데이 뉴욕’ 출연! 여전한 글로벌 인기!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b25f581af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

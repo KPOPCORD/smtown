@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 03:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 04:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379501</link>
+            <guid>https://now.smtown.com/news/detail/2379501</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379500</link>
+            <guid>https://now.smtown.com/news/detail/2379500</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379499</link>
+            <guid>https://now.smtown.com/news/detail/2379499</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379498</link>
+            <guid>https://now.smtown.com/news/detail/2379498</guid>
+            <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] SUPER JUNIOR-D&E 〈COUNTDOWN〉 L...]]></title>
             <link>https://www.youtube.com/watch?v=A-YM3FkOAvk</link>
@@ -210,38 +230,6 @@ Thank you so much ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379418</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
             <content:encoded><![CDATA[Actor Yoon Bo Ra is expected to generously shar...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘Penthouse’ Yoon Jong Hoon, KEYEAST...]]></title>
-            <link>https://now.smtown.com/news/detail/2379417</link>
-            <guid>https://now.smtown.com/news/detail/2379417</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Yoon Jong Hoon has signed an exclusive co...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[👻Reaction👻 NCT Halloween Manito | Mak...]]></title>
-            <link>https://www.youtube.com/watch?v=WTnLnXyF870</link>
-            <guid>https://www.youtube.com/watch?v=WTnLnXyF870</guid>
-            <pubDate>Mon, 01 Nov 2021 13:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[#HALLOWEEN #NCT #Manito #Reaction
-#NCT127 #NCTD...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WTnLnXyF870/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDO...]]></title>
-            <link>https://www.youtube.com/watch?v=Yz35KPWeR1s</link>
-            <guid>https://www.youtube.com/watch?v=Yz35KPWeR1s</guid>
-            <pubDate>Mon, 01 Nov 2021 10:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" will b...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Yz35KPWeR1s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' ...]]></title>
-            <link>https://www.youtube.com/watch?v=Da7emYCsCrE</link>
-            <guid>https://www.youtube.com/watch?v=Da7emYCsCrE</guid>
-            <pubDate>Mon, 01 Nov 2021 09:45:45 GMT</pubDate>
-            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Da7emYCsCrE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
