@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 06:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa5f1453c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM Entertainment Halloween Costume Cont... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379501</link>
             <guid>https://now.smtown.com/news/detail/2379501</guid>
             <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment donate their prize money from ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SUPER JUNIOR-D&E, appeared on the famou... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379500</link>
             <guid>https://now.smtown.com/news/detail/2379500</guid>
             <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E appeared on the famous talk sh...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SUPER JUNIOR, live on the 5th at 11PM t... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379499</link>
             <guid>https://now.smtown.com/news/detail/2379499</guid>
             <pubDate>Fri, 05 Nov 2021 04:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR will hold a countdown live to comm...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
