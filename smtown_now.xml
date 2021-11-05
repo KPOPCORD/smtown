@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=_NyOywpFLLY</link>
+            <guid>https://www.youtube.com/watch?v=_NyOywpFLLY</guid>
+            <pubDate>Fri, 05 Nov 2021 09:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/_NyOywpFLLY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM Entertainment Halloween Costume Cont...]]></title>
             <link>https://now.smtown.com/news/detail/2379501</link>
@@ -231,13 +241,6 @@ Thank you so much ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379419</guid>
             <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
             <content:encoded><![CDATA['Metaverse girlgroup' aespa (SM) to participate...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yoon Bo Ra, selected as the main MC for...]]></title>
-            <link>https://now.smtown.com/news/detail/2379418</link>
-            <guid>https://now.smtown.com/news/detail/2379418</guid>
-            <pubDate>Tue, 02 Nov 2021 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Yoon Bo Ra is expected to generously shar...]]></content:encoded>
         </item>
     </channel>
 </rss>
