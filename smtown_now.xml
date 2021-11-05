@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 01:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] SUPER JUNIOR-D&E 〈COUNTDOWN〉 L...]]></title>
+            <link>https://www.youtube.com/watch?v=A-YM3FkOAvk</link>
+            <guid>https://www.youtube.com/watch?v=A-YM3FkOAvk</guid>
+            <pubDate>Fri, 05 Nov 2021 02:53:05 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/A-YM3FkOAvk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장르물 장인 #고아성 화보 비하인드 #키동캠 | 고아성]]></title>
             <link>https://www.youtube.com/watch?v=tKzjHY9mnE0</link>
@@ -234,13 +242,6 @@ Thank you so much ...]]></content:encoded>
             <pubDate>Mon, 01 Nov 2021 09:45:45 GMT</pubDate>
             <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Da7emYCsCrE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM’ 12th single, Red Velvet ‘Bad ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379393</link>
-            <guid>https://now.smtown.com/news/detail/2379393</guid>
-            <pubDate>Mon, 01 Nov 2021 08:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[A remix single where you can enjoy Red Velvet (...]]></content:encoded>
         </item>
     </channel>
 </rss>
