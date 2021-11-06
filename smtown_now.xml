@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 14:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 15:49:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑해 또 사랑해 | Vampire House : The Favorit...]]></title>
+            <link>https://www.youtube.com/watch?v=Nht4acNAJQ8</link>
+            <guid>https://www.youtube.com/watch?v=Nht4acNAJQ8</guid>
+            <pubDate>Sat, 06 Nov 2021 15:48:21 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd Album Repackage 'Favorite' is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Nht4acNAJQ8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' MV Behind The Scenes]]></title>
             <link>https://www.youtube.com/watch?v=-7PROqYN2Lk</link>
@@ -235,15 +243,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379450</guid>
             <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[Actor Yoo Seungmok signed an exclusive contract...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 릴레이 인터뷰 #1 | 아날로그 트립 (Analog Tr...]]></title>
-            <link>https://www.youtube.com/watch?v=KG9uQSY8etk</link>
-            <guid>https://www.youtube.com/watch?v=KG9uQSY8etk</guid>
-            <pubDate>Wed, 03 Nov 2021 03:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[아날로그 트립 NCT 127 릴레이 인터뷰!
-NCT 127이 무인도에 가져가고 싶은 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KG9uQSY8etk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
