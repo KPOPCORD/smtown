@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 09:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 10:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TEN 'New Heroes + Paint Me Naked' Stage]]></title>
+            <link>https://www.youtube.com/watch?v=AxBKFAoK37U</link>
+            <guid>https://www.youtube.com/watch?v=AxBKFAoK37U</guid>
+            <pubDate>Sun, 07 Nov 2021 10:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AxBKFAoK37U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑해 또 사랑해 | Vampire House : The Favorit...]]></title>
             <link>https://www.youtube.com/watch?v=Nht4acNAJQ8</link>
@@ -236,13 +246,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379451</guid>
             <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[Cho Ba Ah has confirmed the appearance of tvN's...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Actor Yoo Seungmok signs exclusive cont...]]></title>
-            <link>https://now.smtown.com/news/detail/2379450</link>
-            <guid>https://now.smtown.com/news/detail/2379450</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Yoo Seungmok signed an exclusive contract...]]></content:encoded>
         </item>
     </channel>
 </rss>
