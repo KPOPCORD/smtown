@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 13:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 13:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_617fa5f1453c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=DG4DvYg1JG8</link>
+            <guid>https://www.youtube.com/watch?v=DG4DvYg1JG8</guid>
+            <pubDate>Sun, 07 Nov 2021 13:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DG4DvYg1JG8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TEN 'New Heroes + Paint Me Naked' Stage (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=AxBKFAoK37U</link>
             <guid>https://www.youtube.com/watch?v=AxBKFAoK37U</guid>
@@ -802,13 +810,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379452</guid>
             <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ!'s MAX CHANGMIN(SM)'s 'Paris In The Rain' ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cho Ba Ah, tvN's new drama ‘군검사 도베르만’..... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379451</link>
-            <guid>https://now.smtown.com/news/detail/2379451</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[Cho Ba Ah has confirmed the appearance of tvN's...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
