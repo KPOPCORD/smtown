@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 13:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 14:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #2｜'Favorite' MV Behind t...]]></title>
+            <link>https://www.youtube.com/watch?v=fwiwZNu2Jko</link>
+            <guid>https://www.youtube.com/watch?v=fwiwZNu2Jko</guid>
+            <pubDate>Sun, 07 Nov 2021 14:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fwiwZNu2Jko/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[⏳-7] SUPER JUNIOR-D&E Documentary 'COU...]]></title>
             <link>https://www.youtube.com/watch?v=DG4DvYg1JG8</link>
@@ -240,13 +248,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379453</guid>
             <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving worldwide love wi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN’s cover of ‘Paris In The R...]]></title>
-            <link>https://now.smtown.com/news/detail/2379452</link>
-            <guid>https://now.smtown.com/news/detail/2379452</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ!'s MAX CHANGMIN(SM)'s 'Paris In The Rain' ...]]></content:encoded>
         </item>
     </channel>
 </rss>
