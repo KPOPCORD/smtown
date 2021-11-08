@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 13:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 14:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #3｜'Favorite' Jacket Behi...]]></title>
+            <link>https://www.youtube.com/watch?v=y4aqvSrYYoc</link>
+            <guid>https://www.youtube.com/watch?v=y4aqvSrYYoc</guid>
+            <pubDate>Mon, 08 Nov 2021 14:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/y4aqvSrYYoc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
+            <link>https://www.youtube.com/watch?v=D9JlfKFZ43A</link>
+            <guid>https://www.youtube.com/watch?v=D9JlfKFZ43A</guid>
+            <pubDate>Mon, 08 Nov 2021 14:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/D9JlfKFZ43A/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[N’-169] 진짜 영화 찍어도 되겠는데...]]></title>
             <link>https://www.youtube.com/watch?v=upghFk4U7U0</link>
@@ -225,22 +243,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379475</guid>
             <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
             <content:encoded><![CDATA[Actor Park Jae Min is cast as 'Edgar' and 'Tom'...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM C&C collaborates with audio platform...]]></title>
-            <link>https://now.smtown.com/news/detail/2379474</link>
-            <guid>https://now.smtown.com/news/detail/2379474</guid>
-            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[SM C&amp;C, Korea's leading content company, has st...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 릴레이 인터뷰 #2 | 아날로그 트립 (Analog Tr...]]></title>
-            <link>https://www.youtube.com/watch?v=cEqXdlor2Jg</link>
-            <guid>https://www.youtube.com/watch?v=cEqXdlor2Jg</guid>
-            <pubDate>Thu, 04 Nov 2021 03:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[아날로그 트립 NCT 127 릴레이 인터뷰!
-아날로그 트립 NCT 127을 한 마디로...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/cEqXdlor2Jg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
