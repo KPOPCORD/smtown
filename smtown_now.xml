@@ -4,9 +4,28 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 09:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 10:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stag...]]></title>
+            <link>https://www.youtube.com/watch?v=J5myFhxi9fE</link>
+            <guid>https://www.youtube.com/watch?v=J5myFhxi9fE</guid>
+            <pubDate>Mon, 08 Nov 2021 10:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/J5myFhxi9fE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
+            <link>https://www.youtube.com/watch?v=9NBNCNt19rw</link>
+            <guid>https://www.youtube.com/watch?v=9NBNCNt19rw</guid>
+            <pubDate>Mon, 08 Nov 2021 10:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9NBNCNt19rw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 & NCT DREAM both record over 3 ...]]></title>
             <link>https://now.smtown.com/news/detail/2379555</link>
@@ -223,24 +242,6 @@ Listen ...]]></content:encoded>
             <content:encoded><![CDATA[아날로그 트립 NCT 127 릴레이 인터뷰!
 아날로그 트립 NCT 127을 한 마디로...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/cEqXdlor2Jg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H.O.T. '전사의 후예 (폭력시대)' MV]]></title>
-            <link>https://www.youtube.com/watch?v=7ggXa28ADLE</link>
-            <guid>https://www.youtube.com/watch?v=7ggXa28ADLE</guid>
-            <pubDate>Thu, 04 Nov 2021 03:46:54 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 1996, Remastered in 2021.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7ggXa28ADLE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO'...]]></title>
-            <link>https://www.youtube.com/watch?v=A31kxm58EJY</link>
-            <guid>https://www.youtube.com/watch?v=A31kxm58EJY</guid>
-            <pubDate>Wed, 03 Nov 2021 13:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/A31kxm58EJY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
