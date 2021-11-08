@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2021-11-08T06:53:42.128Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 08 Nov 2021 07:43:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV]]></title>
+            <link>https://vlive.tv/post/1-26273198</link>
+            <guid>https://vlive.tv/post/1-26273198</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[11.2.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211101_215/1635756687427Aio7j_JPEG/1635755594612.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-26267473</link>
+            <guid>https://vlive.tv/post/0-26267473</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[11.2.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211101_298/1635761172053OEem0_JPEG/1635760370319.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV]]></title>
+            <link>https://vlive.tv/post/1-26273308</link>
+            <guid>https://vlive.tv/post/1-26273308</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[11.1.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211101_298/1635757214589GIuxj_JPEG/1635749496716.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDOWN] Highlight Medley]]></title>
+            <link>https://vlive.tv/post/1-26226163</link>
+            <guid>https://vlive.tv/post/1-26226163</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[11.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver.]]></title>
+            <link>https://vlive.tv/post/0-26234517</link>
+            <guid>https://vlive.tv/post/0-26234517</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26256526</link>
+            <guid>https://vlive.tv/post/1-26256526</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/1-26211903</link>
+            <guid>https://vlive.tv/post/1-26211903</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.29.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-26191140</link>
+            <guid>https://vlive.tv/post/0-26191140</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.28.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/1-26179175</link>
+            <guid>https://vlive.tv/post/1-26179175</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV]]></title>
+            <link>https://vlive.tv/post/1-26166981</link>
+            <guid>https://vlive.tv/post/1-26166981</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26124320</link>
+            <guid>https://vlive.tv/post/1-26124320</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Video]]></title>
+            <link>https://vlive.tv/post/0-26122806</link>
+            <guid>https://vlive.tv/post/0-26122806</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video]]></title>
+            <link>https://vlive.tv/post/1-26094948</link>
+            <guid>https://vlive.tv/post/1-26094948</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV]]></title>
+            <link>https://vlive.tv/post/0-26072886</link>
+            <guid>https://vlive.tv/post/0-26072886</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/0-26061083</link>
+            <guid>https://vlive.tv/post/0-26061083</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/1-26052997</link>
+            <guid>https://vlive.tv/post/1-26052997</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley]]></title>
+            <link>https://vlive.tv/post/1-26049473</link>
+            <guid>https://vlive.tv/post/1-26049473</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2]]></title>
+            <link>https://vlive.tv/post/1-26037525</link>
+            <guid>https://vlive.tv/post/1-26037525</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'Blue Moon (Feat. 미연 of (여자)아이들)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-26007968</link>
+            <guid>https://vlive.tv/post/0-26007968</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[⏳-5] DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-26007951</link>
+            <guid>https://vlive.tv/post/0-26007951</guid>
+            <pubDate>Mon, 08 Nov 2021 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.16.]]></content:encoded>
+        </item>
+    </channel>
+</rss>

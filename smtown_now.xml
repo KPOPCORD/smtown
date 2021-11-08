@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,11 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AxBKFAoK37U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Red Velvet's WENDY, 'SNL Korea' even re...]]></title>
             <link>https://now.smtown.com/news/detail/2379550</link>
             <guid>https://now.smtown.com/news/detail/2379550</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet's WENDY (SM) successfully completed ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사랑해 또 사랑해 | Vampire House : The Favorit...]]></title>
