@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 02:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 03:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 & NCT DREAM both record over 3 ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379555</link>
+            <guid>https://now.smtown.com/news/detail/2379555</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 and NCT DREAM (SM) captivated the music...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379554</link>
+            <guid>https://now.smtown.com/news/detail/2379554</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379553</link>
+            <guid>https://now.smtown.com/news/detail/2379553</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379552</link>
+            <guid>https://now.smtown.com/news/detail/2379552</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379551</link>
+            <guid>https://now.smtown.com/news/detail/2379551</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[Un Cut] Take #2｜'Favorite' MV Behind t...]]></title>
             <link>https://www.youtube.com/watch?v=fwiwZNu2Jko</link>
@@ -32,6 +59,11 @@
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AxBKFAoK37U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379550</link>
+            <guid>https://now.smtown.com/news/detail/2379550</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[사랑해 또 사랑해 | Vampire House : The Favorit...]]></title>
@@ -199,55 +231,6 @@ Listen ...]]></content:encoded>
             <pubDate>Wed, 03 Nov 2021 13:44:22 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/A31kxm58EJY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뜬금 LIVE] 윤종신 - 가을옷]]></title>
-            <link>https://www.youtube.com/watch?v=oLgYtrdBCvI</link>
-            <guid>https://www.youtube.com/watch?v=oLgYtrdBCvI</guid>
-            <pubDate>Wed, 03 Nov 2021 11:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
-👉 https://www.youtube.com/playli...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/oLgYtrdBCvI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🥰🍯A Perfect(?) Match | At ...]]></title>
-            <link>https://www.youtube.com/watch?v=x2z6LZG3dOI</link>
-            <guid>https://www.youtube.com/watch?v=x2z6LZG3dOI</guid>
-            <pubDate>Wed, 03 Nov 2021 09:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/x2z6LZG3dOI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cover | MAX CHANGMIN 최강창민 | Paris in th...]]></title>
-            <link>https://www.youtube.com/watch?v=bEDK4XV1cj4</link>
-            <guid>https://www.youtube.com/watch?v=bEDK4XV1cj4</guid>
-            <pubDate>Wed, 03 Nov 2021 09:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[#MAXCHANGMIN #최강창민 #Cover #ParisintheRain #Lauv...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bEDK4XV1cj4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원신 | GENSHIN CONCERT 2021 [Melodies of ...]]></title>
-            <link>https://www.youtube.com/watch?v=PySKh0QBwBE</link>
-            <guid>https://www.youtube.com/watch?v=PySKh0QBwBE</guid>
-            <pubDate>Wed, 03 Nov 2021 09:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[⚠️주의: 해당 영상은 광감수성 간질 환자에게 불편함을 줄 수도 있어 시청 시 주의하...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/PySKh0QBwBE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album cumulative album sa...]]></title>
-            <link>https://now.smtown.com/news/detail/2379454</link>
-            <guid>https://now.smtown.com/news/detail/2379454</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM)'s 3rd album cumulative album sales...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E's 1st album 'COUNTDOWN...]]></title>
-            <link>https://now.smtown.com/news/detail/2379453</link>
-            <guid>https://now.smtown.com/news/detail/2379453</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving worldwide love wi...]]></content:encoded>
         </item>
     </channel>
 </rss>
