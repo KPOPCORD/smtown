@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 03:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 04:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,9 +15,11 @@
             <content:encoded><![CDATA[NCT 127 and NCT DREAM (SM) captivated the music...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SM's 'Remastering Project' music video ...]]></title>
             <link>https://now.smtown.com/news/detail/2379554</link>
             <guid>https://now.smtown.com/news/detail/2379554</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment releases music videos recreate...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379553</link>
