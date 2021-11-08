@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,19 +22,25 @@
             <content:encoded><![CDATA[SM Entertainment releases music videos recreate...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[JTBC's ‘구경이’ Shin Yun Seob became anoth...]]></title>
             <link>https://now.smtown.com/news/detail/2379553</link>
             <guid>https://now.smtown.com/news/detail/2379553</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Shin Yun Seob became another victim of Ki...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[JTBC's ‘구경이’ Baek Sung Chul, cute charm]]></title>
             <link>https://now.smtown.com/news/detail/2379552</link>
             <guid>https://now.smtown.com/news/detail/2379552</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[Interest in ‘구경이’ Baek Sung Chul is growing.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘Crime Puzzle’ Ko A Sung, perfectly dig...]]></title>
             <link>https://now.smtown.com/news/detail/2379551</link>
             <guid>https://now.smtown.com/news/detail/2379551</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Ko A Sung led the play with a dazzling pr...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Un Cut] Take #2｜'Favorite' MV Behind t...]]></title>
