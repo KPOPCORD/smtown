@@ -4,9 +4,21 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 14:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 15:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 호텔은 7성급이야⭐️X7 | HOTEL THE DREAM #1]]></title>
+            <link>https://www.youtube.com/watch?v=0iMeeet01Mw</link>
+            <guid>https://www.youtube.com/watch?v=0iMeeet01Mw</guid>
+            <pubDate>Tue, 09 Nov 2021 15:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[#HOTEL_THE_DREAM
+#호텔더드림
+#NCTDREAM #NCT
+
+NCT DRE...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0iMeeet01Mw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Harper's BAZAAR Magazine Photoshoot | M...]]></title>
             <link>https://www.youtube.com/watch?v=gUl_pD8efVU</link>
@@ -239,13 +251,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379477</guid>
             <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E will perform the new song 'ZER...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON, ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379476</link>
-            <guid>https://now.smtown.com/news/detail/2379476</guid>
-            <pubDate>Thu, 04 Nov 2021 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON (SM) is m...]]></content:encoded>
         </item>
     </channel>
 </rss>
