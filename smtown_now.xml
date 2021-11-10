@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:52:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379588</link>
+            <guid>https://now.smtown.com/news/detail/2379588</guid>
+            <pubDate>Wed, 10 Nov 2021 06:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379587</link>
+            <guid>https://now.smtown.com/news/detail/2379587</guid>
+            <pubDate>Wed, 10 Nov 2021 06:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379586</link>
+            <guid>https://now.smtown.com/news/detail/2379586</guid>
+            <pubDate>Wed, 10 Nov 2021 06:52:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
             <link>https://www.youtube.com/watch?v=fuHrCzcf6A8</link>
@@ -237,33 +252,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
 Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/-7PROqYN2Lk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ep 2. 산 넘어 산, 일촉즉발 위기의 연속 | 아날로그 트립 (An...]]></title>
-            <link>https://www.youtube.com/watch?v=0GjwhJSPuto</link>
-            <guid>https://www.youtube.com/watch?v=0GjwhJSPuto</guid>
-            <pubDate>Fri, 05 Nov 2021 15:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[날은 어두워지고… 드디어 숙소에 도착한 NCT 127!
-두려움 속에 잠이 든 멤버들!...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0GjwhJSPuto/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 생각에는 오늘 역대급 찍겠네😎ㅣFavorite (Vampire) ...]]></title>
-            <link>https://www.youtube.com/watch?v=rrDJBSQwsxs</link>
-            <guid>https://www.youtube.com/watch?v=rrDJBSQwsxs</guid>
-            <pubDate>Fri, 05 Nov 2021 15:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/rrDJBSQwsxs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
-            <link>https://www.youtube.com/watch?v=_NyOywpFLLY</link>
-            <guid>https://www.youtube.com/watch?v=_NyOywpFLLY</guid>
-            <pubDate>Fri, 05 Nov 2021 09:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/_NyOywpFLLY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
