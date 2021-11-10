@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SOOMAN LEE Producer, “Korea will become...]]></title>
+            <link>https://now.smtown.com/news/detail/2379593</link>
+            <guid>https://now.smtown.com/news/detail/2379593</guid>
+            <pubDate>Wed, 10 Nov 2021 09:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SOOMAN LEE producer participated as an invited ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
+            <link>https://www.youtube.com/watch?v=jI3e_F8TW5E</link>
+            <guid>https://www.youtube.com/watch?v=jI3e_F8TW5E</guid>
+            <pubDate>Wed, 10 Nov 2021 09:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jI3e_F8TW5E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[S.E.S. The hit song ‘Dreams Come True’ ...]]></title>
             <link>https://now.smtown.com/news/detail/2379588</link>
@@ -15,14 +32,11 @@
             <content:encoded><![CDATA[The remastered music video for S.E.S.'s hit son...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Kang Han Na, ‘스타트업’+‘간 떨어지는 동거’+’바이트 씨스...]]></title>
             <link>https://now.smtown.com/news/detail/2379587</link>
             <guid>https://now.smtown.com/news/detail/2379587</guid>
             <pubDate>Wed, 10 Nov 2021 06:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <link>https://now.smtown.com/news/detail/2379586</link>
-            <guid>https://now.smtown.com/news/detail/2379586</guid>
-            <pubDate>Wed, 10 Nov 2021 06:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kang Han Na has proven the limitless acti...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
@@ -245,15 +259,6 @@ ht...]]></content:encoded>
             <pubDate>Sat, 06 Nov 2021 15:48:21 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's 3rd Album Repackage 'Favorite' is out...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Nht4acNAJQ8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' MV Behind The Scenes]]></title>
-            <link>https://www.youtube.com/watch?v=-7PROqYN2Lk</link>
-            <guid>https://www.youtube.com/watch?v=-7PROqYN2Lk</guid>
-            <pubDate>Sat, 06 Nov 2021 10:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-7PROqYN2Lk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
