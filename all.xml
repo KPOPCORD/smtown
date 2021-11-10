@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 13:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 13:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e5d666b4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Un Cut] Take #4｜'Favorite (Vampire)' D... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=NxNNlREnQ0I</link>
+            <guid>https://www.youtube.com/watch?v=NxNNlREnQ0I</guid>
+            <pubDate>Wed, 10 Nov 2021 13:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NxNNlREnQ0I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[N’-170] GQ JAPAN ずっと出たかったんですよね💚 | GQ ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=bEG9FLdCd1E</link>
             <guid>https://www.youtube.com/watch?v=bEG9FLdCd1E</guid>
@@ -818,13 +826,6 @@ Listen ...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AxBKFAoK37U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet's WENDY, 'SNL Korea' even re... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379550</link>
-            <guid>https://now.smtown.com/news/detail/2379550</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet's WENDY (SM) successfully completed ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
