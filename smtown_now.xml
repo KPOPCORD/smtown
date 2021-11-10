@@ -4,13 +4,15 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[S.E.S. The hit song ‘Dreams Come True’ ...]]></title>
             <link>https://now.smtown.com/news/detail/2379588</link>
             <guid>https://now.smtown.com/news/detail/2379588</guid>
             <pubDate>Wed, 10 Nov 2021 06:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered music video for S.E.S.'s hit son...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379587</link>
