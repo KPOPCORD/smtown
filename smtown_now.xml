@@ -4,9 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 11:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 13:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[N’-170] GQ JAPAN ずっと出たかったんですよね💚 | GQ ...]]></title>
+            <link>https://www.youtube.com/watch?v=bEG9FLdCd1E</link>
+            <guid>https://www.youtube.com/watch?v=bEG9FLdCd1E</guid>
+            <pubDate>Wed, 10 Nov 2021 13:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[#YUTA #NCT127 #GQJAPAN
+#NCT #Behind
+
+NCT 127 Of...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bEG9FLdCd1E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SOOMAN LEE Producer, “Korea will become...]]></title>
             <link>https://now.smtown.com/news/detail/2379593</link>
@@ -251,14 +262,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379550</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
             <content:encoded><![CDATA[Red Velvet's WENDY (SM) successfully completed ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사랑해 또 사랑해 | Vampire House : The Favorit...]]></title>
-            <link>https://www.youtube.com/watch?v=Nht4acNAJQ8</link>
-            <guid>https://www.youtube.com/watch?v=Nht4acNAJQ8</guid>
-            <pubDate>Sat, 06 Nov 2021 15:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd Album Repackage 'Favorite' is out...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Nht4acNAJQ8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

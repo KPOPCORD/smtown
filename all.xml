@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 11:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 13:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26378938</link>
             <guid>https://vlive.tv/post/1-26378938</guid>
             <pubDate>Wed, 10 Nov 2021 08:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211109_10/1636424485969As9Hw_JPEG/1636424374470.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,17 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e5d666b4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[N’-170] GQ JAPAN ずっと出たかったんですよね💚 | GQ ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=bEG9FLdCd1E</link>
+            <guid>https://www.youtube.com/watch?v=bEG9FLdCd1E</guid>
+            <pubDate>Wed, 10 Nov 2021 13:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[#YUTA #NCT127 #GQJAPAN
+#NCT #Behind
+
+NCT 127 Of...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bEG9FLdCd1E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SOOMAN LEE Producer, “Korea will become... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379593</link>
             <guid>https://now.smtown.com/news/detail/2379593</guid>
@@ -814,14 +825,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379550</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
             <content:encoded><![CDATA[Red Velvet's WENDY (SM) successfully completed ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사랑해 또 사랑해 | Vampire House : The Favorit... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Nht4acNAJQ8</link>
-            <guid>https://www.youtube.com/watch?v=Nht4acNAJQ8</guid>
-            <pubDate>Sat, 06 Nov 2021 15:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd Album Repackage 'Favorite' is out...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Nht4acNAJQ8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
