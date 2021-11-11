@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 13:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 14:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26379091</link>
             <guid>https://vlive.tv/post/1-26379091</guid>
             <pubDate>Thu, 11 Nov 2021 03:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_32/1636598021913JMU4i_JPEG/1636425632802.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e67fd5fb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[저 추월할게요 | Ep.2 카트 레이싱 | JUST DO IT:제대로 ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=F6wkvKf4v5k</link>
+            <guid>https://www.youtube.com/watch?v=F6wkvKf4v5k</guid>
+            <pubDate>Thu, 11 Nov 2021 14:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[#JUSTDOIT_제대로재밌게
+#JENO #JAEMIN
+#JUSTDOIT #제대로재밌...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/F6wkvKf4v5k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=vcnAUMhtGE0</link>
             <guid>https://www.youtube.com/watch?v=vcnAUMhtGE0</guid>
@@ -818,13 +828,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379554</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment releases music videos recreate...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC's ‘구경이’ Shin Yun Seob became anoth... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379553</link>
-            <guid>https://now.smtown.com/news/detail/2379553</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Shin Yun Seob became another victim of Ki...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
