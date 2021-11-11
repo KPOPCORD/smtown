@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 01:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:55:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[S.E.S. 히트곡 ‘Dreams Come True’ 리마스터 뮤직비디오 11일 오전 10시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5605</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5605</guid>
-            <pubDate>Wed, 10 Nov 2021 06:51:09 GMT</pubDate>
+            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5608</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5608</guid>
+            <pubDate>Thu, 11 Nov 2021 02:53:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">S.E.S. 히트곡 ‘Dreams Come True’ 리마스터 뮤직비디오 11일 오전 10시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618b5ef6832d9.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7e0b8b35a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127-NCT DREAM, 나란히 음반 판매량 300만장 돌파 ‘겹경사’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5603</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5603</guid>
-            <pubDate>Mon, 08 Nov 2021 03:45:53 GMT</pubDate>
+            <title><![CDATA[뮤지션 솔희, 첫 번째 미니앨범 ‘사랑하면 닳는 것들’ 11일 낮 12시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5607</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5607</guid>
+            <pubDate>Thu, 11 Nov 2021 02:53:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127-NCT DREAM, 나란히 음반 판매량 300만장 돌파 ‘겹경사’</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618897302db02.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">뮤지션 솔희, 첫 번째 미니앨범 ‘사랑하면 닳는 것들’ 11일 낮 12시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d88c6d22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

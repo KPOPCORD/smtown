@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 01:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:55:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문주연, SBS ‘지금, 헤어지는 중입니다’ 출연]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5606</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5606</guid>
+            <pubDate>Thu, 11 Nov 2021 02:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">문주연, SBS ‘지금, 헤어지는 중입니다’ 출연</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강한나, ‘스타트업’+’간동거’+’바이트 씨스터즈’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5604</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">강한나, ‘스타트업’+’간동거’+’바이트 씨스터즈’</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618b5ecd27f6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘구경이’ 신윤섭, 김혜준의 또 다른 희생양 됐다]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5601</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5601</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">JTBC ‘구경이’ 신윤섭, 김혜준의 또 다른 희생양 됐다</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6188961e934ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
