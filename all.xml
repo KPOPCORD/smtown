@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 03:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 04:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26379091</link>
             <guid>https://vlive.tv/post/1-26379091</guid>
             <pubDate>Thu, 11 Nov 2021 03:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_32/1636598021913JMU4i_JPEG/1636425632802.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,16 +436,18 @@
             <enclosure url="https://i.ytimg.com/vi/vcnAUMhtGE0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['World-class performer' KAI to make his... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379624</link>
             <guid>https://now.smtown.com/news/detail/2379624</guid>
             <pubDate>Thu, 11 Nov 2021 02:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) to make hi...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Musician SOHLHEE, 1st mini album '사랑하면 ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379623</link>
             <guid>https://now.smtown.com/news/detail/2379623</guid>
             <pubDate>Thu, 11 Nov 2021 02:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[Musician SOHLHEE (All I Know Music (AIKM))'s fi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
