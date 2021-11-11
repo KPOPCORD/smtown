@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 03:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV]]></title>
+            <link>https://www.youtube.com/watch?v=vcnAUMhtGE0</link>
+            <guid>https://www.youtube.com/watch?v=vcnAUMhtGE0</guid>
+            <pubDate>Thu, 11 Nov 2021 03:47:16 GMT</pubDate>
+            <content:encoded><![CDATA[SOHLHEE's the 1st EP "When you love someone (Wo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vcnAUMhtGE0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379624</link>
             <guid>https://now.smtown.com/news/detail/2379624</guid>
@@ -21,6 +29,16 @@
             <link>https://now.smtown.com/news/detail/2379622</link>
             <guid>https://now.smtown.com/news/detail/2379622</guid>
             <pubDate>Thu, 11 Nov 2021 02:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[S.E.S. 'Dreams Come True' MV]]></title>
+            <link>https://www.youtube.com/watch?v=8uiR4SrDGZk</link>
+            <guid>https://www.youtube.com/watch?v=8uiR4SrDGZk</guid>
+            <pubDate>Thu, 11 Nov 2021 03:47:16 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8uiR4SrDGZk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Un Cut] Take #4｜'Favorite (Vampire)' D...]]></title>
@@ -238,20 +256,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379553</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
             <content:encoded><![CDATA[Actor Shin Yun Seob became another victim of Ki...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC's ‘구경이’ Baek Sung Chul, cute charm]]></title>
-            <link>https://now.smtown.com/news/detail/2379552</link>
-            <guid>https://now.smtown.com/news/detail/2379552</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[Interest in ‘구경이’ Baek Sung Chul is growing.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Crime Puzzle’ Ko A Sung, perfectly dig...]]></title>
-            <link>https://now.smtown.com/news/detail/2379551</link>
-            <guid>https://now.smtown.com/news/detail/2379551</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Ko A Sung led the play with a dazzling pr...]]></content:encoded>
         </item>
     </channel>
 </rss>
