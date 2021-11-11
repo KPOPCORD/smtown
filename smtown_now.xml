@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 04:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 05:43:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,9 +30,11 @@
             <content:encoded><![CDATA[Musician SOHLHEE (All I Know Music (AIKM))'s fi...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Moon Ju Yeon to appear on SBS '지금, 헤어지는...]]></title>
             <link>https://now.smtown.com/news/detail/2379622</link>
             <guid>https://now.smtown.com/news/detail/2379622</guid>
             <pubDate>Thu, 11 Nov 2021 02:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Moon Ju Yeon comes as a designer full of ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[S.E.S. 'Dreams Come True' MV]]></title>
