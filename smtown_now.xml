@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 04:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379636</link>
+            <guid>https://now.smtown.com/news/detail/2379636</guid>
+            <pubDate>Fri, 12 Nov 2021 05:41:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[저 추월할게요 | Ep.2 카트 레이싱 | JUST DO IT:제대로 ...]]></title>
             <link>https://www.youtube.com/watch?v=F6wkvKf4v5k</link>
@@ -258,13 +263,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379555</guid>
             <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 and NCT DREAM (SM) captivated the music...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM's 'Remastering Project' music video ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379554</link>
-            <guid>https://now.smtown.com/news/detail/2379554</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment releases music videos recreate...]]></content:encoded>
         </item>
     </channel>
 </rss>

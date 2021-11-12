@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 04:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 책임감 돋보이는 촬영장 비하인드 사진 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5609</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5609</guid>
+            <pubDate>Fri, 12 Nov 2021 05:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 최시원, 책임감 돋보이는 촬영장 비하인드 사진 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618df5f43ebbb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문주연, SBS ‘지금, 헤어지는 중입니다’ 출연]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5606</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">문주연, SBS ‘지금, 헤어지는 중입니다’ 출연</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강한나, ‘스타트업’+’간동거’+’바이트 씨스터즈’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5604</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5604</guid>
-            <pubDate>Wed, 10 Nov 2021 06:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">강한나, ‘스타트업’+’간동거’+’바이트 씨스터즈’</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618b5ecd27f6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
