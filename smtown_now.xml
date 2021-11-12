@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 08:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 09:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
+            <link>https://www.youtube.com/watch?v=h8mJNbCysW4</link>
+            <guid>https://www.youtube.com/watch?v=h8mJNbCysW4</guid>
+            <pubDate>Fri, 12 Nov 2021 09:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h8mJNbCysW4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHOI SIWON’s behind photos capturing hi...]]></title>
             <link>https://now.smtown.com/news/detail/2379636</link>
@@ -258,13 +268,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
 Listen ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/J5myFhxi9fE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 & NCT DREAM both record over 3 ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379555</link>
-            <guid>https://now.smtown.com/news/detail/2379555</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 and NCT DREAM (SM) captivated the music...]]></content:encoded>
         </item>
     </channel>
 </rss>
