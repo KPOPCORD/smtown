@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 14:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 15:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e6f668497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보너스 영상 #2 | 아날로그 트립 (Analog Trip NCT 12... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=x6ReT5vx_dw</link>
+            <guid>https://www.youtube.com/watch?v=x6ReT5vx_dw</guid>
+            <pubDate>Sat, 13 Nov 2021 15:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[아날로그 트립 NCT 127: Secret Journal
+NCT 127의 소무의도 생...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/x6ReT5vx_dw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보너스 영상 #1 | 아날로그 트립 (Analog Trip NCT 12... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=-LOr8PXw5y4</link>
+            <guid>https://www.youtube.com/watch?v=-LOr8PXw5y4</guid>
+            <pubDate>Sat, 13 Nov 2021 15:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들의 뮤직비디오 촬영 현장 비하인드!
+
+유튜브 오리지널 아날로그 트립 NCT 12...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-LOr8PXw5y4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Un Cut] Take #6｜'Bring The Noize' Reco... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=ZQhljlWrfM8</link>
             <guid>https://www.youtube.com/watch?v=ZQhljlWrfM8</guid>
@@ -810,24 +829,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
 
 NCT DRE...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/0iMeeet01Mw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harper's BAZAAR Magazine Photoshoot | M... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=gUl_pD8efVU</link>
-            <guid>https://www.youtube.com/watch?v=gUl_pD8efVU</guid>
-            <pubDate>Tue, 09 Nov 2021 13:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee Official
-https://www.youtube.com/SHINee
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/gUl_pD8efVU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #3｜'Favorite' Jacket Behi... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=y4aqvSrYYoc</link>
-            <guid>https://www.youtube.com/watch?v=y4aqvSrYYoc</guid>
-            <pubDate>Mon, 08 Nov 2021 14:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/y4aqvSrYYoc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
