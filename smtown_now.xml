@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 13:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 14:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #6｜'Bring The Noize' Reco...]]></title>
+            <link>https://www.youtube.com/watch?v=ZQhljlWrfM8</link>
+            <guid>https://www.youtube.com/watch?v=ZQhljlWrfM8</guid>
+            <pubDate>Sat, 13 Nov 2021 14:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZQhljlWrfM8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ep 3. '소무의녀'의 한을 풀어주오! | 아날로그 트립 (Analo...]]></title>
             <link>https://www.youtube.com/watch?v=1K52x33YbDk</link>
@@ -257,16 +265,6 @@ https://www.youtube.com/SHINee
             <pubDate>Mon, 08 Nov 2021 14:43:08 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/y4aqvSrYYoc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
-            <link>https://www.youtube.com/watch?v=D9JlfKFZ43A</link>
-            <guid>https://www.youtube.com/watch?v=D9JlfKFZ43A</guid>
-            <pubDate>Mon, 08 Nov 2021 14:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/D9JlfKFZ43A/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
