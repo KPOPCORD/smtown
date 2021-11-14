@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 08:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 09:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Beyond LIVE] Bigeast FANCLUB EVENT 2021 TOHOSHINKI The GARDEN~Online~ (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-25819397</link>
-            <guid>https://vlive.tv/post/0-25819397</guid>
-            <pubDate>Sun, 14 Nov 2021 08:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211007_157/1633586543393i7wvA_JPEG/upload_776662646522782865d35d037-ebc6-4aae-ae9b-ccb16f4f6a51.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26379091</link>
@@ -37,6 +29,7 @@
             <guid>https://vlive.tv/post/1-26273198</guid>
             <pubDate>Sun, 14 Nov 2021 08:45:07 GMT</pubDate>
             <content:encoded><![CDATA[11.2.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211101_215/1635756687427Aio7j_JPEG/1635755594612.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Dance Practice (SMTOWN ─ Media Board)]]></title>
@@ -149,6 +142,13 @@
             <guid>https://vlive.tv/post/1-26049473</guid>
             <pubDate>Sun, 14 Nov 2021 08:45:07 GMT</pubDate>
             <content:encoded><![CDATA[10.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2 (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-26037525</link>
+            <guid>https://vlive.tv/post/1-26037525</guid>
+            <pubDate>Sun, 14 Nov 2021 09:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[10.17.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e6f668497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WayV-log] 🐱TEN’s Dance Practice Diary (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=yFyVxspD9XU</link>
+            <guid>https://www.youtube.com/watch?v=yFyVxspD9XU</guid>
+            <pubDate>Sun, 14 Nov 2021 09:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yFyVxspD9XU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보너스 영상 #2 | 아날로그 트립 (Analog Trip NCT 12... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=x6ReT5vx_dw</link>
             <guid>https://www.youtube.com/watch?v=x6ReT5vx_dw</guid>
@@ -817,18 +827,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
             <content:encoded><![CDATA[HAPPY NEW YEAR !
 Get ready for 2022 with SM ART...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/aMdzA8G5JFc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 호텔은 7성급이야⭐️X7 | HOTEL THE DREAM #1 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=0iMeeet01Mw</link>
-            <guid>https://www.youtube.com/watch?v=0iMeeet01Mw</guid>
-            <pubDate>Tue, 09 Nov 2021 15:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[#HOTEL_THE_DREAM
-#호텔더드림
-#NCTDREAM #NCT
-
-NCT DRE...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0iMeeet01Mw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 

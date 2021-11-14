@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 08:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 09:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] 🐱TEN’s Dance Practice Diary]]></title>
+            <link>https://www.youtube.com/watch?v=yFyVxspD9XU</link>
+            <guid>https://www.youtube.com/watch?v=yFyVxspD9XU</guid>
+            <pubDate>Sun, 14 Nov 2021 09:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yFyVxspD9XU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보너스 영상 #2 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
             <link>https://www.youtube.com/watch?v=x6ReT5vx_dw</link>
@@ -254,18 +264,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
             <content:encoded><![CDATA[HAPPY NEW YEAR !
 Get ready for 2022 with SM ART...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/aMdzA8G5JFc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 호텔은 7성급이야⭐️X7 | HOTEL THE DREAM #1]]></title>
-            <link>https://www.youtube.com/watch?v=0iMeeet01Mw</link>
-            <guid>https://www.youtube.com/watch?v=0iMeeet01Mw</guid>
-            <pubDate>Tue, 09 Nov 2021 15:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[#HOTEL_THE_DREAM
-#호텔더드림
-#NCTDREAM #NCT
-
-NCT DRE...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0iMeeet01Mw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
