@@ -1,8 +1,268 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-11-14T21:44:11.132Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 14 Nov 2021 22:45:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['구경이' 산타로 HOT한 배우 #백성철 마리끌레르 화보 현장 #키동캠...]]></title>
+            <link>https://www.youtube.com/watch?v=iKGw7OrzT-w</link>
+            <guid>https://www.youtube.com/watch?v=iKGw7OrzT-w</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of #InspectorKoo #Santa #Baek...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iKGw7OrzT-w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-log] 🐱TEN’s Dance Practice Diary]]></title>
+            <link>https://www.youtube.com/watch?v=yFyVxspD9XU</link>
+            <guid>https://www.youtube.com/watch?v=yFyVxspD9XU</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yFyVxspD9XU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보너스 영상 #2 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
+            <link>https://www.youtube.com/watch?v=x6ReT5vx_dw</link>
+            <guid>https://www.youtube.com/watch?v=x6ReT5vx_dw</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[아날로그 트립 NCT 127: Secret Journal
+NCT 127의 소무의도 생...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/x6ReT5vx_dw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보너스 영상 #1 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
+            <link>https://www.youtube.com/watch?v=-LOr8PXw5y4</link>
+            <guid>https://www.youtube.com/watch?v=-LOr8PXw5y4</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들의 뮤직비디오 촬영 현장 비하인드!
+
+유튜브 오리지널 아날로그 트립 NCT 12...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-LOr8PXw5y4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #6｜'Bring The Noize' Reco...]]></title>
+            <link>https://www.youtube.com/watch?v=ZQhljlWrfM8</link>
+            <guid>https://www.youtube.com/watch?v=ZQhljlWrfM8</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZQhljlWrfM8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ep 3. '소무의녀'의 한을 풀어주오! | 아날로그 트립 (Analo...]]></title>
+            <link>https://www.youtube.com/watch?v=1K52x33YbDk</link>
+            <guid>https://www.youtube.com/watch?v=1K52x33YbDk</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 획득한 첫 번째 보물과 찢어진 선장의 일기장!
+일기장 속 메시지를 따라 ‘소무...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1K52x33YbDk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #5｜'Favorite (Vampire)' R...]]></title>
+            <link>https://www.youtube.com/watch?v=BAGCwU4xu6M</link>
+            <guid>https://www.youtube.com/watch?v=BAGCwU4xu6M</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BAGCwU4xu6M/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
+            <link>https://www.youtube.com/watch?v=h8mJNbCysW4</link>
+            <guid>https://www.youtube.com/watch?v=h8mJNbCysW4</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h8mJNbCysW4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHOI SIWON’s behind photos capturing hi...]]></title>
+            <link>https://now.smtown.com/news/detail/2379636</link>
+            <guid>https://now.smtown.com/news/detail/2379636</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scenes photos of CHOI SIWON (SM)'s '...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[저 추월할게요 | Ep.2 카트 레이싱 | JUST DO IT:제대로 ...]]></title>
+            <link>https://www.youtube.com/watch?v=F6wkvKf4v5k</link>
+            <guid>https://www.youtube.com/watch?v=F6wkvKf4v5k</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[#JUSTDOIT_제대로재밌게
+#JENO #JAEMIN
+#JUSTDOIT #제대로재밌...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/F6wkvKf4v5k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV]]></title>
+            <link>https://www.youtube.com/watch?v=vcnAUMhtGE0</link>
+            <guid>https://www.youtube.com/watch?v=vcnAUMhtGE0</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[SOHLHEE's the 1st EP "When you love someone (Wo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vcnAUMhtGE0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['World-class performer' KAI to make his...]]></title>
+            <link>https://now.smtown.com/news/detail/2379624</link>
+            <guid>https://now.smtown.com/news/detail/2379624</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) to make hi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Musician SOHLHEE, 1st mini album '사랑하면 ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379623</link>
+            <guid>https://now.smtown.com/news/detail/2379623</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Musician SOHLHEE (All I Know Music (AIKM))'s fi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Moon Ju Yeon to appear on SBS '지금, 헤어지는...]]></title>
+            <link>https://now.smtown.com/news/detail/2379622</link>
+            <guid>https://now.smtown.com/news/detail/2379622</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Moon Ju Yeon comes as a designer full of ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[S.E.S. 'Dreams Come True' MV]]></title>
+            <link>https://www.youtube.com/watch?v=8uiR4SrDGZk</link>
+            <guid>https://www.youtube.com/watch?v=8uiR4SrDGZk</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8uiR4SrDGZk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #4｜'Favorite (Vampire)' D...]]></title>
+            <link>https://www.youtube.com/watch?v=NxNNlREnQ0I</link>
+            <guid>https://www.youtube.com/watch?v=NxNNlREnQ0I</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NxNNlREnQ0I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[N’-170] GQ JAPAN ずっと出たかったんですよね💚 | GQ ...]]></title>
+            <link>https://www.youtube.com/watch?v=bEG9FLdCd1E</link>
+            <guid>https://www.youtube.com/watch?v=bEG9FLdCd1E</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[#YUTA #NCT127 #GQJAPAN
+#NCT #Behind
+
+NCT 127 Of...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bEG9FLdCd1E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SOOMAN LEE Producer, “Korea will become...]]></title>
+            <link>https://now.smtown.com/news/detail/2379593</link>
+            <guid>https://now.smtown.com/news/detail/2379593</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[SOOMAN LEE producer participated as an invited ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
+            <link>https://www.youtube.com/watch?v=jI3e_F8TW5E</link>
+            <guid>https://www.youtube.com/watch?v=jI3e_F8TW5E</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jI3e_F8TW5E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[S.E.S. The hit song ‘Dreams Come True’ ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379588</link>
+            <guid>https://now.smtown.com/news/detail/2379588</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered music video for S.E.S.'s hit son...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kang Han Na, ‘스타트업’+‘간 떨어지는 동거’+’바이트 씨스...]]></title>
+            <link>https://now.smtown.com/news/detail/2379587</link>
+            <guid>https://now.smtown.com/news/detail/2379587</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kang Han Na has proven the limitless acti...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=fuHrCzcf6A8</link>
+            <guid>https://www.youtube.com/watch?v=fuHrCzcf6A8</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fuHrCzcf6A8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=us9XFSzZaP8</link>
+            <guid>https://www.youtube.com/watch?v=us9XFSzZaP8</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/us9XFSzZaP8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=qwx8Ysb4GxM</link>
+            <guid>https://www.youtube.com/watch?v=qwx8Ysb4GxM</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qwx8Ysb4GxM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=nwKno2PLdKk</link>
+            <guid>https://www.youtube.com/watch?v=nwKno2PLdKk</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nwKno2PLdKk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SOHLHEE 솔희 '수선화(水仙花)' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=OBfYw5UFq2w</link>
+            <guid>https://www.youtube.com/watch?v=OBfYw5UFq2w</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[SOHLHEE's the 1st EP "When you love someone (Wo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OBfYw5UFq2w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=ooZL3A4OCl0</link>
+            <guid>https://www.youtube.com/watch?v=ooZL3A4OCl0</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ooZL3A4OCl0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=T0HEN8iLV8E</link>
+            <guid>https://www.youtube.com/watch?v=T0HEN8iLV8E</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/T0HEN8iLV8E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WayV SEASON’S GREETINGS Teaser #Wa...]]></title>
+            <link>https://www.youtube.com/watch?v=B-Q_vLGCWg0</link>
+            <guid>https://www.youtube.com/watch?v=B-Q_vLGCWg0</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR ! Get ready for 2022 with WayV S...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/B-Q_vLGCWg0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=33h2BvWl_WE</link>
+            <guid>https://www.youtube.com/watch?v=33h2BvWl_WE</guid>
+            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/33h2BvWl_WE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
