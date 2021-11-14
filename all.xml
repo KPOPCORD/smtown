@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 13:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 14:43:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e6f668497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['구경이' 산타로 HOT한 배우 #백성철 마리끌레르 화보 현장 #키동캠... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=iKGw7OrzT-w</link>
+            <guid>https://www.youtube.com/watch?v=iKGw7OrzT-w</guid>
+            <pubDate>Sun, 14 Nov 2021 14:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of #InspectorKoo #Santa #Baek...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iKGw7OrzT-w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[WayV-log] 🐱TEN’s Dance Practice Diary (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=yFyVxspD9XU</link>
             <guid>https://www.youtube.com/watch?v=yFyVxspD9XU</guid>
@@ -818,15 +826,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
             <content:encoded><![CDATA[HAPPY NEW YEAR !
 Get ready for 2022 with SM ART...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/33h2BvWl_WE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=aMdzA8G5JFc</link>
-            <guid>https://www.youtube.com/watch?v=aMdzA8G5JFc</guid>
-            <pubDate>Wed, 10 Nov 2021 03:46:26 GMT</pubDate>
-            <content:encoded><![CDATA[HAPPY NEW YEAR !
-Get ready for 2022 with SM ART...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/aMdzA8G5JFc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
