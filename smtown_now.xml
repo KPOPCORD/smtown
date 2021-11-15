@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 08:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 09:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 손태진 SONTAEJIN - 깊어지네 Lyric Video]]></title>
+            <link>https://www.youtube.com/watch?v=M0NuU62m7Lw</link>
+            <guid>https://www.youtube.com/watch?v=M0NuU62m7Lw</guid>
+            <pubDate>Mon, 15 Nov 2021 09:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #EP #ThePresent_AtTheTim...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/M0NuU62m7Lw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FLO X SM C&C 업무 협약, (본캐) 박선영, 장지수의 녹화 현...]]></title>
             <link>https://www.youtube.com/watch?v=FNq89TTokas</link>
@@ -244,15 +252,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[HAPPY NEW YEAR !
 Get ready for 2022 with SM ART...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/fuHrCzcf6A8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
-            <link>https://www.youtube.com/watch?v=us9XFSzZaP8</link>
-            <guid>https://www.youtube.com/watch?v=us9XFSzZaP8</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[HAPPY NEW YEAR !
-Get ready for 2022 with SM ART...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/us9XFSzZaP8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
