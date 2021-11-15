@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 03:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 04:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5615</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
+            <pubDate>Mon, 15 Nov 2021 04:53:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127, 한국 찍고 세계로 뻗어나간다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘무한 시너지’ NCT 다시 뭉쳤다! NCT 정규 3집 ‘Universe’ 12월 14일 발매!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5610</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘무한 시너지’ NCT 다시 뭉쳤다! NCT 정규 3집 ‘Universe’ 12월 14일 발매!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d3cb686a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5608</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5608</guid>
-            <pubDate>Thu, 11 Nov 2021 02:53:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7e0b8b35a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
