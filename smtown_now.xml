@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FLO X SM C&C 업무 협약, (본캐) 박선영, 장지수의 녹화 현...]]></title>
+            <link>https://www.youtube.com/watch?v=FNq89TTokas</link>
+            <guid>https://www.youtube.com/watch?v=FNq89TTokas</guid>
+            <pubDate>Mon, 15 Nov 2021 07:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[(이 조합 훌륭해👏) SM C&amp;C 스튜디오부문과 FLO가 만났다! 📢
+그 시작은?...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FNq89TTokas/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127, reaching out to the world!]]></title>
             <link>https://now.smtown.com/news/detail/2379668</link>
@@ -244,15 +253,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
             <content:encoded><![CDATA[HAPPY NEW YEAR !
 Get ready for 2022 with SM ART...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/us9XFSzZaP8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
-            <link>https://www.youtube.com/watch?v=qwx8Ysb4GxM</link>
-            <guid>https://www.youtube.com/watch?v=qwx8Ysb4GxM</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[HAPPY NEW YEAR !
-Get ready for 2022 with SM ART...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qwx8Ysb4GxM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
