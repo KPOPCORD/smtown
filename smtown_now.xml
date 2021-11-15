@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 13:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 14:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,17 @@
             <pubDate>Mon, 15 Nov 2021 13:45:23 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/p6_gBjHmPp0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[N’-171] 시즈니가 좋아할거라 믿습니다💚 | WWD KOREA ...]]></title>
+            <link>https://www.youtube.com/watch?v=RPkHmG37g6s</link>
+            <guid>https://www.youtube.com/watch?v=RPkHmG37g6s</guid>
+            <pubDate>Mon, 15 Nov 2021 14:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[#JAEMIN #NCTDREAM #WWDKOREA
+#NCT #Behind
+
+NCT O...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RPkHmG37g6s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MV] 손태진 SONTAEJIN - 깊어지네 Lyric Video]]></title>
@@ -244,13 +255,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379588</guid>
             <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
             <content:encoded><![CDATA[The remastered music video for S.E.S.'s hit son...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kang Han Na, ‘스타트업’+‘간 떨어지는 동거’+’바이트 씨스...]]></title>
-            <link>https://now.smtown.com/news/detail/2379587</link>
-            <guid>https://now.smtown.com/news/detail/2379587</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Han Na has proven the limitless acti...]]></content:encoded>
         </item>
     </channel>
 </rss>
