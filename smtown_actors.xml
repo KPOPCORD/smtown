@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태빈, 웹드라마 '딜리버리' 코믹-액션 연기 '시선 강탈']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5612</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5612</guid>
+            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
+            <content:encoded><![CDATA['펜트하우스' 이태빈이 웹드라마 '딜리버리'에서 코믹 액션 연기에 도전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d66405008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문주연, SBS ‘지금, 헤어지는 중입니다’ 출연]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5606</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5606</guid>
+            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문주연이 욕망 넘치는 디자이너로 찾아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘구경이’ 신윤섭, 김혜준의 또 다른 희생양 됐다]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5601</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5601</guid>
+            <pubDate>Thu, 11 Nov 2021 02:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신윤섭이 김혜준의 또 다른 희생양이 됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6188961e934ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘크라임 퍼즐’ 고아성, 복합적인 감정 연기도 완벽 소화]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5599</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5599</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고아성이 눈부신 존재감으로 극을 이끌어가며 ‘고아성의 힘’을 다시 한번 입증했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618894e56b740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 촉촉한 눈빛으로 ‘러브라인’ 기대 증폭]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5591</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5591</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 촉촉한 눈빛으로 ‘로코 장인’으로서의 활약을 기대하게 만들고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369271357d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 책임감 돋보이는 촬영장 비하인드 사진 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5609</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5609</guid>
+            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)의 촬영장 비하인드 사진이 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618df5f43ebbb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강한나, ‘스타트업’+’간동거’+’바이트 씨스터즈’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5604</link>
@@ -38,54 +86,6 @@
             <pubDate>Fri, 05 Nov 2021 04:53:53 GMT</pubDate>
             <content:encoded><![CDATA[배우 박재민이 연극 ‘리어왕’에서 ‘에드가’ 및 ‘톰’ 역으로 캐스팅, 4일 공연에 오른다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618368adc0ba1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 유승목, SM C&C 전속계약 체결]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5585</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5585</guid>
-            <pubDate>Thu, 04 Nov 2021 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[배우 유승목이 SM C&amp;C와 전속계약을 체결했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618222aacab9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘구경이’ 신윤섭, 김혜준의 또 다른 희생양 됐다]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5601</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5601</guid>
-            <pubDate>Thu, 11 Nov 2021 02:53:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신윤섭이 김혜준의 또 다른 희생양이 됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6188961e934ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘크라임 퍼즐’ 고아성, 복합적인 감정 연기도 완벽 소화]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5599</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5599</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고아성이 눈부신 존재감으로 극을 이끌어가며 ‘고아성의 힘’을 다시 한번 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618894e56b740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 촉촉한 눈빛으로 ‘러브라인’ 기대 증폭]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5591</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5591</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 촉촉한 눈빛으로 ‘로코 장인’으로서의 활약을 기대하게 만들고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369271357d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조보아, tvN 새 드라마 ‘군검사 도베르만’ 이끈다…주연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5586</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5586</guid>
-            <pubDate>Thu, 04 Nov 2021 05:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[조보아가 차기작으로 tvN 새 드라마 ‘군검사 도베르만’의 출연을 확정 지었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618223452e6fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤보라, 뷰티 예능 KBS Joy ‘해피뷰티데이’ 메인 MC 발탁!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5582</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5582</guid>
-            <pubDate>Wed, 03 Nov 2021 06:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤보라가 자신만의 뷰티 노하우를 아낌없이 공유할 것으로 기대된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6180e6f668497.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

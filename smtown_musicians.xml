@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지션 솔희, 첫 번째 미니앨범 ‘사랑하면 닳는 것들’ 11일 낮 12시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5607</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5607</guid>
+            <pubDate>Mon, 15 Nov 2021 03:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지션 솔희(SOHLHEE, All I Know Music(AIKM) 소속)의 첫 번째 미니앨범 ‘사랑하면 닳는 것들’이 11일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d88c6d22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127-NCT DREAM, 나란히 음반 판매량 300만장 돌파 ‘겹경사’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5603</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5603</guid>
+            <pubDate>Thu, 11 Nov 2021 02:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127)과 NCT DREAM(엔시티 드림, 이상 에스엠엔터테인먼트 소속)이 나란히 음반 판매량 300만장을 돌파하며 2021년 가요계를 사로잡았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618897302db02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5597</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
+            <pubDate>Mon, 08 Nov 2021 03:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트가 할로윈 코스튬 콘테스트 우승 상금을 보호종료아동 자립 지원을 위한 후원금으로 기부했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 5일 밤 11시 데뷔 16주년 기념 라이브 진행! 다락방 ‘하우스 파티’ 콘셉트!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5595</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5595</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 데뷔 16주년을 기념하는 카운트다운 라이브를 진행한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b21a85673.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 4일 음악 방송에서 신곡 ‘ZERO’ 첫 무대! 포인트 안무로 매력 극대화!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5592</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5592</guid>
+            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 이번 주 음악 방송에서 신곡 ‘ZERO’ 무대를 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369b6aafc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[S.E.S. 히트곡 ‘Dreams Come True’ 리마스터 뮤직비디오 11일 오전 10시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5605</link>
@@ -46,46 +86,6 @@
             <pubDate>Thu, 04 Nov 2021 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 누적 음반 판매량이 358만장을 넘어서는 대기록을 세웠다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618224d0be9af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127-NCT DREAM, 나란히 음반 판매량 300만장 돌파 ‘겹경사’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5603</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5603</guid>
-            <pubDate>Thu, 11 Nov 2021 02:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127)과 NCT DREAM(엔시티 드림, 이상 에스엠엔터테인먼트 소속)이 나란히 음반 판매량 300만장을 돌파하며 2021년 가요계를 사로잡았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618897302db02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5597</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트가 할로윈 코스튬 콘테스트 우승 상금을 보호종료아동 자립 지원을 위한 후원금으로 기부했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어, 5일 밤 11시 데뷔 16주년 기념 라이브 진행! 다락방 ‘하우스 파티’ 콘셉트!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5595</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5595</guid>
-            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 데뷔 16주년을 기념하는 카운트다운 라이브를 진행한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b21a85673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 4일 음악 방송에서 신곡 ‘ZERO’ 첫 무대! 포인트 안무로 매력 극대화!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5592</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5592</guid>
-            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 이번 주 음악 방송에서 신곡 ‘ZERO’ 무대를 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369b6aafc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E 정규 1집 ‘카운트다운’, 아이튠즈 톱 앨범 차트 전 세계 22개 지역 1위 달성!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5588</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5588</guid>
-            <pubDate>Thu, 04 Nov 2021 05:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 정규 1집 ‘COUNTDOWN’(카운트다운)으로 글로벌적인 사랑을 받고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6182246bd4154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
