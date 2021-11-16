@@ -4,9 +4,21 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 13:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 14:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그냥 해!! 이거 승부가 뭐가 그렇게 중요하냐고오!!🔥 | HOTEL...]]></title>
+            <link>https://www.youtube.com/watch?v=vHLicdZuk00</link>
+            <guid>https://www.youtube.com/watch?v=vHLicdZuk00</guid>
+            <pubDate>Tue, 16 Nov 2021 14:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[#HOTEL_THE_DREAM
+#호텔더드림
+#NCTDREAM #NCT
+
+NCT DRE...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vHLicdZuk00/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO (Engli...]]></title>
             <link>https://www.youtube.com/watch?v=5aA9OMB47oY</link>
@@ -245,17 +257,6 @@ ht...]]></content:encoded>
             <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/NxNNlREnQ0I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N’-170] GQ JAPAN ずっと出たかったんですよね💚 | GQ ...]]></title>
-            <link>https://www.youtube.com/watch?v=bEG9FLdCd1E</link>
-            <guid>https://www.youtube.com/watch?v=bEG9FLdCd1E</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[#YUTA #NCT127 #GQJAPAN
-#NCT #Behind
-
-NCT 127 Of...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bEG9FLdCd1E/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
