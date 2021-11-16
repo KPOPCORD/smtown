@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 04:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618368adc0ba1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 to appear on the popular Americ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379683</link>
+            <guid>https://now.smtown.com/news/detail/2379683</guid>
+            <pubDate>Tue, 16 Nov 2021 05:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) will appear on the popular America...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🚨WARNING🚨 슈퍼주니어 영상팀 (강제) 하드 털이.Zip | ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=p6_gBjHmPp0</link>
             <guid>https://www.youtube.com/watch?v=p6_gBjHmPp0</guid>
@@ -811,13 +818,6 @@ NCT 127 Of...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jI3e_F8TW5E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.E.S. The hit song ‘Dreams Come True’ ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379588</link>
-            <guid>https://now.smtown.com/news/detail/2379588</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[The remastered music video for S.E.S.'s hit son...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
