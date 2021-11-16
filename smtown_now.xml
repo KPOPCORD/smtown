@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 09:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 10:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] ⛰Climbing is just a piece of...]]></title>
+            <link>https://www.youtube.com/watch?v=MGzSveDrd6U</link>
+            <guid>https://www.youtube.com/watch?v=MGzSveDrd6U</guid>
+            <pubDate>Tue, 16 Nov 2021 10:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/MGzSveDrd6U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 to appear on the popular Americ...]]></title>
             <link>https://now.smtown.com/news/detail/2379683</link>
@@ -245,16 +255,6 @@ NCT 127 Of...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379593</guid>
             <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
             <content:encoded><![CDATA[SOOMAN LEE producer participated as an invited ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
-            <link>https://www.youtube.com/watch?v=jI3e_F8TW5E</link>
-            <guid>https://www.youtube.com/watch?v=jI3e_F8TW5E</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/jI3e_F8TW5E/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
