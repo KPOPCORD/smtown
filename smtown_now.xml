@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 06:52:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,9 +13,11 @@
             <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Comeback' NCT TAEIL, TAEYONG, DOYOUNG,...]]></title>
             <link>https://now.smtown.com/news/detail/2379705</link>
             <guid>https://now.smtown.com/news/detail/2379705</guid>
             <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM), who is making a comeback with their 3...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379704</link>
@@ -23,9 +25,11 @@
             <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The remastered MV of SHINHWA's 'Only On...]]></title>
             <link>https://now.smtown.com/news/detail/2379703</link>
             <guid>https://now.smtown.com/news/detail/2379703</guid>
             <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered music video for SHINHWA's hit so...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379702</link>
