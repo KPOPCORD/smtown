@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 18일 출연!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5616</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5616</guid>
-            <pubDate>Tue, 16 Nov 2021 03:45:33 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5621</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5621</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 18일 출연!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619328abb9df6.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619462ced4fd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5615</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
-            <pubDate>Mon, 15 Nov 2021 04:53:54 GMT</pubDate>
+            <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5620</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127, 한국 찍고 세계로 뻗어나간다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

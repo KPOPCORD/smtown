@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백성철, ‘구경이’속 대체불가 존재감 ‘궁금증·관심 폭발’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5617</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5617</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">백성철, ‘구경이’속 대체불가 존재감 ‘궁금증·관심 폭발’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61946054bfcb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고아성, 매 작품 강렬한 변신 ‘연기 천재’ 위력 과시!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5614</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">고아성, 매 작품 강렬한 변신 ‘연기 천재’ 위력 과시!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d76c871bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 한선화,]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5613</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5613</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 한선화,</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d703075d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

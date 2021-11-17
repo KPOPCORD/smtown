@@ -4,9 +4,34 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379706</link>
+            <guid>https://now.smtown.com/news/detail/2379706</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379705</link>
+            <guid>https://now.smtown.com/news/detail/2379705</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379704</link>
+            <guid>https://now.smtown.com/news/detail/2379704</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379703</link>
+            <guid>https://now.smtown.com/news/detail/2379703</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379702</link>
+            <guid>https://now.smtown.com/news/detail/2379702</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[그냥 해!! 이거 승부가 뭐가 그렇게 중요하냐고오!!🔥 | HOTEL...]]></title>
             <link>https://www.youtube.com/watch?v=vHLicdZuk00</link>
@@ -218,45 +243,6 @@ ht...]]></content:encoded>
             <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
             <content:encoded><![CDATA[SOHLHEE's the 1st EP "When you love someone (Wo...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/vcnAUMhtGE0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['World-class performer' KAI to make his...]]></title>
-            <link>https://now.smtown.com/news/detail/2379624</link>
-            <guid>https://now.smtown.com/news/detail/2379624</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) to make hi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Musician SOHLHEE, 1st mini album '사랑하면 ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379623</link>
-            <guid>https://now.smtown.com/news/detail/2379623</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Musician SOHLHEE (All I Know Music (AIKM))'s fi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Moon Ju Yeon to appear on SBS '지금, 헤어지는...]]></title>
-            <link>https://now.smtown.com/news/detail/2379622</link>
-            <guid>https://now.smtown.com/news/detail/2379622</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Moon Ju Yeon comes as a designer full of ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[S.E.S. 'Dreams Come True' MV]]></title>
-            <link>https://www.youtube.com/watch?v=8uiR4SrDGZk</link>
-            <guid>https://www.youtube.com/watch?v=8uiR4SrDGZk</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8uiR4SrDGZk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #4｜'Favorite (Vampire)' D...]]></title>
-            <link>https://www.youtube.com/watch?v=NxNNlREnQ0I</link>
-            <guid>https://www.youtube.com/watch?v=NxNNlREnQ0I</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's the 3rd album repackage "Favorite" is...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/NxNNlREnQ0I/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“Black Mamba부터 Savage까지” 에스파의 365일 성장史]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5619</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5619</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 11월 17일 ‘Black Mamba’(블랙맘바)로 강렬하게 가요계에 등장한 에스파가 데뷔 1주년을 맞았다. 독보적인 메타버스 세계관으로 글로벌한 주목을 받은 신예에서 하프 밀리언셀러로 거듭나기까지, 빛났던 지난 365일을 돌아보자.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194616e219fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 18일 출연!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5616</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5616</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 미국 인기 토크쇼 ‘켈리 클락슨 쇼 (The Kelly Clarkson Show)’에 첫 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619328abb9df6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘무한 시너지’ NCT 다시 뭉쳤다! NCT 정규 3집 ‘Universe’ 12월 14일 발매!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5610</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618897302db02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM엔터테인먼트 할로윈 코스튬 콘테스트 성황리 개최! 우승 상금 기부 → 선한 영향력 행사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5597</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5597</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트가 할로윈 코스튬 콘테스트 우승 상금을 보호종료아동 자립 지원을 위한 후원금으로 기부했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b2ca7fd03.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신화 ‘Only One’ 리마스터 뮤직비디오 18일 오전 10시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5618</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5618</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Only One’(온리 원) 리마스터 뮤직비디오가 오는 18일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619460a5cf41c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, 5일 밤 11시 데뷔 16주년 기념 라이브 진행! 다락방 ‘하우스 파티’ 콘셉트!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5595</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5595</guid>
-            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 데뷔 16주년을 기념하는 카운트다운 라이브를 진행한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b21a85673.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5615</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 12월 한국 단독 콘서트를 시작으로 두 번째 월드 투어에 나선다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 10 Nov 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 ‘리마스터링 프로젝트’를 통해 재탄생된 뮤직비디오를 매주 목요일 순차 공개한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618896c0a454a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 美 FOX5 채널 유명 토크쇼 ‘굿데이 뉴욕’ 출연! 여전한 글로벌 인기!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5596</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5596</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 미국 FOX5 채널의 유명 토크쇼 ‘Good Day New York’(굿데이 뉴욕)에 출연하며 글로벌 팬들에게 깊은 인상을 남겼다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b25f581af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘日 데뷔 20주년’ 보아, 일본 디지털 싱글 ‘My Dear’ 5일 0시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5593</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5593</guid>
-            <pubDate>Fri, 05 Nov 2021 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘아시아의 별’ 보아(BoA, 에스엠엔터테인먼트 소속)의 일본 새 디지털 싱글 ‘My Dear’(마이 디어)가 5일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61836a2a46001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
