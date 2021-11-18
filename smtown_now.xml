@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379729</link>
+            <guid>https://now.smtown.com/news/detail/2379729</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379728</link>
+            <guid>https://now.smtown.com/news/detail/2379728</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379727</link>
+            <guid>https://now.smtown.com/news/detail/2379727</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379726</link>
+            <guid>https://now.smtown.com/news/detail/2379726</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SHINHWA 신화 'Only One' MV]]></title>
             <link>https://www.youtube.com/watch?v=W5qGztrdG_s</link>
@@ -220,41 +240,6 @@ NCT 127의 소무의도 생...]]></content:encoded>
             <content:encoded><![CDATA[드디어 획득한 첫 번째 보물과 찢어진 선장의 일기장!
 일기장 속 메시지를 따라 ‘소무...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/1K52x33YbDk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #5｜'Favorite (Vampire)' R...]]></title>
-            <link>https://www.youtube.com/watch?v=BAGCwU4xu6M</link>
-            <guid>https://www.youtube.com/watch?v=BAGCwU4xu6M</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/BAGCwU4xu6M/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 👨‍✈️The Pilot Test👨‍✈️ ...]]></title>
-            <link>https://www.youtube.com/watch?v=h8mJNbCysW4</link>
-            <guid>https://www.youtube.com/watch?v=h8mJNbCysW4</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/h8mJNbCysW4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHOI SIWON’s behind photos capturing hi...]]></title>
-            <link>https://now.smtown.com/news/detail/2379636</link>
-            <guid>https://now.smtown.com/news/detail/2379636</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scenes photos of CHOI SIWON (SM)'s '...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[저 추월할게요 | Ep.2 카트 레이싱 | JUST DO IT:제대로 ...]]></title>
-            <link>https://www.youtube.com/watch?v=F6wkvKf4v5k</link>
-            <guid>https://www.youtube.com/watch?v=F6wkvKf4v5k</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[#JUSTDOIT_제대로재밌게
-#JENO #JAEMIN
-#JUSTDOIT #제대로재밌...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/F6wkvKf4v5k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백성철, ‘구경이’속 대체불가 존재감 ‘궁금증·관심 폭발’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5617</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5617</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백성철이 '구경이'에서 남다른 존재감으로 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61946054bfcb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 한선화,]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5613</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618895b889c29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우도환, 넷플릭스 시리즈 '사냥개들' 주연 건우役 출연 확정!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5594</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5594</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[우도환이 넷플릭스 시리즈 ‘사냥개들’ 출연을 확정 지었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6184b19a23404.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고아성, 매 작품 강렬한 변신 ‘연기 천재’ 위력 과시!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5614</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5614</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고아성이 매 작품 강렬한 변신을 선보이며 연기 천재의 위력을 과시하고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d76c871bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이태빈, 웹드라마 '딜리버리' 코믹-액션 연기 '시선 강탈']]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
             <content:encoded><![CDATA[배우 고아성이 눈부신 존재감으로 극을 이끌어가며 ‘고아성의 힘’을 다시 한번 입증했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618894e56b740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 촉촉한 눈빛으로 ‘러브라인’ 기대 증폭]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5591</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5591</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 촉촉한 눈빛으로 ‘로코 장인’으로서의 활약을 기대하게 만들고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369271357d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
