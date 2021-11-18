@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 쿤, 정우, 샤오쥔, 제노, 천러 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5626</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5626</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속) 멤버 쿤, 정우, 샤오쥔, 제노, 천러의 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f7f2603e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5620</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 멤버 태일, 태용, 도영, 재민, 양양, 지성의 티저 이미지를 공개해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신화 ‘Only One’ 리마스터 뮤직비디오 18일 오전 10시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5618</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5618</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Only One’(온리 원) 리마스터 뮤직비디오가 오는 18일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619460a5cf41c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5615</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 12월 한국 단독 콘서트를 시작으로 두 번째 월드 투어에 나선다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5608</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5608</guid>
+            <pubDate>Mon, 15 Nov 2021 04:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 1년 만에 솔로 가수로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7e0b8b35a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5621</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5621</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’ 차트에 8주 연속 진입했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619462ced4fd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“Black Mamba부터 Savage까지” 에스파의 365일 성장史]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5619</link>
@@ -38,54 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 03:46:09 GMT</pubDate>
             <content:encoded><![CDATA[뮤지션 솔희(SOHLHEE, All I Know Music(AIKM) 소속)의 첫 번째 미니앨범 ‘사랑하면 닳는 것들’이 11일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d88c6d22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127-NCT DREAM, 나란히 음반 판매량 300만장 돌파 ‘겹경사’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5603</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5603</guid>
-            <pubDate>Thu, 11 Nov 2021 02:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127)과 NCT DREAM(엔시티 드림, 이상 에스엠엔터테인먼트 소속)이 나란히 음반 판매량 300만장을 돌파하며 2021년 가요계를 사로잡았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618897302db02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신화 ‘Only One’ 리마스터 뮤직비디오 18일 오전 10시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5618</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5618</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Only One’(온리 원) 리마스터 뮤직비디오가 오는 18일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619460a5cf41c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5615</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 12월 한국 단독 콘서트를 시작으로 두 번째 월드 투어에 나선다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5608</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5608</guid>
-            <pubDate>Mon, 15 Nov 2021 04:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 1년 만에 솔로 가수로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7e0b8b35a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.E.S. 히트곡 ‘Dreams Come True’ 리마스터 뮤직비디오 11일 오전 10시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5605</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5605</guid>
-            <pubDate>Thu, 11 Nov 2021 02:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 걸그룹’ S.E.S.의 히트곡 ‘Dreams Come True’(드림스 컴 트루) 리마스터 뮤직비디오가 오는 11일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618b5ef6832d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’ 뮤직비디오 매주 목요일 순차 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5602</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5602</guid>
-            <pubDate>Wed, 10 Nov 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 ‘리마스터링 프로젝트’를 통해 재탄생된 뮤직비디오를 매주 목요일 순차 공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618896c0a454a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,18 +4,41 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[“K-pop superstar breaking chart records...]]></title>
+            <link>https://now.smtown.com/news/detail/2379732</link>
+            <guid>https://now.smtown.com/news/detail/2379732</guid>
+            <pubDate>Thu, 18 Nov 2021 07:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) once again fascinated viewers acro...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379731</link>
+            <guid>https://now.smtown.com/news/detail/2379731</guid>
+            <pubDate>Thu, 18 Nov 2021 07:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT KUN, JUNGWOO, XIAOJUN, JENO, CHENLE...]]></title>
+            <link>https://now.smtown.com/news/detail/2379730</link>
+            <guid>https://now.smtown.com/news/detail/2379730</guid>
+            <pubDate>Thu, 18 Nov 2021 07:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[Teaser images of NCT(SM) members KUN, JUNGWOO, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI MINHO has been cast as the lead ro...]]></title>
             <link>https://now.smtown.com/news/detail/2379729</link>
             <guid>https://now.smtown.com/news/detail/2379729</guid>
             <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI MINHO(SHINee MINHO, SM)has been cast of th...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[CHOI SIWON's drama '술꾼도시여자들', amplifies...]]></title>
             <link>https://now.smtown.com/news/detail/2379728</link>
             <guid>https://now.smtown.com/news/detail/2379728</guid>
             <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI SIWON (SM) is planning to heat up the atmo...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379727</link>
@@ -216,30 +239,6 @@ NCT 127의 소무의도 생...]]></content:encoded>
 
 유튜브 오리지널 아날로그 트립 NCT 12...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/-LOr8PXw5y4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #6｜'Bring The Noize' Reco...]]></title>
-            <link>https://www.youtube.com/watch?v=ZQhljlWrfM8</link>
-            <guid>https://www.youtube.com/watch?v=ZQhljlWrfM8</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZQhljlWrfM8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT is back! NCT The 3rd Album ‘Univers...]]></title>
-            <link>https://now.smtown.com/news/detail/2379663</link>
-            <guid>https://now.smtown.com/news/detail/2379663</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) reunited with their 3rd album.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ep 3. '소무의녀'의 한을 풀어주오! | 아날로그 트립 (Analo...]]></title>
-            <link>https://www.youtube.com/watch?v=1K52x33YbDk</link>
-            <guid>https://www.youtube.com/watch?v=1K52x33YbDk</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 획득한 첫 번째 보물과 찢어진 선장의 일기장!
-일기장 속 메시지를 따라 ‘소무...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1K52x33YbDk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

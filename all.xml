@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5621</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5621</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
+            <title><![CDATA[“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5628</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5628</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619462ced4fd2.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f8cd035a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 스케줄 포스터 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5627</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5627</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">엑소 카이, 새 미니앨범 ‘Peaches’ 스케줄 포스터 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f84eea09c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 쿤, 정우, 샤오쥔, 제노, 천러 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5626</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5626</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속) 멤버 쿤, 정우, 샤오쥔, 제노, 천러의 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f7f2603e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5620</link>
             <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
             <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!</span>]]></content:encoded>
+            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 멤버 태일, 태용, 도영, 재민, 양양, 지성의 티저 이미지를 공개해 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신화 ‘Only One’ 리마스터 뮤직비디오 18일 오전 10시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5618</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5618</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Only One’(온리 원) 리마스터 뮤직비디오가 오는 18일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619460a5cf41c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5615</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
+            <pubDate>Mon, 15 Nov 2021 04:53:54 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 12월 한국 단독 콘서트를 시작으로 두 번째 월드 투어에 나선다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5608</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5608</guid>
+            <pubDate>Thu, 11 Nov 2021 02:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 1년 만에 솔로 가수로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7e0b8b35a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5621</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5621</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’ 차트에 8주 연속 진입했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619462ced4fd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“Black Mamba부터 Savage까지” 에스파의 365일 성장史 (SMTOWN ─ Musicians News)]]></title>
@@ -423,54 +471,6 @@
             <pubDate>Thu, 11 Nov 2021 02:53:02 GMT</pubDate>
             <content:encoded><![CDATA[뮤지션 솔희(SOHLHEE, All I Know Music(AIKM) 소속)의 첫 번째 미니앨범 ‘사랑하면 닳는 것들’이 11일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d88c6d22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127-NCT DREAM, 나란히 음반 판매량 300만장 돌파 ‘겹경사’ (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5603</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5603</guid>
-            <pubDate>Mon, 08 Nov 2021 03:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127)과 NCT DREAM(엔시티 드림, 이상 에스엠엔터테인먼트 소속)이 나란히 음반 판매량 300만장을 돌파하며 2021년 가요계를 사로잡았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618897302db02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신화 ‘Only One’ 리마스터 뮤직비디오 18일 오전 10시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5618</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5618</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Only One’(온리 원) 리마스터 뮤직비디오가 오는 18일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619460a5cf41c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5615</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
-            <pubDate>Mon, 15 Nov 2021 04:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 12월 한국 단독 콘서트를 시작으로 두 번째 월드 투어에 나선다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 1년 만에 솔로 컴백! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5608</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5608</guid>
-            <pubDate>Thu, 11 Nov 2021 02:53:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 1년 만에 솔로 가수로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7e0b8b35a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.E.S. 히트곡 ‘Dreams Come True’ 리마스터 뮤직비디오 11일 오전 10시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5605</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5605</guid>
-            <pubDate>Wed, 10 Nov 2021 06:51:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 걸그룹’ S.E.S.의 히트곡 ‘Dreams Come True’(드림스 컴 트루) 리마스터 뮤직비디오가 오는 11일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618b5ef6832d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’ 뮤직비디오 매주 목요일 순차 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5602</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5602</guid>
-            <pubDate>Mon, 08 Nov 2021 03:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 ‘리마스터링 프로젝트’를 통해 재탄생된 뮤직비디오를 매주 목요일 순차 공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618896c0a454a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호, 넷플릭스 시리즈 ‘더 패뷸러스’ 주연 ‘지우민’ 역 캐스팅 확정! ‘기대감 200%’ 상승 (SMTOWN ─ Actors News)]]></title>
@@ -571,16 +571,38 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618894e56b740.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379729</link>
-            <guid>https://now.smtown.com/news/detail/2379729</guid>
-            <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+            <title><![CDATA[“K-pop superstar breaking chart records... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379732</link>
+            <guid>https://now.smtown.com/news/detail/2379732</guid>
+            <pubDate>Thu, 18 Nov 2021 07:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) once again fascinated viewers acro...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379731</link>
+            <guid>https://now.smtown.com/news/detail/2379731</guid>
+            <pubDate>Thu, 18 Nov 2021 07:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT KUN, JUNGWOO, XIAOJUN, JENO, CHENLE... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379730</link>
+            <guid>https://now.smtown.com/news/detail/2379730</guid>
+            <pubDate>Thu, 18 Nov 2021 07:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[Teaser images of NCT(SM) members KUN, JUNGWOO, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI MINHO has been cast as the lead ro... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379729</link>
+            <guid>https://now.smtown.com/news/detail/2379729</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI MINHO(SHINee MINHO, SM)has been cast of th...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI SIWON's drama '술꾼도시여자들', amplifies... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379728</link>
             <guid>https://now.smtown.com/news/detail/2379728</guid>
             <pubDate>Thu, 18 Nov 2021 06:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI SIWON (SM) is planning to heat up the atmo...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -783,30 +805,6 @@ NCT 127의 소무의도 생...]]></content:encoded>
 
 유튜브 오리지널 아날로그 트립 NCT 12...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/-LOr8PXw5y4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #6｜'Bring The Noize' Reco... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ZQhljlWrfM8</link>
-            <guid>https://www.youtube.com/watch?v=ZQhljlWrfM8</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZQhljlWrfM8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT is back! NCT The 3rd Album ‘Univers... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379663</link>
-            <guid>https://now.smtown.com/news/detail/2379663</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) reunited with their 3rd album.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ep 3. '소무의녀'의 한을 풀어주오! | 아날로그 트립 (Analo... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=1K52x33YbDk</link>
-            <guid>https://www.youtube.com/watch?v=1K52x33YbDk</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 획득한 첫 번째 보물과 찢어진 선장의 일기장!
-일기장 속 메시지를 따라 ‘소무...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1K52x33YbDk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 

@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5621</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5621</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
+            <title><![CDATA[“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5628</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5628</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 32위로 역주행! 8주 연속 차트인! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619462ced4fd2.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f8cd035a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5620</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
+            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 스케줄 포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5627</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5627</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">엑소 카이, 새 미니앨범 ‘Peaches’ 스케줄 포스터 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f84eea09c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
