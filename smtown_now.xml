@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=HxyudX6qpcc</link>
+            <guid>https://www.youtube.com/watch?v=HxyudX6qpcc</guid>
+            <pubDate>Thu, 18 Nov 2021 09:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HxyudX6qpcc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“K-pop superstar breaking chart records...]]></title>
             <link>https://now.smtown.com/news/detail/2379732</link>
@@ -235,16 +245,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[아날로그 트립 NCT 127: Secret Journal
 NCT 127의 소무의도 생...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/x6ReT5vx_dw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보너스 영상 #1 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
-            <link>https://www.youtube.com/watch?v=-LOr8PXw5y4</link>
-            <guid>https://www.youtube.com/watch?v=-LOr8PXw5y4</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들의 뮤직비디오 촬영 현장 비하인드!
-
-유튜브 오리지널 아날로그 트립 NCT 12...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-LOr8PXw5y4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
