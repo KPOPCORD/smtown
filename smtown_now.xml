@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 13:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 14:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비주얼계의 창과 방패 #황인엽 #조우리 광고 비하인드 #키동캠 | 황인...]]></title>
+            <link>https://www.youtube.com/watch?v=5BI--YHSauE</link>
+            <guid>https://www.youtube.com/watch?v=5BI--YHSauE</guid>
+            <pubDate>Thu, 18 Nov 2021 14:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[Visual spear and shield #HwangInYoup #JoWooRI B...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5BI--YHSauE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
             <link>https://www.youtube.com/watch?v=HxyudX6qpcc</link>
@@ -236,15 +244,6 @@ NCT O...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yFyVxspD9XU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보너스 영상 #2 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
-            <link>https://www.youtube.com/watch?v=x6ReT5vx_dw</link>
-            <guid>https://www.youtube.com/watch?v=x6ReT5vx_dw</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[아날로그 트립 NCT 127: Secret Journal
-NCT 127의 소무의도 생...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/x6ReT5vx_dw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
