@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler]]></title>
+            <link>https://tv.naver.com/v/23606703</link>
+            <guid>https://tv.naver.com/v/23606703</guid>
+            <pubDate>Thu, 18 Nov 2021 15:49:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_33/f5N8k_1637244251831dTVAn_JPEG/1637244238458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV]]></title>
             <link>https://tv.naver.com/v/23421855</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Oct 2021 15:49:24 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211011_50/dsFPb_1633962016440OqnaI_JPEG/1633962000411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1]]></title>
-            <link>https://tv.naver.com/v/22903203</link>
-            <guid>https://tv.naver.com/v/22903203</guid>
-            <pubDate>Mon, 11 Oct 2021 15:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_262/r0f9Q_1633956949979cN5Qq_JPEG/1633956089132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

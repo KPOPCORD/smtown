@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26506538</link>
+            <guid>https://vlive.tv/post/0-26506538</guid>
+            <pubDate>Thu, 18 Nov 2021 15:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_174/1637244320709Kw3bW_JPEG/1637244238458.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26379091</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26273198</guid>
             <pubDate>Thu, 18 Nov 2021 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[11.2.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211101_215/1635756687427Aio7j_JPEG/1635755594612.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Dance Practice (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26049473</guid>
             <pubDate>Thu, 18 Nov 2021 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[10.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #2 (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26037525</link>
-            <guid>https://vlive.tv/post/1-26037525</guid>
-            <pubDate>Thu, 18 Nov 2021 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[10.17.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이수만 프로듀서, “한국이 메타버스, NFT 콘텐츠의 선두주자 될 것” (SMTOWN ─ News)]]></title>
@@ -1219,6 +1219,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23606703</link>
+            <guid>https://tv.naver.com/v/23606703</guid>
+            <pubDate>Thu, 18 Nov 2021 15:49:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_33/f5N8k_1637244251831dTVAn_JPEG/1637244238458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23421855</link>
             <guid>https://tv.naver.com/v/23421855</guid>
@@ -1449,14 +1457,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Mon, 11 Oct 2021 15:49:24 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211011_50/dsFPb_1633962016440OqnaI_JPEG/1633962000411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' The Performance Stage #1 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22903203</link>
-            <guid>https://tv.naver.com/v/22903203</guid>
-            <pubDate>Mon, 11 Oct 2021 15:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_262/r0f9Q_1633956949979cN5Qq_JPEG/1633956089132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
