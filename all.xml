@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 23:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618369271357d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SHINHWA 신화 'Only One' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=W5qGztrdG_s</link>
+            <guid>https://www.youtube.com/watch?v=W5qGztrdG_s</guid>
+            <pubDate>Thu, 18 Nov 2021 01:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2000, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/W5qGztrdG_s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127's 3rd album 'Sticker' runs back... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379706</link>
             <guid>https://now.smtown.com/news/detail/2379706</guid>
@@ -808,14 +818,6 @@ ht...]]></content:encoded>
 #JENO #JAEMIN
 #JUSTDOIT #제대로재밌...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/F6wkvKf4v5k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=vcnAUMhtGE0</link>
-            <guid>https://www.youtube.com/watch?v=vcnAUMhtGE0</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[SOHLHEE's the 1st EP "When you love someone (Wo...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vcnAUMhtGE0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
