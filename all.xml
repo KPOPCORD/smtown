@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 09:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 10:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26506538</link>
             <guid>https://vlive.tv/post/0-26506538</guid>
             <pubDate>Thu, 18 Nov 2021 17:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_174/1637244320709Kw3bW_JPEG/1637244238458.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618895b889c29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뜬금 LIVE] 윤종신 - Billy (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=X1LjnUMm1MY</link>
+            <guid>https://www.youtube.com/watch?v=X1LjnUMm1MY</guid>
+            <pubDate>Fri, 19 Nov 2021 10:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
+https://www.youtube.com/playlist?...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/X1LjnUMm1MY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT JAEHYUN-HENDERY-RENJUN-HAECHAN-SHOT... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379747</link>
             <guid>https://now.smtown.com/news/detail/2379747</guid>
@@ -797,13 +806,6 @@ NCT O...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379668</guid>
             <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) will start their second world tour...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ko A Sung, intense transformation in ea... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379667</link>
-            <guid>https://now.smtown.com/news/detail/2379667</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Ko A Sung shows off the power of an actin...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
