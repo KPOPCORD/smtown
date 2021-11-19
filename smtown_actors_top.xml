@@ -4,18 +4,9 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 08:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 09:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[최시원, 주연작 ‘술꾼도시여자들’ OST Part5 ‘Nobody but you’ 가창 및 작곡 직접 참여!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5630</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5630</guid>
-            <pubDate>Fri, 19 Nov 2021 04:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최시원, 주연작 ‘술꾼도시여자들’ OST Part5 ‘Nobody but you’ 가창 및 작곡 직접 참여!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619723594f250.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이학주, 대세 배우의 열일 행보 ing]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5629</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">이학주, 대세 배우의 열일 행보 ing</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최민호, 넷플릭스 시리즈 ‘더 패뷸러스’ 주연 ‘지우민’ 역 캐스팅 확정! ‘기대감 200%’ 상승]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5625</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5625</guid>
+            <pubDate>Fri, 19 Nov 2021 09:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">최민호, 넷플릭스 시리즈 ‘더 패뷸러스’ 주연 ‘지우민’ 역 캐스팅 확정! ‘기대감 200%’ 상승</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f5fda5d2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
