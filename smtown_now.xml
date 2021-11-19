@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 03:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 04:55:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379747</link>
+            <guid>https://now.smtown.com/news/detail/2379747</guid>
+            <pubDate>Fri, 19 Nov 2021 04:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379746</link>
+            <guid>https://now.smtown.com/news/detail/2379746</guid>
+            <pubDate>Fri, 19 Nov 2021 04:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379745</link>
+            <guid>https://now.smtown.com/news/detail/2379745</guid>
+            <pubDate>Fri, 19 Nov 2021 04:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379744</link>
+            <guid>https://now.smtown.com/news/detail/2379744</guid>
+            <pubDate>Fri, 19 Nov 2021 04:54:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler]]></title>
             <link>https://www.youtube.com/watch?v=xrF0mEXwY_I</link>
@@ -213,35 +233,6 @@ NCT O...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379667</guid>
             <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
             <content:encoded><![CDATA[Actor Ko A Sung shows off the power of an actin...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING original ‘술꾼도시여자들’ Han Seon Hwa,]]></title>
-            <link>https://now.smtown.com/news/detail/2379666</link>
-            <guid>https://now.smtown.com/news/detail/2379666</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scenes cuts of Han Seon Hwa’s passio...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lee Taevin, web drama 'Delivery' comic-...]]></title>
-            <link>https://now.smtown.com/news/detail/2379665</link>
-            <guid>https://now.smtown.com/news/detail/2379665</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA['펜트하우스' Lee Taevin took on a comic action role ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dancer AIKI appointed as a goodwill amb...]]></title>
-            <link>https://now.smtown.com/news/detail/2379664</link>
-            <guid>https://now.smtown.com/news/detail/2379664</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[Dancer AIKI was appointed as the ambassador for...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['구경이' 산타로 HOT한 배우 #백성철 마리끌레르 화보 현장 #키동캠...]]></title>
-            <link>https://www.youtube.com/watch?v=iKGw7OrzT-w</link>
-            <guid>https://www.youtube.com/watch?v=iKGw7OrzT-w</guid>
-            <pubDate>Sun, 14 Nov 2021 22:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[Behind the scenes of #InspectorKoo #Santa #Baek...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/iKGw7OrzT-w/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
