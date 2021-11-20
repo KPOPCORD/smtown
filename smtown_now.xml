@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 09:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 10:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] 🏠⛺WINWIN’s Very First Home ...]]></title>
+            <link>https://www.youtube.com/watch?v=ylsyhbiZE1U</link>
+            <guid>https://www.youtube.com/watch?v=ylsyhbiZE1U</guid>
+            <pubDate>Sat, 20 Nov 2021 10:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ylsyhbiZE1U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뜬금 LIVE] 윤종신 - Billy]]></title>
             <link>https://www.youtube.com/watch?v=X1LjnUMm1MY</link>
@@ -236,13 +246,6 @@ NCT O...]]></content:encoded>
             <content:encoded><![CDATA[(이 조합 훌륭해👏) SM C&amp;C 스튜디오부문과 FLO가 만났다! 📢
 그 시작은?...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FNq89TTokas/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, reaching out to the world!]]></title>
-            <link>https://now.smtown.com/news/detail/2379668</link>
-            <guid>https://now.smtown.com/news/detail/2379668</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) will start their second world tour...]]></content:encoded>
         </item>
     </channel>
 </rss>
