@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-11-20T15:48:15.758Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 20 Nov 2021 17:04:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저 좀 잘하죠? 말이 안 돼…✨ 도예 체험🏺 | 천지의 이것저것 시즌...]]></title>
+            <link>https://www.youtube.com/watch?v=GyhmBu9eB34</link>
+            <guid>https://www.youtube.com/watch?v=GyhmBu9eB34</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
+#천지​ #이것저것​ #ThisA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GyhmBu9eB34/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-log] 🏠⛺WINWIN’s Very First Home ...]]></title>
+            <link>https://www.youtube.com/watch?v=ylsyhbiZE1U</link>
+            <guid>https://www.youtube.com/watch?v=ylsyhbiZE1U</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ylsyhbiZE1U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뜬금 LIVE] 윤종신 - Billy]]></title>
+            <link>https://www.youtube.com/watch?v=X1LjnUMm1MY</link>
+            <guid>https://www.youtube.com/watch?v=X1LjnUMm1MY</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
+https://www.youtube.com/playlist?...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/X1LjnUMm1MY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT JAEHYUN-HENDERY-RENJUN-HAECHAN-SHOT...]]></title>
+            <link>https://now.smtown.com/news/detail/2379747</link>
+            <guid>https://now.smtown.com/news/detail/2379747</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[The teaser images of JAEHYUN, HENDERY, RENJUN, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EXO KAI, the new mini-album title song ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379746</link>
+            <guid>https://now.smtown.com/news/detail/2379746</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) presents a sweet charm with the ne...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI SIWON participates in the OST of ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2379745</link>
+            <guid>https://now.smtown.com/news/detail/2379745</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA['술꾼도시여자들' CHOI SIWON (SM) participates in the O...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lee Hak Joo, the hottest actor in action]]></title>
+            <link>https://now.smtown.com/news/detail/2379744</link>
+            <guid>https://now.smtown.com/news/detail/2379744</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Lee Hak Joo has solidified his position a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler]]></title>
+            <link>https://www.youtube.com/watch?v=xrF0mEXwY_I</link>
+            <guid>https://www.youtube.com/watch?v=xrF0mEXwY_I</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xrF0mEXwY_I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비주얼계의 창과 방패 #황인엽 #조우리 광고 비하인드 #키동캠 | 황인...]]></title>
+            <link>https://www.youtube.com/watch?v=5BI--YHSauE</link>
+            <guid>https://www.youtube.com/watch?v=5BI--YHSauE</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Visual spear and shield #HwangInYoup #JoWooRI B...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5BI--YHSauE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=HxyudX6qpcc</link>
+            <guid>https://www.youtube.com/watch?v=HxyudX6qpcc</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HxyudX6qpcc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“K-pop superstar breaking chart records...]]></title>
+            <link>https://now.smtown.com/news/detail/2379732</link>
+            <guid>https://now.smtown.com/news/detail/2379732</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) once again fascinated viewers acro...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EXO KAI, new mini album 'Peaches' sched...]]></title>
+            <link>https://now.smtown.com/news/detail/2379731</link>
+            <guid>https://now.smtown.com/news/detail/2379731</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA['World-class performer' EXO KAI(SM)'s new mini ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT KUN, JUNGWOO, XIAOJUN, JENO, CHENLE...]]></title>
+            <link>https://now.smtown.com/news/detail/2379730</link>
+            <guid>https://now.smtown.com/news/detail/2379730</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Teaser images of NCT(SM) members KUN, JUNGWOO, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI MINHO has been cast as the lead ro...]]></title>
+            <link>https://now.smtown.com/news/detail/2379729</link>
+            <guid>https://now.smtown.com/news/detail/2379729</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI MINHO(SHINee MINHO, SM)has been cast of th...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI SIWON's drama '술꾼도시여자들', amplifies...]]></title>
+            <link>https://now.smtown.com/news/detail/2379728</link>
+            <guid>https://now.smtown.com/news/detail/2379728</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI SIWON (SM) is planning to heat up the atmo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Top model Jang Yoon Ju selected as the ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379727</link>
+            <guid>https://now.smtown.com/news/detail/2379727</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Jang Yoon Ju, an organic feminine hygiene produ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10 ESteem top models, MISS GEE COLLECTI...]]></title>
+            <link>https://now.smtown.com/news/detail/2379726</link>
+            <guid>https://now.smtown.com/news/detail/2379726</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[10 top models from ESteem shined on the runway ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINHWA 신화 'Only One' MV]]></title>
+            <link>https://www.youtube.com/watch?v=W5qGztrdG_s</link>
+            <guid>https://www.youtube.com/watch?v=W5qGztrdG_s</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2000, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/W5qGztrdG_s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' runs back...]]></title>
+            <link>https://now.smtown.com/news/detail/2379706</link>
+            <guid>https://now.smtown.com/news/detail/2379706</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) entered the US Billboard 200 chart...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Comeback' NCT TAEIL, TAEYONG, DOYOUNG,...]]></title>
+            <link>https://now.smtown.com/news/detail/2379705</link>
+            <guid>https://now.smtown.com/news/detail/2379705</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM), who is making a comeback with their 3...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“From Black Mamba to Savage” 365 days o...]]></title>
+            <link>https://now.smtown.com/news/detail/2379704</link>
+            <guid>https://now.smtown.com/news/detail/2379704</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[On November 17 last year, aespa, who appeared i...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The remastered MV of SHINHWA's 'Only On...]]></title>
+            <link>https://now.smtown.com/news/detail/2379703</link>
+            <guid>https://now.smtown.com/news/detail/2379703</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered music video for SHINHWA's hit so...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Baek Sung Chul, the irreplaceable prese...]]></title>
+            <link>https://now.smtown.com/news/detail/2379702</link>
+            <guid>https://now.smtown.com/news/detail/2379702</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Baek Sung Chul is attracting attention fo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그냥 해!! 이거 승부가 뭐가 그렇게 중요하냐고오!!🔥 | HOTEL...]]></title>
+            <link>https://www.youtube.com/watch?v=vHLicdZuk00</link>
+            <guid>https://www.youtube.com/watch?v=vHLicdZuk00</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[#HOTEL_THE_DREAM
+#호텔더드림
+#NCTDREAM #NCT
+
+NCT DRE...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vHLicdZuk00/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO (Engli...]]></title>
+            <link>https://www.youtube.com/watch?v=5aA9OMB47oY</link>
+            <guid>https://www.youtube.com/watch?v=5aA9OMB47oY</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5aA9OMB47oY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-log] ⛰Climbing is just a piece of...]]></title>
+            <link>https://www.youtube.com/watch?v=MGzSveDrd6U</link>
+            <guid>https://www.youtube.com/watch?v=MGzSveDrd6U</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/MGzSveDrd6U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 to appear on the popular Americ...]]></title>
+            <link>https://now.smtown.com/news/detail/2379683</link>
+            <guid>https://now.smtown.com/news/detail/2379683</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) will appear on the popular America...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🚨WARNING🚨 슈퍼주니어 영상팀 (강제) 하드 털이.Zip | ...]]></title>
+            <link>https://www.youtube.com/watch?v=p6_gBjHmPp0</link>
+            <guid>https://www.youtube.com/watch?v=p6_gBjHmPp0</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/p6_gBjHmPp0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[N’-171] 시즈니가 좋아할거라 믿습니다💚 | WWD KOREA ...]]></title>
+            <link>https://www.youtube.com/watch?v=RPkHmG37g6s</link>
+            <guid>https://www.youtube.com/watch?v=RPkHmG37g6s</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[#JAEMIN #NCTDREAM #WWDKOREA
+#NCT #Behind
+
+NCT O...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RPkHmG37g6s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 손태진 SONTAEJIN - 깊어지네 Lyric Video]]></title>
+            <link>https://www.youtube.com/watch?v=M0NuU62m7Lw</link>
+            <guid>https://www.youtube.com/watch?v=M0NuU62m7Lw</guid>
+            <pubDate>Sat, 20 Nov 2021 17:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #EP #ThePresent_AtTheTim...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/M0NuU62m7Lw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
