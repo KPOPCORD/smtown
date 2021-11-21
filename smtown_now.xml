@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 15:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 17:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler]]></title>
+            <link>https://www.youtube.com/watch?v=k9CyJBAiX9o</link>
+            <guid>https://www.youtube.com/watch?v=k9CyJBAiX9o</guid>
+            <pubDate>Sun, 21 Nov 2021 17:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/k9CyJBAiX9o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 0 - The 7th ...]]></title>
+            <link>https://www.youtube.com/watch?v=Err9YqUiF3w</link>
+            <guid>https://www.youtube.com/watch?v=Err9YqUiF3w</guid>
+            <pubDate>Sun, 21 Nov 2021 17:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Err9YqUiF3w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저 좀 잘하죠? 말이 안 돼…✨ 도예 체험🏺 | 천지의 이것저것 시즌...]]></title>
             <link>https://www.youtube.com/watch?v=GyhmBu9eB34</link>
@@ -227,25 +243,6 @@ ht...]]></content:encoded>
             <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/p6_gBjHmPp0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N’-171] 시즈니가 좋아할거라 믿습니다💚 | WWD KOREA ...]]></title>
-            <link>https://www.youtube.com/watch?v=RPkHmG37g6s</link>
-            <guid>https://www.youtube.com/watch?v=RPkHmG37g6s</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[#JAEMIN #NCTDREAM #WWDKOREA
-#NCT #Behind
-
-NCT O...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/RPkHmG37g6s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 손태진 SONTAEJIN - 깊어지네 Lyric Video]]></title>
-            <link>https://www.youtube.com/watch?v=M0NuU62m7Lw</link>
-            <guid>https://www.youtube.com/watch?v=M0NuU62m7Lw</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #EP #ThePresent_AtTheTim...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/M0NuU62m7Lw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
