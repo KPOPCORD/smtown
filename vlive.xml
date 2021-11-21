@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler]]></title>
+            <link>https://vlive.tv/post/1-26555328</link>
+            <guid>https://vlive.tv/post/1-26555328</guid>
+            <pubDate>Sun, 21 Nov 2021 15:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211121_21/1637506796187pyk8X_JPEG/1637492778951.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 0 - The 7th Sense]]></title>
+            <link>https://vlive.tv/post/1-26553199</link>
+            <guid>https://vlive.tv/post/1-26553199</guid>
+            <pubDate>Sun, 21 Nov 2021 15:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211121_58/16375012807965SjiN_JPEG/1637499896229.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler]]></title>
             <link>https://vlive.tv/post/0-26506538</link>
@@ -21,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26379091</guid>
             <pubDate>Sun, 21 Nov 2021 14:40:23 GMT</pubDate>
             <content:encoded><![CDATA[11.11.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_32/1636598021913JMU4i_JPEG/1636425632802.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV Teaser]]></title>
@@ -29,7 +44,6 @@
             <guid>https://vlive.tv/post/1-26378938</guid>
             <pubDate>Sun, 21 Nov 2021 14:40:23 GMT</pubDate>
             <content:encoded><![CDATA[11.10.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_176/16365980074283RlG7_JPEG/1636424374470.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[⏳-0] SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV]]></title>
@@ -135,20 +149,6 @@
             <guid>https://vlive.tv/post/0-26061083</guid>
             <pubDate>Sun, 21 Nov 2021 14:40:23 GMT</pubDate>
             <content:encoded><![CDATA[10.19.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-4] EUNHYUK 은혁 'be' MV Teaser #1]]></title>
-            <link>https://vlive.tv/post/1-26052997</link>
-            <guid>https://vlive.tv/post/1-26052997</guid>
-            <pubDate>Sun, 21 Nov 2021 14:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Raiden 레이든 "Love Right Back" Highlight Medley]]></title>
-            <link>https://vlive.tv/post/1-26049473</link>
-            <guid>https://vlive.tv/post/1-26049473</guid>
-            <pubDate>Sun, 21 Nov 2021 14:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.18.]]></content:encoded>
         </item>
     </channel>
 </rss>
