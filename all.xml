@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 06:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26555328</link>
             <guid>https://vlive.tv/post/1-26555328</guid>
             <pubDate>Sun, 21 Nov 2021 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211121_21/1637506796187pyk8X_JPEG/1637492778951.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26553199</link>
             <guid>https://vlive.tv/post/1-26553199</guid>
             <pubDate>Sun, 21 Nov 2021 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211121_58/16375012807965SjiN_JPEG/1637499896229.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT's 3rd album will be released on Dec... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379782</link>
             <guid>https://now.smtown.com/news/detail/2379782</guid>
             <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM), who is making a comeback with their 3...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EXO KAI to hold his first solo ‘Beyond ... (SMTOWN ─ NOW)]]></title>
@@ -584,10 +585,11 @@
             <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) to hold hi...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON, ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379780</link>
             <guid>https://now.smtown.com/news/detail/2379780</guid>
             <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
+            <content:encoded><![CDATA['술꾼도시여자들' CHOI SIWON (SM) ignited a romance wit...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
