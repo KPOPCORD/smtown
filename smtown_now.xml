@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:43:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,9 +13,11 @@
             <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[EXO KAI to hold his first solo ‘Beyond ...]]></title>
             <link>https://now.smtown.com/news/detail/2379781</link>
             <guid>https://now.smtown.com/news/detail/2379781</guid>
             <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) to hold hi...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379780</link>
