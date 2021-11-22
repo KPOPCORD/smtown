@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26555328</link>
             <guid>https://vlive.tv/post/1-26555328</guid>
             <pubDate>Mon, 22 Nov 2021 09:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.21.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211121_21/1637506796187pyk8X_JPEG/1637492778951.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26553199</link>
             <guid>https://vlive.tv/post/1-26553199</guid>
             <pubDate>Mon, 22 Nov 2021 09:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.21.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211121_58/16375012807965SjiN_JPEG/1637499896229.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,24 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['Savage' Compilation Highlight #Shorts (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=wD1feyObDZ4</link>
+            <guid>https://www.youtube.com/watch?v=wD1feyObDZ4</guid>
+            <pubDate>Mon, 22 Nov 2021 15:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/wD1feyObDZ4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' Compilation (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=vXvznSRWXzQ</link>
+            <guid>https://www.youtube.com/watch?v=vXvznSRWXzQ</guid>
+            <pubDate>Mon, 22 Nov 2021 15:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's 1st mini album "Savage" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vXvznSRWXzQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO (Engli... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=6czb6iWmi3g</link>
             <guid>https://www.youtube.com/watch?v=6czb6iWmi3g</guid>
@@ -783,20 +801,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379706</guid>
             <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) entered the US Billboard 200 chart...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Comeback' NCT TAEIL, TAEYONG, DOYOUNG,... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379705</link>
-            <guid>https://now.smtown.com/news/detail/2379705</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM), who is making a comeback with their 3...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“From Black Mamba to Savage” 365 days o... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379704</link>
-            <guid>https://now.smtown.com/news/detail/2379704</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[On November 17 last year, aespa, who appeared i...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
