@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 03:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 04:56:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26555328</link>
             <guid>https://vlive.tv/post/1-26555328</guid>
             <pubDate>Sun, 21 Nov 2021 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211121_21/1637506796187pyk8X_JPEG/1637492778951.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26553199</link>
             <guid>https://vlive.tv/post/1-26553199</guid>
             <pubDate>Sun, 21 Nov 2021 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211121_58/16375012807965SjiN_JPEG/1637499896229.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 재현-헨드리-런쥔-해찬-쇼타로 티저 이미지 공개 화제! 유니크한 매력 폭발! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5632</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5632</guid>
-            <pubDate>Fri, 19 Nov 2021 04:53:30 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5638</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 재현-헨드리-런쥔-해찬-쇼타로 티저 이미지 공개 화제! 유니크한 매력 폭발!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6197242aade04.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 12월 14일 오후 6시 음원 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 카이, 첫 솔로 콘서트 12월 12일 ‘Beyond LIVE’ 개최! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5637</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5637</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">엑소 카이, 첫 솔로 콘서트 12월 12일 ‘Beyond LIVE’ 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b178f79a10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘12월 14일 컴백’ NCT 쟈니-유타-텐-마크-성찬 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5634</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5634</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 멤버별 티저 이미지가 연일 화제를 모으고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b15fc343b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5631</link>
             <guid>https://www.smtown.com/artist/newsDetail/5631</guid>
             <pubDate>Fri, 19 Nov 2021 04:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사!</span>]]></content:encoded>
+            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력을 선사한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619723c89a6fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5628</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5628</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 또 한 번 미국 전역 시청자들을 매료시켰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f8cd035a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 쿤, 정우, 샤오쥔, 제노, 천러 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5626</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5626</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속) 멤버 쿤, 정우, 샤오쥔, 제노, 천러의 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f7f2603e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5620</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 멤버 태일, 태용, 도영, 재민, 양양, 지성의 티저 이미지를 공개해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 재현-헨드리-런쥔-해찬-쇼타로 티저 이미지 공개 화제! 유니크한 매력 폭발! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5632</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5632</guid>
+            <pubDate>Fri, 19 Nov 2021 04:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집 ‘Universe’(유니버스)로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)의 재현, 헨드리, 런쥔, 해찬, 쇼타로의 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6197242aade04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최시원, 주연작 ‘술꾼도시여자들’ OST Part5 ‘Nobody but you’ 가창 및 작곡 직접 참여! (SMTOWN ─ Musicians News)]]></title>
@@ -425,70 +473,70 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194616e219fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 18일 출연! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5616</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5616</guid>
-            <pubDate>Tue, 16 Nov 2021 03:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 미국 인기 토크쇼 ‘켈리 클락슨 쇼 (The Kelly Clarkson Show)’에 첫 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619328abb9df6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5628</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5628</guid>
-            <pubDate>Thu, 18 Nov 2021 07:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 또 한 번 미국 전역 시청자들을 매료시켰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f8cd035a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 쿤, 정우, 샤오쥔, 제노, 천러 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5626</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5626</guid>
-            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속) 멤버 쿤, 정우, 샤오쥔, 제노, 천러의 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f7f2603e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5620</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 멤버 태일, 태용, 도영, 재민, 양양, 지성의 티저 이미지를 공개해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신화 ‘Only One’ 리마스터 뮤직비디오 18일 오전 10시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5618</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5618</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Only One’(온리 원) 리마스터 뮤직비디오가 오는 18일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619460a5cf41c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 한국 찍고 세계로 뻗어나간다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5615</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5615</guid>
-            <pubDate>Mon, 15 Nov 2021 04:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 오는 12월 한국 단독 콘서트를 시작으로 두 번째 월드 투어에 나선다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d867e2134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이학주, 대세 배우의 열일 행보 ing (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5629</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5629</guid>
-            <pubDate>Fri, 19 Nov 2021 04:53:55 GMT</pubDate>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5636</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5636</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">이학주, 대세 배우의 열일 행보 ing</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16f402224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한선화, 브라운관 넘어 스크린-OTT까지 섭렵! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5635</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5635</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">한선화, 브라운관 넘어 스크린-OTT까지 섭렵!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈, 20일 4회 방송 첫 등장! ‘기대’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5633</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5633</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 연기자로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b150d8ee9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최민호, 넷플릭스 시리즈 ‘더 패뷸러스’ 주연 ‘지우민’ 역 캐스팅 확정! ‘기대감 200%’ 상승 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5625</link>
             <guid>https://www.smtown.com/artist/newsDetail/5625</guid>
             <pubDate>Thu, 18 Nov 2021 06:49:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최민호, 넷플릭스 시리즈 ‘더 패뷸러스’ 주연 ‘지우민’ 역 캐스팅 확정! ‘기대감 200%’ 상승</span>]]></content:encoded>
+            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 글로벌 시청자들의 심장을 뛰게 만들 넷플릭스 시리즈 ‘더 패뷸러스’로 돌아온다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f5fda5d2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백성철, ‘구경이’속 대체불가 존재감 ‘궁금증·관심 폭발’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5617</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5617</guid>
+            <pubDate>Wed, 17 Nov 2021 02:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백성철이 '구경이'에서 남다른 존재감으로 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61946054bfcb7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 한선화, (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5613</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5613</guid>
+            <pubDate>Mon, 15 Nov 2021 03:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘술꾼도시여자들’ 한선화의 열정이 가득 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d703075d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 책임감 돋보이는 촬영장 비하인드 사진 공개! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5609</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5609</guid>
+            <pubDate>Fri, 12 Nov 2021 05:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)의 촬영장 비하인드 사진이 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618df5f43ebbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이학주, 대세 배우의 열일 행보 ing (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5629</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5629</guid>
+            <pubDate>Fri, 19 Nov 2021 04:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이학주가 장르불문한 맹활약으로 2021 대세 배우 입지를 확고히 했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 180도 달라진 깊어진 눈빛에 궁금증 증폭 (SMTOWN ─ Actors News)]]></title>
@@ -523,52 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JTBC ‘구경이’ 신윤섭, 김혜준의 또 다른 희생양 됐다 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5601</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5601</guid>
-            <pubDate>Mon, 08 Nov 2021 03:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신윤섭이 김혜준의 또 다른 희생양이 됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6188961e934ee.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379782</link>
+            <guid>https://now.smtown.com/news/detail/2379782</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[백성철, ‘구경이’속 대체불가 존재감 ‘궁금증·관심 폭발’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5617</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5617</guid>
-            <pubDate>Wed, 17 Nov 2021 02:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[배우 백성철이 '구경이'에서 남다른 존재감으로 주목받고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61946054bfcb7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379781</link>
+            <guid>https://now.smtown.com/news/detail/2379781</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 한선화, (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5613</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5613</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’ 한선화의 열정이 가득 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d703075d9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379780</link>
+            <guid>https://now.smtown.com/news/detail/2379780</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 책임감 돋보이는 촬영장 비하인드 사진 공개! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5609</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5609</guid>
-            <pubDate>Fri, 12 Nov 2021 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)의 촬영장 비하인드 사진이 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618df5f43ebbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강한나, ‘스타트업’+’간동거’+’바이트 씨스터즈’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5604</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5604</guid>
-            <pubDate>Wed, 10 Nov 2021 06:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강한나가 한계 없는 연기 스펙트럼을 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618b5ecd27f6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘구경이’ 백성철, 이영애의 '키링남' 매력으로 여심 무장해제 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5600</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5600</guid>
-            <pubDate>Fri, 19 Nov 2021 09:46:06 GMT</pubDate>
-            <content:encoded><![CDATA['구경이' 백성철에 대한 관심이 높아지고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618895b889c29.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379779</link>
+            <guid>https://now.smtown.com/news/detail/2379779</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler (SMTOWN ─ NOW)]]></title>
@@ -604,6 +628,18 @@
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ylsyhbiZE1U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379778</link>
+            <guid>https://now.smtown.com/news/detail/2379778</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379777</link>
+            <guid>https://now.smtown.com/news/detail/2379777</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[뜬금 LIVE] 윤종신 - Billy (SMTOWN ─ NOW)]]></title>
@@ -754,58 +790,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379703</guid>
             <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
             <content:encoded><![CDATA[The remastered music video for SHINHWA's hit so...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Baek Sung Chul, the irreplaceable prese... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379702</link>
-            <guid>https://now.smtown.com/news/detail/2379702</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Baek Sung Chul is attracting attention fo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그냥 해!! 이거 승부가 뭐가 그렇게 중요하냐고오!!🔥 | HOTEL... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=vHLicdZuk00</link>
-            <guid>https://www.youtube.com/watch?v=vHLicdZuk00</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[#HOTEL_THE_DREAM
-#호텔더드림
-#NCTDREAM #NCT
-
-NCT DRE...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vHLicdZuk00/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO (Engli... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5aA9OMB47oY</link>
-            <guid>https://www.youtube.com/watch?v=5aA9OMB47oY</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5aA9OMB47oY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] ⛰Climbing is just a piece of... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=MGzSveDrd6U</link>
-            <guid>https://www.youtube.com/watch?v=MGzSveDrd6U</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MGzSveDrd6U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 to appear on the popular Americ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379683</link>
-            <guid>https://now.smtown.com/news/detail/2379683</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) will appear on the popular America...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🚨WARNING🚨 슈퍼주니어 영상팀 (강제) 하드 털이.Zip | ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=p6_gBjHmPp0</link>
-            <guid>https://www.youtube.com/watch?v=p6_gBjHmPp0</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/p6_gBjHmPp0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 

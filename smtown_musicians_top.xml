@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 03:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 04:56:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 재현-헨드리-런쥔-해찬-쇼타로 티저 이미지 공개 화제! 유니크한 매력 폭발!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5632</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5632</guid>
-            <pubDate>Fri, 19 Nov 2021 04:53:30 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5638</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 재현-헨드리-런쥔-해찬-쇼타로 티저 이미지 공개 화제! 유니크한 매력 폭발!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6197242aade04.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 12월 14일 오후 6시 음원 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5631</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5631</guid>
-            <pubDate>Fri, 19 Nov 2021 04:53:30 GMT</pubDate>
+            <title><![CDATA[엑소 카이, 첫 솔로 콘서트 12월 12일 ‘Beyond LIVE’ 개최!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5637</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5637</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619723c89a6fc.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">엑소 카이, 첫 솔로 콘서트 12월 12일 ‘Beyond LIVE’ 개최!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b178f79a10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
