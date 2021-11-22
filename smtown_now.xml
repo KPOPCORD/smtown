@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 13:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 13:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO (Engli...]]></title>
+            <link>https://www.youtube.com/watch?v=6czb6iWmi3g</link>
+            <guid>https://www.youtube.com/watch?v=6czb6iWmi3g</guid>
+            <pubDate>Mon, 22 Nov 2021 13:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's 1st Album "COUNTDOWN" is out...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6czb6iWmi3g/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT's 3rd album will be released on Dec...]]></title>
             <link>https://now.smtown.com/news/detail/2379782</link>
@@ -226,13 +234,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379704</guid>
             <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
             <content:encoded><![CDATA[On November 17 last year, aespa, who appeared i...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The remastered MV of SHINHWA's 'Only On...]]></title>
-            <link>https://now.smtown.com/news/detail/2379703</link>
-            <guid>https://now.smtown.com/news/detail/2379703</guid>
-            <pubDate>Sun, 21 Nov 2021 09:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[The remastered music video for SHINHWA's hit so...]]></content:encoded>
         </item>
     </channel>
 </rss>
