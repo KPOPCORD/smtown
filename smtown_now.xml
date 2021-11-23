@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 09:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 10:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
+            <link>https://www.youtube.com/watch?v=luxl8Phy0ig</link>
+            <guid>https://www.youtube.com/watch?v=luxl8Phy0ig</guid>
+            <pubDate>Tue, 23 Nov 2021 10:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/luxl8Phy0ig/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The remastered MV of FLY TO THE SKY's '...]]></title>
             <link>https://now.smtown.com/news/detail/2379801</link>
@@ -228,13 +238,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379728</guid>
             <pubDate>Mon, 22 Nov 2021 23:44:08 GMT</pubDate>
             <content:encoded><![CDATA[CHOI SIWON (SM) is planning to heat up the atmo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Top model Jang Yoon Ju selected as the ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379727</link>
-            <guid>https://now.smtown.com/news/detail/2379727</guid>
-            <pubDate>Mon, 22 Nov 2021 23:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[Jang Yoon Ju, an organic feminine hygiene produ...]]></content:encoded>
         </item>
     </channel>
 </rss>
