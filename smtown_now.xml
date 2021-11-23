@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 03:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 04:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379799</link>
+            <guid>https://now.smtown.com/news/detail/2379799</guid>
+            <pubDate>Tue, 23 Nov 2021 04:56:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Savage' Compilation Highlight #Shorts]]></title>
             <link>https://www.youtube.com/watch?v=wD1feyObDZ4</link>
@@ -231,13 +236,6 @@ ht...]]></content:encoded>
 
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/W5qGztrdG_s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album 'Sticker' runs back...]]></title>
-            <link>https://now.smtown.com/news/detail/2379706</link>
-            <guid>https://now.smtown.com/news/detail/2379706</guid>
-            <pubDate>Mon, 22 Nov 2021 23:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) entered the US Billboard 200 chart...]]></content:encoded>
         </item>
     </channel>
 </rss>
