@@ -4,13 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[The remastered MV of FLY TO THE SKY's '...]]></title>
+            <link>https://now.smtown.com/news/detail/2379801</link>
+            <guid>https://now.smtown.com/news/detail/2379801</guid>
+            <pubDate>Tue, 23 Nov 2021 06:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘Legend R&amp;B Duo’ FLY TO THE SKY's debut song ‘D...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379800</link>
+            <guid>https://now.smtown.com/news/detail/2379800</guid>
+            <pubDate>Tue, 23 Nov 2021 06:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EXO KAI to hold his comeback countdown ...]]></title>
             <link>https://now.smtown.com/news/detail/2379799</link>
             <guid>https://now.smtown.com/news/detail/2379799</guid>
             <pubDate>Tue, 23 Nov 2021 04:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) is doing a live countdown to comme...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['Savage' Compilation Highlight #Shorts]]></title>
@@ -219,23 +233,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379727</guid>
             <pubDate>Mon, 22 Nov 2021 23:44:08 GMT</pubDate>
             <content:encoded><![CDATA[Jang Yoon Ju, an organic feminine hygiene produ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10 ESteem top models, MISS GEE COLLECTI...]]></title>
-            <link>https://now.smtown.com/news/detail/2379726</link>
-            <guid>https://now.smtown.com/news/detail/2379726</guid>
-            <pubDate>Mon, 22 Nov 2021 23:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[10 top models from ESteem shined on the runway ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINHWA 신화 'Only One' MV]]></title>
-            <link>https://www.youtube.com/watch?v=W5qGztrdG_s</link>
-            <guid>https://www.youtube.com/watch?v=W5qGztrdG_s</guid>
-            <pubDate>Mon, 22 Nov 2021 23:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 2000, Remastered in 2021.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/W5qGztrdG_s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

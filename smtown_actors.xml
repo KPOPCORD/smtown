@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한선화, 브라운관 넘어 스크린-OTT까지 섭렵!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5635</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5635</guid>
+            <pubDate>Tue, 23 Nov 2021 06:51:55 GMT</pubDate>
+            <content:encoded><![CDATA[배우 한선화가 스크린과 안방극장을 넘나드는 전천후 활약을 펼치고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이학주, 대세 배우의 열일 행보 ing]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5629</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5629</guid>
+            <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이학주가 장르불문한 맹활약으로 2021 대세 배우 입지를 확고히 했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 180도 달라진 깊어진 눈빛에 궁금증 증폭]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5624</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5624</guid>
+            <pubDate>Fri, 19 Nov 2021 04:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 반전 비주얼로 ‘술꾼도시여자들’의 후반부 분위기를 더욱 뜨겁게 달굴 예정이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f5a179dd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고아성, 매 작품 강렬한 변신 ‘연기 천재’ 위력 과시!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5614</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5614</guid>
+            <pubDate>Thu, 18 Nov 2021 06:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[배우 고아성이 매 작품 강렬한 변신을 선보이며 연기 천재의 위력을 과시하고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d76c871bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태빈, 웹드라마 '딜리버리' 코믹-액션 연기 '시선 강탈']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5612</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5612</guid>
+            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
+            <content:encoded><![CDATA['펜트하우스' 이태빈이 웹드라마 '딜리버리'에서 코믹 액션 연기에 도전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d66405008.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈, 20일 4회 방송 첫 등장! ‘기대’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5633</link>
@@ -46,46 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
             <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)의 촬영장 비하인드 사진이 공개됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618df5f43ebbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이학주, 대세 배우의 열일 행보 ing]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5629</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5629</guid>
-            <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 장르불문한 맹활약으로 2021 대세 배우 입지를 확고히 했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 180도 달라진 깊어진 눈빛에 궁금증 증폭]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5624</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5624</guid>
-            <pubDate>Fri, 19 Nov 2021 04:54:07 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 반전 비주얼로 ‘술꾼도시여자들’의 후반부 분위기를 더욱 뜨겁게 달굴 예정이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f5a179dd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고아성, 매 작품 강렬한 변신 ‘연기 천재’ 위력 과시!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5614</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5614</guid>
-            <pubDate>Thu, 18 Nov 2021 06:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[배우 고아성이 매 작품 강렬한 변신을 선보이며 연기 천재의 위력을 과시하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d76c871bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태빈, 웹드라마 '딜리버리' 코믹-액션 연기 '시선 강탈']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5612</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5612</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
-            <content:encoded><![CDATA['펜트하우스' 이태빈이 웹드라마 '딜리버리'에서 코믹 액션 연기에 도전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d66405008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문주연, SBS ‘지금, 헤어지는 중입니다’ 출연]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5606</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5606</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문주연이 욕망 넘치는 디자이너로 찾아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618c7d4ad0702.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

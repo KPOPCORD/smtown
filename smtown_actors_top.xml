@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조준영, JTBC 드라마 ‘아이돌’ 최정상 보이 그룹 ‘마스’ 레이 역으로 눈도장!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5640</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5640</guid>
+            <pubDate>Tue, 23 Nov 2021 06:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">조준영, JTBC 드라마 ‘아이돌’ 최정상 보이 그룹 ‘마스’ 레이 역으로 눈도장!  </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5636</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16f402224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화, 브라운관 넘어 스크린-OTT까지 섭렵!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5635</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5635</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">한선화, 브라운관 넘어 스크린-OTT까지 섭렵!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

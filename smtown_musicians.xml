@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5638</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
+            <pubDate>Tue, 23 Nov 2021 06:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 더블 타이틀 곡으로 연말 가요계를 화려하게 수놓는다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘12월 14일 컴백’ NCT 쟈니-유타-텐-마크-성찬 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5634</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5634</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 멤버별 티저 이미지가 연일 화제를 모으고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b15fc343b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5631</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5631</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력을 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619723c89a6fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5628</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5628</guid>
+            <pubDate>Fri, 19 Nov 2021 04:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 또 한 번 미국 전역 시청자들을 매료시켰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f8cd035a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 쿤, 정우, 샤오쥔, 제노, 천러 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5626</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5626</guid>
+            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속) 멤버 쿤, 정우, 샤오쥔, 제노, 천러의 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f7f2603e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이, 첫 솔로 콘서트 12월 12일 ‘Beyond LIVE’ 개최!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5637</link>
@@ -46,46 +86,6 @@
             <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’ 차트에 8주 연속 진입했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619462ced4fd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘12월 14일 컴백’ NCT 쟈니-유타-텐-마크-성찬 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5634</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5634</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 멤버별 티저 이미지가 연일 화제를 모으고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b15fc343b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5631</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5631</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619723c89a6fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“차트 기록 경신 중인 K팝 슈퍼스타” NCT 127, 美 ‘켈리 클락슨 쇼’ 출연 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5628</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5628</guid>
-            <pubDate>Fri, 19 Nov 2021 04:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 또 한 번 미국 전역 시청자들을 매료시켰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f8cd035a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 쿤, 정우, 샤오쥔, 제노, 천러 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5626</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5626</guid>
-            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속) 멤버 쿤, 정우, 샤오쥔, 제노, 천러의 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f7f2603e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백’ NCT 태일, 태용, 도영, 재민, 양양, 지성 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5620</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5620</guid>
-            <pubDate>Thu, 18 Nov 2021 07:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 멤버 태일, 태용, 도영, 재민, 양양, 지성의 티저 이미지를 공개해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6194624f4fd02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
