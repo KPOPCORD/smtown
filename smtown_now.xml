@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 3 - Synchron...]]></title>
+            <link>https://www.youtube.com/watch?v=AB280KRbIPI</link>
+            <guid>https://www.youtube.com/watch?v=AB280KRbIPI</guid>
+            <pubDate>Tue, 23 Nov 2021 15:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AB280KRbIPI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
             <link>https://www.youtube.com/watch?v=luxl8Phy0ig</link>
@@ -231,13 +239,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379729</guid>
             <pubDate>Tue, 23 Nov 2021 13:44:35 GMT</pubDate>
             <content:encoded><![CDATA[CHOI MINHO(SHINee MINHO, SM)has been cast of th...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHOI SIWON's drama '술꾼도시여자들', amplifies...]]></title>
-            <link>https://now.smtown.com/news/detail/2379728</link>
-            <guid>https://now.smtown.com/news/detail/2379728</guid>
-            <pubDate>Tue, 23 Nov 2021 13:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[CHOI SIWON (SM) is planning to heat up the atmo...]]></content:encoded>
         </item>
     </channel>
 </rss>
