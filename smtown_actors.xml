@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 06:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조준영, JTBC 드라마 ‘아이돌’ 최정상 보이 그룹 ‘마스’ 레이 역으로 눈도장!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5640</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5640</guid>
+            <pubDate>Wed, 24 Nov 2021 06:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 안방극장에 눈도장을 찍었다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한선화, 브라운관 넘어 스크린-OTT까지 섭렵!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5635</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d76c871bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이태빈, 웹드라마 '딜리버리' 코믹-액션 연기 '시선 강탈']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5612</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5612</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
-            <content:encoded><![CDATA['펜트하우스' 이태빈이 웹드라마 '딜리버리'에서 코믹 액션 연기에 도전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d66405008.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5636</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5636</guid>
+            <pubDate>Wed, 24 Nov 2021 06:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 숨겨왔던 진중한 모습으로 로맨스의 불을 지폈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16f402224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈, 20일 4회 방송 첫 등장! ‘기대’]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Nov 2021 02:52:39 GMT</pubDate>
             <content:encoded><![CDATA[‘술꾼도시여자들’ 한선화의 열정이 가득 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d703075d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 책임감 돋보이는 촬영장 비하인드 사진 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5609</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5609</guid>
-            <pubDate>Mon, 15 Nov 2021 03:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)의 촬영장 비하인드 사진이 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_618df5f43ebbb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

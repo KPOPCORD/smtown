@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 06:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5641</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5641</guid>
-            <pubDate>Tue, 23 Nov 2021 06:51:16 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 9주 연속 차트인! 글로벌 인기 롱런!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5650</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5650</guid>
+            <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7fcabb09f.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 9주 연속 차트인! 글로벌 인기 롱런!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf7be8a9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 컴백 기념 카운트다운 생방송 30일 오후 5시 진행!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5639</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5639</guid>
-            <pubDate>Tue, 23 Nov 2021 04:55:21 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5649</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5649</guid>
+            <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">엑소 카이, 컴백 기념 카운트다운 생방송 30일 오후 5시 진행!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c693370984.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf1ed9da2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
