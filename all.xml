@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 08:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 09:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV Teaser (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-26612105</link>
+            <guid>https://vlive.tv/post/1-26612105</guid>
+            <pubDate>Thu, 25 Nov 2021 09:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_134/1637832160869Yvv2X_JPEG/upload_81909931506773552af4bc9bb-01e2-41ca-9d86-f781d73b0def.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' #3 Mood Sampler (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26595855</link>
             <guid>https://vlive.tv/post/0-26595855</guid>
             <pubDate>Thu, 25 Nov 2021 05:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_185/1637759342274IQsvc_JPEG/1637758590535.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26555328</guid>
             <pubDate>Thu, 25 Nov 2021 05:40:31 GMT</pubDate>
             <content:encoded><![CDATA[11.21.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211121_21/1637506796187pyk8X_JPEG/1637492778951.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 0 - The 7th Sense (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-26122806</guid>
             <pubDate>Thu, 25 Nov 2021 05:40:31 GMT</pubDate>
             <content:encoded><![CDATA[10.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'be' Performance Video (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26094948</link>
-            <guid>https://vlive.tv/post/1-26094948</guid>
-            <pubDate>Thu, 25 Nov 2021 05:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[10.21.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -393,46 +393,6 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619eff049f815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[효연, ‘오늘의 셀럽’ 세 번째 방송 25일 오후 7시 진행! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5651</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5651</guid>
-            <pubDate>Thu, 25 Nov 2021 03:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 효연(에스엠엔터테인먼트)의 세 번째 라이브 커머스가 25일 방송된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619efea4806be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5649</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5649</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 신곡 ‘Beautiful’(뷰티풀)로 전 세계에 긍정 메시지를 전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf1ed9da2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5647</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5647</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[H.O.T.의 히트곡 ‘우리들의 맹세 (The Promise of H.O.T.)’가 재즈 버전으로 재탄생된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dde5006521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5641</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5641</guid>
-            <pubDate>Tue, 23 Nov 2021 06:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 R&amp;B 듀오’ 플라이 투 더 스카이(FLY TO THE SKY)의 데뷔곡 ‘Day By Day’(데이 바이 데이) 리마스터 뮤직비디오가 오는 25일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7fcabb09f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5638</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 더블 타이틀 곡으로 연말 가요계를 화려하게 수놓는다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 9주 연속 차트인! 글로벌 인기 롱런! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5650</link>
             <guid>https://www.smtown.com/artist/newsDetail/5650</guid>
@@ -471,6 +431,46 @@
             <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
             <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 12월 12일 세계 최초 온라인 전용 유료 콘서트 ‘Beyond LIVE’를 통해 첫 솔로 콘서트를 개최한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b178f79a10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5649</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5649</guid>
+            <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 신곡 ‘Beautiful’(뷰티풀)로 전 세계에 긍정 메시지를 전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf1ed9da2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5647</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5647</guid>
+            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
+            <content:encoded><![CDATA[H.O.T.의 히트곡 ‘우리들의 맹세 (The Promise of H.O.T.)’가 재즈 버전으로 재탄생된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dde5006521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5641</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5641</guid>
+            <pubDate>Tue, 23 Nov 2021 06:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 R&amp;B 듀오’ 플라이 투 더 스카이(FLY TO THE SKY)의 데뷔곡 ‘Day By Day’(데이 바이 데이) 리마스터 뮤직비디오가 오는 25일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7fcabb09f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5638</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
+            <pubDate>Mon, 22 Nov 2021 04:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 더블 타이틀 곡으로 연말 가요계를 화려하게 수놓는다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘12월 14일 컴백’ NCT 쟈니-유타-텐-마크-성찬 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5634</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5634</guid>
+            <pubDate>Thu, 25 Nov 2021 09:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 멤버별 티저 이미지가 연일 화제를 모으고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b15fc343b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김서형, KAFA 장편 영화 '비닐하우스' 출연 확정 (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,22 @@
             <pubDate>Mon, 15 Nov 2021 03:46:22 GMT</pubDate>
             <content:encoded><![CDATA[‘술꾼도시여자들’ 한선화의 열정이 가득 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d703075d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
+            <guid>https://www.youtube.com/watch?v=Q-J4zFkBHmg</guid>
+            <pubDate>Thu, 25 Nov 2021 09:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[스피커 아티스트 이윤오(@leeyoonoh_)의 7번째 싱글 타이틀곡인 ‘Lullab...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Q-J4zFkBHmg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] Yohan Kim X Hogyu 'Stiger' Hw... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=C7zP7e4MDPQ</link>
+            <guid>https://www.youtube.com/watch?v=C7zP7e4MDPQ</guid>
+            <pubDate>Thu, 25 Nov 2021 09:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[Yohan Kim X Hogyu 'Stiger' Hwang's "The Promise...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/C7zP7e4MDPQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손태진 SONTAEJIN | The Present 'At The Tim... (SMTOWN ─ NOW)]]></title>
@@ -780,23 +796,6 @@ Listen ...]]></content:encoded>
             <pubDate>Thu, 25 Nov 2021 07:41:54 GMT</pubDate>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/k9CyJBAiX9o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 0 - The 7th ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Err9YqUiF3w</link>
-            <guid>https://www.youtube.com/watch?v=Err9YqUiF3w</guid>
-            <pubDate>Thu, 25 Nov 2021 07:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Err9YqUiF3w/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 좀 잘하죠? 말이 안 돼…✨ 도예 체험🏺 | 천지의 이것저것 시즌... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=GyhmBu9eB34</link>
-            <guid>https://www.youtube.com/watch?v=GyhmBu9eB34</guid>
-            <pubDate>Thu, 25 Nov 2021 07:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/GyhmBu9eB34/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최시원] 비상이다. 
@@ -1353,6 +1352,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[STATION] Yohan Kim X Hogyu 'Stiger' Hwang '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23741157</link>
+            <guid>https://tv.naver.com/v/23741157</guid>
+            <pubDate>Thu, 25 Nov 2021 09:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_211/G52ZI_1637829952307PF3jU_JPEG/1637829947924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI 카이 'Peaches' #3 Mood Sampler (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23723616</link>
             <guid>https://tv.naver.com/v/23723616</guid>
@@ -1583,14 +1590,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Fri, 15 Oct 2021 09:44:59 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_262/GudQE_1634283309833NB7UC_JPEG/1634282900386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22965765</link>
-            <guid>https://tv.naver.com/v/22965765</guid>
-            <pubDate>Thu, 14 Oct 2021 15:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_173/1n21V_1634219620031CTt5R_JPEG/1634219599100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

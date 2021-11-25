@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 08:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 09:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe...]]></title>
+            <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
+            <guid>https://www.youtube.com/watch?v=Q-J4zFkBHmg</guid>
+            <pubDate>Thu, 25 Nov 2021 09:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[스피커 아티스트 이윤오(@leeyoonoh_)의 7번째 싱글 타이틀곡인 ‘Lullab...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Q-J4zFkBHmg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] Yohan Kim X Hogyu 'Stiger' Hw...]]></title>
+            <link>https://www.youtube.com/watch?v=C7zP7e4MDPQ</link>
+            <guid>https://www.youtube.com/watch?v=C7zP7e4MDPQ</guid>
+            <pubDate>Thu, 25 Nov 2021 09:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[Yohan Kim X Hogyu 'Stiger' Hwang's "The Promise...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/C7zP7e4MDPQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손태진 SONTAEJIN | The Present 'At The Tim...]]></title>
             <link>https://www.youtube.com/watch?v=eIIeC-YFkFs</link>
@@ -217,23 +233,6 @@ Listen ...]]></content:encoded>
             <pubDate>Thu, 25 Nov 2021 07:41:54 GMT</pubDate>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/k9CyJBAiX9o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 0 - The 7th ...]]></title>
-            <link>https://www.youtube.com/watch?v=Err9YqUiF3w</link>
-            <guid>https://www.youtube.com/watch?v=Err9YqUiF3w</guid>
-            <pubDate>Thu, 25 Nov 2021 07:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Err9YqUiF3w/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 좀 잘하죠? 말이 안 돼…✨ 도예 체험🏺 | 천지의 이것저것 시즌...]]></title>
-            <link>https://www.youtube.com/watch?v=GyhmBu9eB34</link>
-            <guid>https://www.youtube.com/watch?v=GyhmBu9eB34</guid>
-            <pubDate>Thu, 25 Nov 2021 07:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/GyhmBu9eB34/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
