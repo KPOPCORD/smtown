@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:55:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 9주 연속 차트인! 글로벌 인기 롱런!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5650</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5650</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
+            <title><![CDATA[NCT, 폭발적 에너지 담은 신곡 ‘Universe’로 가요계 강타!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5653</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5653</guid>
+            <pubDate>Thu, 25 Nov 2021 03:45:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 9주 연속 차트인! 글로벌 인기 롱런!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf7be8a9f.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 폭발적 에너지 담은 신곡 ‘Universe’로 가요계 강타!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619eff5d7ee94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5649</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5649</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
+            <title><![CDATA[엑소 카이, 새 미니앨범 수록곡 ‘Vanilla’ 나른&몽환 매력 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5652</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5652</guid>
+            <pubDate>Thu, 25 Nov 2021 03:45:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf1ed9da2.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">엑소 카이, 새 미니앨범 수록곡 ‘Vanilla’ 나른&amp;몽환 매력 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619eff049f815.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

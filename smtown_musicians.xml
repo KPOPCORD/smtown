@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:55:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효연, ‘오늘의 셀럽’ 세 번째 방송 25일 오후 7시 진행!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5651</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5651</guid>
+            <pubDate>Thu, 25 Nov 2021 03:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 효연(에스엠엔터테인먼트)의 세 번째 라이브 커머스가 25일 방송된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619efea4806be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 신곡 ‘Beautiful’ 글로벌 힐링송 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5649</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5649</guid>
+            <pubDate>Thu, 25 Nov 2021 03:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 신곡 ‘Beautiful’(뷰티풀)로 전 세계에 긍정 메시지를 전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf1ed9da2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5647</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5647</guid>
+            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
+            <content:encoded><![CDATA[H.O.T.의 히트곡 ‘우리들의 맹세 (The Promise of H.O.T.)’가 재즈 버전으로 재탄생된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dde5006521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5641</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5641</guid>
+            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 R&amp;B 듀오’ 플라이 투 더 스카이(FLY TO THE SKY)의 데뷔곡 ‘Day By Day’(데이 바이 데이) 리마스터 뮤직비디오가 오는 25일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7fcabb09f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5638</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
+            <pubDate>Tue, 23 Nov 2021 06:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 더블 타이틀 곡으로 연말 가요계를 화려하게 수놓는다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 9주 연속 차트인! 글로벌 인기 롱런!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5650</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5650</guid>
+            <pubDate>Thu, 25 Nov 2021 03:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’ 차트에 9주 연속 진입했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf7be8a9f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 힙합 베이스도 담았다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5648</link>
@@ -38,54 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 04:55:35 GMT</pubDate>
             <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 12월 12일 세계 최초 온라인 전용 유료 콘서트 ‘Beyond LIVE’를 통해 첫 솔로 콘서트를 개최한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b178f79a10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 재현-헨드리-런쥔-해찬-쇼타로 티저 이미지 공개 화제! 유니크한 매력 폭발!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5632</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5632</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집 ‘Universe’(유니버스)로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)의 재현, 헨드리, 런쥔, 해찬, 쇼타로의 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6197242aade04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5647</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5647</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[H.O.T.의 히트곡 ‘우리들의 맹세 (The Promise of H.O.T.)’가 재즈 버전으로 재탄생된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dde5006521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5641</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5641</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 R&amp;B 듀오’ 플라이 투 더 스카이(FLY TO THE SKY)의 데뷔곡 ‘Day By Day’(데이 바이 데이) 리마스터 뮤직비디오가 오는 25일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7fcabb09f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 12월 14일 오후 6시 음원 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5638</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5638</guid>
-            <pubDate>Tue, 23 Nov 2021 06:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집으로 컴백하는 NCT(엔시티, 에스엠엔터테인먼트 소속)가 더블 타이틀 곡으로 연말 가요계를 화려하게 수놓는다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b1805de696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘12월 14일 컴백’ NCT 쟈니-유타-텐-마크-성찬 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5634</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5634</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 멤버별 티저 이미지가 연일 화제를 모으고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b15fc343b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 타이틀 곡 ‘Peaches’ 스윗 바이브 선사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5631</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5631</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:44 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619723c89a6fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
