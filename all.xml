@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26610181</link>
+            <guid>https://vlive.tv/post/0-26610181</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_228/1637852409298gzkVn_JPEG/1637851309881.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26612105</link>
             <guid>https://vlive.tv/post/1-26612105</guid>
             <pubDate>Thu, 25 Nov 2021 13:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_134/1637832160869Yvv2X_JPEG/upload_81909931506773552af4bc9bb-01e2-41ca-9d86-f781d73b0def.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-26595855</link>
             <guid>https://vlive.tv/post/0-26595855</guid>
             <pubDate>Thu, 25 Nov 2021 13:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.24.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_185/1637759342274IQsvc_JPEG/1637758590535.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26589722</guid>
             <pubDate>Thu, 25 Nov 2021 13:42:58 GMT</pubDate>
             <content:encoded><![CDATA[11.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211123_164/16376781612635iM0Y_JPEG/1637678131421.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler (SMTOWN ─ Media Board)]]></title>
@@ -144,11 +151,147 @@
             <content:encoded><![CDATA[10.23.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[⏳-3] EUNHYUK 은혁 'Red Muhly' Special Video (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26122806</link>
-            <guid>https://vlive.tv/post/0-26122806</guid>
-            <pubDate>Thu, 25 Nov 2021 13:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[10.23.]]></content:encoded>
+            <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-23827151</link>
+            <guid>https://www.vlive.tv/post/1-23827151</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210701_110/16251082221417MkDg_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[초대장] U-KNOW의 'NOIR' 특별 시사회에 여러분을 초대합니다!❤️ (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-20820700</link>
+            <guid>https://www.vlive.tv/post/0-20820700</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_84/1625912545990RKiUm_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA['믿듣탱' 태연의 컴백을 함께할 S♡NE 구합니다! (1/19890309) (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-20308927</link>
+            <guid>https://www.vlive.tv/post/1-20308927</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[＜✌🏻점핑이들이 있어줘서 더 BETTER한 BoA✊🏻＞와 함께해 줄 점핑이들 메시지 모집 중💛 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-20103428</link>
+            <guid>https://www.vlive.tv/post/1-20103428</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210710_41/1625921180776Uk0hu_JPEG/image.JPEG?type=f200" length="0" type="image/JPEG"/>
+        </item>
+        <item>
+            <title><![CDATA[👿'B.A.D'한 슈퍼주니어-D&E가 E.L.F.의 메시지를 기다립니다🚗 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-17212329</link>
+            <guid>https://www.vlive.tv/post/1-17212329</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BoA Still Our No.1 – BoA Debut 20th Anniversary Special V LIVE💛 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-16713406</link>
+            <guid>https://www.vlive.tv/post/1-16713406</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:00(KST), SUPER JUNIOR-K.R.Y.와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-16545407</link>
+            <guid>https://www.vlive.tv/post/0-16545407</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[👫태민&SHINee World, '2 KIDS'의 이야기를 들려주세요👂🏻 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-16022866</link>
+            <guid>https://www.vlive.tv/post/0-16022866</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HYO를 위한 S♡NE의 스윗한 ‘DESSERT’ 메시지 모집중🧁 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-15775316</link>
+            <guid>https://www.vlive.tv/post/0-15775316</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸르게 빛나던 슈퍼주니어-K.R.Y.의 계절🌿 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14658723</link>
+            <guid>https://www.vlive.tv/post/1-14658723</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 17:50(KST), SUPER JUNIOR와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14534593</link>
+            <guid>https://www.vlive.tv/post/1-14534593</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 19:40(KST), TVXQ!와 함께하는 실시간 채팅이 시작됩니다. Real time live cha... (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14349811</link>
+            <guid>https://www.vlive.tv/post/1-14349811</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘 18:30 (KST), NCT 127과 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-14192517</link>
+            <guid>https://www.vlive.tv/post/1-14192517</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 18:10 (KST) NCT DREAM과 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-13978693</link>
+            <guid>https://www.vlive.tv/post/1-13978693</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 14:05 (KST) WayV와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-13961833</link>
+            <guid>https://www.vlive.tv/post/1-13961833</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠시 후 5분 뒤인 13시 (KST), WayV와 함께하는 실시간 채팅이 시작됩니다. (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-13931435</link>
+            <guid>https://www.vlive.tv/post/0-13931435</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든 티켓 to 최강창민 입덕🎇 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-13388732</link>
+            <guid>https://www.vlive.tv/post/0-13388732</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[태연의 랜선 생일파티! 파티원을 구합니다💗 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/0-12989682</link>
+            <guid>https://www.vlive.tv/post/0-12989682</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[점핑보아에게 묻습니다💛: 2019 & 2020 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-12362094</link>
+            <guid>https://www.vlive.tv/post/1-12362094</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성민의 Music Box에 질문을 보내주세요📬 (SMTOWN ─ Notice)]]></title>
+            <link>https://www.vlive.tv/post/1-12246088</link>
+            <guid>https://www.vlive.tv/post/1-12246088</guid>
+            <pubDate>Thu, 25 Nov 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이수만 프로듀서, “한국이 메타버스, NFT 콘텐츠의 선두주자 될 것” (SMTOWN ─ News)]]></title>
@@ -428,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6191d703075d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing M... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=ZccOoZUA3Rs</link>
+            <guid>https://www.youtube.com/watch?v=ZccOoZUA3Rs</guid>
+            <pubDate>Thu, 25 Nov 2021 15:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
             <guid>https://www.youtube.com/watch?v=Q-J4zFkBHmg</guid>
@@ -645,14 +796,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379779</guid>
             <pubDate>Thu, 25 Nov 2021 14:42:52 GMT</pubDate>
             <content:encoded><![CDATA[Actor Han Seon Hwa is active in both screen and...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=k9CyJBAiX9o</link>
-            <guid>https://www.youtube.com/watch?v=k9CyJBAiX9o</guid>
-            <pubDate>Thu, 25 Nov 2021 14:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/k9CyJBAiX9o/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최시원] 비상이다. 
@@ -1209,6 +1352,22 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23749015</link>
+            <guid>https://tv.naver.com/v/23749015</guid>
+            <pubDate>Thu, 25 Nov 2021 15:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_41/QcI1G_1637851313084RoaGY_JPEG/1637851309881.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Prologue Film (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23748959</link>
+            <guid>https://tv.naver.com/v/23748959</guid>
+            <pubDate>Thu, 25 Nov 2021 15:50:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_52/QyBol_1637851125042yqaob_JPEG/1637851122797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[STATION] 요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23741157</link>
             <guid>https://tv.naver.com/v/23741157</guid>
@@ -1431,22 +1590,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sat, 16 Oct 2021 01:49:59 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211016_248/ruIcy_1634339659808oE7ky_JPEG/1634339641813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Favorite' Mood Sampler - Catharsis (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22987804</link>
-            <guid>https://tv.naver.com/v/22987804</guid>
-            <pubDate>Fri, 15 Oct 2021 15:48:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_187/uDIgM_1634302368665ouzCf_JPEG/1634302346960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Queendom (Demicat Remix)' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22980381</link>
-            <guid>https://tv.naver.com/v/22980381</guid>
-            <pubDate>Fri, 15 Oct 2021 09:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_262/GudQE_1634283309833NB7UC_JPEG/1634282900386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

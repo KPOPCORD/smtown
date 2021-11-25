@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing M...]]></title>
+            <link>https://www.youtube.com/watch?v=ZccOoZUA3Rs</link>
+            <guid>https://www.youtube.com/watch?v=ZccOoZUA3Rs</guid>
+            <pubDate>Thu, 25 Nov 2021 15:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe...]]></title>
             <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
@@ -225,14 +233,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379779</guid>
             <pubDate>Thu, 25 Nov 2021 14:42:52 GMT</pubDate>
             <content:encoded><![CDATA[Actor Han Seon Hwa is active in both screen and...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler]]></title>
-            <link>https://www.youtube.com/watch?v=k9CyJBAiX9o</link>
-            <guid>https://www.youtube.com/watch?v=k9CyJBAiX9o</guid>
-            <pubDate>Thu, 25 Nov 2021 14:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/k9CyJBAiX9o/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
