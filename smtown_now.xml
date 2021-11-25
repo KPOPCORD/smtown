@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 15:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
+            <link>https://www.youtube.com/watch?v=YQoO3concnE</link>
+            <guid>https://www.youtube.com/watch?v=YQoO3concnE</guid>
+            <pubDate>Thu, 25 Nov 2021 17:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YQoO3concnE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing M...]]></title>
             <link>https://www.youtube.com/watch?v=ZccOoZUA3Rs</link>
@@ -226,13 +234,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379780</guid>
             <pubDate>Thu, 25 Nov 2021 14:42:52 GMT</pubDate>
             <content:encoded><![CDATA['술꾼도시여자들' CHOI SIWON (SM) ignited a romance wit...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Han Seon Hwa goes beyond CRT to screen-...]]></title>
-            <link>https://now.smtown.com/news/detail/2379779</link>
-            <guid>https://now.smtown.com/news/detail/2379779</guid>
-            <pubDate>Thu, 25 Nov 2021 14:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Han Seon Hwa is active in both screen and...]]></content:encoded>
         </item>
     </channel>
 </rss>
