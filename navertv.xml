@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] 요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV]]></title>
+            <link>https://tv.naver.com/v/23763894</link>
+            <guid>https://tv.naver.com/v/23763894</guid>
+            <pubDate>Fri, 26 Nov 2021 09:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_262/cL3fQ_1637916696916bJ1bR_JPEG/1637916679351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream]]></title>
             <link>https://tv.naver.com/v/23749015</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Oct 2021 13:01:02 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211016_41/XX23X_1634341997984XKpGt_JPEG/1634341980473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video]]></title>
-            <link>https://tv.naver.com/v/22992187</link>
-            <guid>https://tv.naver.com/v/22992187</guid>
-            <pubDate>Sat, 16 Oct 2021 01:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_248/ruIcy_1634339659808oE7ky_JPEG/1634339641813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

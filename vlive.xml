@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV]]></title>
+            <link>https://vlive.tv/post/0-26618711</link>
+            <guid>https://vlive.tv/post/0-26618711</guid>
+            <pubDate>Fri, 26 Nov 2021 09:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_207/1637917081092y7uFl_JPEG/1637916679351.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream]]></title>
             <link>https://vlive.tv/post/0-26610181</link>
             <guid>https://vlive.tv/post/0-26610181</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_228/1637852409298gzkVn_JPEG/1637851309881.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-26612105</link>
             <guid>https://vlive.tv/post/1-26612105</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_134/1637832160869Yvv2X_JPEG/upload_81909931506773552af4bc9bb-01e2-41ca-9d86-f781d73b0def.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26595855</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
             <content:encoded><![CDATA[11.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_185/1637759342274IQsvc_JPEG/1637758590535.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 3 - Synchronization of Dreams]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26166981</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
             <content:encoded><![CDATA[10.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV Teaser]]></title>
-            <link>https://vlive.tv/post/1-26124320</link>
-            <guid>https://vlive.tv/post/1-26124320</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[10.23.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26618711</link>
+            <guid>https://vlive.tv/post/0-26618711</guid>
+            <pubDate>Fri, 26 Nov 2021 09:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_207/1637917081092y7uFl_JPEG/1637916679351.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26610181</link>
             <guid>https://vlive.tv/post/0-26610181</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_228/1637852409298gzkVn_JPEG/1637851309881.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-26612105</link>
             <guid>https://vlive.tv/post/1-26612105</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_134/1637832160869Yvv2X_JPEG/upload_81909931506773552af4bc9bb-01e2-41ca-9d86-f781d73b0def.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26595855</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
             <content:encoded><![CDATA[11.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_185/1637759342274IQsvc_JPEG/1637758590535.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 3 - Synchronization of Dreams (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26166981</guid>
             <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
             <content:encoded><![CDATA[10.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26124320</link>
-            <guid>https://vlive.tv/post/1-26124320</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[10.23.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -531,11 +531,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jang Yoon Ju，第42届青龙电影奖最佳女配角奖…26日出席颁奖典礼 (SMTOWN ─ Actors News)]]></title>
+            <title><![CDATA[장윤주, 제42회 청룡영화상 여우조연상 노미네이트…26일 시상식 참석 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5654</link>
             <guid>https://www.smtown.com/artist/newsDetail/5654</guid>
             <pubDate>Fri, 26 Nov 2021 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[顶级模特兼演员Jang Yoon Ju被选为国内最高权威和透明公正性的电影人庆典第42届青龙电影奖最佳女配角，证明了其作为演员的影响力。]]></content:encoded>
+            <content:encoded><![CDATA[톱모델이자 배우 장윤주가 국내 최고의 권위와 투명한 공정성을 자랑하는 영화인들의 축제 제42회 청룡영화상 여우조연상에 노미네이트돼 배우로서의 영향력을 입증했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06dd42c208.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -569,6 +569,228 @@
             <pubDate>Thu, 18 Nov 2021 06:49:35 GMT</pubDate>
             <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 글로벌 시청자들의 심장을 뛰게 만들 넷플릭스 시리즈 ‘더 패뷸러스’로 돌아온다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f5fda5d2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379872</link>
+            <guid>https://now.smtown.com/news/detail/2379872</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCT 3rd album 'Universe', NEW combinati... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379868</link>
+            <guid>https://now.smtown.com/news/detail/2379868</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM) will present a NEW member combination ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa, to participate in the biggest US... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379867</link>
+            <guid>https://now.smtown.com/news/detail/2379867</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA['Metaverse girlgroup' aespa (SM) participated i...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EXO KAI’s new mini album ‘Peaches’ to p... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379866</link>
+            <guid>https://now.smtown.com/news/detail/2379866</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) to present colorful charms through...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Version of H.O.T. ‘The Promise of ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379865</link>
+            <guid>https://now.smtown.com/news/detail/2379865</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[The jazz version of H.O.T.'s '우리들의 맹세 (The Prom...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, first performance of musical '... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379864</link>
+            <guid>https://now.smtown.com/news/detail/2379864</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Singer KYUHYUN meets the audience with the Kore...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The final episode of ‘술꾼도시여자들’ is relea... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379863</link>
+            <guid>https://now.smtown.com/news/detail/2379863</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI SIWON (SM) is planning to decorate the fin...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kim Jin Gon's first ground wave debut w... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379862</link>
+            <guid>https://now.smtown.com/news/detail/2379862</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Kim Jin Gon, who made a new face in '학교 2021', ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jang Yoon Ju, nominated for Best Suppor... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379861</link>
+            <guid>https://now.smtown.com/news/detail/2379861</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Top model and actor Jang Yoon Ju, nominated for...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[H.O.T. '우리들의 맹세 (The Promise of H.O.T.)... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=U70rx--yUkE</link>
+            <guid>https://www.youtube.com/watch?v=U70rx--yUkE</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/U70rx--yUkE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Prologue Film (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=YQoO3concnE</link>
+            <guid>https://www.youtube.com/watch?v=YQoO3concnE</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YQoO3concnE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing M... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=ZccOoZUA3Rs</link>
+            <guid>https://www.youtube.com/watch?v=ZccOoZUA3Rs</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
+            <guid>https://www.youtube.com/watch?v=Q-J4zFkBHmg</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[스피커 아티스트 이윤오(@leeyoonoh_)의 7번째 싱글 타이틀곡인 ‘Lullab...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Q-J4zFkBHmg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] 요한킴 X 황호규 '우리들의 맹세 (The Promi... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=C7zP7e4MDPQ</link>
+            <guid>https://www.youtube.com/watch?v=C7zP7e4MDPQ</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Yohan Kim X Hogyu 'Stiger' Hwang's "The Promise...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/C7zP7e4MDPQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손태진 SONTAEJIN | The Present 'At The Tim... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=eIIeC-YFkFs</link>
+            <guid>https://www.youtube.com/watch?v=eIIeC-YFkFs</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #ThePresent_AtTheTime #깊...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/eIIeC-YFkFs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT hits the music scene with the new s... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379844</link>
+            <guid>https://now.smtown.com/news/detail/2379844</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM) to present explosive energy through 'Un...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI to show off his dreamy relaxing cha... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379843</link>
+            <guid>https://now.smtown.com/news/detail/2379843</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM), who is making a comeback on Novem...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HYOYEON, '오늘의 셀럽' 3rd broadcast on the ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379842</link>
+            <guid>https://now.smtown.com/news/detail/2379842</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation HYOYEON (SM)'s third live com...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[FLY TO THE SKY 플라이 투 더 스카이 'Intro + Day... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=IZUpXRpm9XM</link>
+            <guid>https://www.youtube.com/watch?v=IZUpXRpm9XM</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 1999, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/IZUpXRpm9XM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #3 Mood Sampler (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=k4-ZZrxUNC4</link>
+            <guid>https://www.youtube.com/watch?v=k4-ZZrxUNC4</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/k4-ZZrxUNC4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' is on the... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379831</link>
+            <guid>https://now.smtown.com/news/detail/2379831</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) entered the US Billboard 200 chart...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Beautiful’, the title track of NCT The... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379830</link>
+            <guid>https://now.smtown.com/news/detail/2379830</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM) to give hopeful &amp; consoling message to ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EXO KAI, new mini album ‘Peaches’ to ha... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379829</link>
+            <guid>https://now.smtown.com/news/detail/2379829</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) brings hip-hop music through his n...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Version of H.O.T. ‘The Promise’ to... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379828</link>
+            <guid>https://now.smtown.com/news/detail/2379828</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[H.O.T.'s hit song '우리들의 맹세 (The Promise of H.O....]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee MINHO, solo fan meeting ‘BEST CH... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379827</link>
+            <guid>https://now.smtown.com/news/detail/2379827</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee MINHO (SM) will hold a solo fan meeting ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kim Seo Hyung Confirmed to Appear in KA... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379826</link>
+            <guid>https://now.smtown.com/news/detail/2379826</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[Kim Seo Hyung continues her unrivaled acting ca...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beak Sung Chul, '구경이', reveals new prof... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379825</link>
+            <guid>https://now.smtown.com/news/detail/2379825</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[A new profile picture of actor Beak Sung Chul, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Oh Ji Hyun, professional golfer, re-app... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379824</link>
+            <guid>https://now.smtown.com/news/detail/2379824</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[The '가톨릭대학교 서울성모병원' held a re-appointment cerem...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CHOI HEE SEUNG, who has 400,000 subscri... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379823</link>
+            <guid>https://now.smtown.com/news/detail/2379823</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI HEE SEUNG wins the Fashion Influencer Awar...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 3 - Synchron... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=AB280KRbIPI</link>
+            <guid>https://www.youtube.com/watch?v=AB280KRbIPI</guid>
+            <pubDate>Fri, 26 Nov 2021 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AB280KRbIPI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최시원] 비상이다. 
@@ -922,6 +1144,14 @@ NCT DREAM X HRVY (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA0MTdfMTMw/MDAxNTU1NDg1Mzk5NTc0.ic0fgiSKUXZKkHmFZZUW6Fdg__fOsiP_1A_Y8_gPXgUg.cuwH-6ZGLDjRruzrcvs3r5HaZiE7puhTbyKHMAt7M2Mg.JPEG/INlj9spQEf9HyxEenwGq0qvcEv4I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SM STATION] 요한킴 X 황호규 '우리들의 맹세 (Jazz Ver.)' (SMTOWN 신곡 포스트 ─ SM STATION)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32818272&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32818272&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 26 Nov 2021 09:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjI2/MDAxNjM3ODUzODMxNDIy.7i9upodjB-o50uF9Efk9YsgFxfJUTHFZc80FwRN38RAg.dOrp676bvpOSmSf4CrfhOLQz1uFm71mwgE3JiwUjxu0g.JPEG/ImgFrRgWLUjpn_-jdfZon4mqL4yc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[SM STATION] 텐 'Paint Me Naked' (SMTOWN 신곡 포스트 ─ SM STATION)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32090726&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32090726&amp;memberNo=41350603&amp;navigationType=push</guid>
@@ -1090,15 +1320,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMTJfMjUz/MDAxNTc2MTM1ODA4NzE4.GMYhgaCrMxD9sl_EowG5XEslBNeiURHlvViUk75MGCcg.GjDQGz_isMpv5y8LOSn4CimocX5wHRdag55YK192UNQg.JPEG/InDwlSPSxbphEx4b9FyfYsS8-_Hc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[STATION X]
-⛄️ NCT U 'Coming Home' (SMTOWN 신곡 포스트 ─ SM STATION)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27020333&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27020333&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMTNfNTkg/MDAxNTc2MjA2NTgyOTM3.nYNDrORKu8F4oyacHkv3GL3Vd2cv3t8bAvcjLd9vIMcg.ZdsGGXRln6bnk88O7Jpp4rB4iKbdayPQb-fMjpTJJ2sg.JPEG/I1bqHDM7oc8mAy-y75bCzgbSXWL8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[샤이니] 정규 7집 기다리며 다시 듣는 명곡 플레이리스트 (SMTOWN 신곡 포스트 ─ PLAYLIST)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30623603&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30623603&amp;memberNo=41350603&amp;navigationType=push</guid>
@@ -1123,6 +1344,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 22 Aug 2021 15:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] 요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23763894</link>
+            <guid>https://tv.naver.com/v/23763894</guid>
+            <pubDate>Fri, 26 Nov 2021 09:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_262/cL3fQ_1637916696916bJ1bR_JPEG/1637916679351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream (네이버TV ─ SMTOWN)]]></title>
@@ -1355,14 +1584,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sat, 16 Oct 2021 13:01:02 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211016_41/XX23X_1634341997984XKpGt_JPEG/1634341980473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DONGHAE 동해 'California Love (Feat. 제노 of NCT)' Live Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/22992187</link>
-            <guid>https://tv.naver.com/v/22992187</guid>
-            <pubDate>Sat, 16 Oct 2021 01:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_248/ruIcy_1634339659808oE7ky_JPEG/1634339641813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
