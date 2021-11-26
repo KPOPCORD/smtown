@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT, 폭발적 에너지 담은 신곡 ‘Universe’로 가요계 강타!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5653</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5653</guid>
-            <pubDate>Thu, 25 Nov 2021 03:45:57 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5661</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5661</guid>
+            <pubDate>Fri, 26 Nov 2021 05:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, 폭발적 에너지 담은 신곡 ‘Universe’로 가요계 강타!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619eff5d7ee94.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0716b6d4ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 수록곡 ‘Vanilla’ 나른&몽환 매력 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5652</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5652</guid>
-            <pubDate>Thu, 25 Nov 2021 03:45:57 GMT</pubDate>
+            <title><![CDATA[에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5660</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5660</guid>
+            <pubDate>Fri, 26 Nov 2021 05:40:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">엑소 카이, 새 미니앨범 수록곡 ‘Vanilla’ 나른&amp;몽환 매력 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619eff049f815.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0710c4e02d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

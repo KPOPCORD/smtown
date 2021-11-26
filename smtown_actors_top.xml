@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[김서형, KAFA 장편 영화 '비닐하우스' 출연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5645</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5645</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:59 GMT</pubDate>
+            <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5657</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5657</guid>
+            <pubDate>Fri, 26 Nov 2021 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">김서형, KAFA 장편 영화 '비닐하우스' 출연 확정</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddd3a55aa6.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06f66dbf0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['구경이' 백성철, 새 프로필 사진 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5644</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5644</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:59 GMT</pubDate>
+            <title><![CDATA[‘술꾼도시여자들’ 26일 최종화 공개! 최시원, 레전드 캐릭터 탄생시킨 참신한 노력 빛났다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5656</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5656</guid>
+            <pubDate>Fri, 26 Nov 2021 05:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'구경이' 백성철, 새 프로필 사진 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddce8bc895.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘술꾼도시여자들’ 26일 최종화 공개! 최시원, 레전드 캐릭터 탄생시킨 참신한 노력 빛났다! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06eac74f86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
