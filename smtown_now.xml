@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 02:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 03:47:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H.O.T. '우리들의 맹세 (The Promise of H.O.T.)...]]></title>
+            <link>https://www.youtube.com/watch?v=U70rx--yUkE</link>
+            <guid>https://www.youtube.com/watch?v=U70rx--yUkE</guid>
+            <pubDate>Fri, 26 Nov 2021 03:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/U70rx--yUkE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
             <link>https://www.youtube.com/watch?v=YQoO3concnE</link>
@@ -227,13 +237,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379781</guid>
             <pubDate>Fri, 26 Nov 2021 01:41:14 GMT</pubDate>
             <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) to hold hi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVING's original '술꾼도시여자들' CHOI SIWON, ...]]></title>
-            <link>https://now.smtown.com/news/detail/2379780</link>
-            <guid>https://now.smtown.com/news/detail/2379780</guid>
-            <pubDate>Fri, 26 Nov 2021 01:41:14 GMT</pubDate>
-            <content:encoded><![CDATA['술꾼도시여자들' CHOI SIWON (SM) ignited a romance wit...]]></content:encoded>
         </item>
     </channel>
 </rss>
