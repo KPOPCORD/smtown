@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 15:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 17:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing ...]]></title>
+            <link>https://www.youtube.com/watch?v=nChWN1Emt38</link>
+            <guid>https://www.youtube.com/watch?v=nChWN1Emt38</guid>
+            <pubDate>Sat, 27 Nov 2021 17:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nChWN1Emt38/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비밀스러운 공간🤫 | U+아이돌Live - XR LIVE : The ...]]></title>
             <link>https://www.youtube.com/watch?v=FdTQIQ3OVdw</link>
@@ -230,13 +238,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379827</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[SHINee MINHO (SM) will hold a solo fan meeting ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Seo Hyung Confirmed to Appear in KA...]]></title>
-            <link>https://now.smtown.com/news/detail/2379826</link>
-            <guid>https://now.smtown.com/news/detail/2379826</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Kim Seo Hyung continues her unrivaled acting ca...]]></content:encoded>
         </item>
     </channel>
 </rss>
