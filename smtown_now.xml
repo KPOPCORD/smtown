@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 08:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 09:46:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=5N-TbvWicqg</link>
+            <guid>https://www.youtube.com/watch?v=5N-TbvWicqg</guid>
+            <pubDate>Sat, 27 Nov 2021 09:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5N-TbvWicqg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Teaser] 정인 JungIn - 값 MV Teaser]]></title>
             <link>https://www.youtube.com/watch?v=KPa3F2H8_ic</link>
@@ -226,13 +236,6 @@
             <guid>https://now.smtown.com/news/detail/2379825</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[A new profile picture of actor Beak Sung Chul, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Oh Ji Hyun, professional golfer, re-app...]]></title>
-            <link>https://now.smtown.com/news/detail/2379824</link>
-            <guid>https://now.smtown.com/news/detail/2379824</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[The '가톨릭대학교 서울성모병원' held a re-appointment cerem...]]></content:encoded>
         </item>
     </channel>
 </rss>
