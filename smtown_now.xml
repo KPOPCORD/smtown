@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 02:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 03:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. ...]]></title>
+            <link>https://www.youtube.com/watch?v=Wq0tloRrxek</link>
+            <guid>https://www.youtube.com/watch?v=Wq0tloRrxek</guid>
+            <pubDate>Sun, 28 Nov 2021 03:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. 전제덕)
+“De...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Wq0tloRrxek/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing ...]]></title>
             <link>https://www.youtube.com/watch?v=nChWN1Emt38</link>
@@ -231,13 +240,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379828</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[H.O.T.'s hit song '우리들의 맹세 (The Promise of H.O....]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee MINHO, solo fan meeting ‘BEST CH...]]></title>
-            <link>https://now.smtown.com/news/detail/2379827</link>
-            <guid>https://now.smtown.com/news/detail/2379827</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee MINHO (SM) will hold a solo fan meeting ...]]></content:encoded>
         </item>
     </channel>
 </rss>
