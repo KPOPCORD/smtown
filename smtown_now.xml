@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 14:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 15:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=TQaO6nbls9E</link>
+            <guid>https://www.youtube.com/watch?v=TQaO6nbls9E</guid>
+            <pubDate>Sun, 28 Nov 2021 15:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TQaO6nbls9E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#술꾼도시여자들] 한지연의 모든 순간! #한선화 #키동캠 ｜Han S...]]></title>
+            <link>https://www.youtube.com/watch?v=vLPtdrYZruY</link>
+            <guid>https://www.youtube.com/watch?v=vLPtdrYZruY</guid>
+            <pubDate>Sun, 28 Nov 2021 15:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[[#WorkLaterDrinkNow] Every moment of Han Jiyeon...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/vLPtdrYZruY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🏕혼자서 차박은 처음이라 🚙 EP. 아이린 l 처음인데 뭐하지?]]></title>
             <link>https://www.youtube.com/watch?v=fLjAsN3khbw</link>
@@ -228,20 +244,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379831</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) entered the US Billboard 200 chart...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Beautiful’, the title track of NCT The...]]></title>
-            <link>https://now.smtown.com/news/detail/2379830</link>
-            <guid>https://now.smtown.com/news/detail/2379830</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM) to give hopeful &amp; consoling message to ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXO KAI, new mini album ‘Peaches’ to ha...]]></title>
-            <link>https://now.smtown.com/news/detail/2379829</link>
-            <guid>https://now.smtown.com/news/detail/2379829</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[EXO KAI (SM) brings hip-hop music through his n...]]></content:encoded>
         </item>
     </channel>
 </rss>
