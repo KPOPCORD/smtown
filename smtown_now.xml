@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 13:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 13:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🏕혼자서 차박은 처음이라 🚙 EP. 아이린 l 처음인데 뭐하지?]]></title>
+            <link>https://www.youtube.com/watch?v=fLjAsN3khbw</link>
+            <guid>https://www.youtube.com/watch?v=fLjAsN3khbw</guid>
+            <pubDate>Sun, 28 Nov 2021 13:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet Official
+http://www.youtube.com/redv...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fLjAsN3khbw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. ...]]></title>
             <link>https://www.youtube.com/watch?v=Wq0tloRrxek</link>
@@ -233,13 +242,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379829</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[EXO KAI (SM) brings hip-hop music through his n...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jazz Version of H.O.T. ‘The Promise’ to...]]></title>
-            <link>https://now.smtown.com/news/detail/2379828</link>
-            <guid>https://now.smtown.com/news/detail/2379828</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[H.O.T.'s hit song '우리들의 맹세 (The Promise of H.O....]]></content:encoded>
         </item>
     </channel>
 </rss>
