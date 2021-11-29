@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 정인 JungIn - 값 MV]]></title>
+            <link>https://www.youtube.com/watch?v=2uMAlvzG67s</link>
+            <guid>https://www.youtube.com/watch?v=2uMAlvzG67s</guid>
+            <pubDate>Mon, 29 Nov 2021 09:46:36 GMT</pubDate>
+            <content:encoded><![CDATA["함께한 사랑에 many가 되는 남자와 much가 되는 여자의 이야기"
+
+'미워요',...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2uMAlvzG67s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, a colorful world of music to unfol...]]></title>
             <link>https://now.smtown.com/news/detail/2379903</link>
@@ -232,14 +242,6 @@ ht...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[Yohan Kim X Hogyu 'Stiger' Hwang's "The Promise...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/C7zP7e4MDPQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손태진 SONTAEJIN | The Present 'At The Tim...]]></title>
-            <link>https://www.youtube.com/watch?v=eIIeC-YFkFs</link>
-            <guid>https://www.youtube.com/watch?v=eIIeC-YFkFs</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #ThePresent_AtTheTime #깊...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eIIeC-YFkFs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
