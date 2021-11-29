@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 09:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 10:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
+            <link>https://www.youtube.com/watch?v=qV--cQypbK0</link>
+            <guid>https://www.youtube.com/watch?v=qV--cQypbK0</guid>
+            <pubDate>Mon, 29 Nov 2021 10:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qV--cQypbK0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 정인 JungIn - 값 MV]]></title>
             <link>https://www.youtube.com/watch?v=2uMAlvzG67s</link>
@@ -234,14 +244,6 @@ ht...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[스피커 아티스트 이윤오(@leeyoonoh_)의 7번째 싱글 타이틀곡인 ‘Lullab...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Q-J4zFkBHmg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 요한킴 X 황호규 '우리들의 맹세 (The Promi...]]></title>
-            <link>https://www.youtube.com/watch?v=C7zP7e4MDPQ</link>
-            <guid>https://www.youtube.com/watch?v=C7zP7e4MDPQ</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Yohan Kim X Hogyu 'Stiger' Hwang's "The Promise...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/C7zP7e4MDPQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
