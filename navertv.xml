@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
+            <link>https://tv.naver.com/v/23806052</link>
+            <guid>https://tv.naver.com/v/23806052</guid>
+            <pubDate>Mon, 29 Nov 2021 15:50:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_291/dLoLz_1638194254675pSemQ_JPEG/1638194241067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' MV Teaser]]></title>
             <link>https://tv.naver.com/v/23786902</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Oct 2021 09:46:23 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_152/5NxjH_1634545239245n1xc8_JPEG/1634545230523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK 은혁 'be' MV Teaser #1]]></title>
-            <link>https://tv.naver.com/v/23020978</link>
-            <guid>https://tv.naver.com/v/23020978</guid>
-            <pubDate>Mon, 18 Oct 2021 13:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_134/WfEqk_1634530257295OXQln_JPEG/1634530239620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

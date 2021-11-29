@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
+            <link>https://www.youtube.com/watch?v=Qfj0yvBMB9E</link>
+            <guid>https://www.youtube.com/watch?v=Qfj0yvBMB9E</guid>
+            <pubDate>Mon, 29 Nov 2021 15:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Qfj0yvBMB9E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
             <link>https://www.youtube.com/watch?v=qV--cQypbK0</link>
@@ -236,14 +244,6 @@ ht...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe...]]></title>
-            <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
-            <guid>https://www.youtube.com/watch?v=Q-J4zFkBHmg</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[스피커 아티스트 이윤오(@leeyoonoh_)의 7번째 싱글 타이틀곡인 ‘Lullab...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Q-J4zFkBHmg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

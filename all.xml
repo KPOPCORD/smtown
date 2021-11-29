@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26672250</link>
+            <guid>https://vlive.tv/post/0-26672250</guid>
+            <pubDate>Mon, 29 Nov 2021 15:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26658043</link>
             <guid>https://vlive.tv/post/1-26658043</guid>
             <pubDate>Mon, 29 Nov 2021 13:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.28.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_239/1638102550285JaIBg_JPEG/1638101935954.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26618711</guid>
             <pubDate>Mon, 29 Nov 2021 13:02:06 GMT</pubDate>
             <content:encoded><![CDATA[11.26.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_207/1637917081092y7uFl_JPEG/1637916679351.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26211903</guid>
             <pubDate>Mon, 29 Nov 2021 13:02:06 GMT</pubDate>
             <content:encoded><![CDATA[10.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Dance Practice (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26191140</link>
-            <guid>https://vlive.tv/post/0-26191140</guid>
-            <pubDate>Mon, 29 Nov 2021 13:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[10.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b150d8ee9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Qfj0yvBMB9E</link>
+            <guid>https://www.youtube.com/watch?v=Qfj0yvBMB9E</guid>
+            <pubDate>Mon, 29 Nov 2021 15:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Qfj0yvBMB9E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=qV--cQypbK0</link>
             <guid>https://www.youtube.com/watch?v=qV--cQypbK0</guid>
@@ -799,14 +807,6 @@ ht...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Teaser] 이윤오(LEE YOON OH) - Lullaby (Fe... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Q-J4zFkBHmg</link>
-            <guid>https://www.youtube.com/watch?v=Q-J4zFkBHmg</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[스피커 아티스트 이윤오(@leeyoonoh_)의 7번째 싱글 타이틀곡인 ‘Lullab...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Q-J4zFkBHmg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최시원] 비상이다. 
@@ -1362,6 +1362,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23806052</link>
+            <guid>https://tv.naver.com/v/23806052</guid>
+            <pubDate>Mon, 29 Nov 2021 15:50:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_291/dLoLz_1638194254675pSemQ_JPEG/1638194241067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI 카이 'Peaches' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23786902</link>
             <guid>https://tv.naver.com/v/23786902</guid>
@@ -1592,14 +1600,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Mon, 18 Oct 2021 09:46:23 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211018_152/5NxjH_1634545239245n1xc8_JPEG/1634545230523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK 은혁 'be' MV Teaser #1 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23020978</link>
-            <guid>https://tv.naver.com/v/23020978</guid>
-            <pubDate>Mon, 18 Oct 2021 13:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_134/WfEqk_1634530257295OXQln_JPEG/1634530239620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
