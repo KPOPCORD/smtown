@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 06:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 07:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26658043</link>
             <guid>https://vlive.tv/post/1-26658043</guid>
             <pubDate>Mon, 29 Nov 2021 05:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_239/1638102550285JaIBg_JPEG/1638101935954.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -666,10 +666,11 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5N-TbvWicqg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA["우주대스타 → 김춘삼" KIM Heechul, Netflix's '신... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379898</link>
             <guid>https://now.smtown.com/news/detail/2379898</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KIM HEECHUL is captivating global ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Teaser] 정인 JungIn - 값 MV Teaser (SMTOWN ─ NOW)]]></title>
