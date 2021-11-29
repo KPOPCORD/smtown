@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 04:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,9 +23,11 @@
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CHOI SIWON's ‘술꾼도시여자들’ interview]]></title>
             <link>https://now.smtown.com/news/detail/2379900</link>
             <guid>https://now.smtown.com/news/detail/2379900</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[CHOI SIWON (SM) released an interview with the ...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2379899</link>
