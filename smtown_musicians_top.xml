@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 03:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 04:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5661</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5661</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:51 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5668</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5668</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0716b6d4ec.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452853a863.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5660</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5660</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:51 GMT</pubDate>
+            <title><![CDATA[컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5667</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5667</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0710c4e02d.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452027d086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

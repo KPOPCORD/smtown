@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 03:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 04:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5657</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5657</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:12 GMT</pubDate>
+            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5665</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06f66dbf0b.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘술꾼도시여자들’ 26일 최종화 공개! 최시원, 레전드 캐릭터 탄생시킨 참신한 노력 빛났다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5656</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5656</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:12 GMT</pubDate>
+            <title><![CDATA[‘크라임 퍼즐’ 고아성, 종영 소감 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5664</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5664</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘술꾼도시여자들’ 26일 최종화 공개! 최시원, 레전드 캐릭터 탄생시킨 참신한 노력 빛났다! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06eac74f86.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘크라임 퍼즐’ 고아성, 종영 소감 공개</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a450c643cc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 03:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 04:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5657</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5657</guid>
+            <pubDate>Mon, 29 Nov 2021 04:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[가수 규현이 한국 창작 뮤지컬 '프랑켄슈타인'으로 관객과 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06f66dbf0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김진곤, '학교 2021'로 첫 지상파 데뷔 소감]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5655</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이학주, 대세 배우의 열일 행보 ing]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5629</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5629</guid>
-            <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 장르불문한 맹활약으로 2021 대세 배우 입지를 확고히 했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619722fbedf08.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘술꾼도시여자들’ 26일 최종화 공개! 최시원, 레전드 캐릭터 탄생시킨 참신한 노력 빛났다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5656</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5656</guid>
+            <pubDate>Mon, 29 Nov 2021 04:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’의 피날레를 성대하게 장식할 예정이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06eac74f86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장윤주, 제42회 청룡영화상 여우조연상 노미네이트…26일 시상식 참석]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
             <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 연기자로 변신한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b150d8ee9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민호, 넷플릭스 시리즈 ‘더 패뷸러스’ 주연 ‘지우민’ 역 캐스팅 확정! ‘기대감 200%’ 상승]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5625</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5625</guid>
-            <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
-            <content:encoded><![CDATA[최민호(샤이니 민호, 에스엠엔터테인먼트 소속)가 글로벌 시청자들의 심장을 뛰게 만들 넷플릭스 시리즈 ‘더 패뷸러스’로 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_6195f5fda5d2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

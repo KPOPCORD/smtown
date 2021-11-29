@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 03:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 04:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5661</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5661</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 믿고 듣는 멤버 조합과 음악을 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0716b6d4ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 다채로운 음악으로 매력 UP!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5659</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddea901d73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 민호, 단독 팬미팅 ‘베스트 초이스 민호’ 12월 21일 개최!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5646</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5646</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)가 12월 21일 단독 팬미팅을 개최하고 팬들과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dddb746cba.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5660</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5660</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 최대 규모의 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’(메이시스 땡스기빙 데이 퍼레이드)에 참석했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0710c4e02d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 오후 6시 공개!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
             <content:encoded><![CDATA[H.O.T.의 히트곡 ‘우리들의 맹세 (The Promise of H.O.T.)’가 재즈 버전으로 재탄생된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dde5006521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, 플라이 투 더 스카이 ‘Day By Day’ 리마스터 뮤직비디오 25일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5641</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5641</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 R&amp;B 듀오’ 플라이 투 더 스카이(FLY TO THE SKY)의 데뷔곡 ‘Day By Day’(데이 바이 데이) 리마스터 뮤직비디오가 오는 25일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7fcabb09f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
