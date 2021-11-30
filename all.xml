@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 04:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26672250</link>
             <guid>https://vlive.tv/post/0-26672250</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,16 +571,18 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b150d8ee9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT, ‘NCT ‘Universe’ Countdown Live’ be... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379913</link>
             <guid>https://now.smtown.com/news/detail/2379913</guid>
             <pubDate>Tue, 30 Nov 2021 04:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM) will hold a live broadcast to commemora...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[EXO KAI’s new mini album ‘Peaches’ to b... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379912</link>
             <guid>https://now.smtown.com/news/detail/2379912</guid>
             <pubDate>Tue, 30 Nov 2021 04:47:46 GMT</pubDate>
+            <content:encoded><![CDATA['World-class performer' EXO KAI (SM) will make ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance (SMTOWN ─ NOW)]]></title>
