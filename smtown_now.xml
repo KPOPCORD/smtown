@@ -4,9 +4,30 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 09:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 10:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' MV]]></title>
+            <link>https://www.youtube.com/watch?v=GUdnTGnm6Yk</link>
+            <guid>https://www.youtube.com/watch?v=GUdnTGnm6Yk</guid>
+            <pubDate>Tue, 30 Nov 2021 10:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GUdnTGnm6Yk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 2021 월간 윤종신 Repair 11월호 - 12월]]></title>
+            <link>https://www.youtube.com/watch?v=jLtV5kxE788</link>
+            <guid>https://www.youtube.com/watch?v=jLtV5kxE788</guid>
+            <pubDate>Tue, 30 Nov 2021 10:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[[11월호 이야기]
+
+“끝과 시작의 계절, 겨울. 점점 끝으로 마음이 간다.”
+
+20...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jLtV5kxE788/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, ‘NCT ‘Universe’ Countdown Live’ be...]]></title>
             <link>https://now.smtown.com/news/detail/2379913</link>
@@ -225,23 +246,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379862</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[Kim Jin Gon, who made a new face in '학교 2021', ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jang Yoon Ju, nominated for Best Suppor...]]></title>
-            <link>https://now.smtown.com/news/detail/2379861</link>
-            <guid>https://now.smtown.com/news/detail/2379861</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Top model and actor Jang Yoon Ju, nominated for...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[H.O.T. '우리들의 맹세 (The Promise of H.O.T.)...]]></title>
-            <link>https://www.youtube.com/watch?v=U70rx--yUkE</link>
-            <guid>https://www.youtube.com/watch?v=U70rx--yUkE</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/U70rx--yUkE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
