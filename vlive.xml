@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 08:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 09:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' MV]]></title>
+            <link>https://vlive.tv/post/1-26690795</link>
+            <guid>https://vlive.tv/post/1-26690795</guid>
+            <pubDate>Tue, 30 Nov 2021 09:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
             <link>https://vlive.tv/post/0-26672250</link>
             <guid>https://vlive.tv/post/0-26672250</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26635523</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
             <content:encoded><![CDATA[11.27.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_113/1638023646979cyBGN_JPEG/1638023170116.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
             <content:encoded><![CDATA[10.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #2]]></title>
-            <link>https://vlive.tv/post/1-26211903</link>
-            <guid>https://vlive.tv/post/1-26211903</guid>
-            <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[10.29.]]></content:encoded>
         </item>
     </channel>
 </rss>
