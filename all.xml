@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26672250</link>
             <guid>https://vlive.tv/post/0-26672250</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[13시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT, 정규 3집 발매 기념 생방송 12월 14일 진행! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5670</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5670</guid>
+            <pubDate>Tue, 30 Nov 2021 04:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT, 정규 3집 발매 기념 생방송 12월 14일 진행!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59dd38ccae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 30일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5669</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5669</guid>
+            <pubDate>Tue, 30 Nov 2021 04:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">엑소 카이, 새 미니앨범 ‘Peaches’ 30일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59d830d3f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5668</link>
             <guid>https://www.smtown.com/artist/newsDetail/5668</guid>
             <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집으로 다채로운 색깔의 음악을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452853a863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5667</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5667</guid>
-            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452027d086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf7be8a9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 힙합 베이스도 담았다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5648</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5648</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 새 미니앨범을 통해 힙한 분위기의 음악을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddea901d73.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5667</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5667</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력의 퍼포먼스를 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452027d086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Wed, 24 Nov 2021 06:51:33 GMT</pubDate>
             <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 신곡 ‘Beautiful’(뷰티풀)로 전 세계에 긍정 메시지를 전한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddf1ed9da2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION’, H.O.T. ‘우리들의 맹세’ 재즈 버전 26일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5647</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5647</guid>
-            <pubDate>Wed, 24 Nov 2021 06:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[H.O.T.의 히트곡 ‘우리들의 맹세 (The Promise of H.O.T.)’가 재즈 버전으로 재탄생된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619dde5006521.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개! (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,18 @@
             <pubDate>Mon, 22 Nov 2021 04:55:10 GMT</pubDate>
             <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 연기자로 변신한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b150d8ee9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379913</link>
+            <guid>https://now.smtown.com/news/detail/2379913</guid>
+            <pubDate>Tue, 30 Nov 2021 04:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379912</link>
+            <guid>https://now.smtown.com/news/detail/2379912</guid>
+            <pubDate>Tue, 30 Nov 2021 04:47:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance (SMTOWN ─ NOW)]]></title>
@@ -791,22 +803,6 @@ ht...]]></content:encoded>
 
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/U70rx--yUkE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' Prologue Film (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=YQoO3concnE</link>
-            <guid>https://www.youtube.com/watch?v=YQoO3concnE</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YQoO3concnE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing M... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ZccOoZUA3Rs</link>
-            <guid>https://www.youtube.com/watch?v=ZccOoZUA3Rs</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최시원] 비상이다. 

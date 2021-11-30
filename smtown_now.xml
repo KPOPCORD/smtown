@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379913</link>
+            <guid>https://now.smtown.com/news/detail/2379913</guid>
+            <pubDate>Tue, 30 Nov 2021 04:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379912</link>
+            <guid>https://now.smtown.com/news/detail/2379912</guid>
+            <pubDate>Tue, 30 Nov 2021 04:47:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
             <link>https://www.youtube.com/watch?v=Qfj0yvBMB9E</link>
@@ -228,22 +238,6 @@ ht...]]></content:encoded>
 
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/U70rx--yUkE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
-            <link>https://www.youtube.com/watch?v=YQoO3concnE</link>
-            <guid>https://www.youtube.com/watch?v=YQoO3concnE</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YQoO3concnE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing M...]]></title>
-            <link>https://www.youtube.com/watch?v=ZccOoZUA3Rs</link>
-            <guid>https://www.youtube.com/watch?v=ZccOoZUA3Rs</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ZccOoZUA3Rs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

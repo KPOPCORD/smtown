@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5668</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5668</guid>
-            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 발매 기념 생방송 12월 14일 진행!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5670</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5670</guid>
+            <pubDate>Tue, 30 Nov 2021 04:46:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452853a863.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 발매 기념 생방송 12월 14일 진행!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59dd38ccae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5667</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5667</guid>
-            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
+            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 30일 발매!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5669</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5669</guid>
+            <pubDate>Tue, 30 Nov 2021 04:46:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452027d086.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">엑소 카이, 새 미니앨범 ‘Peaches’ 30일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59d830d3f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
