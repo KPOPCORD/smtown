@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:50:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26690795</link>
             <guid>https://vlive.tv/post/1-26690795</guid>
             <pubDate>Tue, 30 Nov 2021 09:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-26672250</link>
             <guid>https://vlive.tv/post/0-26672250</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.29.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b150d8ee9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파격적인 연기로 시청자들을 사로잡은 황세온과의 #1분인터뷰 #황세온 |... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=ovhGc_-FGyI</link>
+            <guid>https://www.youtube.com/watch?v=ovhGc_-FGyI</guid>
+            <pubDate>Tue, 30 Nov 2021 15:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[1min Interview with #HwangSeOn who fascinates p...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ovhGc_-FGyI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI 카이 'Peaches' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=GUdnTGnm6Yk</link>
             <guid>https://www.youtube.com/watch?v=GUdnTGnm6Yk</guid>
@@ -802,13 +810,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379863</guid>
             <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
             <content:encoded><![CDATA[CHOI SIWON (SM) is planning to decorate the fin...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kim Jin Gon's first ground wave debut w... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379862</link>
-            <guid>https://now.smtown.com/news/detail/2379862</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Kim Jin Gon, who made a new face in '학교 2021', ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
