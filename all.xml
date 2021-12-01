@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26690795</link>
             <guid>https://vlive.tv/post/1-26690795</guid>
             <pubDate>Tue, 30 Nov 2021 09:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.30.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[열심히 뛰고 🏃💨 생각하고 🤔 | Cover Behind | MA... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=RLaguWNR3zU</link>
+            <guid>https://www.youtube.com/watch?v=RLaguWNR3zU</guid>
+            <pubDate>Wed, 01 Dec 2021 09:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[내년에도 좋은 곡들 연습 많이해서 찾아뵙도록 할게요~^^ 노래 추천 많이 해주세요~�...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RLaguWNR3zU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[REPLAY] KAI 카이 'Peaches' Countdown Live (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=FC4U5Q8RvXQ</link>
             <guid>https://www.youtube.com/watch?v=FC4U5Q8RvXQ</guid>
@@ -803,13 +811,6 @@ http://www.youtube.com/redv...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5N-TbvWicqg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우주대스타 → 김춘삼" KIM Heechul, Netflix's '신... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379898</link>
-            <guid>https://now.smtown.com/news/detail/2379898</guid>
-            <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KIM HEECHUL is captivating global ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
