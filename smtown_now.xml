@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 08:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] KAI 카이 'Peaches' Countdown Live]]></title>
+            <link>https://www.youtube.com/watch?v=FC4U5Q8RvXQ</link>
+            <guid>https://www.youtube.com/watch?v=FC4U5Q8RvXQ</guid>
+            <pubDate>Wed, 01 Dec 2021 08:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[ENG/JPN/CHN/IDN subtitles will be added soon!
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FC4U5Q8RvXQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE #Cinema - KAI : KLoor [Offi...]]></title>
             <link>https://www.youtube.com/watch?v=r9TCI7MEug8</link>
@@ -237,17 +247,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379898</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KIM HEECHUL is captivating global ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Teaser] 정인 JungIn - 값 MV Teaser]]></title>
-            <link>https://www.youtube.com/watch?v=KPa3F2H8_ic</link>
-            <guid>https://www.youtube.com/watch?v=KPa3F2H8_ic</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[#정인 #JUNGIN #값 #박원
-
-정인 '값' MV Teaser
-2021.11.29...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KPa3F2H8_ic/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
