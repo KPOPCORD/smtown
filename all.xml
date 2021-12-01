@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26690795</link>
             <guid>https://vlive.tv/post/1-26690795</guid>
             <pubDate>Tue, 30 Nov 2021 09:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,22 +571,34 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Beyond LIVE #Cinema - KAI : KLoor [Offi... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=r9TCI7MEug8</link>
+            <guid>https://www.youtube.com/watch?v=r9TCI7MEug8</guid>
+            <pubDate>Wed, 01 Dec 2021 06:52:40 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/r9TCI7MEug8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 The 3rd Album 'Sticker' enters ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379938</link>
             <guid>https://now.smtown.com/news/detail/2379938</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) entered the US 'Billboard 200' cha...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[NCT DREAM's new song 'Dreaming', dreamy... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379937</link>
             <guid>https://now.smtown.com/news/detail/2379937</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM (SM) presents dreamy and intense char...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[EXO KAI’s new mini album ‘Peaches’ tops... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379936</link>
             <guid>https://now.smtown.com/news/detail/2379936</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM)'s new mini-album 'Peaches' was rel...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Collaboration of vocal god and goddess!... (SMTOWN ─ NOW)]]></title>
@@ -603,16 +615,18 @@
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E meets global fans with an Epil...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Musical ‘HADESTOWN’ Ji Hyun Jun, the ki... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379933</link>
             <guid>https://now.smtown.com/news/detail/2379933</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[Musical actor Ji Hyun Jun has transformed into ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Virtual influencer ROZY, W Korea Decemb... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379932</link>
             <guid>https://now.smtown.com/news/detail/2379932</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[Virtual influencer ROZY made her debut as her f...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파격적인 연기로 시청자들을 사로잡은 황세온과의 #1분인터뷰 #황세온 |... (SMTOWN ─ NOW)]]></title>
@@ -797,14 +811,6 @@ ht...]]></content:encoded>
 정인 '값' MV Teaser
 2021.11.29...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/KPa3F2H8_ic/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 요한킴 X 황호규 '우리들의 맹세 (The Promi... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ck-Y2-7tEIY</link>
-            <guid>https://www.youtube.com/watch?v=ck-Y2-7tEIY</guid>
-            <pubDate>Sat, 27 Nov 2021 07:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[Yohan Kim X Hogyu 'Stiger' Hwang's "The Promise...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ck-Y2-7tEIY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
