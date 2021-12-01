@@ -4,7 +4,7 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 06:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 07:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26690795</link>
             <guid>https://vlive.tv/post/1-26690795</guid>
             <pubDate>Tue, 30 Nov 2021 09:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,6 +44,13 @@
             <guid>https://vlive.tv/post/0-26618711</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
             <content:encoded><![CDATA[11.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
+            <link>https://vlive.tv/post/1-26616313</link>
+            <guid>https://vlive.tv/post/1-26616313</guid>
+            <pubDate>Wed, 01 Dec 2021 07:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver.]]></title>
             <link>https://vlive.tv/post/0-26234517</link>
             <guid>https://vlive.tv/post/0-26234517</guid>
-            <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[10.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV Teaser]]></title>
-            <link>https://vlive.tv/post/1-26256526</link>
-            <guid>https://vlive.tv/post/1-26256526</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
             <content:encoded><![CDATA[10.31.]]></content:encoded>
         </item>
