@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video]]></title>
+            <link>https://www.youtube.com/watch?v=qS7e7FmVRo0</link>
+            <guid>https://www.youtube.com/watch?v=qS7e7FmVRo0</guid>
+            <pubDate>Wed, 01 Dec 2021 15:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qS7e7FmVRo0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Let's pick peaches!🐻🍑]]></title>
             <link>https://www.youtube.com/watch?v=bT6tGj1e-DY</link>
@@ -239,14 +247,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 17:03:05 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nChWN1Emt38/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비밀스러운 공간🤫 | U+아이돌Live - XR LIVE : The ...]]></title>
-            <link>https://www.youtube.com/watch?v=FdTQIQ3OVdw</link>
-            <guid>https://www.youtube.com/watch?v=FdTQIQ3OVdw</guid>
-            <pubDate>Sat, 27 Nov 2021 14:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FdTQIQ3OVdw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

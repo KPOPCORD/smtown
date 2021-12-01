@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-26707236</link>
+            <guid>https://vlive.tv/post/1-26707236</guid>
+            <pubDate>Wed, 01 Dec 2021 15:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_192/1638347456869x02U4_JPEG/1638346835423.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26690795</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26658043</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_239/1638102550285JaIBg_JPEG/1638101935954.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing in our Dreams (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26226163</guid>
             <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
             <content:encoded><![CDATA[11.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver. (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26234517</link>
-            <guid>https://vlive.tv/post/0-26234517</guid>
-            <pubDate>Tue, 30 Nov 2021 03:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[10.31.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=qS7e7FmVRo0</link>
+            <guid>https://www.youtube.com/watch?v=qS7e7FmVRo0</guid>
+            <pubDate>Wed, 01 Dec 2021 15:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qS7e7FmVRo0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Let's pick peaches!🐻🍑 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=bT6tGj1e-DY</link>
             <guid>https://www.youtube.com/watch?v=bT6tGj1e-DY</guid>
@@ -802,14 +810,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 17:03:05 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nChWN1Emt38/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비밀스러운 공간🤫 | U+아이돌Live - XR LIVE : The ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=FdTQIQ3OVdw</link>
-            <guid>https://www.youtube.com/watch?v=FdTQIQ3OVdw</guid>
-            <pubDate>Sat, 27 Nov 2021 14:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FdTQIQ3OVdw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
@@ -1365,6 +1365,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23843105</link>
+            <guid>https://tv.naver.com/v/23843105</guid>
+            <pubDate>Wed, 01 Dec 2021 15:48:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_290/zi6s3_1638346854370GmuLN_JPEG/1638346835423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI 카이 'Peaches' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23820564</link>
             <guid>https://tv.naver.com/v/23820564</guid>
@@ -1595,14 +1603,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 20 Oct 2021 09:45:21 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_234/ksdtL_163469956285700eK7_JPEG/1634699545131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK 은혁 'be' MV Teaser #2 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23049468</link>
-            <guid>https://tv.naver.com/v/23049468</guid>
-            <pubDate>Tue, 19 Oct 2021 13:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_195/AeP7D_1634633362871sr2Ms_JPEG/1634633350474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
