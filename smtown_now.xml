@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 13:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 13:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Let's pick peaches!🐻🍑]]></title>
+            <link>https://www.youtube.com/watch?v=bT6tGj1e-DY</link>
+            <guid>https://www.youtube.com/watch?v=bT6tGj1e-DY</guid>
+            <pubDate>Wed, 01 Dec 2021 13:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bT6tGj1e-DY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열심히 뛰고 🏃💨 생각하고 🤔 | Cover Behind | MA...]]></title>
             <link>https://www.youtube.com/watch?v=RLaguWNR3zU</link>
@@ -238,16 +247,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Sat, 27 Nov 2021 14:42:40 GMT</pubDate>
             <content:encoded><![CDATA[Listen and download on your favorite platform: ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FdTQIQ3OVdw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
-            <link>https://www.youtube.com/watch?v=5N-TbvWicqg</link>
-            <guid>https://www.youtube.com/watch?v=5N-TbvWicqg</guid>
-            <pubDate>Sat, 27 Nov 2021 09:45:23 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5N-TbvWicqg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
