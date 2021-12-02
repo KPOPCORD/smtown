@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>SMTOWN ─ NOW</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 09:46:34 GMT</lastBuildDate>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://now.smtown.com/news</id>
+    <title>SMTOWN ─ NOW</title>
+    <updated>2021-12-02T10:47:01.943Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://now.smtown.com/favicon.ico</icon>
+</feed>21 10:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
