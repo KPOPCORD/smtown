@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26707236</link>
             <guid>https://vlive.tv/post/1-26707236</guid>
             <pubDate>Wed, 01 Dec 2021 21:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_192/1638347456869x02U4_JPEG/1638346835423.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 10주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5677</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5677</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:06 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5682</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5682</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 10주 연속 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6ea00a6091.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a869f0cd770.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5681</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5681</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">SM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a86992a5433.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 컴백 무대 4일 첫 방송! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5680</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5680</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)의 컴백 무대가 오는 4일 첫 방송된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a868f43d4d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM 신곡 ‘Dreaming’, 몽환+강렬 사운드로 글로벌 팬 매료! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5676</link>
             <guid>https://www.smtown.com/artist/newsDetail/5676</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT DREAM 신곡 ‘Dreaming’, 몽환+강렬 사운드로 글로벌 팬 매료! </span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT DREAM(엔시티 드림, 에스엠엔터테인먼트 소속)이 신곡 ‘Dreaming’(드리밍)으로 몽환과 강렬함을 넘나드는 매력을 선보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e990d852c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음색 남신X음색 여신의 만남! SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5674</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5674</guid>
+            <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 신곡 ‘별 하나 (Way)’로 듀엣 호흡을 맞췄다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e8792d571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 발매 기념 생방송 12월 14일 진행! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5670</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5670</guid>
+            <pubDate>Tue, 30 Nov 2021 04:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스) 발매 기념 생방송을 펼친다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59dd38ccae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5668</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5668</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집으로 다채로운 색깔의 음악을 들려준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452853a863.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 10주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5677</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5677</guid>
+            <pubDate>Wed, 01 Dec 2021 03:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 미국 ‘빌보드 200’ 차트에 10주 연속 진입했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6ea00a6091.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 아이튠즈 톱 앨범 차트 전 세계 58개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
@@ -425,70 +473,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452027d086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파 美 뉴욕 달궜다! 최대 추수감사절 축제 화려한 장식! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5660</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5660</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 최대 규모의 추수감사절 축제 ‘Macy’s Thanksgiving Day Parade’(메이시스 땡스기빙 데이 퍼레이드)에 참석했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0710c4e02d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이진기(샤이니 온유), 숏폼 콘텐츠 ‘4분 44초’ 주인공 캐스팅! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5679</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5679</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">이진기(샤이니 온유), 숏폼 콘텐츠 ‘4분 44초’ 주인공 캐스팅! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8689836c62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[음색 남신X음색 여신의 만남! SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5674</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5674</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 신곡 ‘별 하나 (Way)’로 듀엣 호흡을 맞췄다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e8792d571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 발매 기념 생방송 12월 14일 진행! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5670</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5670</guid>
-            <pubDate>Tue, 30 Nov 2021 04:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스) 발매 기념 생방송을 펼친다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59dd38ccae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5668</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5668</guid>
-            <pubDate>Mon, 29 Nov 2021 04:55:21 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집으로 다채로운 색깔의 음악을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452853a863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 新 조합 X 다양한 음악 색깔 담았다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5661</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5661</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 믿고 듣는 멤버 조합과 음악을 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0716b6d4ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 다채로운 음악으로 매력 UP! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5659</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5659</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 새 미니앨범을 통해 다채로운 매력의 음악을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a0708445aec.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[KBS 2TV ‘연모’ 김재철, 짙은 여운 남긴 강렬한 퇴장 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5678</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5678</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">KBS 2TV ‘연모’ 김재철, 짙은 여운 남긴 강렬한 퇴장</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8680b0c995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 ‘하데스타운’ 지현준, 지하 세계의 왕 하데스 그 자체! (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5672</link>
             <guid>https://www.smtown.com/artist/newsDetail/5672</guid>
             <pubDate>Wed, 01 Dec 2021 03:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">뮤지컬 ‘하데스타운’ 지현준, 지하 세계의 왕 하데스 그 자체!</span>]]></content:encoded>
+            <content:encoded><![CDATA[뮤지컬 배우 지현준이 지하 세계의 주인 ‘하데스’ 그 자체로 변신했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5665</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
-            <pubDate>Mon, 29 Nov 2021 04:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘크라임 퍼즐’ 고아성, 종영 소감 공개 (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddce8bc895.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5636</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5636</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 숨겨왔던 진중한 모습으로 로맨스의 불을 지폈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16f402224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5665</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
+            <pubDate>Mon, 29 Nov 2021 04:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’ 마무리 소감이 담긴 일문일답 인터뷰를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고 (SMTOWN ─ Actors News)]]></title>
@@ -563,12 +571,35 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한선화, 브라운관 넘어 스크린-OTT까지 섭렵! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5635</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5635</guid>
-            <pubDate>Mon, 22 Nov 2021 04:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한선화가 스크린과 안방극장을 넘나드는 전천후 활약을 펼치고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379972</link>
+            <guid>https://now.smtown.com/news/detail/2379972</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379971</link>
+            <guid>https://now.smtown.com/news/detail/2379971</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379970</link>
+            <guid>https://now.smtown.com/news/detail/2379970</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LEE JINKI (SHINee ONEW) has been cast a... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379969</link>
+            <guid>https://now.smtown.com/news/detail/2379969</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[LEE JINKI (SHINee ONEW, SM) continues his actin...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2379968</link>
+            <guid>https://now.smtown.com/news/detail/2379968</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (SMTOWN ─ NOW)]]></title>
@@ -768,48 +799,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379899</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
             <content:encoded><![CDATA[Actor Ko A Sung, who showed a strong side to th...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV Teaser (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=TQaO6nbls9E</link>
-            <guid>https://www.youtube.com/watch?v=TQaO6nbls9E</guid>
-            <pubDate>Sun, 28 Nov 2021 15:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TQaO6nbls9E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#술꾼도시여자들] 한지연의 모든 순간! #한선화 #키동캠 ｜Han S... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=vLPtdrYZruY</link>
-            <guid>https://www.youtube.com/watch?v=vLPtdrYZruY</guid>
-            <pubDate>Sun, 28 Nov 2021 15:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[[#WorkLaterDrinkNow] Every moment of Han Jiyeon...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vLPtdrYZruY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🏕혼자서 차박은 처음이라 🚙 EP. 아이린 l 처음인데 뭐하지? (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=fLjAsN3khbw</link>
-            <guid>https://www.youtube.com/watch?v=fLjAsN3khbw</guid>
-            <pubDate>Sun, 28 Nov 2021 13:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet Official
-http://www.youtube.com/redv...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fLjAsN3khbw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Wq0tloRrxek</link>
-            <guid>https://www.youtube.com/watch?v=Wq0tloRrxek</guid>
-            <pubDate>Sun, 28 Nov 2021 03:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. 전제덕)
-“De...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Wq0tloRrxek/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=nChWN1Emt38</link>
-            <guid>https://www.youtube.com/watch?v=nChWN1Emt38</guid>
-            <pubDate>Sat, 27 Nov 2021 17:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nChWN1Emt38/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 

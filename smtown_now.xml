@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379972</link>
+            <guid>https://now.smtown.com/news/detail/2379972</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379971</link>
+            <guid>https://now.smtown.com/news/detail/2379971</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379970</link>
+            <guid>https://now.smtown.com/news/detail/2379970</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LEE JINKI (SHINee ONEW) has been cast a...]]></title>
+            <link>https://now.smtown.com/news/detail/2379969</link>
+            <guid>https://now.smtown.com/news/detail/2379969</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[LEE JINKI (SHINee ONEW, SM) continues his actin...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379968</link>
+            <guid>https://now.smtown.com/news/detail/2379968</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video]]></title>
             <link>https://www.youtube.com/watch?v=qS7e7FmVRo0</link>
@@ -205,48 +232,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379899</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
             <content:encoded><![CDATA[Actor Ko A Sung, who showed a strong side to th...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV Teaser]]></title>
-            <link>https://www.youtube.com/watch?v=TQaO6nbls9E</link>
-            <guid>https://www.youtube.com/watch?v=TQaO6nbls9E</guid>
-            <pubDate>Sun, 28 Nov 2021 15:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TQaO6nbls9E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#술꾼도시여자들] 한지연의 모든 순간! #한선화 #키동캠 ｜Han S...]]></title>
-            <link>https://www.youtube.com/watch?v=vLPtdrYZruY</link>
-            <guid>https://www.youtube.com/watch?v=vLPtdrYZruY</guid>
-            <pubDate>Sun, 28 Nov 2021 15:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[[#WorkLaterDrinkNow] Every moment of Han Jiyeon...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/vLPtdrYZruY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🏕혼자서 차박은 처음이라 🚙 EP. 아이린 l 처음인데 뭐하지?]]></title>
-            <link>https://www.youtube.com/watch?v=fLjAsN3khbw</link>
-            <guid>https://www.youtube.com/watch?v=fLjAsN3khbw</guid>
-            <pubDate>Sun, 28 Nov 2021 13:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet Official
-http://www.youtube.com/redv...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fLjAsN3khbw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. ...]]></title>
-            <link>https://www.youtube.com/watch?v=Wq0tloRrxek</link>
-            <guid>https://www.youtube.com/watch?v=Wq0tloRrxek</guid>
-            <pubDate>Sun, 28 Nov 2021 03:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[[MV] 이윤오(LEE YOON OH) – Lullaby (Feat. 전제덕)
-“De...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Wq0tloRrxek/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing ...]]></title>
-            <link>https://www.youtube.com/watch?v=nChWN1Emt38</link>
-            <guid>https://www.youtube.com/watch?v=nChWN1Emt38</guid>
-            <pubDate>Sat, 27 Nov 2021 17:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nChWN1Emt38/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

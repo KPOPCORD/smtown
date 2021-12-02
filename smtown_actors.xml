@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘하데스타운’ 지현준, 지하 세계의 왕 하데스 그 자체!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5672</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5672</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 배우 지현준이 지하 세계의 주인 ‘하데스’ 그 자체로 변신했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘크라임 퍼즐’ 고아성, 종영 소감 공개]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5664</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddce8bc895.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티빙 오리지널 ‘술꾼도시여자들’ 최시원, 따뜻한 배려+자신만의 위로로 뭉클함 선사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5636</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5636</guid>
-            <pubDate>Wed, 24 Nov 2021 06:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’ 최시원(에스엠엔터테인먼트 소속)이 숨겨왔던 진중한 모습으로 로맨스의 불을 지폈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16f402224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5665</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’ 마무리 소감이 담긴 일문일답 인터뷰를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 06:52:13 GMT</pubDate>
             <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 안방극장에 눈도장을 찍었다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화, 브라운관 넘어 스크린-OTT까지 섭렵!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5635</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5635</guid>
-            <pubDate>Tue, 23 Nov 2021 06:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 한선화가 스크린과 안방극장을 넘나드는 전천후 활약을 펼치고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619b16872da05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

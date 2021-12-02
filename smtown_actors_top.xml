@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 ‘하데스타운’ 지현준, 지하 세계의 왕 하데스 그 자체!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5672</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5672</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:28 GMT</pubDate>
+            <title><![CDATA[이진기(샤이니 온유), 숏폼 콘텐츠 ‘4분 44초’ 주인공 캐스팅!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5679</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5679</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">뮤지컬 ‘하데스타운’ 지현준, 지하 세계의 왕 하데스 그 자체!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">이진기(샤이니 온유), 숏폼 콘텐츠 ‘4분 44초’ 주인공 캐스팅! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8689836c62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5665</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
-            <pubDate>Mon, 29 Nov 2021 04:55:47 GMT</pubDate>
+            <title><![CDATA[KBS 2TV ‘연모’ 김재철, 짙은 여운 남긴 강렬한 퇴장]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5678</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5678</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">KBS 2TV ‘연모’ 김재철, 짙은 여운 남긴 강렬한 퇴장</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8680b0c995.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

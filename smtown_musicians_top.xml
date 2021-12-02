@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 10주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5677</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5677</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:06 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5682</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5682</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 10주 연속 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6ea00a6091.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a869f0cd770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT DREAM 신곡 ‘Dreaming’, 몽환+강렬 사운드로 글로벌 팬 매료!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5676</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5676</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:06 GMT</pubDate>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5681</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5681</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT DREAM 신곡 ‘Dreaming’, 몽환+강렬 사운드로 글로벌 팬 매료! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e990d852c.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a86992a5433.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
