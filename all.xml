@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 08:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 09:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26707236</link>
             <guid>https://vlive.tv/post/1-26707236</guid>
             <pubDate>Wed, 01 Dec 2021 21:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_192/1638347456869x02U4_JPEG/1638346835423.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=AUrrUigTOAU</link>
+            <guid>https://www.youtube.com/watch?v=AUrrUigTOAU</guid>
+            <pubDate>Thu, 02 Dec 2021 09:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AUrrUigTOAU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘Universe (Let’s Play Ball)’, the title... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379972</link>
             <guid>https://now.smtown.com/news/detail/2379972</guid>
@@ -796,13 +806,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379900</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
             <content:encoded><![CDATA[CHOI SIWON (SM) released an interview with the ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘크라임 퍼즐’ Ko A Sung, Concluding Remarks (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379899</link>
-            <guid>https://now.smtown.com/news/detail/2379899</guid>
-            <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Ko A Sung, who showed a strong side to th...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 

@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 08:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 09:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
+            <link>https://www.youtube.com/watch?v=AUrrUigTOAU</link>
+            <guid>https://www.youtube.com/watch?v=AUrrUigTOAU</guid>
+            <pubDate>Thu, 02 Dec 2021 09:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AUrrUigTOAU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Universe (Let’s Play Ball)’, the title...]]></title>
             <link>https://now.smtown.com/news/detail/2379972</link>
@@ -233,13 +243,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379900</guid>
             <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
             <content:encoded><![CDATA[CHOI SIWON (SM) released an interview with the ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘크라임 퍼즐’ Ko A Sung, Concluding Remarks]]></title>
-            <link>https://now.smtown.com/news/detail/2379899</link>
-            <guid>https://now.smtown.com/news/detail/2379899</guid>
-            <pubDate>Mon, 29 Nov 2021 04:56:15 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Ko A Sung, who showed a strong side to th...]]></content:encoded>
         </item>
     </channel>
 </rss>
