@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26707236</link>
             <guid>https://vlive.tv/post/1-26707236</guid>
             <pubDate>Wed, 01 Dec 2021 21:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_192/1638347456869x02U4_JPEG/1638346835423.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Universe (Let’s Play Ball)’, the title... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379972</link>
             <guid>https://now.smtown.com/news/detail/2379972</guid>
             <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM) to be pre-released a new song 'Universe...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM 'Remastering Project', BoA debut son... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379971</link>
             <guid>https://now.smtown.com/news/detail/2379971</guid>
             <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[BoA(SM)'s debut song 'ID; Peace B’ remastered m...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘World-class performer’ EXO KAI’s comeb... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379970</link>
             <guid>https://now.smtown.com/news/detail/2379970</guid>
             <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA['World-class performer' EXO KAI (SM) comeback s...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LEE JINKI (SHINee ONEW) has been cast a... (SMTOWN ─ NOW)]]></title>
@@ -596,10 +599,11 @@
             <content:encoded><![CDATA[LEE JINKI (SHINee ONEW, SM) continues his actin...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KBS 2TV ‘연모’ Kim Jea Chul, leaving a st... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2379968</link>
             <guid>https://now.smtown.com/news/detail/2379968</guid>
             <pubDate>Thu, 02 Dec 2021 06:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[Kim Jea Chul's intense death left a heavy impre...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (SMTOWN ─ NOW)]]></title>
