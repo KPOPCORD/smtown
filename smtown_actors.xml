@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 2TV ‘연모’ 김재철, 짙은 여운 남긴 강렬한 퇴장]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5678</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5678</guid>
+            <pubDate>Fri, 03 Dec 2021 08:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[김재철이 강렬한 죽음을 맞이하며 안방극장에 묵직한 여운을 남겼다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8680b0c995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5665</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
+            <pubDate>Thu, 02 Dec 2021 06:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’ 마무리 소감이 담긴 일문일답 인터뷰를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5657</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5657</guid>
+            <pubDate>Mon, 29 Nov 2021 04:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[가수 규현이 한국 창작 뮤지컬 '프랑켄슈타인'으로 관객과 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06f66dbf0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김진곤, '학교 2021'로 첫 지상파 데뷔 소감]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5655</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5655</guid>
+            <pubDate>Fri, 26 Nov 2021 05:41:22 GMT</pubDate>
+            <content:encoded><![CDATA['학교 2021'에서 새로운 얼굴로 눈도장을 찍은 김진곤이 출연 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06e4ba3deb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김서형, KAFA 장편 영화 '비닐하우스' 출연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5645</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5645</guid>
+            <pubDate>Fri, 26 Nov 2021 05:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[김서형이 영화 ‘비닐하우스’의 주연으로 나서며 독보적인 연기 행보를 이어나간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddd3a55aa6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘하데스타운’ 지현준, 지하 세계의 왕 하데스 그 자체!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5672</link>
@@ -46,46 +86,6 @@
             <pubDate>Fri, 26 Nov 2021 05:41:22 GMT</pubDate>
             <content:encoded><![CDATA[드라마 '구경이'로 화제를 모으고 있는 배우 백성철의 새 프로필 사진이 공개됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddce8bc895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5665</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
-            <pubDate>Thu, 02 Dec 2021 06:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’ 마무리 소감이 담긴 일문일답 인터뷰를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5657</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5657</guid>
-            <pubDate>Mon, 29 Nov 2021 04:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[가수 규현이 한국 창작 뮤지컬 '프랑켄슈타인'으로 관객과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06f66dbf0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김진곤, '학교 2021'로 첫 지상파 데뷔 소감]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5655</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5655</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA['학교 2021'에서 새로운 얼굴로 눈도장을 찍은 김진곤이 출연 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06e4ba3deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김서형, KAFA 장편 영화 '비닐하우스' 출연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5645</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5645</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[김서형이 영화 ‘비닐하우스’의 주연으로 나서며 독보적인 연기 행보를 이어나간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddd3a55aa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조준영, JTBC 드라마 ‘아이돌’ 최정상 보이 그룹 ‘마스’ 레이 역으로 눈도장!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5640</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5640</guid>
-            <pubDate>Wed, 24 Nov 2021 06:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 안방극장에 눈도장을 찍었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619c7f3a1070b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

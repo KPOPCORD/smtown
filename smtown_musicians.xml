@@ -4,49 +4,9 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈, ‘설렘 유발 비주얼’ 담긴 사진 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5684</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5684</guid>
-            <pubDate>Fri, 03 Dec 2021 06:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘지금 헤어지는 중입니다’ 오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)의 연기하는 모습이 담긴 사진이 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b6698f6b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5682</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5682</guid>
-            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 오는 10일 신곡 ‘Universe (Let’s Play Ball)’(유니버스)를 선공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a869f0cd770.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 컴백 무대 4일 첫 방송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5680</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5680</guid>
-            <pubDate>Thu, 02 Dec 2021 06:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)의 컴백 무대가 오는 4일 첫 방송된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a868f43d4d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 신곡 ‘Dreaming’, 몽환+강렬 사운드로 글로벌 팬 매료!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5676</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5676</guid>
-            <pubDate>Thu, 02 Dec 2021 06:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM(엔시티 드림, 에스엠엔터테인먼트 소속)이 신곡 ‘Dreaming’(드리밍)으로 몽환과 강렬함을 넘나드는 매력을 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e990d852c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음색 남신X음색 여신의 만남! SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5674</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5674</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 신곡 ‘별 하나 (Way)’로 듀엣 호흡을 맞췄다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e8792d571.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[슈퍼주니어 이특, '2021 AAA' 믿고 보는 6년 연속 MC…K-컬쳐 페스티벌 이끈 특급 센스]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5683</link>
@@ -86,6 +46,46 @@
             <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 에필로그 앨범으로 글로벌 팬들을 만난다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7da46fa4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5682</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5682</guid>
+            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 오는 10일 신곡 ‘Universe (Let’s Play Ball)’(유니버스)를 선공개한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a869f0cd770.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 컴백 무대 4일 첫 방송!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5680</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5680</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)의 컴백 무대가 오는 4일 첫 방송된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a868f43d4d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM 신곡 ‘Dreaming’, 몽환+강렬 사운드로 글로벌 팬 매료!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5676</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5676</guid>
+            <pubDate>Thu, 02 Dec 2021 06:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM(엔시티 드림, 에스엠엔터테인먼트 소속)이 신곡 ‘Dreaming’(드리밍)으로 몽환과 강렬함을 넘나드는 매력을 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e990d852c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음색 남신X음색 여신의 만남! SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5674</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5674</guid>
+            <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 신곡 ‘별 하나 (Way)’로 듀엣 호흡을 맞췄다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e8792d571.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 발매 기념 생방송 12월 14일 진행!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5670</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5670</guid>
+            <pubDate>Fri, 03 Dec 2021 08:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스) 발매 기념 생방송을 펼친다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59dd38ccae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
