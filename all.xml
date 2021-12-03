@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 14:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WayV 威神V 'Miracle' Track Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-26736813</link>
+            <guid>https://vlive.tv/post/1-26736813</guid>
+            <pubDate>Fri, 03 Dec 2021 15:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_118/16384991742466xHCo_JPEG/1638499140429.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26707236</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26672250</guid>
             <pubDate>Fri, 03 Dec 2021 13:01:21 GMT</pubDate>
             <content:encoded><![CDATA[11.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' MV Teaser (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[Red Velvet 레드벨벳 'Bad Boy (PREP Remix)' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26273308</link>
             <guid>https://vlive.tv/post/1-26273308</guid>
-            <pubDate>Fri, 03 Dec 2021 13:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[11.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDOWN] Highlight Medley (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26226163</link>
-            <guid>https://vlive.tv/post/1-26226163</guid>
             <pubDate>Fri, 03 Dec 2021 13:01:21 GMT</pubDate>
             <content:encoded><![CDATA[11.1.]]></content:encoded>
         </item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddce8bc895.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[WayV 威神V 'Miracle' Track Video (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=0R1rDjIXzF0</link>
+            <guid>https://www.youtube.com/watch?v=0R1rDjIXzF0</guid>
+            <pubDate>Fri, 03 Dec 2021 15:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0R1rDjIXzF0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ep 6. 뭉치면 살고, 흩어지면 죽는다! | 아날로그 트립 (Anal... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=YdaS36k8DWY</link>
             <guid>https://www.youtube.com/watch?v=YdaS36k8DWY</guid>
@@ -586,6 +594,14 @@
             <pubDate>Fri, 03 Dec 2021 14:42:25 GMT</pubDate>
             <content:encoded><![CDATA[🌺Short-hair Goddess🌺 Non-breathing beauty of ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/E2P_i-E3EgM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💚Indonesian NCTzens Aku Bersamamu💚 | ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=1ryb8LBrDdg</link>
+            <guid>https://www.youtube.com/watch?v=1ryb8LBrDdg</guid>
+            <pubDate>Fri, 03 Dec 2021 15:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[#NCTDREAM #Tokopedia #WIBKpopAwards&nbsp;#TokopediaW...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1ryb8LBrDdg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT's 3rd album, WayV's new song 'Mirac... (SMTOWN ─ NOW)]]></title>
@@ -788,25 +804,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/GUdnTGnm6Yk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 2021 월간 윤종신 Repair 11월호 - 12월 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=jLtV5kxE788</link>
-            <guid>https://www.youtube.com/watch?v=jLtV5kxE788</guid>
-            <pubDate>Fri, 03 Dec 2021 13:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[[11월호 이야기]
-
-“끝과 시작의 계절, 겨울. 점점 끝으로 마음이 간다.”
-
-20...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/jLtV5kxE788/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, ‘NCT ‘Universe’ Countdown Live’ be... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379913</link>
-            <guid>https://now.smtown.com/news/detail/2379913</guid>
-            <pubDate>Fri, 03 Dec 2021 13:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM) will hold a live broadcast to commemora...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
@@ -1362,6 +1359,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[WayV 威神V 'Miracle' Track Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23877625</link>
+            <guid>https://tv.naver.com/v/23877625</guid>
+            <pubDate>Fri, 03 Dec 2021 15:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_32/Cvzef_1638499143872yVUN4_JPEG/1638499140429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23843105</link>
             <guid>https://tv.naver.com/v/23843105</guid>
@@ -1592,14 +1597,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 21 Oct 2021 13:04:12 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_68/x0eif_1634798014229fNGJj_JPEG/1634798008862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK 은혁 'be' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23054613</link>
-            <guid>https://tv.naver.com/v/23054613</guid>
-            <pubDate>Wed, 20 Oct 2021 09:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_234/ksdtL_163469956285700eK7_JPEG/1634699545131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
