@@ -4,9 +4,33 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 06:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT's 3rd album, WayV's new song 'Mirac...]]></title>
+            <link>https://now.smtown.com/news/detail/2379992</link>
+            <guid>https://now.smtown.com/news/detail/2379992</guid>
+            <pubDate>Fri, 03 Dec 2021 06:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM) presents a trendy sensibility with the...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379991</link>
+            <guid>https://now.smtown.com/news/detail/2379991</guid>
+            <pubDate>Fri, 03 Dec 2021 06:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos of OH SEHUN for the drama ‘Now w...]]></title>
+            <link>https://now.smtown.com/news/detail/2379990</link>
+            <guid>https://now.smtown.com/news/detail/2379990</guid>
+            <pubDate>Fri, 03 Dec 2021 06:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[A photo of OH SEHUN (EXO SEHUN, SM) acting in 「...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2379983</link>
+            <guid>https://now.smtown.com/news/detail/2379983</guid>
+            <pubDate>Fri, 03 Dec 2021 06:52:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[✨🐿🍑🐿🍑✨#LetsPickPeaches]]></title>
             <link>https://www.youtube.com/watch?v=-HgJ2TIvu8s</link>
@@ -214,40 +238,6 @@ Listen a...]]></content:encoded>
             <pubDate>Thu, 02 Dec 2021 13:44:52 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Qfj0yvBMB9E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
-            <link>https://www.youtube.com/watch?v=qV--cQypbK0</link>
-            <guid>https://www.youtube.com/watch?v=qV--cQypbK0</guid>
-            <pubDate>Thu, 02 Dec 2021 13:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qV--cQypbK0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 정인 JungIn - 값 MV]]></title>
-            <link>https://www.youtube.com/watch?v=2uMAlvzG67s</link>
-            <guid>https://www.youtube.com/watch?v=2uMAlvzG67s</guid>
-            <pubDate>Thu, 02 Dec 2021 13:44:52 GMT</pubDate>
-            <content:encoded><![CDATA["함께한 사랑에 many가 되는 남자와 much가 되는 여자의 이야기"
-
-'미워요',...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2uMAlvzG67s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, a colorful world of music to unfol...]]></title>
-            <link>https://now.smtown.com/news/detail/2379903</link>
-            <guid>https://now.smtown.com/news/detail/2379903</guid>
-            <pubDate>Thu, 02 Dec 2021 13:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM) will present colorful music with their ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Comeback D-1! EXO KAI, title song 'Peac...]]></title>
-            <link>https://now.smtown.com/news/detail/2379902</link>
-            <guid>https://now.smtown.com/news/detail/2379902</guid>
-            <pubDate>Thu, 02 Dec 2021 13:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) presents a...]]></content:encoded>
         </item>
     </channel>
 </rss>

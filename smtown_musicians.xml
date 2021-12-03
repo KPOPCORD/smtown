@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 06:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈, ‘설렘 유발 비주얼’ 담긴 사진 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5684</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5684</guid>
+            <pubDate>Fri, 03 Dec 2021 06:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘지금 헤어지는 중입니다’ 오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)의 연기하는 모습이 담긴 사진이 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b6698f6b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5682</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5682</guid>
+            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 오는 10일 신곡 ‘Universe (Let’s Play Ball)’(유니버스)를 선공개한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a869f0cd770.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘월드클래스 퍼포머’ 엑소 카이, 컴백 무대 4일 첫 방송!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5680</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e8792d571.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT, 정규 3집 발매 기념 생방송 12월 14일 진행!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5670</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5670</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스) 발매 기념 생방송을 펼친다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59dd38ccae.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈퍼주니어 이특, '2021 AAA' 믿고 보는 6년 연속 MC…K-컬쳐 페스티벌 이끈 특급 센스]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5683</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5683</guid>
+            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 슈퍼주니어 멤버 이특이 '2021 AAA'에서도 6년 연속 MC의 진가를 보여줬다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b553e4e20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT, 정규 3집 ‘Universe’로 펼칠 다채로운 음악 세계!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5668</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5668</guid>
-            <pubDate>Tue, 30 Nov 2021 04:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집으로 다채로운 색깔의 음악을 들려준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452853a863.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 보아 데뷔곡 ‘ID; Peace B’ 리마스터 MV 오늘 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5681</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5681</guid>
+            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘아시아의 별’ 보아(BoA, 에스엠엔터테인먼트 소속)의 데뷔곡 ‘ID; Peace B’(아이디; 피스 비) 리마스터 뮤직비디오가 오늘(2일) 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a86992a5433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 10주 연속 차트인!]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 에필로그 앨범으로 글로벌 팬들을 만난다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7da46fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이, 새 미니앨범 ‘Peaches’ 30일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5669</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5669</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 30일 새 미니앨범 ‘Peaches’(피치스)로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a59d830d3f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백 D-1! 엑소 카이, 타이틀 곡 ‘Peaches’ 달콤 스웨그 퍼포먼스 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5667</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5667</guid>
-            <pubDate>Tue, 30 Nov 2021 04:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 신곡 ‘Peaches’(피치스)로 스윗한 매력의 퍼포먼스를 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a452027d086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
