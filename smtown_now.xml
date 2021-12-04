@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 14:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 15:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보너스 영상 #3 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
+            <link>https://www.youtube.com/watch?v=axpxtlwRwzA</link>
+            <guid>https://www.youtube.com/watch?v=axpxtlwRwzA</guid>
+            <pubDate>Sat, 04 Dec 2021 15:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[정우와 해찬이 물에 빠진 사연은?!
+
+유튜브 오리지널 아날로그 트립 NCT 127에서...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/axpxtlwRwzA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Let’s pick BLUE & PINK peaches💙💖🍑]]></title>
             <link>https://www.youtube.com/watch?v=7bz1yt66jsQ</link>
@@ -234,14 +244,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379932</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:53 GMT</pubDate>
             <content:encoded><![CDATA[Virtual influencer ROZY made her debut as her f...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파격적인 연기로 시청자들을 사로잡은 황세온과의 #1분인터뷰 #황세온 |...]]></title>
-            <link>https://www.youtube.com/watch?v=ovhGc_-FGyI</link>
-            <guid>https://www.youtube.com/watch?v=ovhGc_-FGyI</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[1min Interview with #HwangSeOn who fascinates p...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ovhGc_-FGyI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
