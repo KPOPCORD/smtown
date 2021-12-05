@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 15:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 17:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
+            <link>https://www.youtube.com/watch?v=5bocmq9IWh0</link>
+            <guid>https://www.youtube.com/watch?v=5bocmq9IWh0</guid>
+            <pubDate>Sun, 05 Dec 2021 17:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5bocmq9IWh0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑]]></title>
             <link>https://www.youtube.com/watch?v=fboUFjZJ5V0</link>
@@ -241,13 +249,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379935</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:53 GMT</pubDate>
             <content:encoded><![CDATA[SHINee ONEW (SM) and singer Punch collaborated ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, 1st album Epilogue 'C...]]></title>
-            <link>https://now.smtown.com/news/detail/2379934</link>
-            <guid>https://now.smtown.com/news/detail/2379934</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E meets global fans with an Epil...]]></content:encoded>
         </item>
     </channel>
 </rss>
