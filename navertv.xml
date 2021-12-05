@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
+            <link>https://tv.naver.com/v/23917181</link>
+            <guid>https://tv.naver.com/v/23917181</guid>
+            <pubDate>Sun, 05 Dec 2021 15:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_281/adh0u_1638718542937zyDUa_JPEG/1638718539603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video Teaser]]></title>
             <link>https://tv.naver.com/v/23904763</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Oct 2021 13:02:16 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211023_289/SfmsZ_1634991319837K84iM_JPEG/1634991302096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/23130301</link>
-            <guid>https://tv.naver.com/v/23130301</guid>
-            <pubDate>Sat, 23 Oct 2021 15:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211023_18/qjKwW_1634974401700lLau4_JPEG/1634974372830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

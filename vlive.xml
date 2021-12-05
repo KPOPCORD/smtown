@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
+            <link>https://vlive.tv/post/0-26805729</link>
+            <guid>https://vlive.tv/post/0-26805729</guid>
+            <pubDate>Sun, 05 Dec 2021 15:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_39/16387185749021nrg5_JPEG/1638718539603.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video Teaser]]></title>
             <link>https://vlive.tv/post/1-26789260</link>
             <guid>https://vlive.tv/post/1-26789260</guid>
             <pubDate>Sun, 05 Dec 2021 04:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.4.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_100/1638620102071JsUlw_JPEG/upload_82699829483169950d2a28cc1-d892-4d1b-8840-68484f7adf33.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26707236</guid>
             <pubDate>Sun, 05 Dec 2021 04:54:00 GMT</pubDate>
             <content:encoded><![CDATA[12.1.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_192/1638347456869x02U4_JPEG/1638346835423.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV]]></title>
             <link>https://vlive.tv/post/1-26273198</link>
             <guid>https://vlive.tv/post/1-26273198</guid>
-            <pubDate>Sun, 05 Dec 2021 04:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Dance Practice]]></title>
-            <link>https://vlive.tv/post/0-26267473</link>
-            <guid>https://vlive.tv/post/0-26267473</guid>
             <pubDate>Sun, 05 Dec 2021 04:53:59 GMT</pubDate>
             <content:encoded><![CDATA[11.2.]]></content:encoded>
         </item>

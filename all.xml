@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26805729</link>
+            <guid>https://vlive.tv/post/0-26805729</guid>
+            <pubDate>Sun, 05 Dec 2021 15:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_39/16387185749021nrg5_JPEG/1638718539603.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26789260</link>
             <guid>https://vlive.tv/post/1-26789260</guid>
             <pubDate>Sun, 05 Dec 2021 04:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.4.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_100/1638620102071JsUlw_JPEG/upload_82699829483169950d2a28cc1-d892-4d1b-8840-68484f7adf33.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26707236</guid>
             <pubDate>Sun, 05 Dec 2021 04:54:00 GMT</pubDate>
             <content:encoded><![CDATA[12.1.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_192/1638347456869x02U4_JPEG/1638346835423.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' MV (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26273198</link>
             <guid>https://vlive.tv/post/1-26273198</guid>
-            <pubDate>Sun, 05 Dec 2021 04:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Dance Practice (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26267473</link>
-            <guid>https://vlive.tv/post/0-26267473</guid>
             <pubDate>Sun, 05 Dec 2021 04:53:59 GMT</pubDate>
             <content:encoded><![CDATA[11.2.]]></content:encoded>
         </item>
@@ -1366,6 +1366,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23917181</link>
+            <guid>https://tv.naver.com/v/23917181</guid>
+            <pubDate>Sun, 05 Dec 2021 15:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_281/adh0u_1638718542937zyDUa_JPEG/1638718539603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23904763</link>
             <guid>https://tv.naver.com/v/23904763</guid>
@@ -1596,14 +1604,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sat, 23 Oct 2021 13:02:16 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211023_289/SfmsZ_1634991319837K84iM_JPEG/1634991302096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23130301</link>
-            <guid>https://tv.naver.com/v/23130301</guid>
-            <pubDate>Sat, 23 Oct 2021 15:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211023_18/qjKwW_1634974401700lLau4_JPEG/1634974372830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
