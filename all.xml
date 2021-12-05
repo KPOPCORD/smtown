@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 08:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 09:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26789260</link>
             <guid>https://vlive.tv/post/1-26789260</guid>
             <pubDate>Sun, 05 Dec 2021 04:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_100/1638620102071JsUlw_JPEG/upload_82699829483169950d2a28cc1-d892-4d1b-8840-68484f7adf33.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_619ddce8bc895.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=fboUFjZJ5V0</link>
+            <guid>https://www.youtube.com/watch?v=fboUFjZJ5V0</guid>
+            <pubDate>Sun, 05 Dec 2021 09:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑
+
+KAI's 2n...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fboUFjZJ5V0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=ul3lczLKgcY</link>
             <guid>https://www.youtube.com/watch?v=ul3lczLKgcY</guid>
@@ -801,13 +811,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379934</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:53 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E meets global fans with an Epil...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Musical ‘HADESTOWN’ Ji Hyun Jun, the ki... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379933</link>
-            <guid>https://now.smtown.com/news/detail/2379933</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[Musical actor Ji Hyun Jun has transformed into ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
