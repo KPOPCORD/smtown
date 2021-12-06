@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 06:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 07:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26805729</link>
             <guid>https://vlive.tv/post/0-26805729</guid>
             <pubDate>Mon, 06 Dec 2021 04:53:57 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_39/16387185749021nrg5_JPEG/1638718539603.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -637,16 +637,18 @@ KAI's 2n...]]></content:encoded>
             <pubDate>Mon, 06 Dec 2021 05:42:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SUNGMIN, a gift of hope for children ba... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380016</link>
             <guid>https://now.smtown.com/news/detail/2380016</guid>
             <pubDate>Mon, 06 Dec 2021 05:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[Singer SUNGMIN delivered hope to children.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SBS '지금, 헤어지는 중입니다' Yoon Na Moo, emotio... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380015</link>
             <guid>https://now.smtown.com/news/detail/2380015</guid>
             <pubDate>Mon, 06 Dec 2021 05:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[‘지금, 헤어지는 중입니다’ Yoon Na Moo's emotional perform...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
