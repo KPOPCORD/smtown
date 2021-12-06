@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video]]></title>
+            <link>https://tv.naver.com/v/23924195</link>
+            <guid>https://tv.naver.com/v/23924195</guid>
+            <pubDate>Mon, 06 Dec 2021 09:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_253/kNb2U_1638766991639D6Q4T_JPEG/1638761552719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
             <link>https://tv.naver.com/v/23917181</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Oct 2021 09:46:04 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_188/Hqkm9_1635152671020evznx_PNG/1635152654788.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EUNHYUK 은혁 'Red Muhly' Special Video]]></title>
-            <link>https://tv.naver.com/v/23133319</link>
-            <guid>https://tv.naver.com/v/23133319</guid>
-            <pubDate>Sat, 23 Oct 2021 13:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211023_289/SfmsZ_1634991319837K84iM_JPEG/1634991302096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

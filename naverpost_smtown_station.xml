@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SM STATION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM STATION] 
+온유 X 펀치 '별 하나 (Way)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32886457&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32886457&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 06 Dec 2021 09:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNTAg/MDAxNjM4NzU0MjkzODY2.gf7PCZmRsFfFWel6sIdZtLv2S-P4RwZ9Strjkohq2cEg.3bCyM9jIjPaPNqAFm9mmBX0VpIofUrX-C1LkC6-2F4Ug.JPEG/I9l_M2dZubA_9yX4cjHa_87Qsctw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM STATION] 요한킴 X 황호규 '우리들의 맹세 (Jazz Ver.)']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32818272&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -172,16 +181,6 @@ Our Beloved BoA #1 백현 '공중정원']]></title>
             <pubDate>Sun, 22 Aug 2021 15:05:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjhfMjQ2/MDAxNTg4MDYxNTM0MTk0.4q-Fr3VkDlMFqiSMzVsFVVqDONRk91S7XSHaXnW8Z6kg.OdZRM-WXXAqQI8hgwqosPPb8w1Mu54wpjPNj7LtQrlgg.JPEG/IK99_GNVf3GDY9haBDYuBScm2ACA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION X]
-⛄️ 우주 쪼꼬미 
-'하얀 겨울 (White Winter)']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27063756&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27063756&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMTJfMjUz/MDAxNTc2MTM1ODA4NzE4.GMYhgaCrMxD9sl_EowG5XEslBNeiURHlvViUk75MGCcg.GjDQGz_isMpv5y8LOSn4CimocX5wHRdag55YK192UNQg.JPEG/InDwlSPSxbphEx4b9FyfYsS8-_Hc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
