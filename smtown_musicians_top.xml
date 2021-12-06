@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 정규 3집, 트렌디한 색깔의 WayV 신곡 ‘Miracle’ 수록!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5686</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5686</guid>
-            <pubDate>Fri, 03 Dec 2021 06:51:28 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’ 감성 시너지도 담았다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5698</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5698</guid>
+            <pubDate>Mon, 06 Dec 2021 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집, 트렌디한 색깔의 WayV 신곡 ‘Miracle’ 수록!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b7d153665.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 ‘Universe’ 감성 시너지도 담았다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e8dbfd48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 리릭 이미지 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5685</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5685</guid>
-            <pubDate>Fri, 03 Dec 2021 06:51:28 GMT</pubDate>
+            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5697</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
+            <pubDate>Mon, 06 Dec 2021 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 리릭 이미지 공개 </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b74a687be.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
