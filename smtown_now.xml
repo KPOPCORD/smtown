@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 13:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 13:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe...]]></title>
+            <link>https://www.youtube.com/watch?v=sESB2PYz0lE</link>
+            <guid>https://www.youtube.com/watch?v=sESB2PYz0lE</guid>
+            <pubDate>Mon, 06 Dec 2021 13:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album "COUNTDOWN - ZER...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sESB2PYz0lE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 ...]]></title>
             <link>https://www.youtube.com/watch?v=hIU0ICjNsS4</link>
@@ -235,13 +243,6 @@ Listen a...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AUrrUigTOAU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Universe (Let’s Play Ball)’, the title...]]></title>
-            <link>https://now.smtown.com/news/detail/2379972</link>
-            <guid>https://now.smtown.com/news/detail/2379972</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM) to be pre-released a new song 'Universe...]]></content:encoded>
         </item>
     </channel>
 </rss>
