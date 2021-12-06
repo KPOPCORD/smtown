@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 13:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26798325</link>
+            <guid>https://vlive.tv/post/0-26798325</guid>
+            <pubDate>Mon, 06 Dec 2021 13:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_79/1638691565295pzfDt_JPEG/upload_827711481826122101238ec65-063a-4990-9509-ef628e5545ba.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26818099</link>
             <guid>https://vlive.tv/post/1-26818099</guid>
             <pubDate>Mon, 06 Dec 2021 09:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_248/1638767352003KzJmp_JPEG/1638761552719.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-26805729</link>
             <guid>https://vlive.tv/post/0-26805729</guid>
             <pubDate>Mon, 06 Dec 2021 09:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_39/16387185749021nrg5_JPEG/1638718539603.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26789260</guid>
             <pubDate>Mon, 06 Dec 2021 09:45:03 GMT</pubDate>
             <content:encoded><![CDATA[12.4.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_100/1638620102071JsUlw_JPEG/upload_82699829483169950d2a28cc1-d892-4d1b-8840-68484f7adf33.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WayV 威神V 'Miracle' Track Video (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26379091</guid>
             <pubDate>Mon, 06 Dec 2021 09:45:03 GMT</pubDate>
             <content:encoded><![CDATA[11.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26378938</link>
-            <guid>https://vlive.tv/post/1-26378938</guid>
-            <pubDate>Mon, 06 Dec 2021 09:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[11.10.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -1391,6 +1391,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_32/Cvzef_1638499143872yVUN4_JPEG/1638499140429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser | 'COUNTDOWN TO ZERO' Epilogue (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23865441</link>
+            <guid>https://tv.naver.com/v/23865441</guid>
+            <pubDate>Mon, 06 Dec 2021 13:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211205_25/jWTjx_1638691258171Ty3td_JPEG/1638691176982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23843105</link>
             <guid>https://tv.naver.com/v/23843105</guid>
@@ -1589,14 +1597,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Tue, 26 Oct 2021 13:04:17 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211026_291/z28OV_1635217948515v4vlb_JPEG/1635217832744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23159673</link>
-            <guid>https://tv.naver.com/v/23159673</guid>
-            <pubDate>Mon, 25 Oct 2021 09:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_188/Hqkm9_1635152671020evznx_PNG/1635152654788.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 13:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 03 Dec 2021 15:47:09 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_32/Cvzef_1638499143872yVUN4_JPEG/1638499140429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser | 'COUNTDOWN TO ZERO' Epilogue]]></title>
+            <link>https://tv.naver.com/v/23865441</link>
+            <guid>https://tv.naver.com/v/23865441</guid>
+            <pubDate>Mon, 06 Dec 2021 13:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211205_25/jWTjx_1638691258171Ty3td_JPEG/1638691176982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Oct 2021 13:04:17 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211026_291/z28OV_1635217948515v4vlb_JPEG/1635217832744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' MV]]></title>
-            <link>https://tv.naver.com/v/23159673</link>
-            <guid>https://tv.naver.com/v/23159673</guid>
-            <pubDate>Mon, 25 Oct 2021 09:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_188/Hqkm9_1635152671020evznx_PNG/1635152654788.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
