@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 09:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 10:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 ...]]></title>
+            <link>https://www.youtube.com/watch?v=hIU0ICjNsS4</link>
+            <guid>https://www.youtube.com/watch?v=hIU0ICjNsS4</guid>
+            <pubDate>Mon, 06 Dec 2021 10:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONEW X Punch's new single "Way" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hIU0ICjNsS4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT's 3rd album 'Universe' also contain...]]></title>
             <link>https://now.smtown.com/news/detail/2380023</link>
@@ -233,13 +242,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379972</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
             <content:encoded><![CDATA[NCT(SM) to be pre-released a new song 'Universe...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM 'Remastering Project', BoA debut son...]]></title>
-            <link>https://now.smtown.com/news/detail/2379971</link>
-            <guid>https://now.smtown.com/news/detail/2379971</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[BoA(SM)'s debut song 'ID; Peace B’ remastered m...]]></content:encoded>
         </item>
     </channel>
 </rss>
