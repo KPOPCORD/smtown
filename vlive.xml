@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2021-12-06T13:46:12.172Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Dec 2021 14:44:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser]]></title>
+            <link>https://vlive.tv/post/0-26798325</link>
+            <guid>https://vlive.tv/post/0-26798325</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_79/1638691565295pzfDt_JPEG/upload_827711481826122101238ec65-063a-4990-9509-ef628e5545ba.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video]]></title>
+            <link>https://vlive.tv/post/1-26818099</link>
+            <guid>https://vlive.tv/post/1-26818099</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_248/1638767352003KzJmp_JPEG/1638761552719.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
+            <link>https://vlive.tv/post/0-26805729</link>
+            <guid>https://vlive.tv/post/0-26805729</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_39/16387185749021nrg5_JPEG/1638718539603.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video Teaser]]></title>
+            <link>https://vlive.tv/post/1-26789260</link>
+            <guid>https://vlive.tv/post/1-26789260</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[12.4.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WayV 威神V 'Miracle' Track Video]]></title>
+            <link>https://vlive.tv/post/1-26736813</link>
+            <guid>https://vlive.tv/post/1-26736813</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[12.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video]]></title>
+            <link>https://vlive.tv/post/1-26707236</link>
+            <guid>https://vlive.tv/post/1-26707236</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[12.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' MV]]></title>
+            <link>https://vlive.tv/post/1-26690795</link>
+            <guid>https://vlive.tv/post/1-26690795</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.30.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
+            <link>https://vlive.tv/post/0-26672250</link>
+            <guid>https://vlive.tv/post/0-26672250</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.29.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26658043</link>
+            <guid>https://vlive.tv/post/1-26658043</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.28.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing in our Dreams]]></title>
+            <link>https://vlive.tv/post/0-26635523</link>
+            <guid>https://vlive.tv/post/0-26635523</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV]]></title>
+            <link>https://vlive.tv/post/0-26618711</link>
+            <guid>https://vlive.tv/post/0-26618711</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
+            <link>https://vlive.tv/post/1-26616313</link>
+            <guid>https://vlive.tv/post/1-26616313</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream]]></title>
+            <link>https://vlive.tv/post/0-26610181</link>
+            <guid>https://vlive.tv/post/0-26610181</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요한킴 X 황호규 '우리들의 맹세 (The Promise of H.O.T.) (Jazz Ver.)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-26612105</link>
+            <guid>https://vlive.tv/post/1-26612105</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #3 Mood Sampler]]></title>
+            <link>https://vlive.tv/post/0-26595855</link>
+            <guid>https://vlive.tv/post/0-26595855</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 3 - Synchronization of Dreams]]></title>
+            <link>https://vlive.tv/post/1-26589722</link>
+            <guid>https://vlive.tv/post/1-26589722</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler]]></title>
+            <link>https://vlive.tv/post/1-26555328</link>
+            <guid>https://vlive.tv/post/1-26555328</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 YearDream : Stage 0 - The 7th Sense]]></title>
+            <link>https://vlive.tv/post/1-26553199</link>
+            <guid>https://vlive.tv/post/1-26553199</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler]]></title>
+            <link>https://vlive.tv/post/0-26506538</link>
+            <guid>https://vlive.tv/post/0-26506538</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV]]></title>
+            <link>https://vlive.tv/post/1-26379091</link>
+            <guid>https://vlive.tv/post/1-26379091</guid>
+            <pubDate>Mon, 06 Dec 2021 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[11.11.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
