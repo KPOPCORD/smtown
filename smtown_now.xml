@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
+            <link>https://www.youtube.com/watch?v=2lippZNP8Vw</link>
+            <guid>https://www.youtube.com/watch?v=2lippZNP8Vw</guid>
+            <pubDate>Tue, 07 Dec 2021 09:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2lippZNP8Vw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Beyond LIVE’ EXO KAI’s first solo conc...]]></title>
             <link>https://now.smtown.com/news/detail/2380042</link>
@@ -228,13 +238,6 @@ KAI's 2nd...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379990</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
             <content:encoded><![CDATA[A photo of OH SEHUN (EXO SEHUN, SM) acting in 「...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR LEETEUK, '2021 AAA' MC for...]]></title>
-            <link>https://now.smtown.com/news/detail/2379983</link>
-            <guid>https://now.smtown.com/news/detail/2379983</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member LEETEUK showed the tr...]]></content:encoded>
         </item>
     </channel>
 </rss>

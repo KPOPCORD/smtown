@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 08:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 09:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26798325</link>
             <guid>https://vlive.tv/post/0-26798325</guid>
             <pubDate>Tue, 07 Dec 2021 07:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_79/1638691565295pzfDt_JPEG/upload_827711481826122101238ec65-063a-4990-9509-ef628e5545ba.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26818099</link>
             <guid>https://vlive.tv/post/1-26818099</guid>
             <pubDate>Tue, 07 Dec 2021 07:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.6.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_248/1638767352003KzJmp_JPEG/1638761552719.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06eac74f86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=2lippZNP8Vw</link>
+            <guid>https://www.youtube.com/watch?v=2lippZNP8Vw</guid>
+            <pubDate>Tue, 07 Dec 2021 09:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2lippZNP8Vw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘Beyond LIVE’ EXO KAI’s first solo conc... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380042</link>
             <guid>https://now.smtown.com/news/detail/2380042</guid>
@@ -791,13 +801,6 @@ KAI's 2nd...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379990</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
             <content:encoded><![CDATA[A photo of OH SEHUN (EXO SEHUN, SM) acting in 「...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR LEETEUK, '2021 AAA' MC for... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2379983</link>
-            <guid>https://now.smtown.com/news/detail/2379983</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member LEETEUK showed the tr...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!🏆 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
