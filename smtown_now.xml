@@ -4,9 +4,31 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 20:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380042</link>
+            <guid>https://now.smtown.com/news/detail/2380042</guid>
+            <pubDate>Tue, 07 Dec 2021 07:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN's Japan solo album 'Human'...]]></title>
+            <link>https://now.smtown.com/news/detail/2380041</link>
+            <guid>https://now.smtown.com/news/detail/2380041</guid>
+            <pubDate>Tue, 07 Dec 2021 07:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN(SM)'s new Japanese mini albu...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380040</link>
+            <guid>https://now.smtown.com/news/detail/2380040</guid>
+            <pubDate>Tue, 07 Dec 2021 07:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380039</link>
+            <guid>https://now.smtown.com/news/detail/2380039</guid>
+            <pubDate>Tue, 07 Dec 2021 07:43:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe...]]></title>
             <link>https://www.youtube.com/watch?v=sESB2PYz0lE</link>
@@ -207,42 +229,6 @@ KAI's 2nd...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379983</guid>
             <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
             <content:encoded><![CDATA[Group SUPER JUNIOR member LEETEUK showed the tr...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘댸니쇼’ DONGHAE&EUNHYUK, ‘Laughter Bomb’ ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380012</link>
-            <guid>https://now.smtown.com/news/detail/2380012</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E presented pleasant laughter an...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✨🐿🍑🐿🍑✨#LetsPickPeaches]]></title>
-            <link>https://www.youtube.com/watch?v=-HgJ2TIvu8s</link>
-            <guid>https://www.youtube.com/watch?v=-HgJ2TIvu8s</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[✨🐿🍑🐿🍑✨#LetsPickPeaches
-
-KAI's 2nd mini albu...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-HgJ2TIvu8s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV Reaction (feat.SEHU...]]></title>
-            <link>https://www.youtube.com/watch?v=lMYuTxKr1_c</link>
-            <guid>https://www.youtube.com/watch?v=lMYuTxKr1_c</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/lMYuTxKr1_c/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] 🏫(Un)official Cantonese ...]]></title>
-            <link>https://www.youtube.com/watch?v=AUrrUigTOAU</link>
-            <guid>https://www.youtube.com/watch?v=AUrrUigTOAU</guid>
-            <pubDate>Sat, 04 Dec 2021 05:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AUrrUigTOAU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

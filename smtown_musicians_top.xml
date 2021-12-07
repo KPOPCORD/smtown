@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 20:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 감성 시너지도 담았다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5698</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5698</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:24 GMT</pubDate>
+            <title><![CDATA[‘Beyond LIVE’ 엑소 카이 첫 솔로 콘서트, 독보적인 스테이지 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5702</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5702</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’ 감성 시너지도 담았다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e8dbfd48.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘Beyond LIVE’ 엑소 카이 첫 솔로 콘서트, 독보적인 스테이지 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee69e2fa2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5697</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:24 GMT</pubDate>
+            <title><![CDATA[최강창민 日 솔로 앨범 ‘Human’ 8일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5701</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5701</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">최강창민 日 솔로 앨범 ‘Human’ 8일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee621808af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

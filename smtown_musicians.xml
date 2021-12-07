@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 20:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규현, '싱어게인2' 첫방 빛낸 존재감…디테일 심사평+리액션 '공감 UP']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5699</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5699</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 슈퍼주니어 규현이 '싱어게인2' 심사위원으로 첫 방송부터 존재감을 빛냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee554cb4e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5697</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 유명 토크쇼 ‘The Daily Show with Trevor Noah’(더 데일리 쇼 위드 트레버 노아)에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어-D&E, 6일 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 티저 영상 공개... 진지한 녹음 현장 '기대 UP']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5695</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5695</guid>
+            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 신곡 'Need U'를 통해 각별한 팬사랑을 전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9d41390fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성민, 병마와 싸우는 어린이 위한 희망 선물…'어린이에게 새 생명을' 취지 빛냈다]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5691</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5691</guid>
+            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[가수 성민이 어린이들에게 희망을 전해줬다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9b3e0b37c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘댸니쇼’ 동해&은혁, 높은 텐션X티키타카→찰떡 케미 ‘웃음 폭탄’ (feat. 려욱)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5687</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5687</guid>
+            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 ‘댸니쇼’를 통해 기분 좋은 웃음과 에너지를 선사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad99337a64f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’ 감성 시너지도 담았다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5698</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5698</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 매력적인 감성 보컬을 들려준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e8dbfd48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 오후 6시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5696</link>
@@ -38,54 +86,6 @@
             <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
             <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 수록곡 ‘Miracle’(미라클)로 트렌디한 감성을 선보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b7d153665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 이특, '2021 AAA' 믿고 보는 6년 연속 MC…K-컬쳐 페스티벌 이끈 특급 센스]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5683</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5683</guid>
-            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈퍼주니어 멤버 이특이 '2021 AAA'에서도 6년 연속 MC의 진가를 보여줬다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b553e4e20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 6일 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 티저 영상 공개... 진지한 녹음 현장 '기대 UP']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5695</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5695</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 신곡 'Need U'를 통해 각별한 팬사랑을 전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9d41390fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민, 병마와 싸우는 어린이 위한 희망 선물…'어린이에게 새 생명을' 취지 빛냈다]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5691</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5691</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[가수 성민이 어린이들에게 희망을 전해줬다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9b3e0b37c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘댸니쇼’ 동해&은혁, 높은 텐션X티키타카→찰떡 케미 ‘웃음 폭탄’ (feat. 려욱)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5687</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5687</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 ‘댸니쇼’를 통해 기분 좋은 웃음과 에너지를 선사했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad99337a64f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 리릭 이미지 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5685</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5685</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 리릭 이미지로 스페셜 트랙에 대한 기대감을 높였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a9b74a687be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 12월 10일 오후 6시 선공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5682</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5682</guid>
-            <pubDate>Fri, 03 Dec 2021 06:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 오는 10일 신곡 ‘Universe (Let’s Play Ball)’(유니버스)를 선공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a869f0cd770.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
