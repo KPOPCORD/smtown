@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 14:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 15:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video Teaser]]></title>
+            <link>https://tv.naver.com/v/23960359</link>
+            <guid>https://tv.naver.com/v/23960359</guid>
+            <pubDate>Tue, 07 Dec 2021 15:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_22/RtzZc_16388852040398dB10_JPEG/1638885195572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video]]></title>
             <link>https://tv.naver.com/v/23924195</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Oct 2021 13:03:12 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_82/RcGiN_1635324887518vOSoY_JPEG/1635324764582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'ZERO' MV Teaser #1]]></title>
-            <link>https://tv.naver.com/v/23172570</link>
-            <guid>https://tv.naver.com/v/23172570</guid>
-            <pubDate>Tue, 26 Oct 2021 13:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_291/z28OV_1635217948515v4vlb_JPEG/1635217832744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 14:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 15:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딱복✨🍑 VS 물복☁️🍑 당신의 선택은? Hard peach✨🍑 ...]]></title>
+            <link>https://www.youtube.com/watch?v=bH9BzRXEx3s</link>
+            <guid>https://www.youtube.com/watch?v=bH9BzRXEx3s</guid>
+            <pubDate>Tue, 07 Dec 2021 15:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[딱복✨🍑 VS 물복☁️🍑 당신의 선택은? Hard peach✨🍑 VS Soft ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bH9BzRXEx3s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보자 보자 운세를 보자~🔮 | 복숭아 도령의 사주카페🍑 【上】]]></title>
             <link>https://www.youtube.com/watch?v=xFDC5BzrICw</link>
@@ -233,13 +241,6 @@ KAI's 2nd...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2379992</guid>
             <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
             <content:encoded><![CDATA[NCT (SM) presents a trendy sensibility with the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E Releases 1st Album Epi...]]></title>
-            <link>https://now.smtown.com/news/detail/2379991</link>
-            <guid>https://now.smtown.com/news/detail/2379991</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E raised expectations for the sp...]]></content:encoded>
         </item>
     </channel>
 </rss>
