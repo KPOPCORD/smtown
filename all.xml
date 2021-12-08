@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 10:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 11:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26852435</link>
             <guid>https://vlive.tv/post/1-26852435</guid>
             <pubDate>Wed, 08 Dec 2021 09:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_114/1638954347062lKKkn_JPEG/1638953837349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26840254</link>
             <guid>https://vlive.tv/post/1-26840254</guid>
             <pubDate>Tue, 07 Dec 2021 18:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211207_30/1638885414680C0u0C_JPEG/1638885195572.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06eac74f86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뜬금LIVE] 윤종신 - 이별택시 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=4VYXtC12tt4</link>
+            <guid>https://www.youtube.com/watch?v=4VYXtC12tt4</guid>
+            <pubDate>Wed, 08 Dec 2021 11:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
+https://www.youtube.com/playlist?...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4VYXtC12tt4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LISTEN STAGE] 211027 - 민서 (그날까지/성장/Don... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=Jb8g4P_uX5o</link>
             <guid>https://www.youtube.com/watch?v=Jb8g4P_uX5o</guid>
@@ -787,14 +796,6 @@ KAI's 2n...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380014</guid>
             <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
             <content:encoded><![CDATA[Actor Lee Hak Joo really captivated the audienc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ul3lczLKgcY</link>
-            <guid>https://www.youtube.com/watch?v=ul3lczLKgcY</guid>
-            <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[ONEW X Punch's new single "Way" will be release...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ul3lczLKgcY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[총결산] 2021

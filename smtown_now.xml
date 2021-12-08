@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 10:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 11:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뜬금LIVE] 윤종신 - 이별택시]]></title>
+            <link>https://www.youtube.com/watch?v=4VYXtC12tt4</link>
+            <guid>https://www.youtube.com/watch?v=4VYXtC12tt4</guid>
+            <pubDate>Wed, 08 Dec 2021 11:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
+https://www.youtube.com/playlist?...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4VYXtC12tt4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LISTEN STAGE] 211027 - 민서 (그날까지/성장/Don...]]></title>
             <link>https://www.youtube.com/watch?v=Jb8g4P_uX5o</link>
@@ -224,14 +233,6 @@ KAI's 2n...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380014</guid>
             <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
             <content:encoded><![CDATA[Actor Lee Hak Joo really captivated the audienc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 ...]]></title>
-            <link>https://www.youtube.com/watch?v=ul3lczLKgcY</link>
-            <guid>https://www.youtube.com/watch?v=ul3lczLKgcY</guid>
-            <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[ONEW X Punch's new single "Way" will be release...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ul3lczLKgcY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
