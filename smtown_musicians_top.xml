@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파 ‘Next Level’, 英 NME 선정 ‘2021년 베스트 송 50’ 등극! K팝 걸그룹 중 유일!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5709</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5709</guid>
+            <pubDate>Wed, 08 Dec 2021 06:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">에스파 ‘Next Level’, 英 NME 선정 ‘2021년 베스트 송 50’ 등극! K팝 걸그룹 중 유일!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b052aca6fa0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 11주 연속 차트인!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5707</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 11주 연속 차트인!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b038a352fc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5706</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5706</guid>
-            <pubDate>Wed, 08 Dec 2021 04:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, 정규 3집 타이틀 곡 ‘Universe’ 티저 이미지 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0383da649f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

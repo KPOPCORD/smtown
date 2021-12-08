@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5706</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5706</guid>
+            <pubDate>Wed, 08 Dec 2021 06:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Universe (Let’s Play Ball)’(유니버스) 티저 이미지가 공개돼 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0383da649f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM STATION, 온유X펀치 듀엣곡 ‘별 하나’ 라이브 비디오 8일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5704</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5704</guid>
+            <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 호흡을 맞춘 ‘별 하나 (Way)’의 라이브 비디오가 8일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0375a2afb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Beyond LIVE’ 엑소 카이 첫 솔로 콘서트, 독보적인 스테이지 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5702</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5702</guid>
+            <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 세계 최초 온라인 전용 콘서트 ‘Beyond LIVE’를 통해 자신만의 아이덴티티를 담은 솔로 공연을 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee69e2fa2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, '싱어게인2' 첫방 빛낸 존재감…디테일 심사평+리액션 '공감 UP']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5699</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5699</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 슈퍼주니어 규현이 '싱어게인2' 심사위원으로 첫 방송부터 존재감을 빛냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee554cb4e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5697</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
+            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 유명 토크쇼 ‘The Daily Show with Trevor Noah’(더 데일리 쇼 위드 트레버 노아)에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 첫 미니앨범 ‘Savage’, 美 ‘빌보드 200’ 85위로 재진입!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5705</link>
@@ -46,46 +86,6 @@
             <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
             <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치의 듀엣곡 ‘별 하나 (Way)’가 6일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9db8de96a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM STATION, 온유X펀치 듀엣곡 ‘별 하나’ 라이브 비디오 8일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5704</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5704</guid>
-            <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 호흡을 맞춘 ‘별 하나 (Way)’의 라이브 비디오가 8일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0375a2afb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Beyond LIVE’ 엑소 카이 첫 솔로 콘서트, 독보적인 스테이지 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5702</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5702</guid>
-            <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 세계 최초 온라인 전용 콘서트 ‘Beyond LIVE’를 통해 자신만의 아이덴티티를 담은 솔로 공연을 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee69e2fa2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, '싱어게인2' 첫방 빛낸 존재감…디테일 심사평+리액션 '공감 UP']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5699</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5699</guid>
-            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈퍼주니어 규현이 '싱어게인2' 심사위원으로 첫 방송부터 존재감을 빛냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee554cb4e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5697</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
-            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 유명 토크쇼 ‘The Daily Show with Trevor Noah’(더 데일리 쇼 위드 트레버 노아)에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 6일 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 티저 영상 공개... 진지한 녹음 현장 '기대 UP']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5695</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5695</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 신곡 'Need U'를 통해 각별한 팬사랑을 전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9d41390fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

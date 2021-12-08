@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380064</link>
+            <guid>https://now.smtown.com/news/detail/2380064</guid>
+            <pubDate>Wed, 08 Dec 2021 06:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380063</link>
+            <guid>https://now.smtown.com/news/detail/2380063</guid>
+            <pubDate>Wed, 08 Dec 2021 06:53:11 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380060</link>
             <guid>https://now.smtown.com/news/detail/2380060</guid>
@@ -28,9 +38,11 @@
             <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The remastered MV of YOO YOUNG JIN’s ‘…...]]></title>
             <link>https://now.smtown.com/news/detail/2380056</link>
             <guid>https://now.smtown.com/news/detail/2380056</guid>
             <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment's representative producer YOO ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[딱복✨🍑 VS 물복☁️🍑 당신의 선택은? Hard peach✨🍑 ...]]></title>
@@ -209,23 +221,6 @@ KAI's 2n...]]></content:encoded>
 
 유튜브 오리지널 아날로그 트립 NCT 127에서...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/axpxtlwRwzA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let’s pick BLUE & PINK peaches💙💖🍑]]></title>
-            <link>https://www.youtube.com/watch?v=7bz1yt66jsQ</link>
-            <guid>https://www.youtube.com/watch?v=7bz1yt66jsQ</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[Let’s pick BLUE &amp; PINK peaches💙💖🍑
-
-KAI's 2nd...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7bz1yt66jsQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa to appear on ‘The Nick Cannon Sho...]]></title>
-            <link>https://now.smtown.com/news/detail/2380013</link>
-            <guid>https://now.smtown.com/news/detail/2380013</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM) to appear on ‘The Nick Cannon Show’, ...]]></content:encoded>
         </item>
     </channel>
 </rss>
