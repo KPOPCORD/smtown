@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 14:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 15:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)...]]></title>
+            <link>https://www.youtube.com/watch?v=Afx3PTYvoHo</link>
+            <guid>https://www.youtube.com/watch?v=Afx3PTYvoHo</guid>
+            <pubDate>Wed, 08 Dec 2021 15:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Afx3PTYvoHo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Production Record from KAI📽 I 'Peaches...]]></title>
             <link>https://www.youtube.com/watch?v=LH3Vhk-UaoI</link>
@@ -228,13 +236,6 @@ KAI's 2n...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380016</guid>
             <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
             <content:encoded><![CDATA[Singer SUNGMIN delivered hope to children.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SBS '지금, 헤어지는 중입니다' Yoon Na Moo, emotio...]]></title>
-            <link>https://now.smtown.com/news/detail/2380015</link>
-            <guid>https://now.smtown.com/news/detail/2380015</guid>
-            <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘지금, 헤어지는 중입니다’ Yoon Na Moo's emotional perform...]]></content:encoded>
         </item>
     </channel>
 </rss>
