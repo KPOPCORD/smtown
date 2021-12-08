@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,19 +23,25 @@
             <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NCT, 3rd album title song 'Universe' te...]]></title>
             <link>https://now.smtown.com/news/detail/2380059</link>
             <guid>https://now.smtown.com/news/detail/2380059</guid>
             <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa The 1st Mini Album ‘Savage’ re-en...]]></title>
             <link>https://now.smtown.com/news/detail/2380058</link>
             <guid>https://now.smtown.com/news/detail/2380058</guid>
             <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+            <content:encoded><![CDATA[aespa (SM) re-enters the ‘Billboard 200’ chart ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[ONEW X Punch ‘Way’ live video to be rel...]]></title>
             <link>https://now.smtown.com/news/detail/2380057</link>
             <guid>https://now.smtown.com/news/detail/2380057</guid>
             <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee ONEW(SM) and singer Punch will collabora...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The remastered MV of YOO YOUNG JIN’s ‘…...]]></title>
