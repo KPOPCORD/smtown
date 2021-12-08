@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 11:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 13:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Production Record from KAI📽 I 'Peaches...]]></title>
+            <link>https://www.youtube.com/watch?v=LH3Vhk-UaoI</link>
+            <guid>https://www.youtube.com/watch?v=LH3Vhk-UaoI</guid>
+            <pubDate>Wed, 08 Dec 2021 13:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LH3Vhk-UaoI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뜬금LIVE] 윤종신 - 이별택시]]></title>
             <link>https://www.youtube.com/watch?v=4VYXtC12tt4</link>
@@ -226,13 +235,6 @@ KAI's 2n...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380015</guid>
             <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
             <content:encoded><![CDATA[‘지금, 헤어지는 중입니다’ Yoon Na Moo's emotional perform...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MBC '전지적 참견 시점' Lee Hak Joo, Charming]]></title>
-            <link>https://now.smtown.com/news/detail/2380014</link>
-            <guid>https://now.smtown.com/news/detail/2380014</guid>
-            <pubDate>Wed, 08 Dec 2021 10:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Hak Joo really captivated the audienc...]]></content:encoded>
         </item>
     </channel>
 </rss>
