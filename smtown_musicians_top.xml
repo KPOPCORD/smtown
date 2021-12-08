@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 03:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 04:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘Beyond LIVE’ 엑소 카이 첫 솔로 콘서트, 독보적인 스테이지 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5702</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5702</guid>
-            <pubDate>Tue, 07 Dec 2021 07:42:43 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 11주 연속 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5707</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5707</guid>
+            <pubDate>Wed, 08 Dec 2021 04:54:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘Beyond LIVE’ 엑소 카이 첫 솔로 콘서트, 독보적인 스테이지 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee69e2fa2d.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 11주 연속 차트인!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b038a352fc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최강창민 日 솔로 앨범 ‘Human’ 8일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5701</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5701</guid>
-            <pubDate>Tue, 07 Dec 2021 07:42:43 GMT</pubDate>
+            <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5706</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5706</guid>
+            <pubDate>Wed, 08 Dec 2021 04:54:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민 日 솔로 앨범 ‘Human’ 8일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee621808af.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 정규 3집 타이틀 곡 ‘Universe’ 티저 이미지 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0383da649f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

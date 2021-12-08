@@ -4,9 +4,34 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 03:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 04:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380060</link>
+            <guid>https://now.smtown.com/news/detail/2380060</guid>
+            <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380059</link>
+            <guid>https://now.smtown.com/news/detail/2380059</guid>
+            <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380058</link>
+            <guid>https://now.smtown.com/news/detail/2380058</guid>
+            <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380057</link>
+            <guid>https://now.smtown.com/news/detail/2380057</guid>
+            <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380056</link>
+            <guid>https://now.smtown.com/news/detail/2380056</guid>
+            <pubDate>Wed, 08 Dec 2021 04:55:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[딱복✨🍑 VS 물복☁️🍑 당신의 선택은? Hard peach✨🍑 ...]]></title>
             <link>https://www.youtube.com/watch?v=bH9BzRXEx3s</link>
@@ -201,46 +226,6 @@ KAI's 2nd...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380013</guid>
             <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
             <content:encoded><![CDATA[aespa(SM) to appear on ‘The Nick Cannon Show’, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WayV 威神V 'Miracle' Track Video]]></title>
-            <link>https://www.youtube.com/watch?v=0R1rDjIXzF0</link>
-            <guid>https://www.youtube.com/watch?v=0R1rDjIXzF0</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0R1rDjIXzF0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ep 6. 뭉치면 살고, 흩어지면 죽는다! | 아날로그 트립 (Anal...]]></title>
-            <link>https://www.youtube.com/watch?v=YdaS36k8DWY</link>
-            <guid>https://www.youtube.com/watch?v=YdaS36k8DWY</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[새롭게 획득한 지도에 표시된 NCT 127 멤버들의 이름과 9개의 장소!
-파이팅을 외...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YdaS36k8DWY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🌺단발 여신🌺 만화 찢고 나온 #박정연 숨멎 미모 #키동캠 | Pa...]]></title>
-            <link>https://www.youtube.com/watch?v=E2P_i-E3EgM</link>
-            <guid>https://www.youtube.com/watch?v=E2P_i-E3EgM</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[🌺Short-hair Goddess🌺 Non-breathing beauty of ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/E2P_i-E3EgM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💚Indonesian NCTzens Aku Bersamamu💚 | ...]]></title>
-            <link>https://www.youtube.com/watch?v=1ryb8LBrDdg</link>
-            <guid>https://www.youtube.com/watch?v=1ryb8LBrDdg</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[#NCTDREAM #Tokopedia #WIBKpopAwards&nbsp;#TokopediaW...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1ryb8LBrDdg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT's 3rd album, WayV's new song 'Mirac...]]></title>
-            <link>https://now.smtown.com/news/detail/2379992</link>
-            <guid>https://now.smtown.com/news/detail/2379992</guid>
-            <pubDate>Tue, 07 Dec 2021 14:45:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) presents a trendy sensibility with the...]]></content:encoded>
         </item>
     </channel>
 </rss>
