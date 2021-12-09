@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 04:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/1-26856904</link>
             <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Wed, 08 Dec 2021 15:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_39/1638975275910Bz02i_JPEG/upload_830549750354535137a57aac8-a19f-43b2-9318-728566652cb9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-26852435</link>
             <guid>https://vlive.tv/post/1-26852435</guid>
             <pubDate>Wed, 08 Dec 2021 09:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_114/1638954347062lKKkn_JPEG/1638953837349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -473,6 +473,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9db8de96a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JTBC ‘공작도시’ 이학주, 순수+열정 가득 보도국 기자 ‘한동민’役 첫등장 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5712</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5712</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">JTBC ‘공작도시’ 이학주, 순수+열정 가득 보도국 기자 ‘한동민’役 첫등장</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박정연, 단발병 유발하는 '청순 여신 비주얼' (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5694</link>
             <guid>https://www.smtown.com/artist/newsDetail/5694</guid>
@@ -482,13 +491,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9cad7b5a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박하선, 카카오TV 오리지널 ‘며느라기2’ 출연 확정! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5693</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5693</guid>
+            <title><![CDATA[박정연, 단발병 유발하는 '청순 여신 비주얼' (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5694</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5694</guid>
             <pubDate>Mon, 06 Dec 2021 05:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">박하선, 카카오TV 오리지널 ‘며느라기2’ 출연 확정!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9c59efe38.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[배우 박정연이 눈부신 미모를 과시했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9cad7b5a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SBS ‘지금, 헤어지는 중입니다’ 윤나무, 안방극장 울린 감정 열연 (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, 26일 뮤지컬 '프랑켄슈타인' 첫 공연...주인공 빅터로 열연 예고 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5657</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5657</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[가수 규현이 한국 창작 뮤지컬 '프랑켄슈타인'으로 관객과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06f66dbf0b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박하선, 카카오TV 오리지널 ‘며느라기2’ 출연 확정! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5693</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5693</guid>
+            <pubDate>Mon, 06 Dec 2021 05:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박하선이 카카오TV 오리지널 ‘며느라기2’ 출연을 확정했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9c59efe38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBC ‘전지적 참견 시점’ 이학주, ‘슈트핏’ → ‘순둥미’ 화수분 매력 선사 (SMTOWN ─ Actors News)]]></title>
@@ -563,12 +571,22 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a450c643cc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘술꾼도시여자들’ 26일 최종화 공개! 최시원, 레전드 캐릭터 탄생시킨 참신한 노력 빛났다! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5656</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5656</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’의 피날레를 성대하게 장식할 예정이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a06eac74f86.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380074</link>
+            <guid>https://now.smtown.com/news/detail/2380074</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380073</link>
+            <guid>https://now.smtown.com/news/detail/2380073</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380072</link>
+            <guid>https://now.smtown.com/news/detail/2380072</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)... (SMTOWN ─ NOW)]]></title>
@@ -775,30 +793,6 @@ Listen ...]]></content:encoded>
             <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5bocmq9IWh0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=fboUFjZJ5V0</link>
-            <guid>https://www.youtube.com/watch?v=fboUFjZJ5V0</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑
-
-KAI's 2n...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fboUFjZJ5V0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's new song 'Earthquake' has int... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380017</link>
-            <guid>https://now.smtown.com/news/detail/2380017</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) presents a more intense charisma w...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN, a gift of hope for children ba... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380016</link>
-            <guid>https://now.smtown.com/news/detail/2380016</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Singer SUNGMIN delivered hope to children.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[총결산] 2021

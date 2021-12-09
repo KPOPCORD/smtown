@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 04:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380074</link>
+            <guid>https://now.smtown.com/news/detail/2380074</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380073</link>
+            <guid>https://now.smtown.com/news/detail/2380073</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380072</link>
+            <guid>https://now.smtown.com/news/detail/2380072</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)...]]></title>
             <link>https://www.youtube.com/watch?v=Afx3PTYvoHo</link>
@@ -212,30 +227,6 @@ Listen ...]]></content:encoded>
             <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5bocmq9IWh0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑]]></title>
-            <link>https://www.youtube.com/watch?v=fboUFjZJ5V0</link>
-            <guid>https://www.youtube.com/watch?v=fboUFjZJ5V0</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Feels good to be TWO bad guys🐻💪🦌🍑
-
-KAI's 2n...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fboUFjZJ5V0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's new song 'Earthquake' has int...]]></title>
-            <link>https://now.smtown.com/news/detail/2380017</link>
-            <guid>https://now.smtown.com/news/detail/2380017</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) presents a more intense charisma w...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUNGMIN, a gift of hope for children ba...]]></title>
-            <link>https://now.smtown.com/news/detail/2380016</link>
-            <guid>https://now.smtown.com/news/detail/2380016</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Singer SUNGMIN delivered hope to children.]]></content:encoded>
         </item>
     </channel>
 </rss>
