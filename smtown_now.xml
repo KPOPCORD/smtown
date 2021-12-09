@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 13:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 13:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 정인 JUNGIN - 값 (녹음실 라이브 ver.)]]></title>
+            <link>https://www.youtube.com/watch?v=hW_rWrii4Ho</link>
+            <guid>https://www.youtube.com/watch?v=hW_rWrii4Ho</guid>
+            <pubDate>Thu, 09 Dec 2021 13:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[#정인 #값 #박원
+
+한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hW_rWrii4Ho/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Performance Video]]></title>
+            <link>https://www.youtube.com/watch?v=3Ms-CJoUUe4</link>
+            <guid>https://www.youtube.com/watch?v=3Ms-CJoUUe4</guid>
+            <pubDate>Thu, 09 Dec 2021 13:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3Ms-CJoUUe4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe...]]></title>
             <link>https://www.youtube.com/watch?v=ugqgHooymxk</link>
@@ -220,20 +240,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380023</guid>
             <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
             <content:encoded><![CDATA[NCT(SM) delivers charming emotional vocals with...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa to appear on ‘The Daily Show with...]]></title>
-            <link>https://now.smtown.com/news/detail/2380022</link>
-            <guid>https://now.smtown.com/news/detail/2380022</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘Metaverse girlgroup’ aespa (SM) to appear on t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM 'STATION', ONEW X Punch ‘별 하나’ to be...]]></title>
-            <link>https://now.smtown.com/news/detail/2380021</link>
-            <guid>https://now.smtown.com/news/detail/2380021</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee ONEW(SM) and singer Punch's duet song '별...]]></content:encoded>
         </item>
     </channel>
 </rss>
