@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI ‘Peaches’ performance video release...]]></title>
+            <link>https://now.smtown.com/news/detail/2380077</link>
+            <guid>https://now.smtown.com/news/detail/2380077</guid>
+            <pubDate>Thu, 09 Dec 2021 06:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI(SM)'s new song 'Peaches' performance vi...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380076</link>
+            <guid>https://now.smtown.com/news/detail/2380076</guid>
+            <pubDate>Thu, 09 Dec 2021 06:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380075</link>
+            <guid>https://now.smtown.com/news/detail/2380075</guid>
+            <pubDate>Thu, 09 Dec 2021 06:52:52 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380074</link>
             <guid>https://now.smtown.com/news/detail/2380074</guid>
@@ -205,28 +222,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380020</guid>
             <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E releases part of the new song ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Park Jung Yeon, 'Innocent goddess visua...]]></title>
-            <link>https://now.smtown.com/news/detail/2380019</link>
-            <guid>https://now.smtown.com/news/detail/2380019</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Park Jung Yeon showed off her dazzling be...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Park Ha Seon Confirmed to Appear in Kak...]]></title>
-            <link>https://now.smtown.com/news/detail/2380018</link>
-            <guid>https://now.smtown.com/news/detail/2380018</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Park Ha Seon has been confirmed to appear...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
-            <link>https://www.youtube.com/watch?v=5bocmq9IWh0</link>
-            <guid>https://www.youtube.com/watch?v=5bocmq9IWh0</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5bocmq9IWh0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

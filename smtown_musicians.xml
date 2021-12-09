@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스파 ‘Next Level’, 英 NME 선정 ‘2021년 베스트 송 50’ 등극! K팝 걸그룹 중 유일!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5709</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5709</guid>
+            <pubDate>Thu, 09 Dec 2021 06:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)의 히트곡 ‘Next Level’(넥스트 레벨)이 NME가 선정한 ‘2021년 베스트 송 50’에 등극해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b052aca6fa0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 정규 3집 타이틀 곡 ‘Universe’ 티저 이미지 공개 화제!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5706</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61aee554cb4e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5697</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
-            <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 유명 토크쇼 ‘The Daily Show with Trevor Noah’(더 데일리 쇼 위드 트레버 노아)에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 11주 연속 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5707</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5707</guid>
+            <pubDate>Thu, 09 Dec 2021 06:52:06 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’ 차트에 11주 연속 진입하며 글로벌 인기 행진을 이어가고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b038a352fc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파 첫 미니앨범 ‘Savage’, 美 ‘빌보드 200’ 85위로 재진입!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 Dec 2021 07:42:59 GMT</pubDate>
             <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 매력적인 감성 보컬을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e8dbfd48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION’, 온유X펀치 ‘별 하나’ 6일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5696</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5696</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치의 듀엣곡 ‘별 하나 (Way)’가 6일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9db8de96a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
