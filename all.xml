@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 10:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 11:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Performance Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26864652</link>
+            <guid>https://vlive.tv/post/0-26864652</guid>
+            <pubDate>Thu, 09 Dec 2021 11:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_153/1639045281982sJihv_JPEG/1639044826910.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26849101</link>
             <guid>https://vlive.tv/post/0-26849101</guid>
             <pubDate>Thu, 09 Dec 2021 09:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_243/163896715770150log_JPEG/1638960479273.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-26856904</link>
             <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_39/1638975275910Bz02i_JPEG/upload_830549750354535137a57aac8-a19f-43b2-9318-728566652cb9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26852435</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
             <content:encoded><![CDATA[12.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_114/1638954347062lKKkn_JPEG/1638953837349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video Teaser (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/0-26595855</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
             <content:encoded><![CDATA[11.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 3 - Synchronization of Dreams (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26589722</link>
-            <guid>https://vlive.tv/post/1-26589722</guid>
-            <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[11.23.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -1349,6 +1349,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KAI 카이 'Peaches' Performance Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23999590</link>
+            <guid>https://tv.naver.com/v/23999590</guid>
+            <pubDate>Thu, 09 Dec 2021 11:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_132/tJe36_1639044828095nB4Oh_JPEG/1639044826910.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23983232</link>
             <guid>https://tv.naver.com/v/23983232</guid>
@@ -1579,14 +1587,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 31 Oct 2021 09:45:18 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_6/y7mAe_1635593147152KpQYT_JPEG/1635593142294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Favorite (Vampire)' Halloween Costume Ver. (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23253366</link>
-            <guid>https://tv.naver.com/v/23253366</guid>
-            <pubDate>Sun, 31 Oct 2021 11:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_194/KHUBP_1635585259319R3pvV_JPEG/1635585235413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
