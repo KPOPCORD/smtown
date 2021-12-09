@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video]]></title>
+            <link>https://vlive.tv/post/0-26849101</link>
+            <guid>https://vlive.tv/post/0-26849101</guid>
+            <pubDate>Thu, 09 Dec 2021 09:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_243/163896715770150log_JPEG/1638960479273.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV Teaser]]></title>
             <link>https://vlive.tv/post/1-26856904</link>
             <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_39/1638975275910Bz02i_JPEG/upload_830549750354535137a57aac8-a19f-43b2-9318-728566652cb9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-26852435</link>
             <guid>https://vlive.tv/post/1-26852435</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.8.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_114/1638954347062lKKkn_JPEG/1638953837349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26840254</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
             <content:encoded><![CDATA[12.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211207_30/1638885414680C0u0C_JPEG/1638885195572.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26589722</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
             <content:encoded><![CDATA[11.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler]]></title>
-            <link>https://vlive.tv/post/1-26555328</link>
-            <guid>https://vlive.tv/post/1-26555328</guid>
-            <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[11.21.]]></content:encoded>
         </item>
     </channel>
 </rss>

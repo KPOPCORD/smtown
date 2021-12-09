@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26849101</link>
+            <guid>https://vlive.tv/post/0-26849101</guid>
+            <pubDate>Thu, 09 Dec 2021 09:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_243/163896715770150log_JPEG/1638960479273.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26856904</link>
             <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_39/1638975275910Bz02i_JPEG/upload_830549750354535137a57aac8-a19f-43b2-9318-728566652cb9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/1-26852435</link>
             <guid>https://vlive.tv/post/1-26852435</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.8.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_114/1638954347062lKKkn_JPEG/1638953837349.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26840254</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
             <content:encoded><![CDATA[12.7.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211207_30/1638885414680C0u0C_JPEG/1638885195572.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser (SMTOWN ─ Media Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26589722</guid>
             <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
             <content:encoded><![CDATA[11.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #2 Mood Sampler (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26555328</link>
-            <guid>https://vlive.tv/post/1-26555328</guid>
-            <pubDate>Thu, 09 Dec 2021 07:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[11.21.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알림📢] Weekend: 태연엔터 상반기 총회 소집 (SMTOWN ─ Notice)]]></title>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a450c643cc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=ugqgHooymxk</link>
+            <guid>https://www.youtube.com/watch?v=ugqgHooymxk</guid>
+            <pubDate>Thu, 09 Dec 2021 09:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's new single "Need U" is out!
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ugqgHooymxk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI ‘Peaches’ performance video release... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380077</link>
             <guid>https://now.smtown.com/news/detail/2380077</guid>
@@ -788,13 +797,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380021</guid>
             <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
             <content:encoded><![CDATA[SHINee ONEW(SM) and singer Punch's duet song '별...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, 1st album epilogue al... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380020</link>
-            <guid>https://now.smtown.com/news/detail/2380020</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E releases part of the new song ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[총결산] 2021
@@ -1355,6 +1357,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_149/4NqRa_1638975146923NSiQh_JPEG/1638975142996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video | ‘COUNTDOWN TO ZERO' Epilogue (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/23979921</link>
+            <guid>https://tv.naver.com/v/23979921</guid>
+            <pubDate>Thu, 09 Dec 2021 09:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[5:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_9/h9m3U_1638960593005JJDxL_JPEG/1638960479273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/23977726</link>
             <guid>https://tv.naver.com/v/23977726</guid>
@@ -1577,14 +1587,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 31 Oct 2021 11:41:41 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_194/KHUBP_1635585259319R3pvV_JPEG/1635585235413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E The 1st Album [COUNTDOWN] Highlight Medley (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23241710</link>
-            <guid>https://tv.naver.com/v/23241710</guid>
-            <pubDate>Mon, 01 Nov 2021 09:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_117/XSHVs_1635496871429UFbPR_JPEG/1635496731171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
