@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 13:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 13:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Dance Practice]]></title>
+            <link>https://www.youtube.com/watch?v=8oxUBpN8YY0</link>
+            <guid>https://www.youtube.com/watch?v=8oxUBpN8YY0</guid>
+            <pubDate>Fri, 10 Dec 2021 13:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8oxUBpN8YY0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The mission to catch peaches!🍑🐻🧺]]></title>
             <link>https://www.youtube.com/watch?v=R5Ui4pSFLuM</link>
@@ -234,13 +243,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380060</guid>
             <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 (SM) is continuing its global popularit...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 3rd album title song 'Universe' te...]]></title>
-            <link>https://now.smtown.com/news/detail/2380059</link>
-            <guid>https://now.smtown.com/news/detail/2380059</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
         </item>
     </channel>
 </rss>
