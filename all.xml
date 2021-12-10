@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 10:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 11:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26877559</link>
             <guid>https://vlive.tv/post/0-26877559</guid>
             <pubDate>Fri, 10 Dec 2021 09:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-26864652</link>
             <guid>https://vlive.tv/post/0-26864652</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.9.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_109/1639101071881758x8_JPEG/upload_5537066902580999643f49820-e6c0-4cb0-ae07-bf8bf58f82e5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT, 2021년 전 세계에서 가장 많이 트윗된 K팝 아티스트 2위! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5723</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5723</guid>
+            <pubDate>Fri, 10 Dec 2021 11:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT, 2021년 전 세계에서 가장 많이 트윗된 K팝 아티스트 2위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b33aaa734ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파, 美 ‘닉 캐논 쇼’ K팝 아티스트 첫 출연! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5722</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5722</guid>
+            <pubDate>Fri, 10 Dec 2021 11:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">에스파, 美 ‘닉 캐논 쇼’ K팝 아티스트 첫 출연! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b33a41c2710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5721</link>
             <guid>https://www.smtown.com/artist/newsDetail/5721</guid>
             <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SMTOWN 2022 : SMCU EXPRESS Start! </span>]]></content:encoded>
+            <content:encoded><![CDATA[에스엠엔터테인먼트(이하 SM)가 공연, 앨범, 전시를 한 번에 만날 수 있는 종합 콘텐츠 프로젝트 ‘SMTOWN 2022 : SMCU EXPRESS’(에스엠타운 2022 : SMCU 익스프레스)를 시작한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dec610b5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5720</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5720</guid>
-            <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2de233f0ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤이니 온유, 생일 기념 유튜브 라이브 12월 14일 오후 9시 진행! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0383da649f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM STATION, 온유X펀치 듀엣곡 ‘별 하나’ 라이브 비디오 8일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5704</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5704</guid>
-            <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유(에스엠엔터테인먼트 소속)와 가수 펀치가 호흡을 맞춘 ‘별 하나 (Way)’의 라이브 비디오가 8일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b0375a2afb1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5720</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5720</guid>
+            <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Universe (Let’s Play Ball)’(유니버스)가 10일 월드와이드 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2de233f0ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어-D&E, 신곡 'Need U' 아이튠즈 톱 송 차트 전 세계 8개 지역 1위 '기염' (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
             <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 미국 ‘빌보드 200’ 차트에 재진입했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b037c17169d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 리마스터링 프로젝트, 유영진 ‘...지애’ 리마스터 MV 9일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5703</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5703</guid>
-            <pubDate>Wed, 08 Dec 2021 04:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM) 대표 프로듀서 유영진의 히트곡 ‘...지애(之愛)’ 리마스터 뮤직비디오가 오는 9일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b036e0f1d86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연... (SMTOWN ─ Actors News)]]></title>
@@ -569,237 +569,6 @@
             <pubDate>Wed, 01 Dec 2021 03:46:28 GMT</pubDate>
             <content:encoded><![CDATA[뮤지컬 배우 지현준이 지하 세계의 주인 ‘하데스’ 그 자체로 변신했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=SCK8yBLqQJc</link>
-            <guid>https://www.youtube.com/watch?v=SCK8yBLqQJc</guid>
-            <pubDate>Fri, 10 Dec 2021 09:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's lead single 'Universe (Let's Play Ball)' ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SCK8yBLqQJc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start! (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380101</link>
-            <guid>https://now.smtown.com/news/detail/2380101</guid>
-            <pubDate>Fri, 10 Dec 2021 06:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment is starting a comprehensive co...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 3rd album title song 'Universe' + M... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380100</link>
-            <guid>https://now.smtown.com/news/detail/2380100</guid>
-            <pubDate>Fri, 10 Dec 2021 06:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee ONEW’s birthday celebration YouT... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380099</link>
-            <guid>https://now.smtown.com/news/detail/2380099</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee ONEW (SM) announced a special live broad...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, new song 'Need U' top... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380098</link>
-            <guid>https://now.smtown.com/news/detail/2380098</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving a lot of love fro...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR RYEOWOOK, first performanc... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380097</link>
-            <guid>https://now.smtown.com/news/detail/2380097</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[Singer RYEOWOOK meets the audience with the cre...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['구경이' Baek Sung Chul, charisma X sweet ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380096</link>
-            <guid>https://now.smtown.com/news/detail/2380096</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[Baek Sung Chul's '구경이' revealed a warm visual.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yummy!💖🐻🍩🥤💖 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=FJwjrDoRUDw</link>
-            <guid>https://www.youtube.com/watch?v=FJwjrDoRUDw</guid>
-            <pubDate>Thu, 09 Dec 2021 14:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FJwjrDoRUDw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 정인 JUNGIN - 값 (녹음실 라이브 ver.) (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=hW_rWrii4Ho</link>
-            <guid>https://www.youtube.com/watch?v=hW_rWrii4Ho</guid>
-            <pubDate>Thu, 09 Dec 2021 13:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[#정인 #값 #박원
-
-한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hW_rWrii4Ho/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사실 어색하지 않은데 | 어사즈 특별편 [3] 유타, 샤오쥔 | 어색하... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=QdmXGRqtGXo</link>
-            <guid>https://www.youtube.com/watch?v=QdmXGRqtGXo</guid>
-            <pubDate>Thu, 09 Dec 2021 14:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[#NCT #어사즈 #Awsaz 
-#어색하지만_괜찮아 #ItsAwkward_ButIts...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/QdmXGRqtGXo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' Performance Video (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=3Ms-CJoUUe4</link>
-            <guid>https://www.youtube.com/watch?v=3Ms-CJoUUe4</guid>
-            <pubDate>Thu, 09 Dec 2021 13:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3Ms-CJoUUe4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ugqgHooymxk</link>
-            <guid>https://www.youtube.com/watch?v=ugqgHooymxk</guid>
-            <pubDate>Thu, 09 Dec 2021 09:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's new single "Need U" is out!
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ugqgHooymxk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI ‘Peaches’ performance video release... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380077</link>
-            <guid>https://now.smtown.com/news/detail/2380077</guid>
-            <pubDate>Thu, 09 Dec 2021 06:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[EXO KAI(SM)'s new song 'Peaches' performance vi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E releases 1st album epi... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380076</link>
-            <guid>https://now.smtown.com/news/detail/2380076</guid>
-            <pubDate>Thu, 09 Dec 2021 06:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E captivates global fans once ag...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yoon Bo Ra to appear in JTBC’s ‘한 사람만’…... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380075</link>
-            <guid>https://now.smtown.com/news/detail/2380075</guid>
-            <pubDate>Thu, 09 Dec 2021 06:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Yoon Bo Ra appears in JTBC's new drama ‘한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘공작도시’ Lee Hak Joo, reporter ‘Han ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380074</link>
-            <guid>https://now.smtown.com/news/detail/2380074</guid>
-            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Hak Joo once again delivered a unique...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Global top model SOO JOO decorated the ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380073</link>
-            <guid>https://now.smtown.com/news/detail/2380073</guid>
-            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[SOO JOO, a global top model and ambassador of t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ESteem Lee Hyo Lee·Lee Hyun Yi·Aiki to ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380072</link>
-            <guid>https://now.smtown.com/news/detail/2380072</guid>
-            <pubDate>Thu, 09 Dec 2021 05:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[ESteem artists Lee Hyo Lee, Lee Hyun Yi and Aik...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Afx3PTYvoHo</link>
-            <guid>https://www.youtube.com/watch?v=Afx3PTYvoHo</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Afx3PTYvoHo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Production Record from KAI📽 I 'Peaches... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=LH3Vhk-UaoI</link>
-            <guid>https://www.youtube.com/watch?v=LH3Vhk-UaoI</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/LH3Vhk-UaoI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뜬금LIVE] 윤종신 - 이별택시 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=4VYXtC12tt4</link>
-            <guid>https://www.youtube.com/watch?v=4VYXtC12tt4</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
-https://www.youtube.com/playlist?...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/4VYXtC12tt4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LISTEN STAGE] 211027 - 민서 (그날까지/성장/Don... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Jb8g4P_uX5o</link>
-            <guid>https://www.youtube.com/watch?v=Jb8g4P_uX5o</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[#민서리슨스테이지 #민서 #나랑놀사람
-🚩MINSEO's Instagram : htt...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Jb8g4P_uX5o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa’s ‘Next Level’ named as one of ‘T... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380064</link>
-            <guid>https://now.smtown.com/news/detail/2380064</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM)'s hit song 'Next Level' named as one ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MBC every1 ‘맘마미안’ first broadcast (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380063</link>
-            <guid>https://now.smtown.com/news/detail/2380063</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Kang Ho Dong, Lee Su Geun and Lee Hye Seung war...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album 'Sticker' charted i... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380060</link>
-            <guid>https://now.smtown.com/news/detail/2380060</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) is continuing its global popularit...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 3rd album title song 'Universe' te... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380059</link>
-            <guid>https://now.smtown.com/news/detail/2380059</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa The 1st Mini Album ‘Savage’ re-en... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380058</link>
-            <guid>https://now.smtown.com/news/detail/2380058</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[aespa (SM) re-enters the ‘Billboard 200’ chart ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ONEW X Punch ‘Way’ live video to be rel... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380057</link>
-            <guid>https://now.smtown.com/news/detail/2380057</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee ONEW(SM) and singer Punch will collabora...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The remastered MV of YOO YOUNG JIN’s ‘…... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380056</link>
-            <guid>https://now.smtown.com/news/detail/2380056</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment's representative producer YOO ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[딱복✨🍑 VS 물복☁️🍑 당신의 선택은? Hard peach✨🍑 ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=bH9BzRXEx3s</link>
-            <guid>https://www.youtube.com/watch?v=bH9BzRXEx3s</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[딱복✨🍑 VS 물복☁️🍑 당신의 선택은? Hard peach✨🍑 VS Soft ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bH9BzRXEx3s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 

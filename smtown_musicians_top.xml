@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 10:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 11:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5721</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5721</guid>
-            <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
+            <title><![CDATA[NCT, 2021년 전 세계에서 가장 많이 트윗된 K팝 아티스트 2위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5723</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5723</guid>
+            <pubDate>Fri, 10 Dec 2021 11:41:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SMTOWN 2022 : SMCU EXPRESS Start! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dec610b5a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 2021년 전 세계에서 가장 많이 트윗된 K팝 아티스트 2위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b33aaa734ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5720</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5720</guid>
-            <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
+            <title><![CDATA[에스파, 美 ‘닉 캐논 쇼’ K팝 아티스트 첫 출연!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5722</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5722</guid>
+            <pubDate>Fri, 10 Dec 2021 11:41:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2de233f0ae.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">에스파, 美 ‘닉 캐논 쇼’ K팝 아티스트 첫 출연! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b33a41c2710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
