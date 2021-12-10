@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 03:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 04:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380099</link>
+            <guid>https://now.smtown.com/news/detail/2380099</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380098</link>
+            <guid>https://now.smtown.com/news/detail/2380098</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380097</link>
+            <guid>https://now.smtown.com/news/detail/2380097</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380096</link>
+            <guid>https://now.smtown.com/news/detail/2380096</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yummy!💖🐻🍩🥤💖]]></title>
             <link>https://www.youtube.com/watch?v=FJwjrDoRUDw</link>
@@ -213,35 +233,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380042</guid>
             <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
             <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) presents h...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN's Japan solo album 'Human'...]]></title>
-            <link>https://now.smtown.com/news/detail/2380041</link>
-            <guid>https://now.smtown.com/news/detail/2380041</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN(SM)'s new Japanese mini albu...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YESUNG, '우리 식구됐어요' First Broadcast Exci...]]></title>
-            <link>https://now.smtown.com/news/detail/2380040</link>
-            <guid>https://now.smtown.com/news/detail/2380040</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG exuded a charm...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, 'Sing Again2' first broadcast,...]]></title>
-            <link>https://now.smtown.com/news/detail/2380039</link>
-            <guid>https://now.smtown.com/news/detail/2380039</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR KYUHYUN shined as a judge fo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe...]]></title>
-            <link>https://www.youtube.com/watch?v=sESB2PYz0lE</link>
-            <guid>https://www.youtube.com/watch?v=sESB2PYz0lE</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E The 1st Album "COUNTDOWN - ZER...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/sESB2PYz0lE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

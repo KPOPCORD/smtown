@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 03:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 04:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤보라, JTBC ‘한 사람만’ 출연… 데뷔 후 첫 수녀 역 도전]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5713</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5713</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤보라가 JTBC 새 월화드라마 ‘한 사람만’에 출연하며 데뷔이래 첫 수도자 역할에 도전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b197457add8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박정연, 단발병 유발하는 '청순 여신 비주얼']]></title>
             <link>https://www.smtown.com/artist/newsDetail/5694</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8680b0c995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘술꾼도시여자들’ 최시원, 마무리 소감 담은 일문일답 인터뷰 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5665</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5665</guid>
-            <pubDate>Thu, 02 Dec 2021 06:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 ‘술꾼도시여자들’ 마무리 소감이 담긴 일문일답 인터뷰를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a4513148df5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[JTBC ‘공작도시’ 이학주, 순수+열정 가득 보도국 기자 ‘한동민’役 첫등장]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5712</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5712</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이학주가 다시 한 번 남다른 존재감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박하선, 카카오TV 오리지널 ‘며느라기2’ 출연 확정!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 06:52:16 GMT</pubDate>
             <content:encoded><![CDATA[뮤지컬 배우 지현준이 지하 세계의 주인 ‘하데스’ 그 자체로 변신했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘크라임 퍼즐’ 고아성, 종영 소감 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5664</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5664</guid>
-            <pubDate>Wed, 01 Dec 2021 03:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[흡입력 있는 열연으로 장르물에 강한 면모를 보여준 배우 고아성이 ‘크라임 퍼즐’ 종영 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202111/star_61a450c643cc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
