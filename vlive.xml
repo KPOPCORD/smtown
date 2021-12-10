@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>SMTOWN ─ Media Board</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:44:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
+    <title>SMTOWN ─ Media Board</title>
+    <updated>2021-12-10T15:50:29.314Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+</feed>cs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
             <link>https://vlive.tv/post/0-26877559</link>
             <guid>https://vlive.tv/post/0-26877559</guid>
             <pubDate>Fri, 10 Dec 2021 09:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26877559</link>
             <guid>https://vlive.tv/post/0-26877559</guid>
             <pubDate>Fri, 10 Dec 2021 09:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ep 7. ESCAPE FROM MAGIC ISLAND | 아날로그 트... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=1PLEcv5Vnfw</link>
+            <guid>https://www.youtube.com/watch?v=1PLEcv5Vnfw</guid>
+            <pubDate>Fri, 10 Dec 2021 15:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[4일간의 대장정 끝에 NCT 127에게 주어진 마지막 미션! '이 섬을 탈출하라!'
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1PLEcv5Vnfw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[본업 열일, 미모 열일 배우 #한선화 싱글즈 화보 현장 #키동캠 | 한... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=H2vESL44V6M</link>
             <guid>https://www.youtube.com/watch?v=H2vESL44V6M</guid>
@@ -800,13 +809,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380064</guid>
             <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[aespa(SM)'s hit song 'Next Level' named as one ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MBC every1 ‘맘마미안’ first broadcast (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380063</link>
-            <guid>https://now.smtown.com/news/detail/2380063</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[Kang Ho Dong, Lee Su Geun and Lee Hye Seung war...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 
