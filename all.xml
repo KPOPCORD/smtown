@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 06:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 07:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26864652</link>
             <guid>https://vlive.tv/post/0-26864652</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_109/1639101071881758x8_JPEG/upload_5537066902580999643f49820-e6c0-4cb0-ae07-bf8bf58f82e5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/0-26849101</link>
             <guid>https://vlive.tv/post/0-26849101</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_243/163896715770150log_JPEG/1638960479273.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -606,10 +606,11 @@
             <content:encoded><![CDATA[Singer RYEOWOOK meets the audience with the cre...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['구경이' Baek Sung Chul, charisma X sweet ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380096</link>
             <guid>https://now.smtown.com/news/detail/2380096</guid>
             <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[Baek Sung Chul's '구경이' revealed a warm visual.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Yummy!💖🐻🍩🥤💖 (SMTOWN ─ NOW)]]></title>
