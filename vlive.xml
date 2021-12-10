@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 08:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 09:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
+            <link>https://vlive.tv/post/0-26877559</link>
+            <guid>https://vlive.tv/post/0-26877559</guid>
+            <pubDate>Fri, 10 Dec 2021 09:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' Performance Video]]></title>
             <link>https://vlive.tv/post/0-26864652</link>
             <guid>https://vlive.tv/post/0-26864652</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_109/1639101071881758x8_JPEG/upload_5537066902580999643f49820-e6c0-4cb0-ae07-bf8bf58f82e5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://vlive.tv/post/0-26849101</link>
             <guid>https://vlive.tv/post/0-26849101</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.9.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_243/163896715770150log_JPEG/1638960479273.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
             <content:encoded><![CDATA[12.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_39/1638975275910Bz02i_JPEG/upload_830549750354535137a57aac8-a19f-43b2-9318-728566652cb9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26612105</guid>
             <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
             <content:encoded><![CDATA[11.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #3 Mood Sampler]]></title>
-            <link>https://vlive.tv/post/0-26595855</link>
-            <guid>https://vlive.tv/post/0-26595855</guid>
-            <pubDate>Fri, 10 Dec 2021 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[11.24.]]></content:encoded>
         </item>
     </channel>
 </rss>
