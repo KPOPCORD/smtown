@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 13:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 14:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본업 열일, 미모 열일 배우 #한선화 싱글즈 화보 현장 #키동캠 | 한...]]></title>
+            <link>https://www.youtube.com/watch?v=H2vESL44V6M</link>
+            <guid>https://www.youtube.com/watch?v=H2vESL44V6M</guid>
+            <pubDate>Fri, 10 Dec 2021 14:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'Singles' pi...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/H2vESL44V6M/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches' Dance Practice]]></title>
             <link>https://www.youtube.com/watch?v=8oxUBpN8YY0</link>
@@ -236,13 +244,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380063</guid>
             <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[Kang Ho Dong, Lee Su Geun and Lee Hye Seung war...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album 'Sticker' charted i...]]></title>
-            <link>https://now.smtown.com/news/detail/2380060</link>
-            <guid>https://now.smtown.com/news/detail/2380060</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) is continuing its global popularit...]]></content:encoded>
         </item>
     </channel>
 </rss>
