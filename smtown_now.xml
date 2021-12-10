@@ -4,23 +4,43 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start!]]></title>
+            <link>https://now.smtown.com/news/detail/2380101</link>
+            <guid>https://now.smtown.com/news/detail/2380101</guid>
+            <pubDate>Fri, 10 Dec 2021 06:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment is starting a comprehensive co...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 3rd album title song 'Universe' + M...]]></title>
+            <link>https://now.smtown.com/news/detail/2380100</link>
+            <guid>https://now.smtown.com/news/detail/2380100</guid>
+            <pubDate>Fri, 10 Dec 2021 06:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee ONEW’s birthday celebration YouT...]]></title>
             <link>https://now.smtown.com/news/detail/2380099</link>
             <guid>https://now.smtown.com/news/detail/2380099</guid>
             <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee ONEW (SM) announced a special live broad...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR-D&E, new song 'Need U' top...]]></title>
             <link>https://now.smtown.com/news/detail/2380098</link>
             <guid>https://now.smtown.com/news/detail/2380098</guid>
             <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving a lot of love fro...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR RYEOWOOK, first performanc...]]></title>
             <link>https://now.smtown.com/news/detail/2380097</link>
             <guid>https://now.smtown.com/news/detail/2380097</guid>
             <pubDate>Fri, 10 Dec 2021 04:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[Singer RYEOWOOK meets the audience with the cre...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380096</link>
@@ -216,23 +236,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xFDC5BzrICw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ariety] ⛺️WayV’s Glamping Full of...]]></title>
-            <link>https://www.youtube.com/watch?v=2lippZNP8Vw</link>
-            <guid>https://www.youtube.com/watch?v=2lippZNP8Vw</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2lippZNP8Vw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Beyond LIVE’ EXO KAI’s first solo conc...]]></title>
-            <link>https://now.smtown.com/news/detail/2380042</link>
-            <guid>https://now.smtown.com/news/detail/2380042</guid>
-            <pubDate>Thu, 09 Dec 2021 03:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘World-class performer’ EXO KAI (SM) presents h...]]></content:encoded>
         </item>
     </channel>
 </rss>

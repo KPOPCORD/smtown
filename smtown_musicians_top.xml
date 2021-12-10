@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[슈퍼주니어-D&E, 신곡 'Need U' 아이튠즈 톱 송 차트 전 세계 8개 지역 1위 '기염']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5718</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5718</guid>
-            <pubDate>Fri, 10 Dec 2021 04:54:44 GMT</pubDate>
+            <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5721</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5721</guid>
+            <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어-D&amp;E, 신곡 'Need U' 아이튠즈 톱 송 차트 전 세계 8개 지역 1위 '기염'</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dd0407cea.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SMTOWN 2022 : SMCU EXPRESS Start! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dec610b5a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카이 ‘Peaches’ 퍼포먼스 비디오 9일 오후 8시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5715</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5715</guid>
-            <pubDate>Thu, 09 Dec 2021 06:51:52 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5720</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5720</guid>
+            <pubDate>Fri, 10 Dec 2021 06:51:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">카이 ‘Peaches’ 퍼포먼스 비디오 9일 오후 8시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b1983fad645.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 타이틀 곡 ‘Universe’ 10일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2de233f0ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
