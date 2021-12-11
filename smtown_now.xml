@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 14:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 15:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[REACTION to 🏆’Universe (Let's Play Bal...]]></title>
+            <link>https://www.youtube.com/watch?v=nh1WinTKCpE</link>
+            <guid>https://www.youtube.com/watch?v=nh1WinTKCpE</guid>
+            <pubDate>Sat, 11 Dec 2021 15:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's lead single 'Universe (Let's Play Ball)' ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nh1WinTKCpE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보너스 영상 #4 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
+            <link>https://www.youtube.com/watch?v=ZNjg9xhJL88</link>
+            <guid>https://www.youtube.com/watch?v=ZNjg9xhJL88</guid>
+            <pubDate>Sat, 11 Dec 2021 15:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[소무의도에서의 NCT 127 먹방&amp;비밀(meal) 토크
+
+유튜브 오리지널 아날로그 트...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZNjg9xhJL88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 영상을 보는 사람들 모두 최고가 됩니다👍 | 복숭아 도령의 사주카...]]></title>
             <link>https://www.youtube.com/watch?v=G5DeQfBs9m4</link>
@@ -230,23 +248,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380072</guid>
             <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[ESteem artists Lee Hyo Lee, Lee Hyun Yi and Aik...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)...]]></title>
-            <link>https://www.youtube.com/watch?v=Afx3PTYvoHo</link>
-            <guid>https://www.youtube.com/watch?v=Afx3PTYvoHo</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Afx3PTYvoHo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Production Record from KAI📽 I 'Peaches...]]></title>
-            <link>https://www.youtube.com/watch?v=LH3Vhk-UaoI</link>
-            <guid>https://www.youtube.com/watch?v=LH3Vhk-UaoI</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/LH3Vhk-UaoI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
