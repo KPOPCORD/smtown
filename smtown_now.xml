@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 09:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 10:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🍑🕺Dancing peaches🕺🍑]]></title>
+            <link>https://www.youtube.com/watch?v=fHTZFubtMQA</link>
+            <guid>https://www.youtube.com/watch?v=fHTZFubtMQA</guid>
+            <pubDate>Sat, 11 Dec 2021 10:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fHTZFubtMQA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코믹에 진심인 #김동욱 😎 #SNL코리아 현장 밀착 #키동캠 | Ki...]]></title>
             <link>https://www.youtube.com/watch?v=h40u5D7-f7c</link>
@@ -238,15 +247,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
 https://www.youtube.com/playlist?...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/4VYXtC12tt4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LISTEN STAGE] 211027 - 민서 (그날까지/성장/Don...]]></title>
-            <link>https://www.youtube.com/watch?v=Jb8g4P_uX5o</link>
-            <guid>https://www.youtube.com/watch?v=Jb8g4P_uX5o</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[#민서리슨스테이지 #민서 #나랑놀사람
-🚩MINSEO's Instagram : htt...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Jb8g4P_uX5o/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
