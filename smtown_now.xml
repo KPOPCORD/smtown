@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 11:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 13:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 영상을 보는 사람들 모두 최고가 됩니다👍 | 복숭아 도령의 사주카...]]></title>
+            <link>https://www.youtube.com/watch?v=G5DeQfBs9m4</link>
+            <guid>https://www.youtube.com/watch?v=G5DeQfBs9m4</guid>
+            <pubDate>Sat, 11 Dec 2021 13:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/G5DeQfBs9m4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🍑🕺Dancing peaches🕺🍑]]></title>
             <link>https://www.youtube.com/watch?v=fHTZFubtMQA</link>
@@ -238,15 +247,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LH3Vhk-UaoI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뜬금LIVE] 윤종신 - 이별택시]]></title>
-            <link>https://www.youtube.com/watch?v=4VYXtC12tt4</link>
-            <guid>https://www.youtube.com/watch?v=4VYXtC12tt4</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
-https://www.youtube.com/playlist?...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/4VYXtC12tt4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
