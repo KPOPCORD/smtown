@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 06:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 07:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26877559</link>
             <guid>https://vlive.tv/post/0-26877559</guid>
             <pubDate>Fri, 10 Dec 2021 09:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코믹에 진심인 #김동욱 😎 #SNL코리아 현장 밀착 #키동캠 | Ki... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=h40u5D7-f7c</link>
+            <guid>https://www.youtube.com/watch?v=h40u5D7-f7c</guid>
+            <pubDate>Sat, 11 Dec 2021 07:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of  '#SNLKorea' #KeyDongCam |...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h40u5D7-f7c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ep 7. ESCAPE FROM MAGIC ISLAND | 아날로그 트... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=1PLEcv5Vnfw</link>
             <guid>https://www.youtube.com/watch?v=1PLEcv5Vnfw</guid>
@@ -802,13 +810,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
             <content:encoded><![CDATA[#민서리슨스테이지 #민서 #나랑놀사람
 🚩MINSEO's Instagram : htt...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Jb8g4P_uX5o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa’s ‘Next Level’ named as one of ‘T... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380064</link>
-            <guid>https://now.smtown.com/news/detail/2380064</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM)'s hit song 'Next Level' named as one ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 

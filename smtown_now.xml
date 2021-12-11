@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 06:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 07:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코믹에 진심인 #김동욱 😎 #SNL코리아 현장 밀착 #키동캠 | Ki...]]></title>
+            <link>https://www.youtube.com/watch?v=h40u5D7-f7c</link>
+            <guid>https://www.youtube.com/watch?v=h40u5D7-f7c</guid>
+            <pubDate>Sat, 11 Dec 2021 07:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of  '#SNLKorea' #KeyDongCam |...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h40u5D7-f7c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ep 7. ESCAPE FROM MAGIC ISLAND | 아날로그 트...]]></title>
             <link>https://www.youtube.com/watch?v=1PLEcv5Vnfw</link>
@@ -239,13 +247,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
             <content:encoded><![CDATA[#민서리슨스테이지 #민서 #나랑놀사람
 🚩MINSEO's Instagram : htt...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Jb8g4P_uX5o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa’s ‘Next Level’ named as one of ‘T...]]></title>
-            <link>https://now.smtown.com/news/detail/2380064</link>
-            <guid>https://now.smtown.com/news/detail/2380064</guid>
-            <pubDate>Fri, 10 Dec 2021 13:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM)'s hit song 'Next Level' named as one ...]]></content:encoded>
         </item>
     </channel>
 </rss>
