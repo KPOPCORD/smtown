@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 13:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 14:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소동물즈 | 🎙쇼! 으맠쩡심💚 EP.1 | NCT 2021]]></title>
+            <link>https://www.youtube.com/watch?v=oOLDoSPyAPs</link>
+            <guid>https://www.youtube.com/watch?v=oOLDoSPyAPs</guid>
+            <pubDate>Sun, 12 Dec 2021 14:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #소동물즈
+#마크 #정우 #도영 #런쥔 #재민 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oOLDoSPyAPs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[REACTION to 🏆’Universe (Let's Play Bal...]]></title>
             <link>https://www.youtube.com/watch?v=nh1WinTKCpE</link>
@@ -241,13 +250,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380073</guid>
             <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[SOO JOO, a global top model and ambassador of t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ESteem Lee Hyo Lee·Lee Hyun Yi·Aiki to ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380072</link>
-            <guid>https://now.smtown.com/news/detail/2380072</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[ESteem artists Lee Hyo Lee, Lee Hyun Yi and Aik...]]></content:encoded>
         </item>
     </channel>
 </rss>
