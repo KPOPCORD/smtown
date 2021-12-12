@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 15:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 17:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26911336</link>
             <guid>https://vlive.tv/post/0-26911336</guid>
             <pubDate>Sun, 12 Dec 2021 15:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211212_121/16393208197816gpOp_JPEG/upload_8340054818815553475fad4f2-d98b-440c-bcec-16dc52cedaa9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=YLbQkgCfU3s</link>
+            <guid>https://www.youtube.com/watch?v=YLbQkgCfU3s</guid>
+            <pubDate>Sun, 12 Dec 2021 17:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YLbQkgCfU3s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산타 #백성철 💛훈훈 비주얼X목소리 모음.zip💛 #구경이 #키동캠... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=QMeMqAx5JUk</link>
             <guid>https://www.youtube.com/watch?v=QMeMqAx5JUk</guid>
@@ -807,13 +815,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380075</guid>
             <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[Actor Yoon Bo Ra appears in JTBC's new drama ‘한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘공작도시’ Lee Hak Joo, reporter ‘Han ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380074</link>
-            <guid>https://now.smtown.com/news/detail/2380074</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Hak Joo once again delivered a unique...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 

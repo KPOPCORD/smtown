@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 15:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 17:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=YLbQkgCfU3s</link>
+            <guid>https://www.youtube.com/watch?v=YLbQkgCfU3s</guid>
+            <pubDate>Sun, 12 Dec 2021 17:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YLbQkgCfU3s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산타 #백성철 💛훈훈 비주얼X목소리 모음.zip💛 #구경이 #키동캠...]]></title>
             <link>https://www.youtube.com/watch?v=QMeMqAx5JUk</link>
@@ -244,13 +252,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380075</guid>
             <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[Actor Yoon Bo Ra appears in JTBC's new drama ‘한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘공작도시’ Lee Hak Joo, reporter ‘Han ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380074</link>
-            <guid>https://now.smtown.com/news/detail/2380074</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Hak Joo once again delivered a unique...]]></content:encoded>
         </item>
     </channel>
 </rss>
