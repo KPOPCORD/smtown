@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산타 #백성철 💛훈훈 비주얼X목소리 모음.zip💛 #구경이 #키동캠...]]></title>
+            <link>https://www.youtube.com/watch?v=QMeMqAx5JUk</link>
+            <guid>https://www.youtube.com/watch?v=QMeMqAx5JUk</guid>
+            <pubDate>Sun, 12 Dec 2021 15:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[Santa #BaekSungChul 💛Collection of handsome vi...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QMeMqAx5JUk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소동물즈 | 🎙쇼! 으맠쩡심💚 EP.1 | NCT 2021]]></title>
             <link>https://www.youtube.com/watch?v=oOLDoSPyAPs</link>
@@ -243,13 +251,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380074</guid>
             <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[Actor Lee Hak Joo once again delivered a unique...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Global top model SOO JOO decorated the ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380073</link>
-            <guid>https://now.smtown.com/news/detail/2380073</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[SOO JOO, a global top model and ambassador of t...]]></content:encoded>
         </item>
     </channel>
 </rss>
