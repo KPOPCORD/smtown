@@ -1,8 +1,253 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-12-12T02:57:07.464Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 12 Dec 2021 03:47:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[REACTION to 🏆’Universe (Let's Play Bal...]]></title>
+            <link>https://www.youtube.com/watch?v=nh1WinTKCpE</link>
+            <guid>https://www.youtube.com/watch?v=nh1WinTKCpE</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's lead single 'Universe (Let's Play Ball)' ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nh1WinTKCpE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보너스 영상 #4 | 아날로그 트립 (Analog Trip NCT 12...]]></title>
+            <link>https://www.youtube.com/watch?v=ZNjg9xhJL88</link>
+            <guid>https://www.youtube.com/watch?v=ZNjg9xhJL88</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[소무의도에서의 NCT 127 먹방&amp;비밀(meal) 토크
+
+유튜브 오리지널 아날로그 트...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZNjg9xhJL88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 영상을 보는 사람들 모두 최고가 됩니다👍 | 복숭아 도령의 사주카...]]></title>
+            <link>https://www.youtube.com/watch?v=G5DeQfBs9m4</link>
+            <guid>https://www.youtube.com/watch?v=G5DeQfBs9m4</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/G5DeQfBs9m4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍑🕺Dancing peaches🕺🍑]]></title>
+            <link>https://www.youtube.com/watch?v=fHTZFubtMQA</link>
+            <guid>https://www.youtube.com/watch?v=fHTZFubtMQA</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fHTZFubtMQA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코믹에 진심인 #김동욱 😎 #SNL코리아 현장 밀착 #키동캠 | Ki...]]></title>
+            <link>https://www.youtube.com/watch?v=h40u5D7-f7c</link>
+            <guid>https://www.youtube.com/watch?v=h40u5D7-f7c</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of  '#SNLKorea' #KeyDongCam |...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h40u5D7-f7c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ep 7. ESCAPE FROM MAGIC ISLAND | 아날로그 트...]]></title>
+            <link>https://www.youtube.com/watch?v=1PLEcv5Vnfw</link>
+            <guid>https://www.youtube.com/watch?v=1PLEcv5Vnfw</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일간의 대장정 끝에 NCT 127에게 주어진 마지막 미션! '이 섬을 탈출하라!'
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1PLEcv5Vnfw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본업 열일, 미모 열일 배우 #한선화 싱글즈 화보 현장 #키동캠 | 한...]]></title>
+            <link>https://www.youtube.com/watch?v=H2vESL44V6M</link>
+            <guid>https://www.youtube.com/watch?v=H2vESL44V6M</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'Singles' pi...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/H2vESL44V6M/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Dance Practice]]></title>
+            <link>https://www.youtube.com/watch?v=8oxUBpN8YY0</link>
+            <guid>https://www.youtube.com/watch?v=8oxUBpN8YY0</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8oxUBpN8YY0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The mission to catch peaches!🍑🐻🧺]]></title>
+            <link>https://www.youtube.com/watch?v=R5Ui4pSFLuM</link>
+            <guid>https://www.youtube.com/watch?v=R5Ui4pSFLuM</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[The mission to catch peaches!🍑🐻🧺
+
+KAI's 2nd ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/R5Ui4pSFLuM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT becomes the second most globally tw...]]></title>
+            <link>https://now.smtown.com/news/detail/2380108</link>
+            <guid>https://now.smtown.com/news/detail/2380108</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM) proved its strong global popularity be...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[aespa to appear on ‘The Nick Cannon Sho...]]></title>
+            <link>https://now.smtown.com/news/detail/2380107</link>
+            <guid>https://now.smtown.com/news/detail/2380107</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[aespa (SM) appeared on the American talk show '...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Jacket Behind The Scen...]]></title>
+            <link>https://www.youtube.com/watch?v=8ETZfdyqWXo</link>
+            <guid>https://www.youtube.com/watch?v=8ETZfdyqWXo</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8ETZfdyqWXo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)...]]></title>
+            <link>https://www.youtube.com/watch?v=SCK8yBLqQJc</link>
+            <guid>https://www.youtube.com/watch?v=SCK8yBLqQJc</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's lead single 'Universe (Let's Play Ball)' ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/SCK8yBLqQJc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start!]]></title>
+            <link>https://now.smtown.com/news/detail/2380101</link>
+            <guid>https://now.smtown.com/news/detail/2380101</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment is starting a comprehensive co...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 3rd album title song 'Universe' + M...]]></title>
+            <link>https://now.smtown.com/news/detail/2380100</link>
+            <guid>https://now.smtown.com/news/detail/2380100</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee ONEW’s birthday celebration YouT...]]></title>
+            <link>https://now.smtown.com/news/detail/2380099</link>
+            <guid>https://now.smtown.com/news/detail/2380099</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee ONEW (SM) announced a special live broad...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E, new song 'Need U' top...]]></title>
+            <link>https://now.smtown.com/news/detail/2380098</link>
+            <guid>https://now.smtown.com/news/detail/2380098</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving a lot of love fro...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR RYEOWOOK, first performanc...]]></title>
+            <link>https://now.smtown.com/news/detail/2380097</link>
+            <guid>https://now.smtown.com/news/detail/2380097</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Singer RYEOWOOK meets the audience with the cre...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['구경이' Baek Sung Chul, charisma X sweet ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380096</link>
+            <guid>https://now.smtown.com/news/detail/2380096</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Baek Sung Chul's '구경이' revealed a warm visual.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Yummy!💖🐻🍩🥤💖]]></title>
+            <link>https://www.youtube.com/watch?v=FJwjrDoRUDw</link>
+            <guid>https://www.youtube.com/watch?v=FJwjrDoRUDw</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/FJwjrDoRUDw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 정인 JUNGIN - 값 (녹음실 라이브 ver.)]]></title>
+            <link>https://www.youtube.com/watch?v=hW_rWrii4Ho</link>
+            <guid>https://www.youtube.com/watch?v=hW_rWrii4Ho</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[#정인 #값 #박원
+
+한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hW_rWrii4Ho/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사실 어색하지 않은데 | 어사즈 특별편 [3] 유타, 샤오쥔 | 어색하...]]></title>
+            <link>https://www.youtube.com/watch?v=QdmXGRqtGXo</link>
+            <guid>https://www.youtube.com/watch?v=QdmXGRqtGXo</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT #어사즈 #Awsaz 
+#어색하지만_괜찮아 #ItsAwkward_ButIts...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QdmXGRqtGXo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Performance Video]]></title>
+            <link>https://www.youtube.com/watch?v=3Ms-CJoUUe4</link>
+            <guid>https://www.youtube.com/watch?v=3Ms-CJoUUe4</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3Ms-CJoUUe4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Spe...]]></title>
+            <link>https://www.youtube.com/watch?v=ugqgHooymxk</link>
+            <guid>https://www.youtube.com/watch?v=ugqgHooymxk</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E's new single "Need U" is out!
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ugqgHooymxk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI ‘Peaches’ performance video release...]]></title>
+            <link>https://now.smtown.com/news/detail/2380077</link>
+            <guid>https://now.smtown.com/news/detail/2380077</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI(SM)'s new song 'Peaches' performance vi...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-D&E releases 1st album epi...]]></title>
+            <link>https://now.smtown.com/news/detail/2380076</link>
+            <guid>https://now.smtown.com/news/detail/2380076</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E captivates global fans once ag...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Yoon Bo Ra to appear in JTBC’s ‘한 사람만’…...]]></title>
+            <link>https://now.smtown.com/news/detail/2380075</link>
+            <guid>https://now.smtown.com/news/detail/2380075</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Yoon Bo Ra appears in JTBC's new drama ‘한...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘공작도시’ Lee Hak Joo, reporter ‘Han ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380074</link>
+            <guid>https://now.smtown.com/news/detail/2380074</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Lee Hak Joo once again delivered a unique...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Global top model SOO JOO decorated the ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380073</link>
+            <guid>https://now.smtown.com/news/detail/2380073</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[SOO JOO, a global top model and ambassador of t...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ESteem Lee Hyo Lee·Lee Hyun Yi·Aiki to ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380072</link>
+            <guid>https://now.smtown.com/news/detail/2380072</guid>
+            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[ESteem artists Lee Hyo Lee, Lee Hyun Yi and Aik...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
