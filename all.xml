@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 06:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 07:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26911336</link>
             <guid>https://vlive.tv/post/0-26911336</guid>
             <pubDate>Sun, 12 Dec 2021 20:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211212_121/16393208197816gpOp_JPEG/upload_8340054818815553475fad4f2-d98b-440c-bcec-16dc52cedaa9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -592,10 +592,11 @@
             <content:encoded><![CDATA[The group SUPER JUNIOR showed a deep friendship.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Lee Jin Ho X ONEW X Lee Gi Kwang, Gateb... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380143</link>
             <guid>https://now.smtown.com/news/detail/2380143</guid>
             <pubDate>Mon, 13 Dec 2021 04:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[Lee Jin Ho, SHINee ONEW, and Highlight Lee Gi K...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser (SMTOWN ─ NOW)]]></title>
