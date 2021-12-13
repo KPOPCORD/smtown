@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26911336</link>
             <guid>https://vlive.tv/post/0-26911336</guid>
             <pubDate>Sun, 12 Dec 2021 20:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211212_121/16393208197816gpOp_JPEG/upload_8340054818815553475fad4f2-d98b-440c-bcec-16dc52cedaa9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -578,16 +578,18 @@
             <content:encoded><![CDATA[NCT(SM)'s 3rd album double title song 'Beautifu...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KAI once again proves himself as a ‘wor... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380145</link>
             <guid>https://now.smtown.com/news/detail/2380145</guid>
             <pubDate>Mon, 13 Dec 2021 04:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘world-class performer’ EXO KAI (SM) successful...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['미운 우리 새끼' SUPER JUNIOR, LEETEUK's olde... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380144</link>
             <guid>https://now.smtown.com/news/detail/2380144</guid>
             <pubDate>Mon, 13 Dec 2021 04:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[The group SUPER JUNIOR showed a deep friendship.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -621,16 +623,18 @@
             <enclosure url="https://i.ytimg.com/vi/oOLDoSPyAPs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Dreams Come True’,  which is reborn by... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380142</link>
             <guid>https://now.smtown.com/news/detail/2380142</guid>
             <pubDate>Mon, 13 Dec 2021 04:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[aespa(SM) to be released S.E.S.'s hit song 'Dre...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[EXO KAI, first solo concert 'Beyond LIV... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380141</link>
             <guid>https://now.smtown.com/news/detail/2380141</guid>
             <pubDate>Mon, 13 Dec 2021 04:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘world-class performer’ EXO KAI (SM) will hold ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[REACTION to 🏆’Universe (Let's Play Bal... (SMTOWN ─ NOW)]]></title>
