@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 02:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 03:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=8k3RAZmVQ7E</link>
+            <guid>https://www.youtube.com/watch?v=8k3RAZmVQ7E</guid>
+            <pubDate>Tue, 14 Dec 2021 03:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY NEW YEAR !
+Get ready for 2022 with SM ART...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8k3RAZmVQ7E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Public D-1' NCT 3rd album double title...]]></title>
             <link>https://now.smtown.com/news/detail/2380146</link>
@@ -235,17 +244,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FJwjrDoRUDw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 정인 JUNGIN - 값 (녹음실 라이브 ver.)]]></title>
-            <link>https://www.youtube.com/watch?v=hW_rWrii4Ho</link>
-            <guid>https://www.youtube.com/watch?v=hW_rWrii4Ho</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[#정인 #값 #박원
-
-한 소절만으로 울음 바다 만든 정인의 '값' 녹음실 LIVE 
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hW_rWrii4Ho/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
