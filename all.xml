@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 13:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KAI 카이 ‘Vanilla’ Prologue Film Behind T... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=cJqw_Eu7C9s</link>
+            <guid>https://www.youtube.com/watch?v=cJqw_Eu7C9s</guid>
+            <pubDate>Tue, 14 Dec 2021 13:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cJqw_Eu7C9s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT U 'New Axis' (Official Audio) | Uni... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=alwOhXQYBk4</link>
             <guid>https://www.youtube.com/watch?v=alwOhXQYBk4</guid>
@@ -809,13 +818,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
             <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #소동물즈
 #마크 #정우 #도영 #런쥔 #재민 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/oOLDoSPyAPs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Dreams Come True’,  which is reborn by... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380142</link>
-            <guid>https://now.smtown.com/news/detail/2380142</guid>
-            <pubDate>Mon, 13 Dec 2021 04:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[aespa(SM) to be released S.E.S.'s hit song 'Dre...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
