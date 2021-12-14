@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 03:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 04:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘공개 D-1’ NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 뮤직비디오 티저 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5729</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5729</guid>
+            <pubDate>Tue, 14 Dec 2021 04:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 더블 타이틀 곡 ‘Beautiful’(뷰티풀) 뮤직비디오 티저 영상이 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b6ce3f6ab63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파와 보아가 만났다! 재탄생한 ‘Dreams Come True’ 20일 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5725</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dd9d605f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카이 ‘Peaches’ 퍼포먼스 비디오 9일 오후 8시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5715</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5715</guid>
-            <pubDate>Fri, 10 Dec 2021 04:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)의 신곡 ‘Peaches’(피치스) 퍼포먼스 비디오가 9일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b1983fad645.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[엑소 카이 ‘Beyond LIVE’ 첫 솔로 콘서트 성황! ‘월드클래스 퍼포머’ 면모 재입증!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5728</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5728</guid>
+            <pubDate>Tue, 14 Dec 2021 04:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 첫 솔로 콘서트를 성황리에 마쳤다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b6cdc531c79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑소 카이, 첫 솔로 콘서트 12일 오후 3시 ‘Beyond LIVE’ 개최! 독보적 퍼포먼스 기대감 UP!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Dec 2021 06:51:51 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 에필로그 앨범으로 글로벌 팬들의 많은 사랑을 받고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dd0407cea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어-D&E, 9일 정규 1집 에필로그 앨범 스페셜 트랙 'Need U' 발매...은혁·동해 작사]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5714</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5714</guid>
-            <pubDate>Fri, 10 Dec 2021 04:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어-D&amp;E가 에필로그 앨범으로 또 한 번 글로벌 팬들을 사로잡는다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b197c05d0ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

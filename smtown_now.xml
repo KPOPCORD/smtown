@@ -4,9 +4,42 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 03:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 04:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380163</link>
+            <guid>https://now.smtown.com/news/detail/2380163</guid>
+            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380162</link>
+            <guid>https://now.smtown.com/news/detail/2380162</guid>
+            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380161</link>
+            <guid>https://now.smtown.com/news/detail/2380161</guid>
+            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380159</link>
+            <guid>https://now.smtown.com/news/detail/2380159</guid>
+            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380158</link>
+            <guid>https://now.smtown.com/news/detail/2380158</guid>
+            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aespa #DreamsComeTrue Coming soon! #You...]]></title>
+            <link>https://www.youtube.com/watch?v=i80gFHz7kt0</link>
+            <guid>https://www.youtube.com/watch?v=i80gFHz7kt0</guid>
+            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
+            <content:encoded><![CDATA[aespa #DreamsComeTrue Coming soon! #YouTubeShor...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/i80gFHz7kt0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS Tease...]]></title>
             <link>https://www.youtube.com/watch?v=8k3RAZmVQ7E</link>
@@ -200,50 +233,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380101</guid>
             <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment is starting a comprehensive co...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 3rd album title song 'Universe' + M...]]></title>
-            <link>https://now.smtown.com/news/detail/2380100</link>
-            <guid>https://now.smtown.com/news/detail/2380100</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(SM)'s 3rd album title song 'Universe (Let's...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee ONEW’s birthday celebration YouT...]]></title>
-            <link>https://now.smtown.com/news/detail/2380099</link>
-            <guid>https://now.smtown.com/news/detail/2380099</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee ONEW (SM) announced a special live broad...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E, new song 'Need U' top...]]></title>
-            <link>https://now.smtown.com/news/detail/2380098</link>
-            <guid>https://now.smtown.com/news/detail/2380098</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR-D&amp;E is receiving a lot of love fro...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR RYEOWOOK, first performanc...]]></title>
-            <link>https://now.smtown.com/news/detail/2380097</link>
-            <guid>https://now.smtown.com/news/detail/2380097</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[Singer RYEOWOOK meets the audience with the cre...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['구경이' Baek Sung Chul, charisma X sweet ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380096</link>
-            <guid>https://now.smtown.com/news/detail/2380096</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[Baek Sung Chul's '구경이' revealed a warm visual.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yummy!💖🐻🍩🥤💖]]></title>
-            <link>https://www.youtube.com/watch?v=FJwjrDoRUDw</link>
-            <guid>https://www.youtube.com/watch?v=FJwjrDoRUDw</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/FJwjrDoRUDw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
