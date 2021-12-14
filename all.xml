@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 08:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 09:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-26933668</link>
+            <guid>https://vlive.tv/post/0-26933668</guid>
+            <pubDate>Tue, 14 Dec 2021 09:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211214_157/1639471010846CnwaT_JPEG/1639470662340.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26911336</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26864652</guid>
             <pubDate>Mon, 13 Dec 2021 17:46:25 GMT</pubDate>
             <content:encoded><![CDATA[12.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_109/1639101071881758x8_JPEG/upload_5537066902580999643f49820-e6c0-4cb0-ae07-bf8bf58f82e5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[KAI 카이 'Peaches' Prologue Film (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-26616313</link>
             <guid>https://vlive.tv/post/1-26616313</guid>
-            <pubDate>Mon, 13 Dec 2021 17:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[11.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26610181</link>
-            <guid>https://vlive.tv/post/0-26610181</guid>
             <pubDate>Mon, 13 Dec 2021 17:46:25 GMT</pubDate>
             <content:encoded><![CDATA[11.25.]]></content:encoded>
         </item>
@@ -571,6 +571,87 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a6e7257d122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 'Earthquake' (Official Audio) |... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=2W-B3ULAw-g</link>
+            <guid>https://www.youtube.com/watch?v=2W-B3ULAw-g</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2W-B3ULAw-g/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 'OK!' (Official Audio) | Universe... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=mTbsEBe46_U</link>
+            <guid>https://www.youtube.com/watch?v=mTbsEBe46_U</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/mTbsEBe46_U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 'Birthday Party' (Official Audio)... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Y5UZaET2j3Y</link>
+            <guid>https://www.youtube.com/watch?v=Y5UZaET2j3Y</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Y5UZaET2j3Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM 'Dreaming' (Official Audio) |... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=7GJkH-jFHRM</link>
+            <guid>https://www.youtube.com/watch?v=7GJkH-jFHRM</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/7GJkH-jFHRM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 'Round&Round' (Official Audio) | ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=MVr5TcIHVew</link>
+            <guid>https://www.youtube.com/watch?v=MVr5TcIHVew</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/MVr5TcIHVew/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WayV 'Miracle' (Official Audio) | Unive... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=5bZSIskTAxk</link>
+            <guid>https://www.youtube.com/watch?v=5bZSIskTAxk</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5bZSIskTAxk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 'Vroom' (Official Audio) | Univer... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=HRKOw7c-Al0</link>
+            <guid>https://www.youtube.com/watch?v=HRKOw7c-Al0</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HRKOw7c-Al0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 'Sweet Dream' (Official Audio) | ... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Ks6hrlKFxCg</link>
+            <guid>https://www.youtube.com/watch?v=Ks6hrlKFxCg</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Ks6hrlKFxCg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 'Beautiful' (Official Audio) |... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Q9fRRrzOW1k</link>
+            <guid>https://www.youtube.com/watch?v=Q9fRRrzOW1k</guid>
+            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Q9fRRrzOW1k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT The 3rd Album 'Universe' records ov... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380163</link>
             <guid>https://now.smtown.com/news/detail/2380163</guid>
@@ -732,80 +813,6 @@ Listen a...]]></content:encoded>
             <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
             <content:encoded><![CDATA[Behind the scenes of  '#SNLKorea' #KeyDongCam |...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/h40u5D7-f7c/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ep 7. ESCAPE FROM MAGIC ISLAND | 아날로그 트... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=1PLEcv5Vnfw</link>
-            <guid>https://www.youtube.com/watch?v=1PLEcv5Vnfw</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[4일간의 대장정 끝에 NCT 127에게 주어진 마지막 미션! '이 섬을 탈출하라!'
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1PLEcv5Vnfw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본업 열일, 미모 열일 배우 #한선화 싱글즈 화보 현장 #키동캠 | 한... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=H2vESL44V6M</link>
-            <guid>https://www.youtube.com/watch?v=H2vESL44V6M</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'Singles' pi...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/H2vESL44V6M/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' Dance Practice (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=8oxUBpN8YY0</link>
-            <guid>https://www.youtube.com/watch?v=8oxUBpN8YY0</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8oxUBpN8YY0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The mission to catch peaches!🍑🐻🧺 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=R5Ui4pSFLuM</link>
-            <guid>https://www.youtube.com/watch?v=R5Ui4pSFLuM</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[The mission to catch peaches!🍑🐻🧺
-
-KAI's 2nd ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/R5Ui4pSFLuM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT becomes the second most globally tw... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380108</link>
-            <guid>https://now.smtown.com/news/detail/2380108</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) proved its strong global popularity be...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa to appear on ‘The Nick Cannon Sho... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380107</link>
-            <guid>https://now.smtown.com/news/detail/2380107</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[aespa (SM) appeared on the American talk show '...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' Jacket Behind The Scen... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=8ETZfdyqWXo</link>
-            <guid>https://www.youtube.com/watch?v=8ETZfdyqWXo</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8ETZfdyqWXo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=SCK8yBLqQJc</link>
-            <guid>https://www.youtube.com/watch?v=SCK8yBLqQJc</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's lead single 'Universe (Let's Play Ball)' ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SCK8yBLqQJc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN 2022 : SMCU EXPRESS Start! (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380101</link>
-            <guid>https://now.smtown.com/news/detail/2380101</guid>
-            <pubDate>Sun, 12 Dec 2021 03:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment is starting a comprehensive co...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
@@ -1356,6 +1363,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24074123</link>
+            <guid>https://tv.naver.com/v/24074123</guid>
+            <pubDate>Tue, 14 Dec 2021 09:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_131/GWsVS_1639470671914xHpoT_JPEG/1639470662340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24042881</link>
             <guid>https://tv.naver.com/v/24042881</guid>
@@ -1586,14 +1601,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 10 Nov 2021 03:47:12 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211109_275/XYPr2_1636424414663ySBlF_JPEG/1636424374470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Savage' Squid Game ver. Dance Practice (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23281335</link>
-            <guid>https://tv.naver.com/v/23281335</guid>
-            <pubDate>Tue, 02 Nov 2021 09:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_166/k9RK9_1635760393377roHU4_JPEG/1635760370319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

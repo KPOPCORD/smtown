@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 08:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 09:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV]]></title>
+            <link>https://vlive.tv/post/0-26933668</link>
+            <guid>https://vlive.tv/post/0-26933668</guid>
+            <pubDate>Tue, 14 Dec 2021 09:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211214_157/1639471010846CnwaT_JPEG/1639470662340.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser]]></title>
             <link>https://vlive.tv/post/0-26911336</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26864652</guid>
             <pubDate>Mon, 13 Dec 2021 17:46:25 GMT</pubDate>
             <content:encoded><![CDATA[12.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_109/1639101071881758x8_JPEG/upload_5537066902580999643f49820-e6c0-4cb0-ae07-bf8bf58f82e5.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
             <link>https://vlive.tv/post/1-26616313</link>
             <guid>https://vlive.tv/post/1-26616313</guid>
-            <pubDate>Mon, 13 Dec 2021 17:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[11.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 1 - Seeing Myself in a Dream]]></title>
-            <link>https://vlive.tv/post/0-26610181</link>
-            <guid>https://vlive.tv/post/0-26610181</guid>
             <pubDate>Mon, 13 Dec 2021 17:46:25 GMT</pubDate>
             <content:encoded><![CDATA[11.25.]]></content:encoded>
         </item>
