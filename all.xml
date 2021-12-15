@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 06:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 07:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26933668</link>
             <guid>https://vlive.tv/post/0-26933668</guid>
             <pubDate>Tue, 14 Dec 2021 21:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211214_157/1639471010846CnwaT_JPEG/1639470662340.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -583,28 +583,32 @@
             <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KANGTA, BoA, TVXQ! teaser images aboard... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380209</link>
             <guid>https://now.smtown.com/news/detail/2380209</guid>
             <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[KANGTA, BoA, and TVXQ! were unveiled as the fir...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[aespa’s ‘Dreams Come True’ Youtube Orig... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380208</link>
             <guid>https://now.smtown.com/news/detail/2380208</guid>
             <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[aespa(SM)'s new remake song 'Dreams Come True' ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SHINee MINHO to perform his new song ‘H... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380207</link>
             <guid>https://now.smtown.com/news/detail/2380207</guid>
             <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee MINHO (SM) to perform his new song ‘Hear...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[The remastered MV of SMTOWN's winter so... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380206</link>
             <guid>https://now.smtown.com/news/detail/2380206</guid>
             <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered MV of SMTOWN's winter song ‘Ange...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
