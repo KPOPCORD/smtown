@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 10:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 11:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' MV Behind The Scenes]]></title>
+            <link>https://www.youtube.com/watch?v=J7KF0V9gcs8</link>
+            <guid>https://www.youtube.com/watch?v=J7KF0V9gcs8</guid>
+            <pubDate>Wed, 15 Dec 2021 11:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/J7KF0V9gcs8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-ehind] TEN&WINWIN Madame Figaro B...]]></title>
             <link>https://www.youtube.com/watch?v=HLGK_22fDxw</link>
@@ -246,13 +255,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380161</guid>
             <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment introduced a special emoticon ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우리 식구됐어요' YESUNG, becoming a caring ro...]]></title>
-            <link>https://now.smtown.com/news/detail/2380159</link>
-            <guid>https://now.smtown.com/news/detail/2380159</guid>
-            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG exuded a roman...]]></content:encoded>
         </item>
     </channel>
 </rss>
