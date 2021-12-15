@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 14:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 15:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공식 예고편 | 리마스터피스 (Re:MASTERPIECE) | 유튜브 ...]]></title>
+            <link>https://www.youtube.com/watch?v=xyQYSXYjbzo</link>
+            <guid>https://www.youtube.com/watch?v=xyQYSXYjbzo</guid>
+            <pubDate>Wed, 15 Dec 2021 15:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[12월 23일 (목) 밤 11시 최초 공개
+
+K-POP의 시작을 알린 전설의 명곡! ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xyQYSXYjbzo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무럭무럭즈 | 🎙쇼! 으맠쩡심💚 EP.2 | NCT 2021]]></title>
             <link>https://www.youtube.com/watch?v=wLqT9tDbN2U</link>
@@ -254,15 +264,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nAvjYapdSxk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa in New York✨ㅣNew York Behind]]></title>
-            <link>https://www.youtube.com/watch?v=7HsdU04tRUI</link>
-            <guid>https://www.youtube.com/watch?v=7HsdU04tRUI</guid>
-            <pubDate>Tue, 14 Dec 2021 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[Subscribe to aespa Official YouTube Channel!
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7HsdU04tRUI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
