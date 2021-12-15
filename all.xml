@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 11:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 13:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26944608</link>
             <guid>https://vlive.tv/post/0-26944608</guid>
             <pubDate>Wed, 15 Dec 2021 11:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_160/1639546188604EgXmz_JPEG/1639545626602.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8680b0c995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[We chose hard peach KAI🍑🖤 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=E3Xz-KpJPmA</link>
+            <guid>https://www.youtube.com/watch?v=E3Xz-KpJPmA</guid>
+            <pubDate>Wed, 15 Dec 2021 13:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[We chose hard peach KAI🍑🖤
+
+KAI's 2nd mini alb...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/E3Xz-KpJPmA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KAI 카이 'Peaches' MV Behind The Scenes (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=J7KF0V9gcs8</link>
             <guid>https://www.youtube.com/watch?v=J7KF0V9gcs8</guid>
@@ -578,6 +588,15 @@
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/J7KF0V9gcs8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=HC_P7elcEHs</link>
+            <guid>https://www.youtube.com/watch?v=HC_P7elcEHs</guid>
+            <pubDate>Wed, 15 Dec 2021 13:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HC_P7elcEHs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WayV-ehind] TEN&WINWIN Madame Figaro B... (SMTOWN ─ NOW)]]></title>
@@ -804,20 +823,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380163</guid>
             <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
             <content:encoded><![CDATA[NCT(SM)'s The 3rd Album 'Universe' records over...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee MINHO's solo song 'Heartbreak' t... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380162</link>
-            <guid>https://now.smtown.com/news/detail/2380162</guid>
-            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee MINHO (SM) to be released his solo song ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM to create emoticons for ‘열여덟 어른’ cam... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380161</link>
-            <guid>https://now.smtown.com/news/detail/2380161</guid>
-            <pubDate>Tue, 14 Dec 2021 04:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment introduced a special emoticon ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
