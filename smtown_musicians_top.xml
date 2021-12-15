@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 선주문량 170만장 돌파! 강력한 브랜드 파워 증명!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5734</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5734</guid>
-            <pubDate>Tue, 14 Dec 2021 04:54:12 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 12주 연속 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5742</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5742</guid>
+            <pubDate>Wed, 15 Dec 2021 06:50:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’ 선주문량 170만장 돌파! 강력한 브랜드 파워 증명!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b81aad018b0.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 12주 연속 차트인!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98e295aaa3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 민호, 솔로곡 ‘Heartbreak’ 12월 21일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5733</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5733</guid>
-            <pubDate>Tue, 14 Dec 2021 04:54:12 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’ 국내외 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5741</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5741</guid>
+            <pubDate>Wed, 15 Dec 2021 06:50:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 민호, 솔로곡 ‘Heartbreak’ 12월 21일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b81a29c8c6c.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 ‘Universe’ 국내외 차트 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98dca8652a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
