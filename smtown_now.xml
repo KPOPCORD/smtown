@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 02:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 03:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHOI MINHO FAN PARTY “BEST CHOI's MINHO...]]></title>
+            <link>https://www.youtube.com/watch?v=XPNStgJJuIk</link>
+            <guid>https://www.youtube.com/watch?v=XPNStgJJuIk</guid>
+            <pubDate>Wed, 15 Dec 2021 03:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[BEST CHOI's MINHO 2021 Teaser Video❤️🔥
+“BEST C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/XPNStgJJuIk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 ‘Vanilla’ Prologue Film Behind T...]]></title>
             <link>https://www.youtube.com/watch?v=cJqw_Eu7C9s</link>
@@ -246,15 +255,6 @@ Get ready for 2022 with SM ART...]]></content:encoded>
             <pubDate>Sun, 12 Dec 2021 15:48:39 GMT</pubDate>
             <content:encoded><![CDATA[Santa #BaekSungChul 💛Collection of handsome vi...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/QMeMqAx5JUk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소동물즈 | 🎙쇼! 으맠쩡심💚 EP.1 | NCT 2021]]></title>
-            <link>https://www.youtube.com/watch?v=oOLDoSPyAPs</link>
-            <guid>https://www.youtube.com/watch?v=oOLDoSPyAPs</guid>
-            <pubDate>Sun, 12 Dec 2021 14:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #소동물즈
-#마크 #정우 #도영 #런쥔 #재민 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/oOLDoSPyAPs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
