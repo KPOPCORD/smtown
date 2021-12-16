@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 23:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 01:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26944608</link>
             <guid>https://vlive.tv/post/0-26944608</guid>
             <pubDate>Wed, 15 Dec 2021 11:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_160/1639546188604EgXmz_JPEG/1639545626602.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8680b0c995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SMTOWN 'Angel Eyes' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=iNGD3lyYhRk</link>
+            <guid>https://www.youtube.com/watch?v=iNGD3lyYhRk</guid>
+            <pubDate>Thu, 16 Dec 2021 01:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2001, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iNGD3lyYhRk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공식 예고편 | 리마스터피스 (Re:MASTERPIECE) | 유튜브 ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=xyQYSXYjbzo</link>
             <guid>https://www.youtube.com/watch?v=xyQYSXYjbzo</guid>
@@ -818,15 +828,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Q9fRRrzOW1k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=nAvjYapdSxk</link>
-            <guid>https://www.youtube.com/watch?v=nAvjYapdSxk</guid>
-            <pubDate>Tue, 14 Dec 2021 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nAvjYapdSxk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
