@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 14:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 15:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나한테 꼭 해보고 싶었던 이야기 있어? | 어사즈 특별편 [4] 유타,...]]></title>
+            <link>https://www.youtube.com/watch?v=dvz6UtiGnm0</link>
+            <guid>https://www.youtube.com/watch?v=dvz6UtiGnm0</guid>
+            <pubDate>Thu, 16 Dec 2021 15:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT #어사즈 #Awsaz 
+#어색하지만_괜찮아 #ItsAwkward_ButIts...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/dvz6UtiGnm0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG a...]]></title>
             <link>https://now.smtown.com/news/detail/2380241</link>
@@ -244,15 +253,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/smWNKRi2qGI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 'Dreaming' (Official Audio) |...]]></title>
-            <link>https://www.youtube.com/watch?v=7GJkH-jFHRM</link>
-            <guid>https://www.youtube.com/watch?v=7GJkH-jFHRM</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7GJkH-jFHRM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
