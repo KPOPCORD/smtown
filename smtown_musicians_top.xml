@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 03:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 04:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 12주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5742</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5742</guid>
-            <pubDate>Wed, 15 Dec 2021 06:50:45 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 신곡 ‘Universe’ 안무 연습 영상 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5746</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5746</guid>
+            <pubDate>Thu, 16 Dec 2021 04:53:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 12주 연속 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98e295aaa3.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 신곡 ‘Universe’ 안무 연습 영상 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac5eedc126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 국내외 차트 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5741</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5741</guid>
-            <pubDate>Wed, 15 Dec 2021 06:50:45 GMT</pubDate>
+            <title><![CDATA[슈퍼주니어 은혁, 16일 '아이돌 받아쓰기 대회2' 첫 공개...믿고 보는 예능감]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5745</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5745</guid>
+            <pubDate>Thu, 16 Dec 2021 04:53:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’ 국내외 차트 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98dca8652a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">슈퍼주니어 은혁, 16일 '아이돌 받아쓰기 대회2' 첫 공개...믿고 보는 예능감</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac58791e5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

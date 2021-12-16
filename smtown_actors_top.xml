@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 03:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 04:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5744</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5744</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC 드라마 ‘아이돌’ 종영! 조준영 “‘레이’를 연기 할 수 있어서 감사했다” 소감 전해]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5735</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">JTBC 드라마 ‘아이돌’ 종영! 조준영 “‘레이’를 연기 할 수 있어서 감사했다” 소감 전해</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98b11a7abb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연...]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5717</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5717</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연...</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc8e0efb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

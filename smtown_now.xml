@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 03:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 04:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380239</link>
+            <guid>https://now.smtown.com/news/detail/2380239</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380238</link>
+            <guid>https://now.smtown.com/news/detail/2380238</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380237</link>
+            <guid>https://now.smtown.com/news/detail/2380237</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380236</link>
+            <guid>https://now.smtown.com/news/detail/2380236</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SMTOWN 'Angel Eyes' MV]]></title>
             <link>https://www.youtube.com/watch?v=iNGD3lyYhRk</link>
@@ -229,42 +249,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5bZSIskTAxk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Vroom' (Official Audio) | Univer...]]></title>
-            <link>https://www.youtube.com/watch?v=HRKOw7c-Al0</link>
-            <guid>https://www.youtube.com/watch?v=HRKOw7c-Al0</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HRKOw7c-Al0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Sweet Dream' (Official Audio) | ...]]></title>
-            <link>https://www.youtube.com/watch?v=Ks6hrlKFxCg</link>
-            <guid>https://www.youtube.com/watch?v=Ks6hrlKFxCg</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Ks6hrlKFxCg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U '별자리 (Good Night)' (Official Audi...]]></title>
-            <link>https://www.youtube.com/watch?v=I7r7UKPLxWE</link>
-            <guid>https://www.youtube.com/watch?v=I7r7UKPLxWE</guid>
-            <pubDate>Tue, 14 Dec 2021 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/I7r7UKPLxWE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 'Beautiful' (Official Audio) |...]]></title>
-            <link>https://www.youtube.com/watch?v=Q9fRRrzOW1k</link>
-            <guid>https://www.youtube.com/watch?v=Q9fRRrzOW1k</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Q9fRRrzOW1k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
