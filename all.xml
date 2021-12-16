@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 04:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-26944608</link>
             <guid>https://vlive.tv/post/0-26944608</guid>
             <pubDate>Thu, 16 Dec 2021 03:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_160/1639546188604EgXmz_JPEG/1639545626602.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슈퍼주니어, 소녀시대-Oh!GG도 ‘SMCU EXPRESS’ 탑승 완료! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5748</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5748</guid>
+            <pubDate>Thu, 16 Dec 2021 05:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">슈퍼주니어, 소녀시대-Oh!GG도 ‘SMCU EXPRESS’ 탑승 완료!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac7365fc55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동방신기, 데뷔 18주년 기념 유튜브 라이브 12월 26일 진행! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5747</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5747</guid>
+            <pubDate>Thu, 16 Dec 2021 05:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">동방신기, 데뷔 18주년 기념 유튜브 라이브 12월 26일 진행!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac67fa75c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 정규 3집 신곡 ‘Universe’ 안무 연습 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5746</link>
             <guid>https://www.smtown.com/artist/newsDetail/5746</guid>
             <pubDate>Thu, 16 Dec 2021 04:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 신곡 ‘Universe’ 안무 연습 영상 공개 화제!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Universe (Let’s Play Ball)’ 안무 연습 영상이 공개되어 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac5eedc126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 은혁, 16일 '아이돌 받아쓰기 대회2' 첫 공개...믿고 보는 예능감 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5745</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5745</guid>
-            <pubDate>Thu, 16 Dec 2021 04:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어 은혁, 16일 '아이돌 받아쓰기 대회2' 첫 공개...믿고 보는 예능감</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac58791e5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 12주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b81aad018b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘공개 D-1’ NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 뮤직비디오 티저 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5729</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5729</guid>
-            <pubDate>Mon, 13 Dec 2021 04:54:45 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 더블 타이틀 곡 ‘Beautiful’(뷰티풀) 뮤직비디오 티저 영상이 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b6ce3f6ab63.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈퍼주니어 은혁, 16일 '아이돌 받아쓰기 대회2' 첫 공개...믿고 보는 예능감 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5745</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5745</guid>
+            <pubDate>Thu, 16 Dec 2021 04:53:54 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 은혁이 유쾌한 매력을 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac58791e5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 ‘Universe’ 국내외 차트 1위! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 14 Dec 2021 04:54:12 GMT</pubDate>
             <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)가 오는 21일 솔로곡 ‘Heartbreak’(하트브레이크)를 공개한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b81a29c8c6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이 ‘Beyond LIVE’ 첫 솔로 콘서트 성황! ‘월드클래스 퍼포머’ 면모 재입증! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5728</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5728</guid>
-            <pubDate>Mon, 13 Dec 2021 04:54:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘월드클래스 퍼포머’ 엑소 카이(에스엠엔터테인먼트 소속)가 첫 솔로 콘서트를 성황리에 마쳤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b6cdc531c79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정 (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,20 @@
             <pubDate>Thu, 02 Dec 2021 06:52:03 GMT</pubDate>
             <content:encoded><![CDATA[이진기(샤이니 온유, 에스엠엔터테인먼트 소속)가 연기 활동을 이어간다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61a8689836c62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG a... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380241</link>
+            <guid>https://now.smtown.com/news/detail/2380241</guid>
+            <pubDate>Thu, 16 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG(SM)'s 'SM...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! debut 18th year anniversary YouTu... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380240</link>
+            <guid>https://now.smtown.com/news/detail/2380240</guid>
+            <pubDate>Thu, 16 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! (SM) will meet fans through a special liv...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -798,24 +812,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/7GJkH-jFHRM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Round&Round' (Official Audio) | ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=MVr5TcIHVew</link>
-            <guid>https://www.youtube.com/watch?v=MVr5TcIHVew</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MVr5TcIHVew/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV 'Miracle' (Official Audio) | Unive... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5bZSIskTAxk</link>
-            <guid>https://www.youtube.com/watch?v=5bZSIskTAxk</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5bZSIskTAxk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 

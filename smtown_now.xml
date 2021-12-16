@@ -4,9 +4,23 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 04:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG a...]]></title>
+            <link>https://now.smtown.com/news/detail/2380241</link>
+            <guid>https://now.smtown.com/news/detail/2380241</guid>
+            <pubDate>Thu, 16 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG(SM)'s 'SM...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! debut 18th year anniversary YouTu...]]></title>
+            <link>https://now.smtown.com/news/detail/2380240</link>
+            <guid>https://now.smtown.com/news/detail/2380240</guid>
+            <pubDate>Thu, 16 Dec 2021 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! (SM) will meet fans through a special liv...]]></content:encoded>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380239</link>
             <guid>https://now.smtown.com/news/detail/2380239</guid>
@@ -231,24 +245,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/7GJkH-jFHRM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Round&Round' (Official Audio) | ...]]></title>
-            <link>https://www.youtube.com/watch?v=MVr5TcIHVew</link>
-            <guid>https://www.youtube.com/watch?v=MVr5TcIHVew</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MVr5TcIHVew/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV 'Miracle' (Official Audio) | Unive...]]></title>
-            <link>https://www.youtube.com/watch?v=5bZSIskTAxk</link>
-            <guid>https://www.youtube.com/watch?v=5bZSIskTAxk</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5bZSIskTAxk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
