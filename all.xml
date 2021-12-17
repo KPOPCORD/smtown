@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:53:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -578,10 +578,11 @@
             <content:encoded><![CDATA[SHINee ONEW, KEY, MINHO, EXO KAI, and Red Velve...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[PARK SOOYOUNG transforms into a popular... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380276</link>
             <guid>https://now.smtown.com/news/detail/2380276</guid>
             <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[PARK SOOYOUNG (Red Velvet JOY, SM) is making a ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
