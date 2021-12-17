@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 03:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 04:56:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380277</link>
+            <guid>https://now.smtown.com/news/detail/2380277</guid>
+            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380276</link>
+            <guid>https://now.smtown.com/news/detail/2380276</guid>
+            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380275</link>
+            <guid>https://now.smtown.com/news/detail/2380275</guid>
+            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380274</link>
+            <guid>https://now.smtown.com/news/detail/2380274</guid>
+            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[나한테 꼭 해보고 싶었던 이야기 있어? | 어사즈 특별편 [4] 유타,...]]></title>
             <link>https://www.youtube.com/watch?v=dvz6UtiGnm0</link>
@@ -217,42 +237,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/y-LBEn7Y92c/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 'Earthquake' (Official Audio) |...]]></title>
-            <link>https://www.youtube.com/watch?v=2W-B3ULAw-g</link>
-            <guid>https://www.youtube.com/watch?v=2W-B3ULAw-g</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2W-B3ULAw-g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'OK!' (Official Audio) | Universe...]]></title>
-            <link>https://www.youtube.com/watch?v=mTbsEBe46_U</link>
-            <guid>https://www.youtube.com/watch?v=mTbsEBe46_U</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/mTbsEBe46_U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Birthday Party' (Official Audio)...]]></title>
-            <link>https://www.youtube.com/watch?v=Y5UZaET2j3Y</link>
-            <guid>https://www.youtube.com/watch?v=Y5UZaET2j3Y</guid>
-            <pubDate>Tue, 14 Dec 2021 09:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Y5UZaET2j3Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Know Now' (Official Audio) | Uni...]]></title>
-            <link>https://www.youtube.com/watch?v=smWNKRi2qGI</link>
-            <guid>https://www.youtube.com/watch?v=smWNKRi2qGI</guid>
-            <pubDate>Tue, 14 Dec 2021 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/smWNKRi2qGI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
