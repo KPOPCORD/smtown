@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 11:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 13:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9a58c511e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[UNBOXING of NCT ‘Universe’ Album (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=5fqCVYK2f3k</link>
+            <guid>https://www.youtube.com/watch?v=5fqCVYK2f3k</guid>
+            <pubDate>Fri, 17 Dec 2021 13:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5fqCVYK2f3k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백현이를 기다리는 3가지 방법 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=yt6D5cHCcWc</link>
             <guid>https://www.youtube.com/watch?v=yt6D5cHCcWc</guid>
@@ -811,13 +820,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380210</guid>
             <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
             <content:encoded><![CDATA[NCT (SM) proved its power by taking the  tops v...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA, BoA, TVXQ! teaser images aboard... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380209</link>
-            <guid>https://now.smtown.com/news/detail/2380209</guid>
-            <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[KANGTA, BoA, and TVXQ! were unveiled as the fir...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
