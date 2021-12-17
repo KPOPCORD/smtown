@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9a58c511e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뜬금LIVE] 윤종신 - 기댈게 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=5f86EnhhPVQ</link>
+            <guid>https://www.youtube.com/watch?v=5f86EnhhPVQ</guid>
+            <pubDate>Fri, 17 Dec 2021 09:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[뜬금 LIVE 몰아 듣기
+https://www.youtube.com/playlist?...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5f86EnhhPVQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-log] 🧗‍♂️💦Rock Climbing with TE... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=CDxuzOSkgME</link>
+            <guid>https://www.youtube.com/watch?v=CDxuzOSkgME</guid>
+            <pubDate>Fri, 17 Dec 2021 09:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/CDxuzOSkgME/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SHINee ONEW-KEY-MINHO, EXO KAI, Red Vel... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380277</link>
             <guid>https://now.smtown.com/news/detail/2380277</guid>
@@ -790,24 +809,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/cJqw_Eu7C9s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'New Axis' (Official Audio) | Uni... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=alwOhXQYBk4</link>
-            <guid>https://www.youtube.com/watch?v=alwOhXQYBk4</guid>
-            <pubDate>Tue, 14 Dec 2021 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/alwOhXQYBk4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 'Universe (Let’s Play Ball)' (Off... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=y-LBEn7Y92c</link>
-            <guid>https://www.youtube.com/watch?v=y-LBEn7Y92c</guid>
-            <pubDate>Tue, 14 Dec 2021 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/y-LBEn7Y92c/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
