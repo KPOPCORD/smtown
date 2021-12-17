@@ -4,9 +4,28 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 13:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 14:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Amino Acid' MV | 아날로그 ...]]></title>
+            <link>https://www.youtube.com/watch?v=ZBXqeZcdyPM</link>
+            <guid>https://www.youtube.com/watch?v=ZBXqeZcdyPM</guid>
+            <pubDate>Fri, 17 Dec 2021 14:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[아날로그 트립 NCT 127의 추억이 담긴
+리더 태용의 자작곡 'Amino Acid'...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ZBXqeZcdyPM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔결단 | 🎙쇼! 으맠쩡심💚 EP.3 | NCT 2021]]></title>
+            <link>https://www.youtube.com/watch?v=cSWdACxp1Tk</link>
+            <guid>https://www.youtube.com/watch?v=cSWdACxp1Tk</guid>
+            <pubDate>Fri, 17 Dec 2021 14:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #엔결단
+#마크 #정우 #쟈니 #쿤 #태일
+#M...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cSWdACxp1Tk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UNBOXING of NCT ‘Universe’ Album]]></title>
             <link>https://www.youtube.com/watch?v=5fqCVYK2f3k</link>
@@ -243,20 +262,6 @@ Listen a...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HLGK_22fDxw/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127's 3rd album 'Sticker' enters th...]]></title>
-            <link>https://now.smtown.com/news/detail/2380211</link>
-            <guid>https://now.smtown.com/news/detail/2380211</guid>
-            <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) recorded charts on the US Billboar...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT The 3rd Album ‘Universe’ tops vario...]]></title>
-            <link>https://now.smtown.com/news/detail/2380210</link>
-            <guid>https://now.smtown.com/news/detail/2380210</guid>
-            <pubDate>Wed, 15 Dec 2021 06:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) proved its power by taking the  tops v...]]></content:encoded>
         </item>
     </channel>
 </rss>
