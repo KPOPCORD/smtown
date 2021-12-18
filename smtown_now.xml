@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 14:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 15:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 투명 유리구슬🔮 #강한나 광고 촬영현장 #키동캠 | Kang H...]]></title>
+            <link>https://www.youtube.com/watch?v=BTQ2VxLfkwA</link>
+            <guid>https://www.youtube.com/watch?v=BTQ2VxLfkwA</guid>
+            <pubDate>Sat, 18 Dec 2021 15:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[Person-glass bead🔮 The shooting field of AD #K...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BTQ2VxLfkwA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Amino Acid' MV | 아날로그 ...]]></title>
             <link>https://www.youtube.com/watch?v=ZBXqeZcdyPM</link>
@@ -252,16 +260,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/HC_P7elcEHs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-ehind] TEN&WINWIN Madame Figaro B...]]></title>
-            <link>https://www.youtube.com/watch?v=HLGK_22fDxw</link>
-            <guid>https://www.youtube.com/watch?v=HLGK_22fDxw</guid>
-            <pubDate>Wed, 15 Dec 2021 10:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HLGK_22fDxw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
