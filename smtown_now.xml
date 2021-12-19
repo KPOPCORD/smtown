@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 15:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 17:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' ...]]></title>
+            <link>https://www.youtube.com/watch?v=V-STo97od6w</link>
+            <guid>https://www.youtube.com/watch?v=V-STo97od6w</guid>
+            <pubDate>Sun, 19 Dec 2021 17:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's new single "Dreams Come True" will be r...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/V-STo97od6w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Un Cut] Take #1 | NCT DREAM 'Dreaming'...]]></title>
             <link>https://www.youtube.com/watch?v=2C30ToGafM4</link>
@@ -250,16 +258,6 @@ K-POP의 시작을 알린 전설의 명곡! ...]]></content:encoded>
 #마크 #정우 #성찬 #지성
 #MA...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/wLqT9tDbN2U/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We chose hard peach KAI🍑🖤]]></title>
-            <link>https://www.youtube.com/watch?v=E3Xz-KpJPmA</link>
-            <guid>https://www.youtube.com/watch?v=E3Xz-KpJPmA</guid>
-            <pubDate>Wed, 15 Dec 2021 13:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[We chose hard peach KAI🍑🖤
-
-KAI's 2nd mini alb...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/E3Xz-KpJPmA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
