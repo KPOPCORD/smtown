@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24154619</link>
+            <guid>https://tv.naver.com/v/24154619</guid>
+            <pubDate>Sun, 19 Dec 2021 15:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211219_87/hxA7z_1639911376191fwNoB_JPEG/1639911334642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)' Dance Practice]]></title>
             <link>https://tv.naver.com/v/24088579</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Nov 2021 15:49:46 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_33/f5N8k_1637244251831dTVAn_JPEG/1637244238458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SOHLHEE 솔희 '수선화 (水仙花)' MV]]></title>
-            <link>https://tv.naver.com/v/23421855</link>
-            <guid>https://tv.naver.com/v/23421855</guid>
-            <pubDate>Thu, 11 Nov 2021 03:48:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_183/cNvba_1636425658300SGbfy_JPEG/1636425632802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
