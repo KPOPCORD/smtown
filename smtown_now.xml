@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 13:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 13:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #1 | WayV 威神V 'Miracle' T...]]></title>
+            <link>https://www.youtube.com/watch?v=lKtwKdFyjIg</link>
+            <guid>https://www.youtube.com/watch?v=lKtwKdFyjIg</guid>
+            <pubDate>Sun, 19 Dec 2021 13:44:26 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/lKtwKdFyjIg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인간 투명 유리구슬🔮 #강한나 광고 촬영현장 #키동캠 | Kang H...]]></title>
             <link>https://www.youtube.com/watch?v=BTQ2VxLfkwA</link>
@@ -251,15 +260,6 @@ KAI's 2nd mini alb...]]></content:encoded>
             <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/J7KF0V9gcs8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)...]]></title>
-            <link>https://www.youtube.com/watch?v=HC_P7elcEHs</link>
-            <guid>https://www.youtube.com/watch?v=HC_P7elcEHs</guid>
-            <pubDate>Wed, 15 Dec 2021 13:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HC_P7elcEHs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
