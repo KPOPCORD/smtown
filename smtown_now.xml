@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 14:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 15:51:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#문가영 으로 시작해 문가영으로 끝난 '치열(Cheer)' 비하인드 #...]]></title>
+            <link>https://www.youtube.com/watch?v=9o2-yNX579U</link>
+            <guid>https://www.youtube.com/watch?v=9o2-yNX579U</guid>
+            <pubDate>Mon, 20 Dec 2021 15:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene of 'Cheer' that starts and end...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9o2-yNX579U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser]]></title>
             <link>https://www.youtube.com/watch?v=BWdHiZfpZGM</link>
@@ -250,13 +258,6 @@ https://www.youtube.com/playlist?...]]></content:encoded>
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/CDxuzOSkgME/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO KAI, British fashion magazine GLAMO...]]></title>
-            <link>https://now.smtown.com/news/detail/2380337</link>
-            <guid>https://now.smtown.com/news/detail/2380337</guid>
-            <pubDate>Mon, 20 Dec 2021 05:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[EXO KAI (SM) was selected as one of the ‘2021 s...]]></content:encoded>
         </item>
     </channel>
 </rss>
