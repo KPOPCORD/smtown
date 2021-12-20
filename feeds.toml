@@ -90,6 +90,16 @@ imageSelector = "div.thumb a"
 contentSelector = "p.subInfo.text_box a.text_cut"
 waitUntil = "networkidle"
 
+[naverpost]
+title = "네이버 포스트 ─ SMTOWN 신곡 포스트"
+url = "https://post.naver.com/my.naver?memberNo=41350603"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
+
 [naverpost_smtown_special]
 title = "SMTOWN 신곡 포스트 ─ SPECIAL"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=434190&memberNo=41350603"
