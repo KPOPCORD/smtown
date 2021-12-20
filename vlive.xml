@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 11:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 13:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-27011549</link>
+            <guid>https://vlive.tv/post/0-27011549</guid>
+            <pubDate>Mon, 20 Dec 2021 13:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211220_58/16399951897112cjly_JPEG/1639993516814.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV]]></title>
             <link>https://vlive.tv/post/0-27010854</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26944608</guid>
             <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_160/1639546188604EgXmz_JPEG/1639545626602.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
             <link>https://vlive.tv/post/0-26672250</link>
             <guid>https://vlive.tv/post/0-26672250</guid>
-            <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV Teaser]]></title>
-            <link>https://vlive.tv/post/1-26658043</link>
-            <guid>https://vlive.tv/post/1-26658043</guid>
             <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
