@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 07:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 08:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘군필돌 캠프’ Lee Jin Ho X ONEW X Lee Ki Kwa...]]></title>
+            <link>https://now.smtown.com/news/detail/2380346</link>
+            <guid>https://now.smtown.com/news/detail/2380346</guid>
+            <pubDate>Mon, 20 Dec 2021 08:49:49 GMT</pubDate>
+            <content:encoded><![CDATA[‘군필돌 캠프’ Lee Jin Ho, SHINee ONEW, and Highlight...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[NCT 127’s second solo concert ‘NEO CITY...]]></title>
             <link>https://now.smtown.com/news/detail/2380343</link>
@@ -76,9 +83,11 @@ Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/lKtwKdFyjIg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lee Hyun Yi Receives Rookie of the Year...]]></title>
             <link>https://now.smtown.com/news/detail/2380335</link>
             <guid>https://now.smtown.com/news/detail/2380335</guid>
             <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Top model and broadcaster Lee Hyun Yi won the R...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인간 투명 유리구슬🔮 #강한나 광고 촬영현장 #키동캠 | Kang H...]]></title>
@@ -240,13 +249,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[#NCT #어사즈 #Awsaz 
 #어색하지만_괜찮아 #ItsAwkward_ButIts...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dvz6UtiGnm0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG a...]]></title>
-            <link>https://now.smtown.com/news/detail/2380241</link>
-            <guid>https://now.smtown.com/news/detail/2380241</guid>
-            <pubDate>Thu, 16 Dec 2021 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR, Girls' Generation-Oh!GG(SM)'s 'SM...]]></content:encoded>
         </item>
     </channel>
 </rss>
