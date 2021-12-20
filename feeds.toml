@@ -5,7 +5,7 @@ entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
-contentSelector = ".upload_time--wtBj9"
+contentSelector = "em[class^='writer']"
 waitUntil = "networkidle"
 onFail = "stale"
 
