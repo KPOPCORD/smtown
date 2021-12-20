@@ -4,13 +4,15 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 06:55:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[NCT 127’s second solo concert ‘NEO CITY...]]></title>
             <link>https://now.smtown.com/news/detail/2380343</link>
             <guid>https://now.smtown.com/news/detail/2380343</guid>
             <pubDate>Mon, 20 Dec 2021 05:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) successfully finished their second...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 3rd album ‘Universe’ tops various K...]]></title>
@@ -196,9 +198,11 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/CDxuzOSkgME/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[EXO KAI, British fashion magazine GLAMO...]]></title>
             <link>https://now.smtown.com/news/detail/2380337</link>
             <guid>https://now.smtown.com/news/detail/2380337</guid>
             <pubDate>Mon, 20 Dec 2021 05:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) was selected as one of the ‘2021 s...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SHINee ONEW-KEY-MINHO, EXO KAI, Red Vel...]]></title>
