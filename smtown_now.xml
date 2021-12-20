@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 13:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 13:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=BWdHiZfpZGM</link>
+            <guid>https://www.youtube.com/watch?v=BWdHiZfpZGM</guid>
+            <pubDate>Mon, 20 Dec 2021 13:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" will be release...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BWdHiZfpZGM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #3 | NCT 127 ‘Earthquake’...]]></title>
+            <link>https://www.youtube.com/watch?v=Tqj9wrD_23I</link>
+            <guid>https://www.youtube.com/watch?v=Tqj9wrD_23I</guid>
+            <pubDate>Mon, 20 Dec 2021 13:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Tqj9wrD_23I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] ONEW’s BIRTHDAY PARTY]]></title>
             <link>https://www.youtube.com/watch?v=ioiSynbdw_w</link>
@@ -240,20 +257,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380337</guid>
             <pubDate>Mon, 20 Dec 2021 05:44:16 GMT</pubDate>
             <content:encoded><![CDATA[EXO KAI (SM) was selected as one of the ‘2021 s...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINee ONEW-KEY-MINHO, EXO KAI, Red Vel...]]></title>
-            <link>https://now.smtown.com/news/detail/2380277</link>
-            <guid>https://now.smtown.com/news/detail/2380277</guid>
-            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee ONEW, KEY, MINHO, EXO KAI, and Red Velve...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PARK SOOYOUNG transforms into a popular...]]></title>
-            <link>https://now.smtown.com/news/detail/2380276</link>
-            <guid>https://now.smtown.com/news/detail/2380276</guid>
-            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[PARK SOOYOUNG (Red Velvet JOY, SM) is making a ...]]></content:encoded>
         </item>
     </channel>
 </rss>
