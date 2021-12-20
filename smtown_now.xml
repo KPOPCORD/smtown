@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 09:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 10:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] ONEW’s BIRTHDAY PARTY]]></title>
+            <link>https://www.youtube.com/watch?v=ioiSynbdw_w</link>
+            <guid>https://www.youtube.com/watch?v=ioiSynbdw_w</guid>
+            <pubDate>Mon, 20 Dec 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[ONEW’s BIRTHDAY PARTY
+
+Listen and download on y...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ioiSynbdw_w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 ‘Dreams Come True’ #YouTubeSh...]]></title>
+            <link>https://www.youtube.com/watch?v=p_MapcmLm5g</link>
+            <guid>https://www.youtube.com/watch?v=p_MapcmLm5g</guid>
+            <pubDate>Mon, 20 Dec 2021 10:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/p_MapcmLm5g/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' ...]]></title>
             <link>https://www.youtube.com/watch?v=H69tJmsgd9I</link>
@@ -70,7 +88,8 @@ L...]]></content:encoded>
             <link>https://www.youtube.com/watch?v=V-STo97od6w</link>
             <guid>https://www.youtube.com/watch?v=V-STo97od6w</guid>
             <pubDate>Sun, 19 Dec 2021 17:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's new single "Dreams Come True" will be r...]]></content:encoded>
+            <content:encoded><![CDATA[aespa's new single "Dreams Come True" is out!
+L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/V-STo97od6w/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -235,20 +254,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380276</guid>
             <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
             <content:encoded><![CDATA[PARK SOOYOUNG (Red Velvet JOY, SM) is making a ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OH SEHUN gives a strong impression to v...]]></title>
-            <link>https://now.smtown.com/news/detail/2380275</link>
-            <guid>https://now.smtown.com/news/detail/2380275</guid>
-            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[OH SEHUN (EXO SEHUN, SM) is exuding a presence ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Opening D-1' EUNHYUK, SUPER JUNIOR Con...]]></title>
-            <link>https://now.smtown.com/news/detail/2380274</link>
-            <guid>https://now.smtown.com/news/detail/2380274</guid>
-            <pubDate>Fri, 17 Dec 2021 04:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR EUNHYUK takes on the challenge of ...]]></content:encoded>
         </item>
     </channel>
 </rss>
