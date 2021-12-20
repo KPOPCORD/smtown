@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV]]></title>
+            <link>https://tv.naver.com/v/24169174</link>
+            <guid>https://tv.naver.com/v/24169174</guid>
+            <pubDate>Mon, 20 Dec 2021 09:47:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_253/kZ1uq_16399907063712sSxQ_JPEG/1639990444833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV Teaser]]></title>
             <link>https://tv.naver.com/v/24154619</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 Nov 2021 15:48:27 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211121_59/F9ikn_1637492786299baLkk_JPEG/1637492778951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #1 Mood Sampler]]></title>
-            <link>https://tv.naver.com/v/23606703</link>
-            <guid>https://tv.naver.com/v/23606703</guid>
-            <pubDate>Thu, 18 Nov 2021 15:49:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_33/f5N8k_1637244251831dTVAn_JPEG/1637244238458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

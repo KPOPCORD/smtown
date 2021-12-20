@@ -4,15 +4,23 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV]]></title>
+            <link>https://vlive.tv/post/0-27010854</link>
+            <guid>https://vlive.tv/post/0-27010854</guid>
+            <pubDate>Mon, 20 Dec 2021 09:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211220_53/1639991111977copwD_JPEG/1639990444833.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV Teaser]]></title>
             <link>https://vlive.tv/post/0-26999723</link>
             <guid>https://vlive.tv/post/0-26999723</guid>
             <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_72/1639913197293xrjKO_JPEG/1639911334642.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-26933668</guid>
             <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
             <content:encoded><![CDATA[12.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_157/1639471010846CnwaT_JPEG/1639470662340.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser]]></title>
@@ -142,13 +149,6 @@
             <guid>https://vlive.tv/post/1-26658043</guid>
             <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 2 - Surfing in our Dreams]]></title>
-            <link>https://vlive.tv/post/0-26635523</link>
-            <guid>https://vlive.tv/post/0-26635523</guid>
-            <pubDate>Mon, 20 Dec 2021 07:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[11.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
