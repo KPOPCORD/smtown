@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[샤이니 온유-키-민호, 엑소 카이, 레드벨벳 ‘SMTOWN 2022’ 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5752</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5752</guid>
-            <pubDate>Fri, 17 Dec 2021 04:54:26 GMT</pubDate>
+            <title><![CDATA[NCT 127, 두 번째 단독 콘서트 ‘NEO CITY : SEOUL – THE LINK’ 성황!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5760</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5760</guid>
+            <pubDate>Mon, 20 Dec 2021 05:43:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 온유-키-민호, 엑소 카이, 레드벨벳 ‘SMTOWN 2022’ 티저 이미지 공개 화제! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1658c9ef7.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127, 두 번째 단독 콘서트 ‘NEO CITY : SEOUL – THE LINK’ 성황!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012b840eb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['개막 D-1' 은혁, 슈퍼주니어 콘서트→뮤지컬 '알타보이즈' 연출...K팝 아이돌 최초]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5749</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5749</guid>
-            <pubDate>Fri, 17 Dec 2021 04:54:26 GMT</pubDate>
+            <title><![CDATA[‘막강 대세 파워’ NCT 정규 3집 ‘Universe’ 주간 음반 차트 1위 석권!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5759</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5759</guid>
+            <pubDate>Mon, 20 Dec 2021 05:43:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'개막 D-1' 은혁, 슈퍼주니어 콘서트→뮤지컬 '알타보이즈' 연출...K팝 아이돌 최초</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc148cb72f4.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘막강 대세 파워’ NCT 정규 3집 ‘Universe’ 주간 음반 차트 1위 석권!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012342fb08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

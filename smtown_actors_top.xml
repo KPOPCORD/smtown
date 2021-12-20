@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임윤아, 얼루어 1월호 커버 장식! 무결점 비주얼 ‘화제’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5755</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5755</guid>
+            <pubDate>Mon, 20 Dec 2021 05:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">임윤아, 얼루어 1월호 커버 장식! 무결점 비주얼 ‘화제’ </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0103d38707.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5751</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5750</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5750</guid>
-            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1536176b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
