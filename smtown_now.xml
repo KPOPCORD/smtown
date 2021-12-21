@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 09:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 10:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
+            <link>https://www.youtube.com/watch?v=xRLou1OngWQ</link>
+            <guid>https://www.youtube.com/watch?v=xRLou1OngWQ</guid>
+            <pubDate>Tue, 21 Dec 2021 10:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xRLou1OngWQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ...]]></title>
             <link>https://now.smtown.com/news/detail/2380360</link>
@@ -240,15 +249,6 @@ Listen a...]]></content:encoded>
             <pubDate>Fri, 17 Dec 2021 10:46:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 주인장 백현입니다요 ! 별 탈 없이 잘 지내고 계신지요 ! 오늘은 슬라임...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/shv9UWjfpcM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에리야 생일 축하해❤️]]></title>
-            <link>https://www.youtube.com/watch?v=JUhZ3d8pefY</link>
-            <guid>https://www.youtube.com/watch?v=JUhZ3d8pefY</guid>
-            <pubDate>Fri, 17 Dec 2021 10:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[에리들 생일을 진심으로 축하합니다 ! 
-우리 에리들 이번 생일은 실시간으로 축하해 주...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JUhZ3d8pefY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
