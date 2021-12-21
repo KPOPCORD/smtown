@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 06:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 07:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,14 +29,18 @@
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['우리 식구됐어요' Serenade event for YESUNG an...]]></title>
             <link>https://now.smtown.com/news/detail/2380357</link>
             <guid>https://now.smtown.com/news/detail/2380357</guid>
             <pubDate>Tue, 21 Dec 2021 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG held a surpris...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR SHINDONG, entertainment ch...]]></title>
             <link>https://now.smtown.com/news/detail/2380356</link>
             <guid>https://now.smtown.com/news/detail/2380356</guid>
             <pubDate>Tue, 21 Dec 2021 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[Group SUPER JUNIOR member SHINDONG is active in...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[#문가영 으로 시작해 문가영으로 끝난 '치열(Cheer)' 비하인드 #...]]></title>
