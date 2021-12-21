@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 14:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 15:51:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비글즈 | 🎙쇼! 으맠쩡심💚 EP.4 | NCT 2021]]></title>
+            <link>https://www.youtube.com/watch?v=_k6quoPHRYA</link>
+            <guid>https://www.youtube.com/watch?v=_k6quoPHRYA</guid>
+            <pubDate>Tue, 21 Dec 2021 15:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #비글즈
+#마크 #정우 #해찬 #천러 #헨드리
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/_k6quoPHRYA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎤 The ‘Beautiful’ view on the way to K...]]></title>
             <link>https://www.youtube.com/watch?v=JCJDnChNTtQ</link>
@@ -239,15 +249,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5fqCVYK2f3k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현이를 기다리는 3가지 방법]]></title>
-            <link>https://www.youtube.com/watch?v=yt6D5cHCcWc</link>
-            <guid>https://www.youtube.com/watch?v=yt6D5cHCcWc</guid>
-            <pubDate>Fri, 17 Dec 2021 10:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 백현입니다! 
-사랑하는 구독자 여러분 5.6일 훈련소에 들어가게 되었습니다...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yt6D5cHCcWc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
