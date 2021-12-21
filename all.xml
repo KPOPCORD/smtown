@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 06:54:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9c59efe38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380360</link>
             <guid>https://now.smtown.com/news/detail/2380360</guid>
             <pubDate>Tue, 21 Dec 2021 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[MINHO’s new song ‘Heartbreak’ to be rel... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380359</link>
             <guid>https://now.smtown.com/news/detail/2380359</guid>
             <pubDate>Tue, 21 Dec 2021 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee MINHO(SM)'s solo song 'Heartbreak' will ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[JTBC ‘한 사람만’ PARK SOOYOUNG (Red Velvet ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380358</link>
             <guid>https://now.smtown.com/news/detail/2380358</guid>
             <pubDate>Tue, 21 Dec 2021 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
