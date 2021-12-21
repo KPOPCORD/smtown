@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 03:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 04:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127, 두 번째 단독 콘서트 ‘NEO CITY : SEOUL – THE LINK’ 성황!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5760</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5760</guid>
+            <pubDate>Tue, 21 Dec 2021 04:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 두 번째 단독 콘서트를 성공적으로 마쳤다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012b840eb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 에스파, 레이든, 긴조, 임레이]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5758</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac7365fc55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 정규 3집 신곡 ‘Universe’ 안무 연습 영상 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5746</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5746</guid>
-            <pubDate>Thu, 16 Dec 2021 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Universe (Let’s Play Ball)’ 안무 연습 영상이 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac5eedc126.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘막강 대세 파워’ NCT 정규 3집 ‘Universe’ 주간 음반 차트 1위 석권!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5759</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5759</guid>
+            <pubDate>Tue, 21 Dec 2021 04:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 주간 음반 차트 1위를 석권했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012342fb08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파 ‘Dreams Come True’ 음원+MV 20일 공개!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Dec 2021 04:54:38 GMT</pubDate>
             <content:encoded><![CDATA[동방신기(에스엠엔터테인먼트 소속)가 데뷔 18주년을 맞아 스페셜 생방송으로 팬들과 만난다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac67fa75c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 12주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5742</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5742</guid>
-            <pubDate>Thu, 16 Dec 2021 04:54:05 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’ 12주 연속 차트인을 기록했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98e295aaa3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 03:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 04:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5751</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5751</guid>
+            <pubDate>Tue, 21 Dec 2021 04:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘한 사람만’으로 안방극장에 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5744</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5744</guid>
+            <pubDate>Fri, 17 Dec 2021 04:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문가영이 tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연을 확정 짓고 색다른 변신을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연...]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5717</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5717</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[가수 려욱이 창작 뮤지컬 '팬레터'로 관객과 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc8e0efb0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤보라, JTBC ‘한 사람만’ 출연… 데뷔 후 첫 수녀 역 도전]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5713</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5713</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤보라가 JTBC 새 월화드라마 ‘한 사람만’에 출연하며 데뷔이래 첫 수도자 역할에 도전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b197457add8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정연, 단발병 유발하는 '청순 여신 비주얼']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5694</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5694</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박정연이 눈부신 미모를 과시했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9cad7b5a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5750</link>
@@ -46,46 +86,6 @@
             <pubDate>Thu, 09 Dec 2021 05:42:39 GMT</pubDate>
             <content:encoded><![CDATA[배우 박하선이 카카오TV 오리지널 ‘며느라기2’ 출연을 확정했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9c59efe38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5744</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5744</guid>
-            <pubDate>Fri, 17 Dec 2021 04:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문가영이 tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연을 확정 짓고 색다른 변신을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연...]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5717</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5717</guid>
-            <pubDate>Thu, 16 Dec 2021 04:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[가수 려욱이 창작 뮤지컬 '팬레터'로 관객과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc8e0efb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤보라, JTBC ‘한 사람만’ 출연… 데뷔 후 첫 수녀 역 도전]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5713</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5713</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:23 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤보라가 JTBC 새 월화드라마 ‘한 사람만’에 출연하며 데뷔이래 첫 수도자 역할에 도전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b197457add8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정연, 단발병 유발하는 '청순 여신 비주얼']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5694</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5694</guid>
-            <pubDate>Thu, 09 Dec 2021 05:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박정연이 눈부신 미모를 과시했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9cad7b5a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS ‘지금, 헤어지는 중입니다’ 윤나무, 안방극장 울린 감정 열연]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5690</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5690</guid>
-            <pubDate>Mon, 06 Dec 2021 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘지금, 헤어지는 중입니다’ 윤나무의 감정 열연이 안방극장을 울렸다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9ac92f5d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
