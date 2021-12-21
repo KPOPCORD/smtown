@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 13:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 13:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎤 The ‘Beautiful’ view on the way to K...]]></title>
+            <link>https://www.youtube.com/watch?v=JCJDnChNTtQ</link>
+            <guid>https://www.youtube.com/watch?v=JCJDnChNTtQ</guid>
+            <pubDate>Tue, 21 Dec 2021 13:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[🎤 The ‘Beautiful’ view on the way to KWANGYA �...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JCJDnChNTtQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #4 | NCT 2021 YearDream B...]]></title>
+            <link>https://www.youtube.com/watch?v=ohc7kxH6Vk4</link>
+            <guid>https://www.youtube.com/watch?v=ohc7kxH6Vk4</guid>
+            <pubDate>Tue, 21 Dec 2021 13:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ohc7kxH6Vk4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
             <link>https://www.youtube.com/watch?v=xRLou1OngWQ</link>
@@ -231,24 +248,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[안녕하세요 백현입니다! 
 사랑하는 구독자 여러분 5.6일 훈련소에 들어가게 되었습니다...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yt6D5cHCcWc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거에서 온 먹방｜2020 유행 음식 먹방]]></title>
-            <link>https://www.youtube.com/watch?v=lvgC2Gvspu0</link>
-            <guid>https://www.youtube.com/watch?v=lvgC2Gvspu0</guid>
-            <pubDate>Fri, 17 Dec 2021 10:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[이뇨속들 안녕!!! 이거슨 ~@m코끼리~~~
-느낌표 대마왕 백현입니다 !!
-아니 안 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/lvgC2Gvspu0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 뱃속에 있는 것들｜슬라임 ASMR]]></title>
-            <link>https://www.youtube.com/watch?v=shv9UWjfpcM</link>
-            <guid>https://www.youtube.com/watch?v=shv9UWjfpcM</guid>
-            <pubDate>Fri, 17 Dec 2021 10:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 주인장 백현입니다요 ! 별 탈 없이 잘 지내고 계신지요 ! 오늘은 슬라임...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/shv9UWjfpcM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
