@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 11:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 13:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,38 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9cad7b5a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - KARINA #YouTubeO... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=quZoP5_aAPE</link>
+            <guid>https://www.youtube.com/watch?v=quZoP5_aAPE</guid>
+            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/quZoP5_aAPE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - NINGNING #YouTub... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=xDhcW9PdFBc</link>
+            <guid>https://www.youtube.com/watch?v=xDhcW9PdFBc</guid>
+            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xDhcW9PdFBc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - GISELLE #YouTube... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=s19PiTkEiw8</link>
+            <guid>https://www.youtube.com/watch?v=s19PiTkEiw8</guid>
+            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/s19PiTkEiw8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - WINTER #YouTubeO... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=NpBTzXRKWcY</link>
+            <guid>https://www.youtube.com/watch?v=NpBTzXRKWcY</guid>
+            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NpBTzXRKWcY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=V21khkglUgI</link>
             <guid>https://www.youtube.com/watch?v=V21khkglUgI</guid>
@@ -773,36 +805,6 @@ Listen and download on y...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
             <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/p_MapcmLm5g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=H69tJmsgd9I</link>
-            <guid>https://www.youtube.com/watch?v=H69tJmsgd9I</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's new single "Dreams Come True" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/H69tJmsgd9I/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘군필돌 캠프’ Lee Jin Ho X ONEW X Lee Ki Kwa... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380346</link>
-            <guid>https://now.smtown.com/news/detail/2380346</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[‘군필돌 캠프’ Lee Jin Ho, SHINee ONEW, and Highlight...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127’s second solo concert ‘NEO CITY... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380343</link>
-            <guid>https://now.smtown.com/news/detail/2380343</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 (SM) successfully finished their second...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 3rd album ‘Universe’ tops various K... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380342</link>
-            <guid>https://now.smtown.com/news/detail/2380342</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) tops various Korean weekly album chart...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
