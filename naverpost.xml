@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 06:54:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603</guid>
+            <pubDate>Wed, 22 Dec 2021 06:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[12월 21일 오후 6시, 민호의 솔로 싱글 ‘Heartbreak’가 공개되었습니다! 지난 2019년 공개된 SM STATION 싱글 ‘I’m Home (그래)’ 이후 2년 만에 선보이는 민호의 솔로 곡인 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjIg/MDAxNjQwMTUwMTMzNDUz.ZWriPMq4DPUgb3VKapt-AhNHGCoh9J_l2aOXAJHHXTsg.RwUqWbiUz0KdnWbn4UPvsNiCPXc1NN8iTVVeB-pxAmQg.JPEG/Iq7u4ildSTyBLwut-PElaCXXsWmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM STATION] aespa와 함께라면 'Dreams Come True'❤]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32965668&amp;memberNo=41350603</link>
@@ -171,15 +179,6 @@ D&E 첫 정규앨범 'COUNTDOWN' 발매✨]]></title>
             <pubDate>Mon, 20 Dec 2021 10:43:21 GMT</pubDate>
             <content:encoded><![CDATA[동해의 새로운 싱글 'California Love'가 공개되었습니다! 이번 싱글은 특히 유닛 10주년을 맞아 발매 예정인 슈퍼주니어-D&amp;E 정규앨범에 앞서 공개되어 더욱 뜻 깊은데요~ 동해가 직접 작사/작곡에 참여한 곡들···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMjcg/MDAxNjMzNjcxNzE2ODI4.SPMxA72UAqOoCwoQDuMFG3_ZQgArKUyd7RfzbdUeRNYg.gL_HsOTvBzzWlaRNiprs6c1mVKLzf84Y4sLXz4C_y8Yg.JPEG/I6mTo_EbMFrFo0UHBvHx-9SUlB7o.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 가을을 감성으로 채워줄
-강타의 ‘아마 (Maybe)’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32512188&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32512188&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 20 Dec 2021 10:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[가을이 성큼 다가온 요즘 괜스레 허전한 마음이 들진 않으시나요? 이렇게 가을을 타는 분들을 위해 강타의 새 싱글 '아마 (Maybe)'가 바로 오늘 공개되었습니다! 아티스트 강타의 데뷔 25주년 프로젝트! 그 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfOTkg/MDAxNjMzNjIwNjUwNzI1.nSWv59dRKjpwasL6qS1KVoADnAD5iUFHw97L9uaL1pIg.EjJgSnmAitpPEQ5dtTxbdLMdYzd82fIIWn6JgwC7dpQg.JPEG/IVaeBlXG6k1mKCwf_lIp85OJdh-0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
