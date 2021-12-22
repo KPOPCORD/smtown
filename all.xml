@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 14:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 15:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9cad7b5a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[N’-172] 시즈니 여러분들은 저희의 자부심이니까 항상...💚 |... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=cHpGPrI2quA</link>
+            <guid>https://www.youtube.com/watch?v=cHpGPrI2quA</guid>
+            <pubDate>Wed, 22 Dec 2021 15:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/cHpGPrI2quA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Better' pack your bags 🧳 and prepare ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=68L8pwhWdr0</link>
             <guid>https://www.youtube.com/watch?v=68L8pwhWdr0</guid>
@@ -796,14 +805,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380356</guid>
             <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
             <content:encoded><![CDATA[Group SUPER JUNIOR member SHINDONG is active in...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[#문가영 으로 시작해 문가영으로 끝난 '치열(Cheer)' 비하인드 #... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=9o2-yNX579U</link>
-            <guid>https://www.youtube.com/watch?v=9o2-yNX579U</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scene of 'Cheer' that starts and end...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/9o2-yNX579U/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
