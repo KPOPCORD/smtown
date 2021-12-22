@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 10:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 11:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
+            <link>https://www.youtube.com/watch?v=V21khkglUgI</link>
+            <guid>https://www.youtube.com/watch?v=V21khkglUgI</guid>
+            <pubDate>Wed, 22 Dec 2021 11:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[Join TAEYEON and aespa for #DreamsComeTrue YouT...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/V21khkglUgI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
             <link>https://www.youtube.com/watch?v=yMdiQhB_oKk</link>
@@ -232,13 +240,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380342</guid>
             <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
             <content:encoded><![CDATA[NCT (SM) tops various Korean weekly album chart...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT, aespa, Raiden, GINJO, IMLAY]]></title>
-            <link>https://now.smtown.com/news/detail/2380341</link>
-            <guid>https://now.smtown.com/news/detail/2380341</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[NCT, aespa, DJ Raiden, GINJO, and IMLAY (SM) ha...]]></content:encoded>
         </item>
     </channel>
 </rss>
