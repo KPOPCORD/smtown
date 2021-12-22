@@ -1,8 +1,242 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2021-12-22T06:54:08.457Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Dec 2021 07:43:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KLPGA major queen dreaming of a good in...]]></title>
+            <link>https://now.smtown.com/news/detail/2380383</link>
+            <guid>https://now.smtown.com/news/detail/2380383</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[There is a player who wants to convey a good in...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Variety magazine named Executive Produc...]]></title>
+            <link>https://now.smtown.com/news/detail/2380380</link>
+            <guid>https://now.smtown.com/news/detail/2380380</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[Variety magazine named Executive Producer SOOMA...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127's 3rd album 'Sticker' entering ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380379</link>
+            <guid>https://now.smtown.com/news/detail/2380379</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) entered the US 'Billboard 200' cha...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN’ TVXQ!-SUPER JUNIOR...]]></title>
+            <link>https://now.smtown.com/news/detail/2380378</link>
+            <guid>https://now.smtown.com/news/detail/2380378</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! and SUPER JUNIOR will reunite after 16 ye...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee MINHO successfully wraps up his ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380377</link>
+            <guid>https://now.smtown.com/news/detail/2380377</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee MINHO (SM) successfully wraps up his fan...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ PARK SOOYOUNG (Red Velvet ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380376</link>
+            <guid>https://now.smtown.com/news/detail/2380376</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[PARK SOOYOUNG (Red Velvet JOY, SM)'s acting ski...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Broadcaster Charles goes with ESteem En...]]></title>
+            <link>https://now.smtown.com/news/detail/2380375</link>
+            <guid>https://now.smtown.com/news/detail/2380375</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[Broadcaster Charles has signed an exclusive con...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비글즈 | 🎙쇼! 으맠쩡심💚 EP.4 | NCT 2021]]></title>
+            <link>https://www.youtube.com/watch?v=_k6quoPHRYA</link>
+            <guid>https://www.youtube.com/watch?v=_k6quoPHRYA</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #비글즈
+#마크 #정우 #해찬 #천러 #헨드리
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/_k6quoPHRYA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎤 The ‘Beautiful’ view on the way to K...]]></title>
+            <link>https://www.youtube.com/watch?v=JCJDnChNTtQ</link>
+            <guid>https://www.youtube.com/watch?v=JCJDnChNTtQ</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[🎤 The ‘Beautiful’ view on the way to KWANGYA �...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JCJDnChNTtQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #4 | NCT 2021 YearDream B...]]></title>
+            <link>https://www.youtube.com/watch?v=ohc7kxH6Vk4</link>
+            <guid>https://www.youtube.com/watch?v=ohc7kxH6Vk4</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ohc7kxH6Vk4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
+            <link>https://www.youtube.com/watch?v=xRLou1OngWQ</link>
+            <guid>https://www.youtube.com/watch?v=xRLou1OngWQ</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xRLou1OngWQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380360</link>
+            <guid>https://now.smtown.com/news/detail/2380360</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MINHO’s new song ‘Heartbreak’ to be rel...]]></title>
+            <link>https://now.smtown.com/news/detail/2380359</link>
+            <guid>https://now.smtown.com/news/detail/2380359</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee MINHO(SM)'s solo song 'Heartbreak' will ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ PARK SOOYOUNG (Red Velvet ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380358</link>
+            <guid>https://now.smtown.com/news/detail/2380358</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['우리 식구됐어요' Serenade event for YESUNG an...]]></title>
+            <link>https://now.smtown.com/news/detail/2380357</link>
+            <guid>https://now.smtown.com/news/detail/2380357</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG held a surpris...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR SHINDONG, entertainment ch...]]></title>
+            <link>https://now.smtown.com/news/detail/2380356</link>
+            <guid>https://now.smtown.com/news/detail/2380356</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[Group SUPER JUNIOR member SHINDONG is active in...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[#문가영 으로 시작해 문가영으로 끝난 '치열(Cheer)' 비하인드 #...]]></title>
+            <link>https://www.youtube.com/watch?v=9o2-yNX579U</link>
+            <guid>https://www.youtube.com/watch?v=9o2-yNX579U</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene of 'Cheer' that starts and end...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9o2-yNX579U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=BWdHiZfpZGM</link>
+            <guid>https://www.youtube.com/watch?v=BWdHiZfpZGM</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BWdHiZfpZGM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #3 | NCT 127 ‘Earthquake’...]]></title>
+            <link>https://www.youtube.com/watch?v=Tqj9wrD_23I</link>
+            <guid>https://www.youtube.com/watch?v=Tqj9wrD_23I</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Tqj9wrD_23I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] ONEW’s BIRTHDAY PARTY]]></title>
+            <link>https://www.youtube.com/watch?v=ioiSynbdw_w</link>
+            <guid>https://www.youtube.com/watch?v=ioiSynbdw_w</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[ONEW’s BIRTHDAY PARTY
+
+Listen and download on y...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ioiSynbdw_w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa 에스파 ‘Dreams Come True’ #YouTubeSh...]]></title>
+            <link>https://www.youtube.com/watch?v=p_MapcmLm5g</link>
+            <guid>https://www.youtube.com/watch?v=p_MapcmLm5g</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/p_MapcmLm5g/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' ...]]></title>
+            <link>https://www.youtube.com/watch?v=H69tJmsgd9I</link>
+            <guid>https://www.youtube.com/watch?v=H69tJmsgd9I</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's new single "Dreams Come True" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/H69tJmsgd9I/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘군필돌 캠프’ Lee Jin Ho X ONEW X Lee Ki Kwa...]]></title>
+            <link>https://now.smtown.com/news/detail/2380346</link>
+            <guid>https://now.smtown.com/news/detail/2380346</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘군필돌 캠프’ Lee Jin Ho, SHINee ONEW, and Highlight...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127’s second solo concert ‘NEO CITY...]]></title>
+            <link>https://now.smtown.com/news/detail/2380343</link>
+            <guid>https://now.smtown.com/news/detail/2380343</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 (SM) successfully finished their second...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 3rd album ‘Universe’ tops various K...]]></title>
+            <link>https://now.smtown.com/news/detail/2380342</link>
+            <guid>https://now.smtown.com/news/detail/2380342</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM) tops various Korean weekly album chart...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT, aespa, Raiden, GINJO, IMLAY]]></title>
+            <link>https://now.smtown.com/news/detail/2380341</link>
+            <guid>https://now.smtown.com/news/detail/2380341</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[NCT, aespa, DJ Raiden, GINJO, and IMLAY (SM) ha...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Song and MV of aespa’s ‘Dreams Come Tru...]]></title>
+            <link>https://now.smtown.com/news/detail/2380340</link>
+            <guid>https://now.smtown.com/news/detail/2380340</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[aespa(SM)'s new 'Dreams Come True' will be rele...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINee MINHO, new song 'Heartbreak' MV ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380339</link>
+            <guid>https://now.smtown.com/news/detail/2380339</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee MINHO(SM)'s new song 'Heartbreak' music ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LIM YOONA decorates the cover of the Ja...]]></title>
+            <link>https://now.smtown.com/news/detail/2380338</link>
+            <guid>https://now.smtown.com/news/detail/2380338</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[A pictorial featuring the flawless visuals of L...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' ...]]></title>
+            <link>https://www.youtube.com/watch?v=V-STo97od6w</link>
+            <guid>https://www.youtube.com/watch?v=V-STo97od6w</guid>
+            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[aespa's new single "Dreams Come True" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/V-STo97od6w/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
