@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 15:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 17:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,14 +571,6 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리마스터피스 (Re:MASTERPIECE) | 유튜브 오리지널 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=85i3GC9AVfU</link>
-            <guid>https://www.youtube.com/watch?v=85i3GC9AVfU</guid>
-            <pubDate>Thu, 23 Dec 2021 15:49:19 GMT</pubDate>
-            <content:encoded><![CDATA[K-POP의 시작을 알린 전설의 명곡! S.E.S.의 Dreams Come True가...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/85i3GC9AVfU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=c4zZb_GwjgI</link>
             <guid>https://www.youtube.com/watch?v=c4zZb_GwjgI</guid>
@@ -816,6 +808,14 @@ Listen a...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 08:49:39 GMT</pubDate>
             <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yMdiQhB_oKk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=pPlmX5DB1qc</link>
+            <guid>https://www.youtube.com/watch?v=pPlmX5DB1qc</guid>
+            <pubDate>Thu, 23 Dec 2021 17:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/pPlmX5DB1qc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
