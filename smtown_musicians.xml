@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 01:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 03:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 여전히 뜨겁다! 美 ‘빌보드 200’ 13주 연속 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5771</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5771</guid>
+            <pubDate>Thu, 23 Dec 2021 02:58:41 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 미국 ‘빌보드 200’ 차트에 13주 연속 진입했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29cb1d0e03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤이니 민호 단독 팬미팅 성황! 무대, 토크, 게임까지 매력 종합 선물 세트! (Feat. MC 최강창민)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5769</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0114077e0c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 英 패션 매거진 GLAMOUR ‘2021년 스타일 아이콘 10’ 선정!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5754</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5754</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 카이(에스엠엔터테인먼트 소속)가 영국 패션 매거진 GLAMOUR(글래머)에서 선정한 ‘2021년 스타일 아이콘 10’에 올라 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c00fa9dc39d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5770</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5770</guid>
+            <pubDate>Thu, 23 Dec 2021 02:58:41 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기와 슈퍼주니어가 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)를 통해 16년 만에 다시 뭉친다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29c4964767.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2021 Winter SMTOWN’, 단체곡 ‘빛’, 에스파 ‘Dreams Come True’ 더블 타이틀곡!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
             <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)의 신곡 ‘Heartbreak’(하트브레이크) 뮤직비디오 티저 영상이 20일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c010bf8c0af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 온유-키-민호, 엑소 카이, 레드벨벳 ‘SMTOWN 2022’ 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5752</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5752</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 온유, 키, 민호와 엑소 카이, 레드벨벳(에스엠엔터테인먼트 소속)의 ‘SMTOWN 2022 : SMCU EXPRESS’ 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1658c9ef7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

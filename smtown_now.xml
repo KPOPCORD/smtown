@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 01:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 03:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380407</link>
+            <guid>https://now.smtown.com/news/detail/2380407</guid>
+            <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380406</link>
+            <guid>https://now.smtown.com/news/detail/2380406</guid>
+            <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380405</link>
+            <guid>https://now.smtown.com/news/detail/2380405</guid>
+            <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[N’-172] 시즈니 여러분들은 저희의 자부심이니까 항상...💚 |...]]></title>
             <link>https://www.youtube.com/watch?v=cHpGPrI2quA</link>
@@ -221,27 +236,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380359</guid>
             <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
             <content:encoded><![CDATA[SHINee MINHO(SM)'s solo song 'Heartbreak' will ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ PARK SOOYOUNG (Red Velvet ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380358</link>
-            <guid>https://now.smtown.com/news/detail/2380358</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우리 식구됐어요' Serenade event for YESUNG an...]]></title>
-            <link>https://now.smtown.com/news/detail/2380357</link>
-            <guid>https://now.smtown.com/news/detail/2380357</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG held a surpris...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR SHINDONG, entertainment ch...]]></title>
-            <link>https://now.smtown.com/news/detail/2380356</link>
-            <guid>https://now.smtown.com/news/detail/2380356</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member SHINDONG is active in...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 01:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 03:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 여전히 뜨겁다! 美 ‘빌보드 200’ 13주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5771</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5771</guid>
-            <pubDate>Wed, 22 Dec 2021 03:46:19 GMT</pubDate>
+            <title><![CDATA[‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5775</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5775</guid>
+            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 여전히 뜨겁다! 美 ‘빌보드 200’ 13주 연속 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29cb1d0e03.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d9b1465bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5770</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5770</guid>
-            <pubDate>Wed, 22 Dec 2021 03:46:19 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5774</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
+            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29c4964767.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
