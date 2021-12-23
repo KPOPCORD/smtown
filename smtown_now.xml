@@ -4,13 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 03:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 04:57:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[H.O.T. '빛 (Hope)' MV]]></title>
+            <link>https://www.youtube.com/watch?v=dfN1UHjrzNg</link>
+            <guid>https://www.youtube.com/watch?v=dfN1UHjrzNg</guid>
+            <pubDate>Thu, 23 Dec 2021 04:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/dfN1UHjrzNg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ...]]></title>
             <link>https://now.smtown.com/news/detail/2380407</link>
             <guid>https://now.smtown.com/news/detail/2380407</guid>
             <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN: SMCU EXPRESS’ presents a u...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT The 3rd Album ‘Universe’ tops the G...]]></title>
@@ -231,13 +243,6 @@ Listen ...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380360</guid>
             <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
             <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MINHO’s new song ‘Heartbreak’ to be rel...]]></title>
-            <link>https://now.smtown.com/news/detail/2380359</link>
-            <guid>https://now.smtown.com/news/detail/2380359</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee MINHO(SM)'s solo song 'Heartbreak' will ...]]></content:encoded>
         </item>
     </channel>
 </rss>
