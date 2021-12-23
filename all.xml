@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 06:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,16 +571,18 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ online concert will ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380410</link>
             <guid>https://now.smtown.com/news/detail/2380410</guid>
             <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[The worldwide free online concert ‘SMTOWN LIVE ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM ‘Remastering Project’, H.O.T. Hit so... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380409</link>
             <guid>https://now.smtown.com/news/detail/2380409</guid>
             <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[SM 'Remastering Project' has released the remas...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[H.O.T. '빛 (Hope)' MV (SMTOWN ─ NOW)]]></title>
