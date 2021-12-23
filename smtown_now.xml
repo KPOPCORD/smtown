@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리마스터피스 (Re:MASTERPIECE) | 유튜브 오리지널]]></title>
+            <link>https://www.youtube.com/watch?v=85i3GC9AVfU</link>
+            <guid>https://www.youtube.com/watch?v=85i3GC9AVfU</guid>
+            <pubDate>Thu, 23 Dec 2021 15:49:19 GMT</pubDate>
+            <content:encoded><![CDATA[K-POP의 시작을 알린 전설의 명곡! S.E.S.의 Dreams Come True가...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/85i3GC9AVfU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지...]]></title>
+            <link>https://www.youtube.com/watch?v=c4zZb_GwjgI</link>
+            <guid>https://www.youtube.com/watch?v=c4zZb_GwjgI</guid>
+            <pubDate>Thu, 23 Dec 2021 15:49:19 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/c4zZb_GwjgI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lights💡Camera 📸 ‘POSE’! ✨💃🏻🕺]]></title>
             <link>https://www.youtube.com/watch?v=QgjtKfx-tsA</link>
@@ -236,22 +253,6 @@ Listen a...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 08:49:39 GMT</pubDate>
             <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yMdiQhB_oKk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
-            <link>https://www.youtube.com/watch?v=pPlmX5DB1qc</link>
-            <guid>https://www.youtube.com/watch?v=pPlmX5DB1qc</guid>
-            <pubDate>Wed, 22 Dec 2021 08:49:39 GMT</pubDate>
-            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/pPlmX5DB1qc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
-            <link>https://www.youtube.com/watch?v=KLoWfi38qHI</link>
-            <guid>https://www.youtube.com/watch?v=KLoWfi38qHI</guid>
-            <pubDate>Wed, 22 Dec 2021 08:49:39 GMT</pubDate>
-            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KLoWfi38qHI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
