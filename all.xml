@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 04:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 05:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5777</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
+            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5776</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5776</guid>
+            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c407f8105fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5775</link>
             <guid>https://www.smtown.com/artist/newsDetail/5775</guid>
             <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 SMTOWN에서만 만날 수 있는 이색 컬래버레이션을 선보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d9b1465bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5774</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 여전히 뜨겁다! 美 ‘빌보드 200’ 13주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012342fb08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파 ‘Dreams Come True’ 음원+MV 20일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5757</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5757</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엠터테인먼트 소속)가 새롭게 선보이는 ‘Dreams Come True’(드림스 컴 트루)가 20일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0114077e0c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5774</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
+            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 가온차트도 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
             <content:encoded><![CDATA[NCT와 에스파, DJ 레이든, 긴조, 임레이(에스엠엔터테인먼트 소속)이 ‘SMTOWN 2022’ 라인업에 합류했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c011e56b8c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 민호, 신곡 ‘Heartbreak’ MV 티저 영상 20일 오후 9시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5756</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5756</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)의 신곡 ‘Heartbreak’(하트브레이크) 뮤직비디오 티저 영상이 20일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c010bf8c0af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['구경이' 백성철, 시크X순수 매력 공존 화보 공개 (SMTOWN ─ Actors News)]]></title>
@@ -571,6 +571,18 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380410</link>
+            <guid>https://now.smtown.com/news/detail/2380410</guid>
+            <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380409</link>
+            <guid>https://now.smtown.com/news/detail/2380409</guid>
+            <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[H.O.T. '빛 (Hope)' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=dfN1UHjrzNg</link>
             <guid>https://www.youtube.com/watch?v=dfN1UHjrzNg</guid>
@@ -595,10 +607,11 @@
             <content:encoded><![CDATA[NCT (SM) topped the Gaon chart with her 3rd alb...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['구경이' Baek Sung Chul, chic X pure charm... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380405</link>
             <guid>https://now.smtown.com/news/detail/2380405</guid>
             <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[Baek Sung Chul showed off his warm visual throu...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[N’-172] 시즈니 여러분들은 저희의 자부심이니까 항상...💚 |... (SMTOWN ─ NOW)]]></title>
@@ -791,22 +804,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ohc7kxH6Vk4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MINHO 민호 'Heartbreak' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=xRLou1OngWQ</link>
-            <guid>https://www.youtube.com/watch?v=xRLou1OngWQ</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xRLou1OngWQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380360</link>
-            <guid>https://now.smtown.com/news/detail/2380360</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

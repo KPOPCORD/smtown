@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 04:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 05:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380410</link>
+            <guid>https://now.smtown.com/news/detail/2380410</guid>
+            <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380409</link>
+            <guid>https://now.smtown.com/news/detail/2380409</guid>
+            <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[H.O.T. '빛 (Hope)' MV]]></title>
             <link>https://www.youtube.com/watch?v=dfN1UHjrzNg</link>
@@ -32,9 +42,11 @@
             <content:encoded><![CDATA[NCT (SM) topped the Gaon chart with her 3rd alb...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['구경이' Baek Sung Chul, chic X pure charm...]]></title>
             <link>https://now.smtown.com/news/detail/2380405</link>
             <guid>https://now.smtown.com/news/detail/2380405</guid>
             <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[Baek Sung Chul showed off his warm visual throu...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[N’-172] 시즈니 여러분들은 저희의 자부심이니까 항상...💚 |...]]></title>
@@ -227,22 +239,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ohc7kxH6Vk4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
-            <link>https://www.youtube.com/watch?v=xRLou1OngWQ</link>
-            <guid>https://www.youtube.com/watch?v=xRLou1OngWQ</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xRLou1OngWQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380360</link>
-            <guid>https://now.smtown.com/news/detail/2380360</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
         </item>
     </channel>
 </rss>

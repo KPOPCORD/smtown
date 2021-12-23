@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 04:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 05:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5775</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5775</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5777</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
+            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d9b1465bb.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5774</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5776</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5776</guid>
+            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c407f8105fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
