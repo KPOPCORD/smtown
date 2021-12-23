@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 10:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 11:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pink Christmas Wishes from KWANGYA (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=q9KNhmaTmE4</link>
+            <guid>https://www.youtube.com/watch?v=q9KNhmaTmE4</guid>
+            <pubDate>Thu, 23 Dec 2021 11:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[Wishing You a Pink Christmas from KWANGYA 
+
+SMT...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/q9KNhmaTmE4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=pV_G_PxT31Q</link>
             <guid>https://www.youtube.com/watch?v=pV_G_PxT31Q</guid>
@@ -795,16 +805,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380375</guid>
             <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
             <content:encoded><![CDATA[Broadcaster Charles has signed an exclusive con...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비글즈 | 🎙쇼! 으맠쩡심💚 EP.4 | NCT 2021 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=_k6quoPHRYA</link>
-            <guid>https://www.youtube.com/watch?v=_k6quoPHRYA</guid>
-            <pubDate>Wed, 22 Dec 2021 07:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #비글즈
-#마크 #정우 #해찬 #천러 #헨드리
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/_k6quoPHRYA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
