@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 08:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 09:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Play V] XIAOJUN - Santa Claus Is Comin...]]></title>
+            <link>https://www.youtube.com/watch?v=BzN6sMHHcZg</link>
+            <guid>https://www.youtube.com/watch?v=BzN6sMHHcZg</guid>
+            <pubDate>Fri, 24 Dec 2021 09:46:18 GMT</pubDate>
+            <content:encoded><![CDATA[[Play V] XIAOJUN - Santa Claus Is Coming To Tow...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BzN6sMHHcZg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
             <link>https://www.youtube.com/watch?v=bzC6l9PO53Q</link>
@@ -239,14 +247,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/quZoP5_aAPE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - NINGNING #YouTub...]]></title>
-            <link>https://www.youtube.com/watch?v=xDhcW9PdFBc</link>
-            <guid>https://www.youtube.com/watch?v=xDhcW9PdFBc</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xDhcW9PdFBc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
