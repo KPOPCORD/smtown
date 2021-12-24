@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 13:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 14:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Sweet Dream' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://www.youtube.com/watch?v=VyBvgxP-lsU</link>
+            <guid>https://www.youtube.com/watch?v=VyBvgxP-lsU</guid>
+            <pubDate>Fri, 24 Dec 2021 14:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[In this dream wanna be with you
+Merry Christmas...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VyBvgxP-lsU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FOREIGN SWAGGERS | 🎙쇼! 으맠쩡심💚 EP.5 | N...]]></title>
             <link>https://www.youtube.com/watch?v=D9mbj9WIAVk</link>
@@ -238,16 +247,6 @@ Listen a...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:45:37 GMT</pubDate>
             <content:encoded><![CDATA[Get out of my way y’all ✋ We’re off to KWANGYA�...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/F1YHMDwojzc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ready to shoot your (Love) Shot? 😏💘]]></title>
-            <link>https://www.youtube.com/watch?v=rWpcCY6WMgY</link>
-            <guid>https://www.youtube.com/watch?v=rWpcCY6WMgY</guid>
-            <pubDate>Wed, 22 Dec 2021 13:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[Ready to shoot your (Love) Shot? 😏💘
-
-See you ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/rWpcCY6WMgY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
