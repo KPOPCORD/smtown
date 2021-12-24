@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -473,6 +473,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c156d799b2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 이학주, 2021년 한 해 빛낸 대세 배우 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5782</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5782</guid>
+            <pubDate>Fri, 24 Dec 2021 06:52:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">배우 이학주, 2021년 한 해 빛낸 대세 배우</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c563d9345cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수 (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5779</link>
             <guid>https://www.smtown.com/artist/newsDetail/5779</guid>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5773</link>
             <guid>https://www.smtown.com/artist/newsDetail/5773</guid>
             <pubDate>Thu, 23 Dec 2021 02:58:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'구경이' 백성철, 시크X순수 매력 공존 화보 공개</span>]]></content:encoded>
+            <content:encoded><![CDATA[신예 백성철이 화보를 통해 훈훈한 비주얼을 뽐냈다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d902cf8e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘착붙 캐릭터’로 첫 등장! 시청자 단숨에 사로잡았다 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5764</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5764</guid>
+            <pubDate>Tue, 21 Dec 2021 04:56:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘착붙 캐릭터’로 1화 만에 시청자들을 사로잡았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5751</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5751</guid>
+            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
+            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘한 사람만’으로 안방극장에 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5744</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5744</guid>
+            <pubDate>Thu, 16 Dec 2021 04:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문가영이 tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연을 확정 짓고 색다른 변신을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연... (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5717</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5717</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[가수 려욱이 창작 뮤지컬 '팬레터'로 관객과 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc8e0efb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 美친 존재감! 연기 포텐 터졌다 (SMTOWN ─ Actors News)]]></title>
@@ -531,68 +571,38 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc09328e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘착붙 캐릭터’로 첫 등장! 시청자 단숨에 사로잡았다 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5764</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5764</guid>
-            <pubDate>Tue, 21 Dec 2021 04:56:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘착붙 캐릭터’로 1화 만에 시청자들을 사로잡았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), MZ 세대의 워너비+핫한 인플루언서로 변신한다! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5751</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5751</guid>
-            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘한 사람만’으로 안방극장에 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문가영, tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연 확정 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5744</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5744</guid>
-            <pubDate>Thu, 16 Dec 2021 04:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문가영이 tvN 새 드라마 ‘링크 : 먹고 사랑하라, 죽이게’ 출연을 확정 짓고 색다른 변신을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 려욱, 10일 뮤지컬 '팬레터' 첫 공연... (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5717</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5717</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[가수 려욱이 창작 뮤지컬 '팬레터'로 관객과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc8e0efb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤보라, JTBC ‘한 사람만’ 출연… 데뷔 후 첫 수녀 역 도전 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5713</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5713</guid>
-            <pubDate>Thu, 09 Dec 2021 06:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤보라가 JTBC 새 월화드라마 ‘한 사람만’에 출연하며 데뷔이래 첫 수도자 역할에 도전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b197457add8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380437</link>
+            <guid>https://now.smtown.com/news/detail/2380437</guid>
+            <pubDate>Fri, 24 Dec 2021 06:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girls’ Generation SUNNY, NCT JUNGWOO, R... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380436</link>
             <guid>https://now.smtown.com/news/detail/2380436</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[Girls’ Generation SUNNY, NCT JUNGWOO, and RENJU...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[BoA X aespa, ‘Dreams Come True’ (feat. ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380435</link>
             <guid>https://now.smtown.com/news/detail/2380435</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[The work machine for the remake of ‘Dreams Come...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[PARK SOOYOUNG of the JTBC drama ‘한 사람만’... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380434</link>
             <guid>https://now.smtown.com/news/detail/2380434</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) is r...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KYUHYUN, Netflix '솔로지옥' MC (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380433</link>
             <guid>https://now.smtown.com/news/detail/2380433</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[The group SUPER JUNIOR KYUHYUN showed a presenc...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지... (SMTOWN ─ NOW)]]></title>
@@ -799,14 +809,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/s19PiTkEiw8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - WINTER #YouTubeO... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=NpBTzXRKWcY</link>
-            <guid>https://www.youtube.com/watch?v=NpBTzXRKWcY</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/NpBTzXRKWcY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

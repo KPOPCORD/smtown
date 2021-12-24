@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 이학주, 2021년 한 해 빛낸 대세 배우]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5782</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5782</guid>
+            <pubDate>Fri, 24 Dec 2021 06:52:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">배우 이학주, 2021년 한 해 빛낸 대세 배우</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c563d9345cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5779</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구경이' 백성철, 시크X순수 매력 공존 화보 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5773</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5773</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'구경이' 백성철, 시크X순수 매력 공존 화보 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d902cf8e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

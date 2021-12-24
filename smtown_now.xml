@@ -4,28 +4,41 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 06:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <link>https://now.smtown.com/news/detail/2380437</link>
+            <guid>https://now.smtown.com/news/detail/2380437</guid>
+            <pubDate>Fri, 24 Dec 2021 06:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girls’ Generation SUNNY, NCT JUNGWOO, R...]]></title>
             <link>https://now.smtown.com/news/detail/2380436</link>
             <guid>https://now.smtown.com/news/detail/2380436</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[Girls’ Generation SUNNY, NCT JUNGWOO, and RENJU...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BoA X aespa, ‘Dreams Come True’ (feat. ...]]></title>
             <link>https://now.smtown.com/news/detail/2380435</link>
             <guid>https://now.smtown.com/news/detail/2380435</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[The work machine for the remake of ‘Dreams Come...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[PARK SOOYOUNG of the JTBC drama ‘한 사람만’...]]></title>
             <link>https://now.smtown.com/news/detail/2380434</link>
             <guid>https://now.smtown.com/news/detail/2380434</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) is r...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[KYUHYUN, Netflix '솔로지옥' MC]]></title>
             <link>https://now.smtown.com/news/detail/2380433</link>
             <guid>https://now.smtown.com/news/detail/2380433</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[The group SUPER JUNIOR KYUHYUN showed a presenc...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지...]]></title>
@@ -232,14 +245,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/s19PiTkEiw8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - WINTER #YouTubeO...]]></title>
-            <link>https://www.youtube.com/watch?v=NpBTzXRKWcY</link>
-            <guid>https://www.youtube.com/watch?v=NpBTzXRKWcY</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/NpBTzXRKWcY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
