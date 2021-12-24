@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 01:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380436</link>
+            <guid>https://now.smtown.com/news/detail/2380436</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380435</link>
+            <guid>https://now.smtown.com/news/detail/2380435</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380434</link>
+            <guid>https://now.smtown.com/news/detail/2380434</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380433</link>
+            <guid>https://now.smtown.com/news/detail/2380433</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지...]]></title>
             <link>https://www.youtube.com/watch?v=c4zZb_GwjgI</link>
@@ -220,39 +240,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/NpBTzXRKWcY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #5 | NCT 2021 YearDream B...]]></title>
-            <link>https://www.youtube.com/watch?v=d4XKDD4Kixg</link>
-            <guid>https://www.youtube.com/watch?v=d4XKDD4Kixg</guid>
-            <pubDate>Wed, 22 Dec 2021 13:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/d4XKDD4Kixg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
-            <link>https://www.youtube.com/watch?v=V21khkglUgI</link>
-            <guid>https://www.youtube.com/watch?v=V21khkglUgI</guid>
-            <pubDate>Wed, 22 Dec 2021 11:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[Join TAEYEON and aespa for #DreamsComeTrue YouT...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/V21khkglUgI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
-            <link>https://www.youtube.com/watch?v=yMdiQhB_oKk</link>
-            <guid>https://www.youtube.com/watch?v=yMdiQhB_oKk</guid>
-            <pubDate>Wed, 22 Dec 2021 08:49:39 GMT</pubDate>
-            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yMdiQhB_oKk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
-            <link>https://www.youtube.com/watch?v=pPlmX5DB1qc</link>
-            <guid>https://www.youtube.com/watch?v=pPlmX5DB1qc</guid>
-            <pubDate>Thu, 23 Dec 2021 17:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/pPlmX5DB1qc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 01:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5777</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
-            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
+            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5781</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다) (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5780</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5780</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다)</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, 넷플릭스 ‘솔로지옥’ MC 활약…25일 3·4화 ‘기대 UP’ (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5778</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5778</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 슈퍼주니어 규현이 ‘솔로지옥’ MC로 존재감을 보이며 맹활약을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c523f640cdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5776</link>
             <guid>https://www.smtown.com/artist/newsDetail/5776</guid>
             <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[SM ‘리마스터링 프로젝트’가 이번에는 H.O.T.의 히트곡 ‘빛 (Hope)’ 리마스터 뮤직비디오를 공개했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c407f8105fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5774</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
+            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 가온차트도 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5770</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5770</guid>
+            <pubDate>Wed, 22 Dec 2021 03:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기와 슈퍼주니어가 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)를 통해 16년 만에 다시 뭉친다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29c4964767.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN’, 단체곡 ‘빛’, 에스파 ‘Dreams Come True’ 더블 타이틀곡! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5766</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5766</guid>
+            <pubDate>Tue, 21 Dec 2021 04:55:40 GMT</pubDate>
+            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 풍성한 종합선물세트를 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1578bc20c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5777</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
+            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 무료 온라인 콘서트 ‘SMTOWN LIVE 2022’가 오는 1월 1일 개최된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션! (SMTOWN ─ Musicians News)]]></title>
@@ -425,52 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c156d799b2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘막강 대세 파워’ NCT 정규 3집 ‘Universe’ 주간 음반 차트 1위 석권! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5759</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5759</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 주간 음반 차트 1위를 석권했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012342fb08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5774</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 가온차트도 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5770</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5770</guid>
-            <pubDate>Wed, 22 Dec 2021 03:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기와 슈퍼주니어가 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)를 통해 16년 만에 다시 뭉친다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29c4964767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN’, 단체곡 ‘빛’, 에스파 ‘Dreams Come True’ 더블 타이틀곡! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5766</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5766</guid>
-            <pubDate>Tue, 21 Dec 2021 04:55:40 GMT</pubDate>
-            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 풍성한 종합선물세트를 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1578bc20c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127, 두 번째 단독 콘서트 ‘NEO CITY : SEOUL – THE LINK’ 성황! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5760</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5760</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 두 번째 단독 콘서트를 성공적으로 마쳤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c012b840eb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 에스파, 레이든, 긴조, 임레이 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5758</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5758</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[NCT와 에스파, DJ 레이든, 긴조, 임레이(에스엠엔터테인먼트 소속)이 ‘SMTOWN 2022’ 라인업에 합류했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c011e56b8c1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5779</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5779</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['구경이' 백성철, 시크X순수 매력 공존 화보 공개 (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5768</link>
             <guid>https://www.smtown.com/artist/newsDetail/5768</guid>
             <pubDate>Wed, 22 Dec 2021 03:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 美친 존재감! 연기 포텐 터졌다 </span>]]></content:encoded>
+            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)의 연기 포텐이 터졌다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29b3a6fe7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아, 얼루어 1월호 커버 장식! 무결점 비주얼 ‘화제’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5755</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5755</guid>
+            <pubDate>Mon, 20 Dec 2021 05:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)의 무결점 비주얼이 돋보이는 화보가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0103d38707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5750</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5750</guid>
+            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 드라마에서도 존재감을 발산하고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1536176b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC 드라마 ‘아이돌’ 종영! 조준영 “‘레이’를 연기 할 수 있어서 감사했다” 소감 전해 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5735</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5735</guid>
+            <pubDate>Wed, 15 Dec 2021 06:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[‘IDOL (아이돌 : The Coup)’ 조준영(에스엠엔터테인먼트 소속)이 따뜻한 모습으로 마지막까지 훈훈함을 선사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98b11a7abb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['구경이' 백성철, 카리스마X스윗 '훈훈한 2色 매력' (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5716</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5716</guid>
+            <pubDate>Fri, 10 Dec 2021 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA['구경이' 백성철이 훈훈한 비주얼로 여심을 매료시키고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc09328e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘착붙 캐릭터’로 첫 등장! 시청자 단숨에 사로잡았다 (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,28 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b197457add8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임윤아, 얼루어 1월호 커버 장식! 무결점 비주얼 ‘화제’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5755</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5755</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)의 무결점 비주얼이 돋보이는 화보가 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0103d38707.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380436</link>
+            <guid>https://now.smtown.com/news/detail/2380436</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5750</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5750</guid>
-            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 드라마에서도 존재감을 발산하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1536176b5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380435</link>
+            <guid>https://now.smtown.com/news/detail/2380435</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JTBC 드라마 ‘아이돌’ 종영! 조준영 “‘레이’를 연기 할 수 있어서 감사했다” 소감 전해 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5735</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5735</guid>
-            <pubDate>Wed, 15 Dec 2021 06:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘IDOL (아이돌 : The Coup)’ 조준영(에스엠엔터테인먼트 소속)이 따뜻한 모습으로 마지막까지 훈훈함을 선사했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98b11a7abb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380434</link>
+            <guid>https://now.smtown.com/news/detail/2380434</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['구경이' 백성철, 카리스마X스윗 '훈훈한 2色 매력' (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5716</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5716</guid>
-            <pubDate>Fri, 10 Dec 2021 04:55:09 GMT</pubDate>
-            <content:encoded><![CDATA['구경이' 백성철이 훈훈한 비주얼로 여심을 매료시키고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc09328e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘공작도시’ 이학주, 순수+열정 가득 보도국 기자 ‘한동민’役 첫등장 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5712</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5712</guid>
-            <pubDate>Thu, 09 Dec 2021 05:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 다시 한 번 남다른 존재감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b196ede20bd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380433</link>
+            <guid>https://now.smtown.com/news/detail/2380433</guid>
+            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지... (SMTOWN ─ NOW)]]></title>
@@ -783,39 +807,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/NpBTzXRKWcY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #5 | NCT 2021 YearDream B... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=d4XKDD4Kixg</link>
-            <guid>https://www.youtube.com/watch?v=d4XKDD4Kixg</guid>
-            <pubDate>Wed, 22 Dec 2021 13:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/d4XKDD4Kixg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=V21khkglUgI</link>
-            <guid>https://www.youtube.com/watch?v=V21khkglUgI</guid>
-            <pubDate>Wed, 22 Dec 2021 11:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[Join TAEYEON and aespa for #DreamsComeTrue YouT...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/V21khkglUgI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=yMdiQhB_oKk</link>
-            <guid>https://www.youtube.com/watch?v=yMdiQhB_oKk</guid>
-            <pubDate>Wed, 22 Dec 2021 08:49:39 GMT</pubDate>
-            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yMdiQhB_oKk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=pPlmX5DB1qc</link>
-            <guid>https://www.youtube.com/watch?v=pPlmX5DB1qc</guid>
-            <pubDate>Thu, 23 Dec 2021 17:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[Join aespa for #DreamsComeTrue YouTube Shorts C...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/pPlmX5DB1qc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

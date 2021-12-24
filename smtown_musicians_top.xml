@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 01:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5777</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
-            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
+            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5781</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5776</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5776</guid>
-            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
+            <title><![CDATA[보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5780</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5780</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c407f8105fa.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다)</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
