@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 07:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 08:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc09328e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=bzC6l9PO53Q</link>
+            <guid>https://www.youtube.com/watch?v=bzC6l9PO53Q</guid>
+            <pubDate>Fri, 24 Dec 2021 08:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[Join TAEYONG and aespa for #DreamsComeTrue YouT...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bzC6l9PO53Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Actor Lee Hak Joo, the trending actor w... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380437</link>
             <guid>https://now.smtown.com/news/detail/2380437</guid>
@@ -802,14 +810,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xDhcW9PdFBc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - GISELLE #YouTube... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=s19PiTkEiw8</link>
-            <guid>https://www.youtube.com/watch?v=s19PiTkEiw8</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/s19PiTkEiw8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

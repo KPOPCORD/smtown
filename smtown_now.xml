@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 07:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 08:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng...]]></title>
+            <link>https://www.youtube.com/watch?v=bzC6l9PO53Q</link>
+            <guid>https://www.youtube.com/watch?v=bzC6l9PO53Q</guid>
+            <pubDate>Fri, 24 Dec 2021 08:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[Join TAEYONG and aespa for #DreamsComeTrue YouT...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bzC6l9PO53Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Actor Lee Hak Joo, the trending actor w...]]></title>
             <link>https://now.smtown.com/news/detail/2380437</link>
@@ -239,14 +247,6 @@ See you ...]]></content:encoded>
             <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
             <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xDhcW9PdFBc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - GISELLE #YouTube...]]></title>
-            <link>https://www.youtube.com/watch?v=s19PiTkEiw8</link>
-            <guid>https://www.youtube.com/watch?v=s19PiTkEiw8</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/s19PiTkEiw8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
