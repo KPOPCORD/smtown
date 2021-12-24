@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 13:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 13:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -428,6 +428,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc09328e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[FOREIGN SWAGGERS | 🎙쇼! 으맠쩡심💚 EP.5 | N... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=D9mbj9WIAVk</link>
+            <guid>https://www.youtube.com/watch?v=D9mbj9WIAVk</guid>
+            <pubDate>Fri, 24 Dec 2021 13:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #FOREIGNSWAGGERS
+#마크 #정우 #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/D9mbj9WIAVk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Play V] XIAOJUN - Santa Claus Is Comin... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=BzN6sMHHcZg</link>
             <guid>https://www.youtube.com/watch?v=BzN6sMHHcZg</guid>
@@ -659,14 +668,6 @@ Listen a...]]></content:encoded>
 
 See you ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/rWpcCY6WMgY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE Q&A🤔 - KARINA #YouTubeO... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=quZoP5_aAPE</link>
-            <guid>https://www.youtube.com/watch?v=quZoP5_aAPE</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/quZoP5_aAPE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
