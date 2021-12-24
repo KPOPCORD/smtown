@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 11:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 13:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Sweet Dream' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://vlive.tv/post/0-27064784</link>
+            <guid>https://vlive.tv/post/0-27064784</guid>
+            <pubDate>Fri, 24 Dec 2021 13:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211224_180/1640350138800Woi1i_JPEG/upload_8442982510314892233dac3f8-a834-45a5-9762-f571749656a1.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
             <link>https://vlive.tv/post/1-27029131</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-27010854</guid>
             <pubDate>Thu, 23 Dec 2021 15:47:43 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211220_53/1639991111977copwD_JPEG/1639990444833.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV Teaser]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video]]></title>
             <link>https://vlive.tv/post/1-26707236</link>
             <guid>https://vlive.tv/post/1-26707236</guid>
-            <pubDate>Thu, 23 Dec 2021 15:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV]]></title>
-            <link>https://vlive.tv/post/1-26690795</link>
-            <guid>https://vlive.tv/post/1-26690795</guid>
             <pubDate>Thu, 23 Dec 2021 15:47:43 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
