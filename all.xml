@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 13:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 13:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,24 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b2dc09328e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MINHO 민호 '같은 자리 (Area)' Dance Practice (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=lxtbbH0YCIw</link>
+            <guid>https://www.youtube.com/watch?v=lxtbbH0YCIw</guid>
+            <pubDate>Sat, 25 Dec 2021 13:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/lxtbbH0YCIw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #6 | NCT U ‘Universe (Let... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=XHvbcaLshTo</link>
+            <guid>https://www.youtube.com/watch?v=XHvbcaLshTo</guid>
+            <pubDate>Sat, 25 Dec 2021 13:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/XHvbcaLshTo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Sweet Dream' Live Clip | NCT U 엔시티 유 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=VyBvgxP-lsU</link>
             <guid>https://www.youtube.com/watch?v=VyBvgxP-lsU</guid>
@@ -794,22 +812,6 @@ SMT...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/cHpGPrI2quA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Better' pack your bags 🧳 and prepare ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=68L8pwhWdr0</link>
-            <guid>https://www.youtube.com/watch?v=68L8pwhWdr0</guid>
-            <pubDate>Wed, 22 Dec 2021 13:45:37 GMT</pubDate>
-            <content:encoded><![CDATA['Better' pack your bags 🧳 and prepare your hea...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/68L8pwhWdr0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get out of my way y’all ✋ We’re off to ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=F1YHMDwojzc</link>
-            <guid>https://www.youtube.com/watch?v=F1YHMDwojzc</guid>
-            <pubDate>Wed, 22 Dec 2021 13:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[Get out of my way y’all ✋ We’re off to KWANGYA�...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/F1YHMDwojzc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
