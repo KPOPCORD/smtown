@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 11:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 13:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1539,6 +1539,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_160/oL4RD_1640350309314p96Ck_JPEG/1640350075789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MINHO 민호 '같은 자리 (Area)' Dance Practice (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24247228</link>
+            <guid>https://tv.naver.com/v/24247228</guid>
+            <pubDate>Sat, 25 Dec 2021 13:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_202/VEapc_1640330402960sakwh_JPEG/1640330398292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24186707</link>
             <guid>https://tv.naver.com/v/24186707</guid>
@@ -1761,14 +1769,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 25 Nov 2021 09:47:59 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_211/G52ZI_1637829952307PF3jU_JPEG/1637829947924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' #3 Mood Sampler (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23723616</link>
-            <guid>https://tv.naver.com/v/23723616</guid>
-            <pubDate>Wed, 24 Nov 2021 15:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_168/19O8j_1637758601239lrA5c_JPEG/1637758590535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
