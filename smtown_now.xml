@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 11:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 13:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #7 | NCT 2021 'Beautiful'...]]></title>
+            <link>https://www.youtube.com/watch?v=J3jvCgzGxXg</link>
+            <guid>https://www.youtube.com/watch?v=J3jvCgzGxXg</guid>
+            <pubDate>Sun, 26 Dec 2021 13:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/J3jvCgzGxXg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#SHINee has arrived @KWANGYA STATION! �...]]></title>
             <link>https://www.youtube.com/watch?v=uw_ym7Cbfbc</link>
@@ -246,16 +255,6 @@ SMT...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380409</guid>
             <pubDate>Thu, 23 Dec 2021 05:42:48 GMT</pubDate>
             <content:encoded><![CDATA[SM 'Remastering Project' has released the remas...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[H.O.T. '빛 (Hope)' MV]]></title>
-            <link>https://www.youtube.com/watch?v=dfN1UHjrzNg</link>
-            <guid>https://www.youtube.com/watch?v=dfN1UHjrzNg</guid>
-            <pubDate>Thu, 23 Dec 2021 04:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 1998, Remastered in 2021.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/dfN1UHjrzNg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
