@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 09:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 10:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#SHINee has arrived @KWANGYA STATION! �...]]></title>
+            <link>https://www.youtube.com/watch?v=uw_ym7Cbfbc</link>
+            <guid>https://www.youtube.com/watch?v=uw_ym7Cbfbc</guid>
+            <pubDate>Sun, 26 Dec 2021 10:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uw_ym7Cbfbc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#NCT has arrived @KWANGYA STATION! 🚂💗...]]></title>
+            <link>https://www.youtube.com/watch?v=Ujw5m1gR1SQ</link>
+            <guid>https://www.youtube.com/watch?v=Ujw5m1gR1SQ</guid>
+            <pubDate>Sun, 26 Dec 2021 10:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Ujw5m1gR1SQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �...]]></title>
             <link>https://www.youtube.com/watch?v=ZT43aFjJQj8</link>
@@ -236,20 +254,6 @@ SMT...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380407</guid>
             <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
             <content:encoded><![CDATA[‘2021 Winter SMTOWN: SMCU EXPRESS’ presents a u...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT The 3rd Album ‘Universe’ tops the G...]]></title>
-            <link>https://now.smtown.com/news/detail/2380406</link>
-            <guid>https://now.smtown.com/news/detail/2380406</guid>
-            <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) topped the Gaon chart with her 3rd alb...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['구경이' Baek Sung Chul, chic X pure charm...]]></title>
-            <link>https://now.smtown.com/news/detail/2380405</link>
-            <guid>https://now.smtown.com/news/detail/2380405</guid>
-            <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
-            <content:encoded><![CDATA[Baek Sung Chul showed off his warm visual throu...]]></content:encoded>
         </item>
     </channel>
 </rss>
