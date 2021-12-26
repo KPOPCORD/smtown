@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 10:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 11:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Ujw5m1gR1SQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performan...]]></title>
+            <link>https://www.youtube.com/watch?v=hPC0a4polfA</link>
+            <guid>https://www.youtube.com/watch?v=hPC0a4polfA</guid>
+            <pubDate>Sun, 26 Dec 2021 11:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hPC0a4polfA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �...]]></title>
@@ -247,13 +256,6 @@ SMT...]]></content:encoded>
 
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dfN1UHjrzNg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ to ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380407</link>
-            <guid>https://now.smtown.com/news/detail/2380407</guid>
-            <pubDate>Thu, 23 Dec 2021 02:59:18 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN: SMCU EXPRESS’ presents a u...]]></content:encoded>
         </item>
     </channel>
 </rss>
