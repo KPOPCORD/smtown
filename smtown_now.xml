@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 11:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 14:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#NCT #태일 #해찬 #재민 #쇼타로's Pink Blood Is R...]]></title>
+            <link>https://www.youtube.com/watch?v=bVPzTTF6CL8</link>
+            <guid>https://www.youtube.com/watch?v=bVPzTTF6CL8</guid>
+            <pubDate>Mon, 27 Dec 2021 14:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bVPzTTF6CL8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#aespa's Pink Blood Is Running!💗｜Pink ...]]></title>
+            <link>https://www.youtube.com/watch?v=j7LcE-BVBC0</link>
+            <guid>https://www.youtube.com/watch?v=j7LcE-BVBC0</guid>
+            <pubDate>Mon, 27 Dec 2021 14:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/j7LcE-BVBC0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #8 | NCT 2021 'Beautiful'...]]></title>
+            <link>https://www.youtube.com/watch?v=CgaIH45C9hU</link>
+            <guid>https://www.youtube.com/watch?v=CgaIH45C9hU</guid>
+            <pubDate>Mon, 27 Dec 2021 14:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/CgaIH45C9hU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#WayV has arrived @KWANGYA STATION! 🚂💗]]></title>
             <link>https://www.youtube.com/watch?v=y6fdwrJxY00</link>
@@ -226,31 +253,6 @@ Merry Christmas...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380434</guid>
             <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) is r...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, Netflix '솔로지옥' MC]]></title>
-            <link>https://now.smtown.com/news/detail/2380433</link>
-            <guid>https://now.smtown.com/news/detail/2380433</guid>
-            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[The group SUPER JUNIOR KYUHYUN showed a presenc...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제 앞에서 긴장하세요? | 어사즈 특별편 [5] 쿤, 성찬 | 어색하지...]]></title>
-            <link>https://www.youtube.com/watch?v=c4zZb_GwjgI</link>
-            <guid>https://www.youtube.com/watch?v=c4zZb_GwjgI</guid>
-            <pubDate>Thu, 23 Dec 2021 15:49:19 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/c4zZb_GwjgI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lights💡Camera 📸 ‘POSE’! ✨💃🏻🕺]]></title>
-            <link>https://www.youtube.com/watch?v=QgjtKfx-tsA</link>
-            <guid>https://www.youtube.com/watch?v=QgjtKfx-tsA</guid>
-            <pubDate>Thu, 23 Dec 2021 13:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[See you at ‘SMTOWN LIVE 2022 : 
-SMCU EXPRESS @ ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/QgjtKfx-tsA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
