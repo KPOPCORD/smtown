@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 09:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그저 빛..✨ 
+'2021 Winter SMTOWN : SMCU EXPRESS' 발매!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Dec 2021 09:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfODkg/MDAxNjQwNTI1NTcyMDQx.IGVyzunBUPT3-_o38vvTFxHuHvoF8xEm_G0RE0I808Eg.GpwXD5sHpz1qLeRipfuGD4daUAUnfnq0ouv3qdob_ekg.JPEG/IFgsSqMwL5gDkAyczmoTwKxcMSEE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,14 +180,6 @@ MV 비하인드 현장!]]></title>
             <pubDate>Thu, 30 Sep 2021 03:45:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMTAx/MDAxNjMyOTIwMzU5MTA0.GTah7XxZrh5HRRqYFUN9DeghEw8-KDO4tKdDLOP6FxMg.KFMDvgF5KXr7qZKPp0ge9x4QsG4wbXLXWNv5YRKGPUgg.JPEG/IecJv6Isw_lKYQV4rzgBFgBxU5AI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[임윤아] 우리가 만든 <기적>]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32459440&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32459440&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Fri, 01 Oct 2021 03:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMjg3/MDAxNjMyOTExMjczOTIw.-uPZOvnzS58X5tKII8Bghy4oaWDCbPFENL0xx57WAnYg.1TtaMomT1qRaFWBBsa6xc9BRYf47TibZTzvp1gXtH5Ag.JPEG/IsHYbG_eEHksZ2tVnKLbYhbLg4CQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

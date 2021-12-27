@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 09:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그저 빛..✨ 
+'2021 Winter SMTOWN : SMCU EXPRESS' 발매!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 27 Dec 2021 09:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[추운 겨울, 여러분의 몸과 마음을 따뜻하게 녹여줄 명반이 나왔습니다 (๑・‿・๑)❤바로 오늘 공개된 '2021 Winter SMTOWN : SMCU EXPRESS'입니다. 이번 앨범은 '2011 SMTOWN Winter [The Warmest Gift]' 이후 무려 10년···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfODkg/MDAxNjQwNTI1NTcyMDQx.IGVyzunBUPT3-_o38vvTFxHuHvoF8xEm_G0RE0I808Eg.GpwXD5sHpz1qLeRipfuGD4daUAUnfnq0ouv3qdob_ekg.JPEG/IFgsSqMwL5gDkAyczmoTwKxcMSEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603</link>
@@ -170,15 +179,6 @@ D&E 첫 정규앨범 'COUNTDOWN' 발매✨]]></title>
             <pubDate>Mon, 20 Dec 2021 10:43:21 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어 동해가 지난 10월 13일디지털 싱글 ‘California Love’를 발매했습니다. (짝짝짝)  슈퍼주니어-D&amp;E의 정규 앨범 발매 전팬 분들의 기대감을 한껏 끌어 올린동해의 솔로곡 ‘California Love (Feat. 제···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTJfMjM3/MDAxNjM0MDA5OTE1MTcx.ynj-ETcTOCV2a9k97ZUPxEeCjgoi2yRM6Q84EEvlrLIg.ik2F6kuuNgGsaxdnscBZwy3DPnL58Ok4hY1ULj2uLHwg.JPEG/Ih9glYC36xyaUgXh6tUAHXhwL64A.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["어디서 달달한 냄새 안 나요..?"
-동해 싱글 'California Love' 공개!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32499948&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32499948&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 20 Dec 2021 10:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[동해의 새로운 싱글 'California Love'가 공개되었습니다! 이번 싱글은 특히 유닛 10주년을 맞아 발매 예정인 슈퍼주니어-D&amp;E 정규앨범에 앞서 공개되어 더욱 뜻 깊은데요~ 동해가 직접 작사/작곡에 참여한 곡들···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDhfMjcg/MDAxNjMzNjcxNzE2ODI4.SPMxA72UAqOoCwoQDuMFG3_ZQgArKUyd7RfzbdUeRNYg.gL_HsOTvBzzWlaRNiprs6c1mVKLzf84Y4sLXz4C_y8Yg.JPEG/I6mTo_EbMFrFo0UHBvHx-9SUlB7o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
