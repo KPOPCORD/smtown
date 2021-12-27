@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘군필돌 캠프’ Lee Jin Ho X ONEW X Lee Ki Kwa...]]></title>
+            <link>https://now.smtown.com/news/detail/2380510</link>
+            <guid>https://now.smtown.com/news/detail/2380510</guid>
+            <pubDate>Mon, 27 Dec 2021 06:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘군필돌 캠프’ Lee Jin Ho, SHINee ONEW, and Highlight...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[SM Girls Assemble!]]></title>
             <link>https://now.smtown.com/news/detail/2380508</link>
@@ -244,14 +251,6 @@ SMCU EXPRESS @ ...]]></content:encoded>
             <content:encoded><![CDATA[See you at ‘SMTOWN LIVE 2022 : 
 SMCU EXPRESS @ ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/L7iFTey-h5g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Re:MASTERPIECE D-DAY🙌 - WINTER #YouTub...]]></title>
-            <link>https://www.youtube.com/watch?v=ohV1YOKIFfo</link>
-            <guid>https://www.youtube.com/watch?v=ohV1YOKIFfo</guid>
-            <pubDate>Thu, 23 Dec 2021 13:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[Re:MASTERPIECE | YouTube Originals ➫ 2021.12.23...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ohV1YOKIFfo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
