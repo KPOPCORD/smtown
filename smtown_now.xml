@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 10:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 11:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#WayV has arrived @KWANGYA STATION! 🚂💗]]></title>
+            <link>https://www.youtube.com/watch?v=y6fdwrJxY00</link>
+            <guid>https://www.youtube.com/watch?v=y6fdwrJxY00</guid>
+            <pubDate>Mon, 27 Dec 2021 11:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/y6fdwrJxY00/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#GirlsGeneration has arrived @KWANGYA S...]]></title>
+            <link>https://www.youtube.com/watch?v=N28mrgniaA0</link>
+            <guid>https://www.youtube.com/watch?v=N28mrgniaA0</guid>
+            <pubDate>Mon, 27 Dec 2021 11:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/N28mrgniaA0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘군필돌 캠프’ Lee Jin Ho X ONEW X Lee Ki Kwa...]]></title>
             <link>https://now.smtown.com/news/detail/2380510</link>
@@ -233,24 +251,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[See you at ‘SMTOWN LIVE 2022 : 
 SMCU EXPRESS @ ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/QgjtKfx-tsA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oh my gosh, don’t you know I’m off to K...]]></title>
-            <link>https://www.youtube.com/watch?v=iqxFZQqt1W4</link>
-            <guid>https://www.youtube.com/watch?v=iqxFZQqt1W4</guid>
-            <pubDate>Thu, 23 Dec 2021 13:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[See you at ‘SMTOWN LIVE 2022 : 
-SMCU EXPRESS @ ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/iqxFZQqt1W4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Passports ready! All aboard the SMCU Ex...]]></title>
-            <link>https://www.youtube.com/watch?v=L7iFTey-h5g</link>
-            <guid>https://www.youtube.com/watch?v=L7iFTey-h5g</guid>
-            <pubDate>Thu, 23 Dec 2021 13:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[See you at ‘SMTOWN LIVE 2022 : 
-SMCU EXPRESS @ ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/L7iFTey-h5g/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
