@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 09:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 10:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#NCT has arrived @KWANGYA STATION! 🚂💗...]]></title>
+            <link>https://www.youtube.com/watch?v=6bYcTOxw3YI</link>
+            <guid>https://www.youtube.com/watch?v=6bYcTOxw3YI</guid>
+            <pubDate>Tue, 28 Dec 2021 10:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/6bYcTOxw3YI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT sells over 10.9 million album copie...]]></title>
             <link>https://now.smtown.com/news/detail/2380534</link>
@@ -244,13 +253,6 @@ Listen ...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/XHvbcaLshTo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Song Hae Na IHQ ‘주주총회’, first broadcast...]]></title>
-            <link>https://now.smtown.com/news/detail/2380503</link>
-            <guid>https://now.smtown.com/news/detail/2380503</guid>
-            <pubDate>Mon, 27 Dec 2021 05:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[Top model and broadcaster Song Hae Na will host...]]></content:encoded>
         </item>
     </channel>
 </rss>
