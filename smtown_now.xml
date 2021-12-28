@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=N5Qmj7eRQIQ</link>
+            <guid>https://www.youtube.com/watch?v=N5Qmj7eRQIQ</guid>
+            <pubDate>Tue, 28 Dec 2021 03:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[GIANT PINK's new single 'PINK' will be released...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/N5Qmj7eRQIQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱글벙글 웃음 만발했던 #고아성 매거진 '씨네21' 비하인드 #키동캠 ...]]></title>
             <link>https://www.youtube.com/watch?v=DmxTD9n6fIM</link>
@@ -249,13 +257,6 @@ Merry Christmas...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380437</guid>
             <pubDate>Fri, 24 Dec 2021 06:53:11 GMT</pubDate>
             <content:encoded><![CDATA[Actor Lee Hak Joo has filled 2021 with a lot of...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Girls’ Generation SUNNY, NCT JUNGWOO, R...]]></title>
-            <link>https://now.smtown.com/news/detail/2380436</link>
-            <guid>https://now.smtown.com/news/detail/2380436</guid>
-            <pubDate>Fri, 24 Dec 2021 01:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[Girls’ Generation SUNNY, NCT JUNGWOO, and RENJU...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24306906</link>
+            <guid>https://tv.naver.com/v/24306906</guid>
+            <pubDate>Tue, 28 Dec 2021 03:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_226/Hz7he_1640653692328Wbhb7_JPEG/1640653653098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performance Stage]]></title>
             <link>https://tv.naver.com/v/24261259</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Nov 2021 15:50:57 GMT</pubDate>
             <content:encoded><![CDATA[4:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_41/QcI1G_1637851313084RoaGY_JPEG/1637851309881.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' Prologue Film]]></title>
-            <link>https://tv.naver.com/v/23748959</link>
-            <guid>https://tv.naver.com/v/23748959</guid>
-            <pubDate>Thu, 25 Nov 2021 15:50:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_52/QyBol_1637851125042yqaob_JPEG/1637851122797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
