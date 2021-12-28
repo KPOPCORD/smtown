@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SM Girls Assemble!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5787</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:11 GMT</pubDate>
+            <title><![CDATA[NCT, 2021년 총 음반 판매량 1091만장 기염!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5793</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5793</guid>
+            <pubDate>Tue, 28 Dec 2021 05:41:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM Girls Assemble!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, 2021년 총 음반 판매량 1091만장 기염!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9ec1c7052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5786</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:11 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5792</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5792</guid>
+            <pubDate>Tue, 28 Dec 2021 05:41:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9e7e48c1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

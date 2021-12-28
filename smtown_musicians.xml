@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5791</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5791</guid>
+            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 프로젝트 유닛 GOT the beat(갓 더 비트)가 신곡 ‘Step Back’(스텝 백)으로 강렬한 에너지를 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5786</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
+            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 27일 발매된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5781</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
+            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5777</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 무료 온라인 콘서트 ‘SMTOWN LIVE 2022’가 오는 1월 1일 개최된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5775</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5775</guid>
+            <pubDate>Thu, 23 Dec 2021 05:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 SMTOWN에서만 만날 수 있는 이색 컬래버레이션을 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d9b1465bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Girls Assemble!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5787</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
+            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 퍼포먼스 스테이지 26일 오후 6시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5785</link>
@@ -38,54 +86,6 @@
             <pubDate>Thu, 23 Dec 2021 05:42:11 GMT</pubDate>
             <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 가온차트도 정상에 올랐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN’ 동방신기-슈퍼주니어, 16년 만에 뭉친다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5770</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5770</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:41 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기와 슈퍼주니어가 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)를 통해 16년 만에 다시 뭉친다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29c4964767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5781</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5777</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
-            <pubDate>Fri, 24 Dec 2021 01:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 무료 온라인 콘서트 ‘SMTOWN LIVE 2022’가 오는 1월 1일 개최된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN’에서만 만날 수 있는 이색 컬래버레이션!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5775</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5775</guid>
-            <pubDate>Thu, 23 Dec 2021 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 SMTOWN에서만 만날 수 있는 이색 컬래버레이션을 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d9b1465bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 여전히 뜨겁다! 美 ‘빌보드 200’ 13주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5771</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5771</guid>
-            <pubDate>Thu, 23 Dec 2021 02:58:41 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집 ‘Sticker’(스티커)로 미국 ‘빌보드 200’ 차트에 13주 연속 진입했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29cb1d0e03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 민호 단독 팬미팅 성황! 무대, 토크, 게임까지 매력 종합 선물 세트! (Feat. MC 최강창민)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5769</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5769</guid>
-            <pubDate>Mon, 27 Dec 2021 06:52:53 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)가 단독 팬미팅을 성황리에 마쳤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29bc6c7339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
