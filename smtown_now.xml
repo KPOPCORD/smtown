@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] 🚶‍♂The Great Wall Tour with...]]></title>
+            <link>https://www.youtube.com/watch?v=sYe1_vX-x38</link>
+            <guid>https://www.youtube.com/watch?v=sYe1_vX-x38</guid>
+            <pubDate>Wed, 29 Dec 2021 09:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/sYe1_vX-x38/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[British NME “aespa, 3rd consecutive hit...]]></title>
             <link>https://now.smtown.com/news/detail/2380569</link>
@@ -241,13 +251,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380510</guid>
             <pubDate>Mon, 27 Dec 2021 06:53:30 GMT</pubDate>
             <content:encoded><![CDATA[‘군필돌 캠프’ Lee Jin Ho, SHINee ONEW, and Highlight...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM Girls Assemble!]]></title>
-            <link>https://now.smtown.com/news/detail/2380508</link>
-            <guid>https://now.smtown.com/news/detail/2380508</guid>
-            <pubDate>Mon, 27 Dec 2021 05:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment (SM) starts a new project 'Gir...]]></content:encoded>
         </item>
     </channel>
 </rss>
