@@ -4,13 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 03:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 04:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <link>https://now.smtown.com/news/detail/2380569</link>
+            <guid>https://now.smtown.com/news/detail/2380569</guid>
+            <pubDate>Wed, 29 Dec 2021 04:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, trailer + pos...]]></title>
             <link>https://now.smtown.com/news/detail/2380567</link>
             <guid>https://now.smtown.com/news/detail/2380567</guid>
             <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA’ is 3 d...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV]]></title>
@@ -36,14 +43,18 @@ List...]]></content:encoded>
             <content:encoded><![CDATA[The remix version of NCT 127 (SM)'s 3rd album t...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['러브 마피아' SHINDONG proves 'ability chara...]]></title>
             <link>https://now.smtown.com/news/detail/2380564</link>
             <guid>https://now.smtown.com/news/detail/2380564</guid>
             <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[SHINDONG, a member of the group SUPER JUNIOR, p...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘한 사람만’ Yoon Bo Ra, ‘presence’ with out...]]></title>
             <link>https://now.smtown.com/news/detail/2380563</link>
             <guid>https://now.smtown.com/news/detail/2380563</guid>
             <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[Her actor Yoon Bo Ra is drawing attention for h...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['SMTOWN LIVE 2022' SMCU EXPRESS @KWANGY...]]></title>
@@ -235,13 +246,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380508</guid>
             <pubDate>Mon, 27 Dec 2021 05:45:11 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment (SM) starts a new project 'Gir...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ rel...]]></title>
-            <link>https://now.smtown.com/news/detail/2380507</link>
-            <guid>https://now.smtown.com/news/detail/2380507</guid>
-            <pubDate>Mon, 27 Dec 2021 05:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
         </item>
     </channel>
 </rss>

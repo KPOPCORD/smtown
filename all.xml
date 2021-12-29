@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 03:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 04:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜” (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5799</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
+            <pubDate>Wed, 29 Dec 2021 04:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5798</link>
             <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5797</link>
             <guid>https://www.smtown.com/artist/newsDetail/5797</guid>
             <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!</span>]]></content:encoded>
+            <content:encoded><![CDATA[SM이 새롭게 선보이는 프로젝트 유닛 GOT the beat(갓 더 비트)의 멤버별 티저 이미지가 공개되어 연일 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcf2776e83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT, 2021년 총 음반 판매량 1091만장 기염! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5793</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5793</guid>
+            <pubDate>Tue, 28 Dec 2021 05:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 2021년 총 음반 판매량 1000만장을 돌파하는 대기록을 썼다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9ec1c7052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5791</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5791</guid>
+            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 프로젝트 유닛 GOT the beat(갓 더 비트)가 신곡 ‘Step Back’(스텝 백)으로 강렬한 에너지를 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5786</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
+            <pubDate>Mon, 27 Dec 2021 05:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 27일 발매된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5781</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Fri, 24 Dec 2021 01:45:25 GMT</pubDate>
             <content:encoded><![CDATA[‘믿고 듣는’ 보아(BoA)와 에스파(aespa, 에스엠엔터테인먼트 소속)의 만남이 완성한 ‘Dreams Come True’ 리메이크 작업기가 공개되어 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 2021년 총 음반 판매량 1091만장 기염! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5793</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5793</guid>
-            <pubDate>Tue, 28 Dec 2021 05:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 2021년 총 음반 판매량 1000만장을 돌파하는 대기록을 썼다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9ec1c7052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5791</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5791</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 프로젝트 유닛 GOT the beat(갓 더 비트)가 신곡 ‘Step Back’(스텝 백)으로 강렬한 에너지를 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5786</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 27일 발매된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5781</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
-            <pubDate>Fri, 24 Dec 2021 01:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’ 온라인 콘서트, 1월 1일 전 세계 무료 중계! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5777</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5777</guid>
-            <pubDate>Thu, 23 Dec 2021 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 무료 온라인 콘서트 ‘SMTOWN LIVE 2022’가 오는 1월 1일 개최된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c4085084bea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한 사람만’ 윤보라, 캐릭터 소화력+깨알 같은 웃음으로 돋보이는 ‘존재감’ (SMTOWN ─ Actors News)]]></title>
@@ -572,9 +572,16 @@
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380569</link>
+            <guid>https://now.smtown.com/news/detail/2380569</guid>
+            <pubDate>Wed, 29 Dec 2021 04:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, trailer + pos... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380567</link>
             <guid>https://now.smtown.com/news/detail/2380567</guid>
             <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA’ is 3 d...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV (SMTOWN ─ NOW)]]></title>
@@ -600,16 +607,18 @@ List...]]></content:encoded>
             <content:encoded><![CDATA[The remix version of NCT 127 (SM)'s 3rd album t...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['러브 마피아' SHINDONG proves 'ability chara... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380564</link>
             <guid>https://now.smtown.com/news/detail/2380564</guid>
             <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[SHINDONG, a member of the group SUPER JUNIOR, p...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘한 사람만’ Yoon Bo Ra, ‘presence’ with out... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380563</link>
             <guid>https://now.smtown.com/news/detail/2380563</guid>
             <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[Her actor Yoon Bo Ra is drawing attention for h...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['SMTOWN LIVE 2022' SMCU EXPRESS @KWANGY... (SMTOWN ─ NOW)]]></title>
@@ -801,13 +810,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380508</guid>
             <pubDate>Mon, 27 Dec 2021 05:45:11 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment (SM) starts a new project 'Gir...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ rel... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380507</link>
-            <guid>https://now.smtown.com/news/detail/2380507</guid>
-            <pubDate>Mon, 27 Dec 2021 05:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Let it pink🔥

@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 03:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 04:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5799</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
+            <pubDate>Wed, 29 Dec 2021 04:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5798</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5797</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5797</guid>
-            <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcf2776e83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
