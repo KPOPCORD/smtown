@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 01:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5796</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5796</guid>
+            <pubDate>Wed, 29 Dec 2021 02:57:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbce1f96e15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 2021년 총 음반 판매량 1091만장 기염!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5793</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">NCT, 2021년 총 음반 판매량 1091만장 기염!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9ec1c7052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5792</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5792</guid>
-            <pubDate>Tue, 28 Dec 2021 05:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9e7e48c1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

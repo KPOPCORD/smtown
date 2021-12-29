@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 01:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5792</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5792</guid>
+            <pubDate>Wed, 29 Dec 2021 02:57:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 일본 오리콘 위클리 차트도 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9e7e48c1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Girls Assemble!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5787</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
+            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 퍼포먼스 스테이지 26일 오후 6시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5785</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5785</guid>
+            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 더블 타이틀 곡 ‘Beautiful’(뷰티풀) 퍼포먼스 스테이지가 26일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93a9e11827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5780</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5780</guid>
+            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는’ 보아(BoA)와 에스파(aespa, 에스엠엔터테인먼트 소속)의 만남이 완성한 ‘Dreams Come True’ 리메이크 작업기가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5776</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5776</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[SM ‘리마스터링 프로젝트’가 이번에는 H.O.T.의 히트곡 ‘빛 (Hope)’ 리마스터 뮤직비디오를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c407f8105fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5791</link>
@@ -46,46 +86,6 @@
             <pubDate>Thu, 23 Dec 2021 05:42:11 GMT</pubDate>
             <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 SMTOWN에서만 만날 수 있는 이색 컬래버레이션을 선보인다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d9b1465bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Girls Assemble!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5787</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 퍼포먼스 스테이지 26일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5785</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5785</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 더블 타이틀 곡 ‘Beautiful’(뷰티풀) 퍼포먼스 스테이지가 26일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93a9e11827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5780</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5780</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는’ 보아(BoA)와 에스파(aespa, 에스엠엔터테인먼트 소속)의 만남이 완성한 ‘Dreams Come True’ 리메이크 작업기가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, H.O.T. 히트곡 ‘빛’ 리마스터 뮤직비디오 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5776</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5776</guid>
-            <pubDate>Fri, 24 Dec 2021 01:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[SM ‘리마스터링 프로젝트’가 이번에는 H.O.T.의 히트곡 ‘빛 (Hope)’ 리마스터 뮤직비디오를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c407f8105fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’ 가온 앨범 차트도 1위! 특급 파워 입증!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5774</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5774</guid>
-            <pubDate>Thu, 23 Dec 2021 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 가온차트도 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c3d944ecf21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

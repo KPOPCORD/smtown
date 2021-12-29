@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 01:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380565</link>
+            <guid>https://now.smtown.com/news/detail/2380565</guid>
+            <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380564</link>
+            <guid>https://now.smtown.com/news/detail/2380564</guid>
+            <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380563</link>
+            <guid>https://now.smtown.com/news/detail/2380563</guid>
+            <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['SMTOWN LIVE 2022' SMCU EXPRESS @KWANGY...]]></title>
             <link>https://www.youtube.com/watch?v=sQZN9Ble3tI</link>
@@ -231,33 +246,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/SZQVQ5sfOfM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #7 | NCT 2021 'Beautiful'...]]></title>
-            <link>https://www.youtube.com/watch?v=J3jvCgzGxXg</link>
-            <guid>https://www.youtube.com/watch?v=J3jvCgzGxXg</guid>
-            <pubDate>Sun, 26 Dec 2021 13:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/J3jvCgzGxXg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#SHINee has arrived @KWANGYA STATION! �...]]></title>
-            <link>https://www.youtube.com/watch?v=uw_ym7Cbfbc</link>
-            <guid>https://www.youtube.com/watch?v=uw_ym7Cbfbc</guid>
-            <pubDate>Sun, 26 Dec 2021 10:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/uw_ym7Cbfbc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT has arrived @KWANGYA STATION! 🚂💗...]]></title>
-            <link>https://www.youtube.com/watch?v=Ujw5m1gR1SQ</link>
-            <guid>https://www.youtube.com/watch?v=Ujw5m1gR1SQ</guid>
-            <pubDate>Sun, 26 Dec 2021 10:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Ujw5m1gR1SQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
