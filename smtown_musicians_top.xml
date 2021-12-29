@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5796</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5796</guid>
-            <pubDate>Wed, 29 Dec 2021 02:57:18 GMT</pubDate>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5798</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
+            <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbce1f96e15.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT, 2021년 총 음반 판매량 1091만장 기염!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5793</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5793</guid>
-            <pubDate>Tue, 28 Dec 2021 05:41:51 GMT</pubDate>
+            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5797</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5797</guid>
+            <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, 2021년 총 음반 판매량 1091만장 기염!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9ec1c7052.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcf2776e83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

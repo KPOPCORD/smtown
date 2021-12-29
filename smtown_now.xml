@@ -4,13 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <link>https://now.smtown.com/news/detail/2380567</link>
+            <guid>https://now.smtown.com/news/detail/2380567</guid>
+            <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV]]></title>
+            <link>https://www.youtube.com/watch?v=0UkGjmNOd0g</link>
+            <guid>https://www.youtube.com/watch?v=0UkGjmNOd0g</guid>
+            <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[GIANT PINK's new single 'PINK' is out now!
+List...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0UkGjmNOd0g/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM NEW project unit GOT the beat!]]></title>
+            <link>https://now.smtown.com/news/detail/2380566</link>
+            <guid>https://now.smtown.com/news/detail/2380566</guid>
+            <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[A teaser image for each member of SM's new proj...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘iScreaM Vol.13 : Sticker Remixes’ to b...]]></title>
             <link>https://now.smtown.com/news/detail/2380565</link>
             <guid>https://now.smtown.com/news/detail/2380565</guid>
             <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[The remix version of NCT 127 (SM)'s 3rd album t...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380564</link>
@@ -219,33 +242,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380507</guid>
             <pubDate>Mon, 27 Dec 2021 05:45:12 GMT</pubDate>
             <content:encoded><![CDATA[The SMTOWN winter album '2021 Winter SMTOWN: SM...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE #Cinema - KAI : KLoor Makin...]]></title>
-            <link>https://www.youtube.com/watch?v=_yR_yWJpdIM</link>
-            <guid>https://www.youtube.com/watch?v=_yR_yWJpdIM</guid>
-            <pubDate>Mon, 27 Dec 2021 05:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[KAI's 2nd mini album "Peaches" is out!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/_yR_yWJpdIM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#GirlsGeneration's Pink Blood Is Runnin...]]></title>
-            <link>https://www.youtube.com/watch?v=fGTHILrxUM8</link>
-            <guid>https://www.youtube.com/watch?v=fGTHILrxUM8</guid>
-            <pubDate>Sun, 26 Dec 2021 13:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fGTHILrxUM8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT #태용 #정우 #천러 #지성's Pink Blood Is Ru...]]></title>
-            <link>https://www.youtube.com/watch?v=SZQVQ5sfOfM</link>
-            <guid>https://www.youtube.com/watch?v=SZQVQ5sfOfM</guid>
-            <pubDate>Sun, 26 Dec 2021 13:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SZQVQ5sfOfM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
