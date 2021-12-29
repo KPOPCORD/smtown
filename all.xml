@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 10:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 11:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98b11a7abb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Un Cut] Take #10 | NCT 2021 Jacket Beh... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=ef7AmgtPMjg</link>
+            <guid>https://www.youtube.com/watch?v=ef7AmgtPMjg</guid>
+            <pubDate>Wed, 29 Dec 2021 11:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ef7AmgtPMjg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#NCT has arrived @KWANGYA STATION! 🚂💗... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=XFORwZPWNIY</link>
             <guid>https://www.youtube.com/watch?v=XFORwZPWNIY</guid>
@@ -806,15 +815,6 @@ L...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/bVPzTTF6CL8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#aespa's Pink Blood Is Running!💗｜Pink ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=j7LcE-BVBC0</link>
-            <guid>https://www.youtube.com/watch?v=j7LcE-BVBC0</guid>
-            <pubDate>Mon, 27 Dec 2021 15:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/j7LcE-BVBC0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let it pink🔥
