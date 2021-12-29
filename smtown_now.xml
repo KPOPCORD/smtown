@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 13:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 13:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나랑, 밀당해요? | 어사즈 특별편 [6] 쿤, 성찬 | 어색하지만 괜...]]></title>
+            <link>https://www.youtube.com/watch?v=HFnP73Ye0hI</link>
+            <guid>https://www.youtube.com/watch?v=HFnP73Ye0hI</guid>
+            <pubDate>Wed, 29 Dec 2021 13:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/HFnP73Ye0hI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#TVXQ!’s Pink Blood Is Running!💗｜Pink ...]]></title>
+            <link>https://www.youtube.com/watch?v=d3iHWcSIA_U</link>
+            <guid>https://www.youtube.com/watch?v=d3iHWcSIA_U</guid>
+            <pubDate>Wed, 29 Dec 2021 13:45:23 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/d3iHWcSIA_U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Un Cut] Take #10 | NCT 2021 Jacket Beh...]]></title>
             <link>https://www.youtube.com/watch?v=ef7AmgtPMjg</link>
@@ -234,24 +252,6 @@ L...]]></content:encoded>
             <pubDate>Mon, 27 Dec 2021 15:59:10 GMT</pubDate>
             <content:encoded><![CDATA[Behind-the-scene​ of magazine 'Cine 21' by #KoA...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DmxTD9n6fIM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW 어사즈 | 🎙쇼! 으맠쩡심💚 EP.6 | NCT 2021]]></title>
-            <link>https://www.youtube.com/watch?v=MCv17wHlGyg</link>
-            <guid>https://www.youtube.com/watch?v=MCv17wHlGyg</guid>
-            <pubDate>Mon, 27 Dec 2021 15:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #NEW어사즈 #NEW_Awsaz
-#마크 #정우...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MCv17wHlGyg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT #태일 #해찬 #재민 #쇼타로's Pink Blood Is R...]]></title>
-            <link>https://www.youtube.com/watch?v=bVPzTTF6CL8</link>
-            <guid>https://www.youtube.com/watch?v=bVPzTTF6CL8</guid>
-            <pubDate>Mon, 27 Dec 2021 15:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bVPzTTF6CL8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
