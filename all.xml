@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 13:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 14:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT LEE | 🎙쇼! 으맠쩡심💚 EP.7 | NCT 2021 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=rAp0vHQRdX8</link>
+            <guid>https://www.youtube.com/watch?v=rAp0vHQRdX8</guid>
+            <pubDate>Thu, 30 Dec 2021 14:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[#으맠쩡심 #EuMARKJUNGsim #NCTLEE
+#마크 #정우 #텐 #태용 #해찬...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rAp0vHQRdX8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=6ON6SYrdPNU</link>
             <guid>https://www.youtube.com/watch?v=6ON6SYrdPNU</guid>
@@ -805,13 +814,6 @@ List...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380565</guid>
             <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[The remix version of NCT 127 (SM)'s 3rd album t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['러브 마피아' SHINDONG proves 'ability chara... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380564</link>
-            <guid>https://now.smtown.com/news/detail/2380564</guid>
-            <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[SHINDONG, a member of the group SUPER JUNIOR, p...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Let it pink🔥
