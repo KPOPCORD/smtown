@@ -4,9 +4,25 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 11:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 13:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TVXQ! 동방신기 'DINNER' Live Clip @DINNER with Cassiopeia│TVXQ! 18th Anniversary Party]]></title>
+            <link>https://tv.naver.com/v/24358938</link>
+            <guid>https://tv.naver.com/v/24358938</guid>
+            <pubDate>Thu, 30 Dec 2021 13:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_78/WJDRJ_1640861372561AKmHi_JPEG/1640861358816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice]]></title>
+            <link>https://tv.naver.com/v/24348077</link>
+            <guid>https://tv.naver.com/v/24348077</guid>
+            <pubDate>Thu, 30 Dec 2021 13:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_258/kVb12_1640828480353vew2c_JPEG/1640828137249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV]]></title>
             <link>https://tv.naver.com/v/24342294</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 30 Nov 2021 09:41:56 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211130_10/QfqmV_16382624412233n4M3_JPEG/1638262069419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 YearDream : Stage 4 - Resonance]]></title>
-            <link>https://tv.naver.com/v/23806052</link>
-            <guid>https://tv.naver.com/v/23806052</guid>
-            <pubDate>Mon, 29 Nov 2021 15:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_291/dLoLz_1638194254675pSemQ_JPEG/1638194241067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/23786902</link>
-            <guid>https://tv.naver.com/v/23786902</guid>
-            <pubDate>Sun, 28 Nov 2021 15:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211128_178/T99Ol_1638101943727dpLFX_JPEG/1638101935954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
