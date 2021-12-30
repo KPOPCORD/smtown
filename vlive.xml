@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 08:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 09:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV]]></title>
+            <link>https://vlive.tv/post/1-27143827</link>
+            <guid>https://vlive.tv/post/1-27143827</guid>
+            <pubDate>Thu, 30 Dec 2021 09:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_143/1640783321300IvHdI_JPEG/upload_84863028744489194a750dafa-35ff-4445-8866-de1fa8ebb618.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV Teaser]]></title>
             <link>https://vlive.tv/post/1-27137250</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-27119039</guid>
             <pubDate>Thu, 30 Dec 2021 03:44:41 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211228_10/1640653726870YKqDc_JPEG/upload_8473344607167169438e0e29c-a9eb-48e4-9d6e-7c4a71ba946b.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performance Stage]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser]]></title>
             <link>https://vlive.tv/post/0-26798325</link>
             <guid>https://vlive.tv/post/0-26798325</guid>
-            <pubDate>Thu, 30 Dec 2021 03:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video]]></title>
-            <link>https://vlive.tv/post/1-26818099</link>
-            <guid>https://vlive.tv/post/1-26818099</guid>
             <pubDate>Thu, 30 Dec 2021 03:44:41 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
