@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:50:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💌 슈퍼주니어에게 연말 릴레이 메시지가 도착했습니다! | SUPER ...]]></title>
+            <link>https://www.youtube.com/watch?v=AhVUgiWwqAE</link>
+            <guid>https://www.youtube.com/watch?v=AhVUgiWwqAE</guid>
+            <pubDate>Thu, 30 Dec 2021 15:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR Official
+http://www.youtube.com/SU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AhVUgiWwqAE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT LEE | 🎙쇼! 으맠쩡심💚 EP.7 | NCT 2021]]></title>
             <link>https://www.youtube.com/watch?v=rAp0vHQRdX8</link>
@@ -244,13 +253,6 @@ List...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380566</guid>
             <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
             <content:encoded><![CDATA[A teaser image for each member of SM's new proj...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM Vol.13 : Sticker Remixes’ to b...]]></title>
-            <link>https://now.smtown.com/news/detail/2380565</link>
-            <guid>https://now.smtown.com/news/detail/2380565</guid>
-            <pubDate>Wed, 29 Dec 2021 02:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[The remix version of NCT 127 (SM)'s 3rd album t...]]></content:encoded>
         </item>
     </channel>
 </rss>
