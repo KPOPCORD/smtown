@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 03:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 04:57:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,49 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98b11a7abb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380598</link>
+            <guid>https://now.smtown.com/news/detail/2380598</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat & MAX CHANGMIN to perform ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380597</link>
+            <guid>https://now.smtown.com/news/detail/2380597</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA’ prepar...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380596</link>
+            <guid>https://now.smtown.com/news/detail/2380596</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380595</link>
+            <guid>https://now.smtown.com/news/detail/2380595</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380594</link>
+            <guid>https://now.smtown.com/news/detail/2380594</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380593</link>
+            <guid>https://now.smtown.com/news/detail/2380593</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380592</link>
+            <guid>https://now.smtown.com/news/detail/2380592</guid>
+            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[#한사람만] 상상 이상의 REAL 찐텐 대공개! #윤보라 #장서원 #... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=vAqbc6nfrdE</link>
             <guid>https://www.youtube.com/watch?v=vAqbc6nfrdE</guid>
@@ -763,58 +806,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/6bYcTOxw3YI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 'Dreams Come True' MV Behind ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=HF2jnoNJeP8</link>
-            <guid>https://www.youtube.com/watch?v=HF2jnoNJeP8</guid>
-            <pubDate>Tue, 28 Dec 2021 11:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[aespa's new single "Dreams Come True" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/HF2jnoNJeP8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT sells over 10.9 million album copie... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380534</link>
-            <guid>https://now.smtown.com/news/detail/2380534</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) has surpassed 10 million album sales i...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT's 3rd album 'Universe' tops the Ori... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380533</link>
-            <guid>https://now.smtown.com/news/detail/2380533</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) topped the Oricon Weekly Chart in Japa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[New project unit GOT the beat to releas... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380532</link>
-            <guid>https://now.smtown.com/news/detail/2380532</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment's new project unit GOT the bea...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ PARK SOOYOUNG (Red Velvet ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380531</link>
-            <guid>https://now.smtown.com/news/detail/2380531</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) is s...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우리 식구 됐어요' YESUNG, Impressed by Lim Na... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380530</link>
-            <guid>https://now.smtown.com/news/detail/2380530</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG showed a close...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=N5Qmj7eRQIQ</link>
-            <guid>https://www.youtube.com/watch?v=N5Qmj7eRQIQ</guid>
-            <pubDate>Tue, 28 Dec 2021 03:46:45 GMT</pubDate>
-            <content:encoded><![CDATA[GIANT PINK's new single 'PINK' will be released...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/N5Qmj7eRQIQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let it pink🔥
