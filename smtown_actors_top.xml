@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘해피 뉴 이어’ 임윤아, ‘목소리’에 반하다! 임팩트 甲 캐릭터]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5803</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5803</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title"> ‘해피 뉴 이어’ 임윤아, ‘목소리’에 반하다! 임팩트 甲 캐릭터</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd481abed66.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한 사람만’ 윤보라, 캐릭터 소화력+깨알 같은 웃음으로 돋보이는 ‘존재감’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5794</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘한 사람만’ 윤보라, 캐릭터 소화력+깨알 같은 웃음으로 돋보이는 ‘존재감’</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbccf5aed41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 솔직한 ‘마라맛 매력’으로 시청자 홀릭!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5790</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5790</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 솔직한 ‘마라맛 매력’으로 시청자 홀릭!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9cdaec9e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

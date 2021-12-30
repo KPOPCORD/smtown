@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,38 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5806</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5806</guid>
+            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd497e141e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5805</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
+            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat, 신곡 ‘Step Back’으로 ‘퍼포먼스 갓’ 시너지 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5804</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5804</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 신곡 ‘Step Back’(스텝 백)으로 ‘퍼포먼스 갓’의 면모를 보여준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd4878d64c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜” (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5799</link>
             <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
             <pubDate>Wed, 29 Dec 2021 04:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”</span>]]></content:encoded>
+            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 영국 유명 음악 전문 매거진 NME의 집중 조명을 받았다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5798</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
-            <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다! (SMTOWN ─ Musicians News)]]></title>
@@ -417,20 +433,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5786</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 27일 발매된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[규현, 사계절 프로젝트 ‘PROJECT : 季’로 증명한 솔로 저력...1월 컴백까지 '기대 UP' (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5802</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5802</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 솔로 보컬리스트로서 뜻깊은 한 해를 보내며 신보에 대한 기대감을 높였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd47d656a58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5781</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
-            <pubDate>Fri, 24 Dec 2021 01:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5798</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
+            <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -457,20 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 퍼포먼스 스테이지 26일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5785</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5785</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 더블 타이틀 곡 ‘Beautiful’(뷰티풀) 퍼포먼스 스테이지가 26일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93a9e11827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다) (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5780</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5780</guid>
-            <pubDate>Fri, 24 Dec 2021 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는’ 보아(BoA)와 에스파(aespa, 에스엠엔터테인먼트 소속)의 만남이 완성한 ‘Dreams Come True’ 리메이크 작업기가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘해피 뉴 이어’ 임윤아, ‘목소리’에 반하다! 임팩트 甲 캐릭터 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5803</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5803</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title"> ‘해피 뉴 이어’ 임윤아, ‘목소리’에 반하다! 임팩트 甲 캐릭터</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd481abed66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한 사람만’ 윤보라, 캐릭터 소화력+깨알 같은 웃음으로 돋보이는 ‘존재감’ (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5790</link>
             <guid>https://www.smtown.com/artist/newsDetail/5790</guid>
             <pubDate>Tue, 28 Dec 2021 05:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 솔직한 ‘마라맛 매력’으로 시청자 홀릭!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘마라맛 매력’으로 시청자들의 심장을 저격하고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9cdaec9e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5779</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5779</guid>
+            <pubDate>Fri, 24 Dec 2021 01:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 캐릭터 흡수력으로 뜨거운 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 美친 존재감! 연기 포텐 터졌다 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5768</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5768</guid>
+            <pubDate>Wed, 22 Dec 2021 03:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)의 연기 포텐이 터졌다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29b3a6fe7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아, 얼루어 1월호 커버 장식! 무결점 비주얼 ‘화제’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5755</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5755</guid>
+            <pubDate>Mon, 20 Dec 2021 05:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)의 무결점 비주얼이 돋보이는 화보가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0103d38707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5750</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5750</guid>
+            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 드라마에서도 존재감을 발산하고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1536176b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 이학주, 2021년 한 해 빛낸 대세 배우 (SMTOWN ─ Actors News)]]></title>
@@ -531,46 +571,6 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 비주얼+연기 리즈 찍었다! 캐릭터 완벽 흡수 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5779</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5779</guid>
-            <pubDate>Fri, 24 Dec 2021 01:45:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 캐릭터 흡수력으로 뜨거운 주목받고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 美친 존재감! 연기 포텐 터졌다 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5768</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5768</guid>
-            <pubDate>Wed, 22 Dec 2021 03:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)의 연기 포텐이 터졌다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c29b3a6fe7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임윤아, 얼루어 1월호 커버 장식! 무결점 비주얼 ‘화제’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5755</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5755</guid>
-            <pubDate>Mon, 20 Dec 2021 05:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)의 무결점 비주얼이 돋보이는 화보가 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0103d38707.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 솔직한 매력으로 존재감 각인! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5750</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5750</guid>
-            <pubDate>Fri, 17 Dec 2021 04:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 드라마에서도 존재감을 발산하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc1536176b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC 드라마 ‘아이돌’ 종영! 조준영 “‘레이’를 연기 할 수 있어서 감사했다” 소감 전해 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5735</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5735</guid>
-            <pubDate>Wed, 15 Dec 2021 06:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘IDOL (아이돌 : The Coup)’ 조준영(에스엠엔터테인먼트 소속)이 따뜻한 모습으로 마지막까지 훈훈함을 선사했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98b11a7abb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT 127's 3rd album 'Sticker' enters US... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380598</link>
             <guid>https://now.smtown.com/news/detail/2380598</guid>
@@ -585,34 +585,39 @@
             <content:encoded><![CDATA[‘SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA’ prepar...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[GOT the beat announces synergy with the... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380596</link>
             <guid>https://now.smtown.com/news/detail/2380596</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[The SM project unit GOT the beat (SM) shows the...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘A YEAR-END MEDLEY, 2021’ LIM YOONA, Fa... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380595</link>
             <guid>https://now.smtown.com/news/detail/2380595</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) is rece...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KYUHYUN, solo potential proved by the f... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380594</link>
             <guid>https://now.smtown.com/news/detail/2380594</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN had a meaningful year as a...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Released KLPGA professional golfer Park... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380593</link>
             <guid>https://now.smtown.com/news/detail/2380593</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[The NFT of Park Hyun Kyung and Lim Hee Jeong, t...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Dancer AIKI '2021 MBC Entertainment Awa... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380592</link>
             <guid>https://now.smtown.com/news/detail/2380592</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[Creator and dancer AIKI won a special award at ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[#한사람만] 상상 이상의 REAL 찐텐 대공개! #윤보라 #장서원 #... (SMTOWN ─ NOW)]]></title>

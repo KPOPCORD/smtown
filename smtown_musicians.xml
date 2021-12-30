@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GOT the beat, 신곡 ‘Step Back’으로 ‘퍼포먼스 갓’ 시너지 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5804</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5804</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 신곡 ‘Step Back’(스텝 백)으로 ‘퍼포먼스 갓’의 면모를 보여준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd4878d64c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5799</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 영국 유명 음악 전문 매거진 NME의 집중 조명을 받았다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5797</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ 27일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5786</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5786</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[10년 만에 돌아온 SMTOWN 겨울 앨범 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 27일 발매된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b05539e9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[규현, 사계절 프로젝트 ‘PROJECT : 季’로 증명한 솔로 저력...1월 컴백까지 '기대 UP']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5802</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5802</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 솔로 보컬리스트로서 뜻깊은 한 해를 보내며 신보에 대한 기대감을 높였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd47d656a58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소녀시대 써니, NCT 정우, 런쥔, ‘2021 Winter SMTOWN’ 앨범으로 만난다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5781</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5781</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 써니와 NCT 정우, 런쥔(에스엠엔터테인먼트 소속)이 ‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)로 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c52505f21c6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5798</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 더블 타이틀 곡 ‘Beautiful’ 퍼포먼스 스테이지 26일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5785</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5785</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)의 정규 3집 더블 타이틀 곡 ‘Beautiful’(뷰티풀) 퍼포먼스 스테이지가 26일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93a9e11827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보아X에스파, ‘믿듣’ 조합이 완성한 ‘Dreams Come True’ (feat. 바다)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5780</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5780</guid>
-            <pubDate>Mon, 27 Dec 2021 05:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는’ 보아(BoA)와 에스파(aespa, 에스엠엔터테인먼트 소속)의 만남이 완성한 ‘Dreams Come True’ 리메이크 작업기가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5249d3b4f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

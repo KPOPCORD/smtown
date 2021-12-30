@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5799</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5799</guid>
-            <pubDate>Wed, 29 Dec 2021 04:55:26 GMT</pubDate>
+            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5806</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5806</guid>
+            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbe9fd9a52d.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd497e141e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5798</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
-            <pubDate>Wed, 29 Dec 2021 03:45:36 GMT</pubDate>
+            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5805</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
+            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
