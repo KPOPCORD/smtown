@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 04:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:43:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bac4f51a0fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Only on U+IDOLLIVE! #SMTOWN_LIVE 2022 B... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=BQ3jChSbfDM</link>
+            <guid>https://www.youtube.com/watch?v=BQ3jChSbfDM</guid>
+            <pubDate>Fri, 31 Dec 2021 05:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[💗Free Online Concert💗
+'SMTOWN LIVE 2022' SMCU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BQ3jChSbfDM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[💌 슈퍼주니어에게 연말 릴레이 메시지가 도착했습니다! | SUPER ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=AhVUgiWwqAE</link>
             <guid>https://www.youtube.com/watch?v=AhVUgiWwqAE</guid>
@@ -809,13 +818,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[GIANT PINK's new single 'PINK' is out now!
 List...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/0UkGjmNOd0g/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM NEW project unit GOT the beat! (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380566</link>
-            <guid>https://now.smtown.com/news/detail/2380566</guid>
-            <pubDate>Wed, 29 Dec 2021 03:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[A teaser image for each member of SM's new proj...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Let it pink🔥
