@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 09:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 10:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#TVXQ! has arrived @KWANGYA STATION! 🚂...]]></title>
+            <link>https://www.youtube.com/watch?v=e56SKVq6RZo</link>
+            <guid>https://www.youtube.com/watch?v=e56SKVq6RZo</guid>
+            <pubDate>Fri, 31 Dec 2021 10:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/e56SKVq6RZo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #RedV...]]></title>
             <link>https://www.youtube.com/watch?v=ufEcn6Px_JM</link>
@@ -15,6 +24,15 @@
             <content:encoded><![CDATA[SEASON’S GREETINGS from Red Velvet
 HAPPY NEW YE...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ufEcn6Px_JM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #NCTD...]]></title>
+            <link>https://www.youtube.com/watch?v=Uufg6FDND18</link>
+            <guid>https://www.youtube.com/watch?v=Uufg6FDND18</guid>
+            <pubDate>Fri, 31 Dec 2021 10:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[SEASON’S GREETINGS from NCT DREAM
+HAPPY NEW YEA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Uufg6FDND18/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #aespa]]></title>
@@ -87,9 +105,11 @@ HAPPY NEW YEAR 2...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5Hli7y8qtHU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The world's first online-only concert B...]]></title>
             <link>https://now.smtown.com/news/detail/2380638</link>
             <guid>https://now.smtown.com/news/detail/2380638</guid>
             <pubDate>Fri, 31 Dec 2021 07:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[Beyond LIVE Corporation, a company specializing...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT The 3d Album ‘Universe’ tops the ‘U...]]></title>
@@ -106,9 +126,11 @@ HAPPY NEW YEAR 2...]]></content:encoded>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) is l...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Actor Bae Da Bin, new KBS 2TV drama]]></title>
             <link>https://now.smtown.com/news/detail/2380635</link>
             <guid>https://now.smtown.com/news/detail/2380635</guid>
             <pubDate>Fri, 31 Dec 2021 07:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Bae Da Bin has been cast in KBS 2TV's new...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Only on U+IDOLLIVE! #SMTOWN_LIVE 2022 B...]]></title>
@@ -234,20 +256,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380595</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
             <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) is rece...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, solo potential proved by the f...]]></title>
-            <link>https://now.smtown.com/news/detail/2380594</link>
-            <guid>https://now.smtown.com/news/detail/2380594</guid>
-            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN had a meaningful year as a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Released KLPGA professional golfer Park...]]></title>
-            <link>https://now.smtown.com/news/detail/2380593</link>
-            <guid>https://now.smtown.com/news/detail/2380593</guid>
-            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[The NFT of Park Hyun Kyung and Lim Hee Jeong, t...]]></content:encoded>
         </item>
     </channel>
 </rss>
