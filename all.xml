@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 10:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 11:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 WayV SEASON’S GREETINGS #WayV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=TuRrTwZhxog</link>
+            <guid>https://www.youtube.com/watch?v=TuRrTwZhxog</guid>
+            <pubDate>Fri, 31 Dec 2021 11:41:13 GMT</pubDate>
+            <content:encoded><![CDATA[SEASON’S GREETINGS from WayV
+HAPPY NEW YEAR 202...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TuRrTwZhxog/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#TVXQ! has arrived @KWANGYA STATION! 🚂... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=e56SKVq6RZo</link>
             <guid>https://www.youtube.com/watch?v=e56SKVq6RZo</guid>
@@ -648,15 +657,6 @@ HAPPY NEW YEAR 2022...]]></content:encoded>
             <pubDate>Fri, 31 Dec 2021 09:46:30 GMT</pubDate>
             <content:encoded><![CDATA[Join BoA and aespa for #DreamsComeTrue YouTube ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AJgBA1gMv6A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WayV SEASON’S GREETINGS #WayV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=A_4SJkhkqCw</link>
-            <guid>https://www.youtube.com/watch?v=A_4SJkhkqCw</guid>
-            <pubDate>Fri, 31 Dec 2021 09:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from WayV
-HAPPY NEW YEAR 202...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/A_4SJkhkqCw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SHIN... (SMTOWN ─ NOW)]]></title>
