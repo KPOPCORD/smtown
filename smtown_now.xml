@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 13:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 13:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#SHINee’s Pink Blood Is Running!💗｜Pink...]]></title>
+            <link>https://www.youtube.com/watch?v=2hSE1l_exOU</link>
+            <guid>https://www.youtube.com/watch?v=2hSE1l_exOU</guid>
+            <pubDate>Fri, 31 Dec 2021 13:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2hSE1l_exOU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#NCT #유타 #도영 #마크 #런쥔’s Pink Blood Is Ru...]]></title>
+            <link>https://www.youtube.com/watch?v=3MgeFJROuh8</link>
+            <guid>https://www.youtube.com/watch?v=3MgeFJROuh8</guid>
+            <pubDate>Fri, 31 Dec 2021 13:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+➡ 2022...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3MgeFJROuh8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 WayV SEASON’S GREETINGS #WayV]]></title>
             <link>https://www.youtube.com/watch?v=TuRrTwZhxog</link>
@@ -242,20 +260,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380597</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
             <content:encoded><![CDATA[‘SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA’ prepar...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GOT the beat announces synergy with the...]]></title>
-            <link>https://now.smtown.com/news/detail/2380596</link>
-            <guid>https://now.smtown.com/news/detail/2380596</guid>
-            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[The SM project unit GOT the beat (SM) shows the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘A YEAR-END MEDLEY, 2021’ LIM YOONA, Fa...]]></title>
-            <link>https://now.smtown.com/news/detail/2380595</link>
-            <guid>https://now.smtown.com/news/detail/2380595</guid>
-            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) is rece...]]></content:encoded>
         </item>
     </channel>
 </rss>
