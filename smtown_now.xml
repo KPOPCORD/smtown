@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 13:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 14:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[N’-173] 왜 이렇게 예뻐요?🌸💕| ‘Universe (Let...]]></title>
+            <link>https://www.youtube.com/watch?v=49c4FAOv-ow</link>
+            <guid>https://www.youtube.com/watch?v=49c4FAOv-ow</guid>
+            <pubDate>Fri, 31 Dec 2021 14:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/49c4FAOv-ow/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#SHINee’s Pink Blood Is Running!💗｜Pink...]]></title>
             <link>https://www.youtube.com/watch?v=2hSE1l_exOU</link>
@@ -253,13 +262,6 @@ Listen a...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380598</guid>
             <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
             <content:encoded><![CDATA[With their third album, NCT 127 (SM) entered th...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GOT the beat & MAX CHANGMIN to perform ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380597</link>
-            <guid>https://now.smtown.com/news/detail/2380597</guid>
-            <pubDate>Thu, 30 Dec 2021 04:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA’ prepar...]]></content:encoded>
         </item>
     </channel>
 </rss>
