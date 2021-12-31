@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5805</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
+            <pubDate>Fri, 31 Dec 2021 07:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’(에스엠타운 라이브 2022 : SMCU 익스프레스@광야)가 특별한 스테이지를 준비했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, 사계절 프로젝트 ‘PROJECT : 季’로 증명한 솔로 저력...1월 컴백까지 '기대 UP']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5802</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5802</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 솔로 보컬리스트로서 뜻깊은 한 해를 보내며 신보에 대한 기대감을 높였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd47d656a58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5798</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
+            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5796</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5796</guid>
+            <pubDate>Wed, 29 Dec 2021 03:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Sticker’(스티커) 리믹스 버전이 30일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbce1f96e15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5792</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5792</guid>
+            <pubDate>Wed, 29 Dec 2021 02:57:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 일본 오리콘 위클리 차트도 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9e7e48c1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOT the beat, 신곡 ‘Step Back’으로 ‘퍼포먼스 갓’ 시너지 예고!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5804</link>
@@ -46,46 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 프로젝트 유닛 GOT the beat(갓 더 비트)가 신곡 ‘Step Back’(스텝 백)으로 강렬한 에너지를 선사한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 사계절 프로젝트 ‘PROJECT : 季’로 증명한 솔로 저력...1월 컴백까지 '기대 UP']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5802</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5802</guid>
-            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 솔로 보컬리스트로서 뜻깊은 한 해를 보내며 신보에 대한 기대감을 높였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd47d656a58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5798</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
-            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[iScreaM 13번째 싱글, NCT 127 ‘Sticker’ 리믹스 버전 30일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5796</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5796</guid>
-            <pubDate>Wed, 29 Dec 2021 03:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)의 정규 3집 타이틀 곡 ‘Sticker’(스티커) 리믹스 버전이 30일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbce1f96e15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 日 오리콘 위클리 차트 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5792</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5792</guid>
-            <pubDate>Wed, 29 Dec 2021 02:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 일본 오리콘 위클리 차트도 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9e7e48c1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Girls Assemble!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5787</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
-            <pubDate>Tue, 28 Dec 2021 05:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

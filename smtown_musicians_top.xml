@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 유나이티드 월드 차트도 1위! 글로벌 인기 질주!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5809</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5809</guid>
+            <pubDate>Fri, 31 Dec 2021 07:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 정규 3집 ‘Universe’, 유나이티드 월드 차트도 1위! 글로벌 인기 질주!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceadbddc713.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5806</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd497e141e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5805</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
-            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
