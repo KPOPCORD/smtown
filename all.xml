@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 13:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 13:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,26 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=WDaYFk4PDDg</link>
+            <guid>https://www.youtube.com/watch?v=WDaYFk4PDDg</guid>
+            <pubDate>Sat, 01 Jan 2022 13:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WDaYFk4PDDg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=2fmxTXvPmEk</link>
+            <guid>https://www.youtube.com/watch?v=2fmxTXvPmEk</guid>
+            <pubDate>Sat, 01 Jan 2022 13:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2fmxTXvPmEk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[N’-173] 왜 이렇게 예뻐요?🌸💕| ‘Universe (Let... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=49c4FAOv-ow</link>
             <guid>https://www.youtube.com/watch?v=49c4FAOv-ow</guid>
@@ -811,22 +831,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5UjFIqfAz-k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=u2WeTlJ_4Dk</link>
-            <guid>https://www.youtube.com/watch?v=u2WeTlJ_4Dk</guid>
-            <pubDate>Thu, 30 Dec 2021 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA["iScreaM" is a new project by SM EDM label 'Scr...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/u2WeTlJ_4Dk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#DreamsComeTrue #YouTubeShorts Challeng... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=McYeQG0rAEk</link>
-            <guid>https://www.youtube.com/watch?v=McYeQG0rAEk</guid>
-            <pubDate>Thu, 30 Dec 2021 10:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[Join HYO and aespa for #DreamsComeTrue YouTube ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/McYeQG0rAEk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let it pink🔥
