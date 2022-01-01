@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 11:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 13:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-27238570</link>
+            <guid>https://vlive.tv/post/1-27238570</guid>
+            <pubDate>Sat, 01 Jan 2022 13:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_234/1641034478375XBtz8_JPEG/upload_851142064195585182d177a27-6df4-4c78-bc6e-6d3758ecdf1e.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-27238253</link>
+            <guid>https://vlive.tv/post/1-27238253</guid>
+            <pubDate>Sat, 01 Jan 2022 13:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_262/1641032949457CnnFE_JPEG/upload_85112627224582429803afd5e-80be-4ce1-b8b9-3783ccd19a21.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOT the beat 'Step Back' Stage Video (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-27231164</link>
@@ -21,7 +37,6 @@
             <guid>https://vlive.tv/post/0-27183121</guid>
             <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_212/1640861744225IfpGm_JPEG/upload_8494111830026747618ddad99-9f3f-42e3-b43e-60d6f905201e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice (SMTOWN ─ Media Board)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://vlive.tv/post/1-27167671</guid>
             <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_155/1640828241337Qo2YS_JPEG/upload_849079627590573502ca7fcfa-d134-40d2-a355-ee80617919de.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV (SMTOWN ─ Media Board)]]></title>
@@ -133,20 +147,6 @@
             <title><![CDATA[KAI 카이 'Peaches' Performance Video (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26864652</link>
             <guid>https://vlive.tv/post/0-26864652</guid>
-            <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26849101</link>
-            <guid>https://vlive.tv/post/0-26849101</guid>
-            <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/1-26856904</link>
-            <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
@@ -1555,6 +1555,22 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24387006</link>
+            <guid>https://tv.naver.com/v/24387006</guid>
+            <pubDate>Sat, 01 Jan 2022 13:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_151/H6OvL_1641034414777b2fqz_JPEG/1641033882038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24386181</link>
+            <guid>https://tv.naver.com/v/24386181</guid>
+            <pubDate>Sat, 01 Jan 2022 13:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_226/1tMKi_1641032171704QdWyc_JPEG/1641032133623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[GOT the beat 'Step Back' Stage Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24385136</link>
             <guid>https://tv.naver.com/v/24385136</guid>
@@ -1777,22 +1793,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Fri, 03 Dec 2021 15:47:09 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_32/Cvzef_1638499143872yVUN4_JPEG/1638499140429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video Teaser | 'COUNTDOWN TO ZERO' Epilogue (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23865441</link>
-            <guid>https://tv.naver.com/v/23865441</guid>
-            <pubDate>Mon, 06 Dec 2021 13:05:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211205_25/jWTjx_1638691258171Ty3td_JPEG/1638691176982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 엔시티 드림 'Dreaming' Track Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23843105</link>
-            <guid>https://tv.naver.com/v/23843105</guid>
-            <pubDate>Wed, 01 Dec 2021 15:48:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_290/zi6s3_1638346854370GmuLN_JPEG/1638346835423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

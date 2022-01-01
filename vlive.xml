@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 11:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 13:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
+            <link>https://vlive.tv/post/1-27238570</link>
+            <guid>https://vlive.tv/post/1-27238570</guid>
+            <pubDate>Sat, 01 Jan 2022 13:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_234/1641034478375XBtz8_JPEG/upload_851142064195585182d177a27-6df4-4c78-bc6e-6d3758ecdf1e.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
+            <link>https://vlive.tv/post/1-27238253</link>
+            <guid>https://vlive.tv/post/1-27238253</guid>
+            <pubDate>Sat, 01 Jan 2022 13:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_262/1641032949457CnnFE_JPEG/upload_85112627224582429803afd5e-80be-4ce1-b8b9-3783ccd19a21.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOT the beat 'Step Back' Stage Video]]></title>
             <link>https://vlive.tv/post/0-27231164</link>
@@ -21,7 +37,6 @@
             <guid>https://vlive.tv/post/0-27183121</guid>
             <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_212/1640861744225IfpGm_JPEG/upload_8494111830026747618ddad99-9f3f-42e3-b43e-60d6f905201e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice]]></title>
@@ -29,7 +44,6 @@
             <guid>https://vlive.tv/post/1-27167671</guid>
             <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_155/1640828241337Qo2YS_JPEG/upload_849079627590573502ca7fcfa-d134-40d2-a355-ee80617919de.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV]]></title>
@@ -133,20 +147,6 @@
             <title><![CDATA[KAI 카이 'Peaches' Performance Video]]></title>
             <link>https://vlive.tv/post/0-26864652</link>
             <guid>https://vlive.tv/post/0-26864652</guid>
-            <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video]]></title>
-            <link>https://vlive.tv/post/0-26849101</link>
-            <guid>https://vlive.tv/post/0-26849101</guid>
-            <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV Teaser]]></title>
-            <link>https://vlive.tv/post/1-26856904</link>
-            <guid>https://vlive.tv/post/1-26856904</guid>
             <pubDate>Sat, 01 Jan 2022 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
