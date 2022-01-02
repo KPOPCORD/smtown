@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 08:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 09:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=yG8mAno5nd4</link>
+            <guid>https://www.youtube.com/watch?v=yG8mAno5nd4</guid>
+            <pubDate>Sun, 02 Jan 2022 09:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yG8mAno5nd4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN 'Dear My Family' Official Video (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=WDaYFk4PDDg</link>
             <guid>https://www.youtube.com/watch?v=WDaYFk4PDDg</guid>
@@ -822,15 +832,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AufnvYx0xwY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#KANGTA has arrived @KWANGYA STATION! �... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5UjFIqfAz-k</link>
-            <guid>https://www.youtube.com/watch?v=5UjFIqfAz-k</guid>
-            <pubDate>Thu, 30 Dec 2021 11:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5UjFIqfAz-k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[조준영]에 '해피 뉴 이어' 이건 못참지 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 08:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 09:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �...]]></title>
+            <link>https://www.youtube.com/watch?v=yG8mAno5nd4</link>
+            <guid>https://www.youtube.com/watch?v=yG8mAno5nd4</guid>
+            <pubDate>Sun, 02 Jan 2022 09:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yG8mAno5nd4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
             <link>https://www.youtube.com/watch?v=WDaYFk4PDDg</link>
@@ -259,15 +269,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AufnvYx0xwY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#KANGTA has arrived @KWANGYA STATION! �...]]></title>
-            <link>https://www.youtube.com/watch?v=5UjFIqfAz-k</link>
-            <guid>https://www.youtube.com/watch?v=5UjFIqfAz-k</guid>
-            <pubDate>Thu, 30 Dec 2021 11:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5UjFIqfAz-k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
