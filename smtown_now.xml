@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 13:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 13:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #12 | NCT U ‘Universe (Le...]]></title>
+            <link>https://www.youtube.com/watch?v=4GWjry7Awf8</link>
+            <guid>https://www.youtube.com/watch?v=4GWjry7Awf8</guid>
+            <pubDate>Sun, 02 Jan 2022 13:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4GWjry7Awf8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �...]]></title>
             <link>https://www.youtube.com/watch?v=yG8mAno5nd4</link>
@@ -260,15 +269,6 @@ Listen ...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/OsTcPbWyvo4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#aespa has arrived @KWANGYA STATION! 🚂...]]></title>
-            <link>https://www.youtube.com/watch?v=AufnvYx0xwY</link>
-            <guid>https://www.youtube.com/watch?v=AufnvYx0xwY</guid>
-            <pubDate>Thu, 30 Dec 2021 11:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AufnvYx0xwY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
