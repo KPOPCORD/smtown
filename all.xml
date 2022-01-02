@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 21:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 22:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61bc159cc8368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영 (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=KhCmr1DZe-0</link>
+            <guid>https://www.youtube.com/watch?v=KhCmr1DZe-0</guid>
+            <pubDate>Sun, 02 Jan 2022 22:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[[#LetMeBeYourKnight] Secret guest on Let Me Be ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/KhCmr1DZe-0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Un Cut] Take #12 | NCT U ‘Universe (Le... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=4GWjry7Awf8</link>
             <guid>https://www.youtube.com/watch?v=4GWjry7Awf8</guid>
@@ -823,15 +831,6 @@ Listen ...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/YoX66eG5QFM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #11 | WayV 威神V 'Miracle' ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=OsTcPbWyvo4</link>
-            <guid>https://www.youtube.com/watch?v=OsTcPbWyvo4</guid>
-            <pubDate>Thu, 30 Dec 2021 13:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/OsTcPbWyvo4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[조준영]에 '해피 뉴 이어' 이건 못참지 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
