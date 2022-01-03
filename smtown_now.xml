@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 06:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 07:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,9 +61,11 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yG8mAno5nd4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWAN...]]></title>
             <link>https://now.smtown.com/news/detail/2380688</link>
             <guid>https://now.smtown.com/news/detail/2380688</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWANGYA' was...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380687</link>
@@ -91,9 +93,11 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/2fmxTXvPmEk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['SMTOWN LIVE 2022' D-Day!]]></title>
             <link>https://now.smtown.com/news/detail/2380686</link>
             <guid>https://now.smtown.com/news/detail/2380686</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[From 1 pm on the afternoon, "SMTOWN LIVE 2022 :...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380685</link>
