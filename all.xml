@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 11:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 13:06:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["BEST CHOI's MINHO 2021" FAN PARTY Behi... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=heV2viqnSrA</link>
+            <guid>https://www.youtube.com/watch?v=heV2viqnSrA</guid>
+            <pubDate>Mon, 03 Jan 2022 13:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/heV2viqnSrA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[📞FaceTime with SUPER JUNIOR | 2022 New... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=GafwJ_n8xkM</link>
             <guid>https://www.youtube.com/watch?v=GafwJ_n8xkM</guid>
@@ -601,10 +610,11 @@ http://www.youtube.com/SU...]]></content:encoded>
             <content:encoded><![CDATA[SM project unit GOT the beat(SM)'s new song 'St...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SBS '너의 밤이 되어줄게' Kang Ji Young, a good ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380689</link>
             <guid>https://now.smtown.com/news/detail/2380689</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kang Ji Young lit up the play by giving a...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영 (SMTOWN ─ NOW)]]></title>
@@ -641,10 +651,11 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWANGYA' was...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘살림남2’ EUNHYUK, the main dancer of SUPE... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380687</link>
             <guid>https://now.smtown.com/news/detail/2380687</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[The group SUPER JUNIOR EUNHYUK presented a sple...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN 'Dear My Family' Official Video (SMTOWN ─ NOW)]]></title>
@@ -674,10 +685,11 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[From 1 pm on the afternoon, "SMTOWN LIVE 2022 :...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘2021 MBC 가요대제전’ LIM YOONA, MC for 7 co... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380685</link>
             <guid>https://now.smtown.com/news/detail/2380685</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) has bee...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[N’-173] 왜 이렇게 예뻐요?🌸💕| ‘Universe (Let... (SMTOWN ─ NOW)]]></title>
@@ -811,13 +823,6 @@ HAPPY NEW YEAR 2022...]]></content:encoded>
             <content:encoded><![CDATA[SEASON’S GREETINGS from SHINee
 HAPPY NEW YEAR 2...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5Hli7y8qtHU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The world's first online-only concert B... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380638</link>
-            <guid>https://now.smtown.com/news/detail/2380638</guid>
-            <pubDate>Fri, 31 Dec 2021 07:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[Beyond LIVE Corporation, a company specializing...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[존재 자체부터 '갓' ⭐ 
