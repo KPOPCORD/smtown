@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 유나이티드 월드 차트도 1위! 글로벌 인기 질주!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5809</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5809</guid>
-            <pubDate>Fri, 31 Dec 2021 07:41:17 GMT</pubDate>
+            <title><![CDATA[SM, DJ 스트리밍 쇼 ‘SHOWME’ 1월 7일 첫 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5816</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5816</guid>
+            <pubDate>Mon, 03 Jan 2022 05:42:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’, 유나이티드 월드 차트도 1위! 글로벌 인기 질주!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceadbddc713.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM, DJ 스트리밍 쇼 ‘SHOWME’ 1월 7일 첫 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d288a491cf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5806</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5806</guid>
-            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
+            <title><![CDATA[SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5815</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5815</guid>
+            <pubDate>Mon, 03 Jan 2022 05:42:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd497e141e0.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d28733dfc53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

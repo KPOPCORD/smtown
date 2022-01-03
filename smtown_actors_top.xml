@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 시청자 무장 해제시키는 ‘역대급 캐릭터’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5808</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5808</guid>
-            <pubDate>Fri, 31 Dec 2021 07:41:37 GMT</pubDate>
+            <title><![CDATA[SBS '너의 밤이 되어줄게' 강지영, 특별출연의 좋은 예]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5814</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5814</guid>
+            <pubDate>Mon, 03 Jan 2022 05:42:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 시청자 무장 해제시키는 ‘역대급 캐릭터’</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SBS '너의 밤이 되어줄게' 강지영, 특별출연의 좋은 예</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d286be345fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 배다빈, KBS 2TV 새 주말드라마]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5807</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5807</guid>
-            <pubDate>Fri, 31 Dec 2021 07:41:37 GMT</pubDate>
+            <title><![CDATA[‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5810</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5810</guid>
+            <pubDate>Mon, 03 Jan 2022 05:42:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">배우 배다빈, KBS 2TV 새 주말드라마</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d282c3e0429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
