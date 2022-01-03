@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 13:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 14:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Un Cut] Take #13 | NCT 2021 ‘Beautiful... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=8OfnOg3fi30</link>
+            <guid>https://www.youtube.com/watch?v=8OfnOg3fi30</guid>
+            <pubDate>Mon, 03 Jan 2022 14:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8OfnOg3fi30/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["BEST CHOI's MINHO 2021" FAN PARTY Behi... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=heV2viqnSrA</link>
             <guid>https://www.youtube.com/watch?v=heV2viqnSrA</guid>
@@ -814,15 +823,6 @@ HAPPY NEW YEAR 2022...]]></content:encoded>
             <pubDate>Fri, 31 Dec 2021 09:46:30 GMT</pubDate>
             <content:encoded><![CDATA[Join BoA and aespa for #DreamsComeTrue YouTube ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AJgBA1gMv6A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #SHIN... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5Hli7y8qtHU</link>
-            <guid>https://www.youtube.com/watch?v=5Hli7y8qtHU</guid>
-            <pubDate>Fri, 31 Dec 2021 09:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from SHINee
-HAPPY NEW YEAR 2...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5Hli7y8qtHU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재 자체부터 '갓' ⭐ 
