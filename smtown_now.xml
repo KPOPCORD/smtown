@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 08:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 09:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📞FaceTime with SUPER JUNIOR | 2022 New...]]></title>
+            <link>https://www.youtube.com/watch?v=GafwJ_n8xkM</link>
+            <guid>https://www.youtube.com/watch?v=GafwJ_n8xkM</guid>
+            <pubDate>Mon, 03 Jan 2022 09:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR Official
+http://www.youtube.com/SU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GafwJ_n8xkM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM Entertainment releases ‘MUSIC NATION...]]></title>
             <link>https://now.smtown.com/news/detail/2380692</link>
@@ -243,13 +252,6 @@ HAPPY NEW YEAR 2...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380638</guid>
             <pubDate>Fri, 31 Dec 2021 07:42:03 GMT</pubDate>
             <content:encoded><![CDATA[Beyond LIVE Corporation, a company specializing...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT The 3d Album ‘Universe’ tops the ‘U...]]></title>
-            <link>https://now.smtown.com/news/detail/2380637</link>
-            <guid>https://now.smtown.com/news/detail/2380637</guid>
-            <pubDate>Fri, 31 Dec 2021 07:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[NCT (SM) continues to gain popularity with 3rd ...]]></content:encoded>
         </item>
     </channel>
 </rss>
