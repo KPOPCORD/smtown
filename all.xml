@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 06:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c1567267739.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM Entertainment releases ‘MUSIC NATION... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380692</link>
             <guid>https://now.smtown.com/news/detail/2380692</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment is launching a new concept mem...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM, DJ show streaming channel ‘SHOWME' ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380691</link>
             <guid>https://now.smtown.com/news/detail/2380691</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[ScreaM Records, an EDM label under SM Entertain...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM project unit GOT the beat, new song ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380690</link>
             <guid>https://now.smtown.com/news/detail/2380690</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[SM project unit GOT the beat(SM)'s new song 'St...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
