@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2022-01-03T03:48:41.445Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jan 2022 04:57:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
+            <link>https://vlive.tv/post/1-27238570</link>
+            <guid>https://vlive.tv/post/1-27238570</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_234/1641034478375XBtz8_JPEG/upload_851142064195585182d177a27-6df4-4c78-bc6e-6d3758ecdf1e.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
+            <link>https://vlive.tv/post/1-27238253</link>
+            <guid>https://vlive.tv/post/1-27238253</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_262/1641032949457CnnFE_JPEG/upload_85112627224582429803afd5e-80be-4ce1-b8b9-3783ccd19a21.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat 'Step Back' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27231164</link>
+            <guid>https://vlive.tv/post/0-27231164</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_232/1641028984358FIM2a_JPEG/upload_85108701651874809168afe98-836c-4550-bd3c-885f77825fd4.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! 동방신기 'DINNER' Live Clip @DINNER with Cassiopeia]]></title>
+            <link>https://vlive.tv/post/0-27183121</link>
+            <guid>https://vlive.tv/post/0-27183121</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice]]></title>
+            <link>https://vlive.tv/post/1-27167671</link>
+            <guid>https://vlive.tv/post/1-27167671</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV]]></title>
+            <link>https://vlive.tv/post/1-27143827</link>
+            <guid>https://vlive.tv/post/1-27143827</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27137250</link>
+            <guid>https://vlive.tv/post/1-27137250</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV]]></title>
+            <link>https://vlive.tv/post/1-27134016</link>
+            <guid>https://vlive.tv/post/1-27134016</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27119039</link>
+            <guid>https://vlive.tv/post/1-27119039</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performance Stage]]></title>
+            <link>https://vlive.tv/post/1-27081270</link>
+            <guid>https://vlive.tv/post/1-27081270</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Sweet Dream' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://vlive.tv/post/0-27064784</link>
+            <guid>https://vlive.tv/post/0-27064784</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
+            <link>https://vlive.tv/post/1-27029131</link>
+            <guid>https://vlive.tv/post/1-27029131</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-27011549</link>
+            <guid>https://vlive.tv/post/0-27011549</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV]]></title>
+            <link>https://vlive.tv/post/0-27010854</link>
+            <guid>https://vlive.tv/post/0-27010854</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-26999723</link>
+            <guid>https://vlive.tv/post/0-26999723</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)' Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-26944608</link>
+            <guid>https://vlive.tv/post/0-26944608</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV]]></title>
+            <link>https://vlive.tv/post/0-26933668</link>
+            <guid>https://vlive.tv/post/0-26933668</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-26911336</link>
+            <guid>https://vlive.tv/post/0-26911336</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
+            <link>https://vlive.tv/post/0-26877559</link>
+            <guid>https://vlive.tv/post/0-26877559</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches' Performance Video]]></title>
+            <link>https://vlive.tv/post/0-26864652</link>
+            <guid>https://vlive.tv/post/0-26864652</guid>
+            <pubDate>Mon, 03 Jan 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+    </channel>
+</rss>
