@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 04:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SM, DJ 스트리밍 쇼 ‘SHOWME’ 1월 7일 첫 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5816</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5816</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:29 GMT</pubDate>
+            <title><![CDATA[SMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5821</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5821</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM, DJ 스트리밍 쇼 ‘SHOWME’ 1월 7일 첫 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d288a491cf4.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d812a1382.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5815</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5815</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:29 GMT</pubDate>
+            <title><![CDATA[‘최강 보컬’의 귀환! 최강창민, 새 솔로 앨범 ‘Devil’ 1월 13일 발매!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5820</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5820</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d28733dfc53.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘최강 보컬’의 귀환! 최강창민, 새 솔로 앨범 ‘Devil’ 1월 13일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d60565353.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
