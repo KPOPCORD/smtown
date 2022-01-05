@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 23:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 01:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380717</link>
+            <guid>https://now.smtown.com/news/detail/2380717</guid>
+            <pubDate>Wed, 05 Jan 2022 01:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SMTOWN winter album ‘2021 Winter SMTOWN...]]></title>
             <link>https://now.smtown.com/news/detail/2380707</link>
@@ -243,15 +248,6 @@ HAPPY NEW YE...]]></content:encoded>
             <content:encoded><![CDATA[SEASON’S GREETINGS from NCT DREAM
 HAPPY NEW YEA...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Uufg6FDND18/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #aespa]]></title>
-            <link>https://www.youtube.com/watch?v=s74VG5sFJO8</link>
-            <guid>https://www.youtube.com/watch?v=s74VG5sFJO8</guid>
-            <pubDate>Fri, 31 Dec 2021 09:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from aespa
-HAPPY NEW YEAR 20...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/s74VG5sFJO8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
