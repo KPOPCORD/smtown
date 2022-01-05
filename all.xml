@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 13:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 14:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SPECIAL LIVE] Analog Trip NCT 127: Esc... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=WQC0XAaau74</link>
+            <guid>https://www.youtube.com/watch?v=WQC0XAaau74</guid>
+            <pubDate>Wed, 05 Jan 2022 14:41:57 GMT</pubDate>
+            <content:encoded><![CDATA["아날로그 트립 NCT 127" 스페셜 라이브
+
+특별했던 소무의도 여행을 추억하기 위...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WQC0XAaau74/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MAX CHANGMIN heralded a dark transforma... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380720</link>
             <guid>https://now.smtown.com/news/detail/2380720</guid>
@@ -798,15 +808,6 @@ Listen a...]]></content:encoded>
             <content:encoded><![CDATA[SEASON’S GREETINGS from WayV
 HAPPY NEW YEAR 202...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/TuRrTwZhxog/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#TVXQ! has arrived @KWANGYA STATION! 🚂... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=e56SKVq6RZo</link>
-            <guid>https://www.youtube.com/watch?v=e56SKVq6RZo</guid>
-            <pubDate>Wed, 05 Jan 2022 08:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/e56SKVq6RZo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최강창민] 🚨心스틸러🚨 컴백 심장 워밍업 타임 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
