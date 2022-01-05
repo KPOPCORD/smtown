@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[MAX CHANGMIN heralded a dark transforma... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380720</link>
             <guid>https://now.smtown.com/news/detail/2380720</guid>
             <pubDate>Wed, 05 Jan 2022 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) heralded a dark transfo...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DJ and Producer Hitchhiker to be releas... (SMTOWN ─ NOW)]]></title>
@@ -584,16 +585,18 @@
             <content:encoded><![CDATA[DJ and producer Hitchhiker to be released a new...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Best character ever’ PARK SOOYOUNG of ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380718</link>
             <guid>https://now.smtown.com/news/detail/2380718</guid>
             <pubDate>Wed, 05 Jan 2022 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['벌거벗은 세계사' KYUHYUN, "There is a need fo... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380717</link>
             <guid>https://now.smtown.com/news/detail/2380717</guid>
             <pubDate>Wed, 05 Jan 2022 04:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN, a member of the '벌거벗은 세계사' group SUPER...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN winter album ‘2021 Winter SMTOWN... (SMTOWN ─ NOW)]]></title>
