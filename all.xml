@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,238 +571,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380720</link>
-            <guid>https://now.smtown.com/news/detail/2380720</guid>
-            <pubDate>Wed, 05 Jan 2022 03:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380719</link>
-            <guid>https://now.smtown.com/news/detail/2380719</guid>
-            <pubDate>Wed, 05 Jan 2022 03:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380718</link>
-            <guid>https://now.smtown.com/news/detail/2380718</guid>
-            <pubDate>Wed, 05 Jan 2022 03:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380717</link>
-            <guid>https://now.smtown.com/news/detail/2380717</guid>
-            <pubDate>Wed, 05 Jan 2022 01:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN winter album ‘2021 Winter SMTOWN... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380707</link>
-            <guid>https://now.smtown.com/news/detail/2380707</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ sold over 4...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN’s new solo album ‘Devil’ t... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380706</link>
-            <guid>https://now.smtown.com/news/detail/2380706</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ!'s MAX CHANGMIN (SM) will make a comeback ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Promising rookie actor CHO JUNYOUNG mad... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380705</link>
-            <guid>https://now.smtown.com/news/detail/2380705</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[CHO JUNYOUNG(SM) made a clear impression with t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Museezn' SUPER JUNIOR RYEOWOOK, a char... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380704</link>
-            <guid>https://now.smtown.com/news/detail/2380704</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR RYEOWOOK raised expectations for t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우리 식구 됐어요' YESUNG, a lover who listens... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380703</link>
-            <guid>https://now.smtown.com/news/detail/2380703</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG showed a lovin...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #13 | NCT 2021 ‘Beautiful... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=8OfnOg3fi30</link>
-            <guid>https://www.youtube.com/watch?v=8OfnOg3fi30</guid>
-            <pubDate>Mon, 03 Jan 2022 14:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8OfnOg3fi30/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["BEST CHOI's MINHO 2021" FAN PARTY Behi... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=heV2viqnSrA</link>
-            <guid>https://www.youtube.com/watch?v=heV2viqnSrA</guid>
-            <pubDate>Mon, 03 Jan 2022 13:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
-Listen ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/heV2viqnSrA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📞FaceTime with SUPER JUNIOR | 2022 New... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=GafwJ_n8xkM</link>
-            <guid>https://www.youtube.com/watch?v=GafwJ_n8xkM</guid>
-            <pubDate>Mon, 03 Jan 2022 09:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR Official
-http://www.youtube.com/SU...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/GafwJ_n8xkM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Entertainment releases ‘MUSIC NATION... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380692</link>
-            <guid>https://now.smtown.com/news/detail/2380692</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment is launching a new concept mem...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM, DJ show streaming channel ‘SHOWME' ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380691</link>
-            <guid>https://now.smtown.com/news/detail/2380691</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[ScreaM Records, an EDM label under SM Entertain...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM project unit GOT the beat, new song ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380690</link>
-            <guid>https://now.smtown.com/news/detail/2380690</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[SM project unit GOT the beat(SM)'s new song 'St...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SBS '너의 밤이 되어줄게' Kang Ji Young, a good ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380689</link>
-            <guid>https://now.smtown.com/news/detail/2380689</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Ji Young lit up the play by giving a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=KhCmr1DZe-0</link>
-            <guid>https://www.youtube.com/watch?v=KhCmr1DZe-0</guid>
-            <pubDate>Sun, 02 Jan 2022 22:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[[#LetMeBeYourKnight] Secret guest on Let Me Be ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KhCmr1DZe-0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Un Cut] Take #12 | NCT U ‘Universe (Le... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=4GWjry7Awf8</link>
-            <guid>https://www.youtube.com/watch?v=4GWjry7Awf8</guid>
-            <pubDate>Sun, 02 Jan 2022 13:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/4GWjry7Awf8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=yG8mAno5nd4</link>
-            <guid>https://www.youtube.com/watch?v=yG8mAno5nd4</guid>
-            <pubDate>Sun, 02 Jan 2022 09:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yG8mAno5nd4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWAN... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380688</link>
-            <guid>https://now.smtown.com/news/detail/2380688</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWANGYA' was...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘살림남2’ EUNHYUK, the main dancer of SUPE... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380687</link>
-            <guid>https://now.smtown.com/news/detail/2380687</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[The group SUPER JUNIOR EUNHYUK presented a sple...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN 'Dear My Family' Official Video (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=WDaYFk4PDDg</link>
-            <guid>https://www.youtube.com/watch?v=WDaYFk4PDDg</guid>
-            <pubDate>Sat, 01 Jan 2022 13:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WDaYFk4PDDg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=2fmxTXvPmEk</link>
-            <guid>https://www.youtube.com/watch?v=2fmxTXvPmEk</guid>
-            <pubDate>Sat, 01 Jan 2022 13:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2fmxTXvPmEk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SMTOWN LIVE 2022' D-Day! (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380686</link>
-            <guid>https://now.smtown.com/news/detail/2380686</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[From 1 pm on the afternoon, "SMTOWN LIVE 2022 :...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 MBC 가요대제전’ LIM YOONA, MC for 7 co... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380685</link>
-            <guid>https://now.smtown.com/news/detail/2380685</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:26 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) has bee...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[N’-173] 왜 이렇게 예뻐요?🌸💕| ‘Universe (Let... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=49c4FAOv-ow</link>
-            <guid>https://www.youtube.com/watch?v=49c4FAOv-ow</guid>
-            <pubDate>Fri, 31 Dec 2021 14:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/49c4FAOv-ow/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#SHINee’s Pink Blood Is Running!💗｜Pink... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=2hSE1l_exOU</link>
-            <guid>https://www.youtube.com/watch?v=2hSE1l_exOU</guid>
-            <pubDate>Fri, 31 Dec 2021 13:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2hSE1l_exOU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT #유타 #도영 #마크 #런쥔’s Pink Blood Is Ru... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=3MgeFJROuh8</link>
-            <guid>https://www.youtube.com/watch?v=3MgeFJROuh8</guid>
-            <pubDate>Fri, 31 Dec 2021 13:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3MgeFJROuh8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WayV SEASON’S GREETINGS #WayV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=TuRrTwZhxog</link>
-            <guid>https://www.youtube.com/watch?v=TuRrTwZhxog</guid>
-            <pubDate>Fri, 31 Dec 2021 11:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from WayV
-HAPPY NEW YEAR 202...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TuRrTwZhxog/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#TVXQ! has arrived @KWANGYA STATION! 🚂... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=e56SKVq6RZo</link>
-            <guid>https://www.youtube.com/watch?v=e56SKVq6RZo</guid>
-            <pubDate>Fri, 31 Dec 2021 10:46:38 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/e56SKVq6RZo/sddefault.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[최강창민] 🚨心스틸러🚨 컴백 심장 워밍업 타임 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33066955&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33066955&amp;memberNo=41350603</guid>
+            <pubDate>Wed, 05 Jan 2022 03:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 여는 강렬한 등장 최 강 보 컬동방신기 최강창민이1월 13일 새 솔로 앨범'Devil'로 돌아옵니다가수, MC, 예능 등카아의 心(심)스틸러로서다채로운 매력을 보여주며만능 활약을 펼쳐온 최강창민!새 솔로 앨범 '···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjA1/MDAxNjQxMzE0MDk0MDYx.DSpQfvLg8ee5kgSnhj_y1fzvIbWsbteOX4HBI7Qk8SQg.vfuL1zVpLWwW3r3mY7UeAF4fTnrdfeOxxpEqH-v5rk8g.JPEG/IrCFy4xB40MIGk8rF_WUb1wazBos.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY범 내려온다~🐯 
@@ -972,15 +746,6 @@ D&E 첫 정규앨범 'COUNTDOWN' 발매✨ (네이버 포스트 ─ SMTOWN 신�
             <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
             <content:encoded><![CDATA[11월 2일 바로 오늘! 슈퍼주니어-D&amp;E가 국내 첫 정규앨범 'COUNTDOWN'을 발매했습니다.오는 12월, 어느덧 데뷔 10주년을 맞이하는 슈퍼주니어-D&amp;E! 'COUNTDOWN'은 지난 10년의 시간을 토대로, 10부터 0까지 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMTQ0/MDAxNjM1NDc4MDQ1MzU5.FXyKFrANVzpPIcZSiQxC3BltogMRZxjvCs0SVaLQvq8g.l6StrB2Y-8EfVmCeXFcXBh-_cJpFQLxTcQYFU7B6rkgg.JPEG/IYrZ5TG42-T2dY8DVR1l1xhEB1o8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] 기억ㄴr? D&E와의 10년,, 
-이제 같이 'COUNTDOWN' 해볼까? (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32621525&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32621525&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[오는 11월 2일, 슈퍼주니어-D&amp;E가 드디어 국내 첫 정규앨범 'COUNTDOWN'을 발매합니다! 2011년 12월, 싱글 '떴다 오빠 (Oppa, Oppa)'로 본격 유닛을 결성한 동해 &amp; 은혁!이후 다수의 싱글과 미니 앨범을 통···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjVfMTk0/MDAxNjM1MTQyNzk3ODA0.t9P09Wny_xcfJ05xSIl5SDKmMfIuKJg9YIo06YO7ekYg.o4NQ4kS2GHsZC2cYKIO6VCB0DP3N32EIrO0Q4Tjr4CYg.JPEG/IyuBePxTKrOZwKR4vqGxdjTDwrWY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최강창민] 🚨心스틸러🚨 컴백 심장 워밍업 타임 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
