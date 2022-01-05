@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 01:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:01:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5821</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5821</guid>
-            <pubDate>Tue, 04 Jan 2022 05:41:53 GMT</pubDate>
+            <title><![CDATA[최강창민, 신곡 ‘Devil’ 다크한 변신 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5825</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5825</guid>
+            <pubDate>Wed, 05 Jan 2022 02:59:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d812a1382.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">최강창민, 신곡 ‘Devil’ 다크한 변신 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4fa9b38788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘최강 보컬’의 귀환! 최강창민, 새 솔로 앨범 ‘Devil’ 1월 13일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5820</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5820</guid>
-            <pubDate>Tue, 04 Jan 2022 05:41:53 GMT</pubDate>
+            <title><![CDATA[DJ 겸 프로듀서 히치하이커, 새 싱글 ‘Alone’ 1월 7일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5824</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5824</guid>
+            <pubDate>Wed, 05 Jan 2022 02:59:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘최강 보컬’의 귀환! 최강창민, 새 솔로 앨범 ‘Devil’ 1월 13일 발매!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d60565353.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">DJ 겸 프로듀서 히치하이커, 새 싱글 ‘Alone’ 1월 7일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4fa2461a50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

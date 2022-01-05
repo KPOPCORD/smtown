@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 01:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:01:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380720</link>
+            <guid>https://now.smtown.com/news/detail/2380720</guid>
+            <pubDate>Wed, 05 Jan 2022 03:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380719</link>
+            <guid>https://now.smtown.com/news/detail/2380719</guid>
+            <pubDate>Wed, 05 Jan 2022 03:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380718</link>
+            <guid>https://now.smtown.com/news/detail/2380718</guid>
+            <pubDate>Wed, 05 Jan 2022 03:00:08 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380717</link>
             <guid>https://now.smtown.com/news/detail/2380717</guid>
@@ -221,33 +236,6 @@ HAPPY NEW YEAR 202...]]></content:encoded>
             <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
 ➡ 2022...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/e56SKVq6RZo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT has arrived @ KWANGYA STATION! 🚂�...]]></title>
-            <link>https://www.youtube.com/watch?v=Ia0sbpOoeeM</link>
-            <guid>https://www.youtube.com/watch?v=Ia0sbpOoeeM</guid>
-            <pubDate>Sat, 01 Jan 2022 01:50:06 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Ia0sbpOoeeM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #RedV...]]></title>
-            <link>https://www.youtube.com/watch?v=ufEcn6Px_JM</link>
-            <guid>https://www.youtube.com/watch?v=ufEcn6Px_JM</guid>
-            <pubDate>Fri, 31 Dec 2021 09:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from Red Velvet
-HAPPY NEW YE...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ufEcn6Px_JM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SM ARTIST SEASON’S GREETINGS #NCTD...]]></title>
-            <link>https://www.youtube.com/watch?v=Uufg6FDND18</link>
-            <guid>https://www.youtube.com/watch?v=Uufg6FDND18</guid>
-            <pubDate>Fri, 31 Dec 2021 10:46:38 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from NCT DREAM
-HAPPY NEW YEA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Uufg6FDND18/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
