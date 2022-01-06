@@ -4,9 +4,27 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 09:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 10:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=Tg7gFANrj8Q</link>
+            <guid>https://www.youtube.com/watch?v=Tg7gFANrj8Q</guid>
+            <pubDate>Thu, 06 Jan 2022 10:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[Hitchhiker and 3RD's new single 'Alone' will be...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Tg7gFANrj8Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa in New York✨ㅣNew York VLOG Pt.1]]></title>
+            <link>https://www.youtube.com/watch?v=-jT2LIuH96Q</link>
+            <guid>https://www.youtube.com/watch?v=-jT2LIuH96Q</guid>
+            <pubDate>Thu, 06 Jan 2022 10:47:47 GMT</pubDate>
+            <content:encoded><![CDATA[aespa official
+https://www.youtube.com/c/aespa
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-jT2LIuH96Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT's 3rd album 'Universe' tops the Dec...]]></title>
             <link>https://now.smtown.com/news/detail/2380736</link>
@@ -223,22 +241,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380686</guid>
             <pubDate>Thu, 06 Jan 2022 08:49:59 GMT</pubDate>
             <content:encoded><![CDATA[From 1 pm on the afternoon, "SMTOWN LIVE 2022 :...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 MBC 가요대제전’ LIM YOONA, MC for 7 co...]]></title>
-            <link>https://now.smtown.com/news/detail/2380685</link>
-            <guid>https://now.smtown.com/news/detail/2380685</guid>
-            <pubDate>Thu, 06 Jan 2022 08:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[LIM YOONA (Girls' Generation YOONA, SM) has bee...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[N’-173] 왜 이렇게 예뻐요?🌸💕| ‘Universe (Let...]]></title>
-            <link>https://www.youtube.com/watch?v=49c4FAOv-ow</link>
-            <guid>https://www.youtube.com/watch?v=49c4FAOv-ow</guid>
-            <pubDate>Thu, 06 Jan 2022 08:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
-Listen a...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/49c4FAOv-ow/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
