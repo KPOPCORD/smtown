@@ -1,8 +1,248 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2022-01-06T13:07:57.742Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Jan 2022 13:47:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Un Cut] Take #14 | NCT U ‘Universe (Le...]]></title>
+            <link>https://www.youtube.com/watch?v=emwjXJHxrdg</link>
+            <guid>https://www.youtube.com/watch?v=emwjXJHxrdg</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/emwjXJHxrdg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=Tg7gFANrj8Q</link>
+            <guid>https://www.youtube.com/watch?v=Tg7gFANrj8Q</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[Hitchhiker and 3RD's new single 'Alone' will be...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Tg7gFANrj8Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aespa in New York✨ㅣNew York VLOG Pt.1]]></title>
+            <link>https://www.youtube.com/watch?v=-jT2LIuH96Q</link>
+            <guid>https://www.youtube.com/watch?v=-jT2LIuH96Q</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[aespa official
+https://www.youtube.com/c/aespa
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-jT2LIuH96Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT's 3rd album 'Universe' tops the Dec...]]></title>
+            <link>https://now.smtown.com/news/detail/2380736</link>
+            <guid>https://now.smtown.com/news/detail/2380736</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT (SM) topped the December Monthly Albums Cha...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 The 3rd Album ‘Sticker’ enters ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380735</link>
+            <guid>https://now.smtown.com/news/detail/2380735</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127's 3rd album and NCT's 3rd album were li...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN participated in writing th...]]></title>
+            <link>https://now.smtown.com/news/detail/2380734</link>
+            <guid>https://now.smtown.com/news/detail/2380734</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) writing the lyrics for ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SPECIAL LIVE] Analog Trip NCT 127: Esc...]]></title>
+            <link>https://www.youtube.com/watch?v=WQC0XAaau74</link>
+            <guid>https://www.youtube.com/watch?v=WQC0XAaau74</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA["아날로그 트립 NCT 127" 스페셜 라이브
+
+특별했던 소무의도 여행을 추억하기 위...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WQC0XAaau74/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN heralded a dark transforma...]]></title>
+            <link>https://now.smtown.com/news/detail/2380720</link>
+            <guid>https://now.smtown.com/news/detail/2380720</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) heralded a dark transfo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DJ and Producer Hitchhiker to be releas...]]></title>
+            <link>https://now.smtown.com/news/detail/2380719</link>
+            <guid>https://now.smtown.com/news/detail/2380719</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[DJ and producer Hitchhiker to be released a new...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Best character ever’ PARK SOOYOUNG of ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380718</link>
+            <guid>https://now.smtown.com/news/detail/2380718</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['벌거벗은 세계사' KYUHYUN, "There is a need fo...]]></title>
+            <link>https://now.smtown.com/news/detail/2380717</link>
+            <guid>https://now.smtown.com/news/detail/2380717</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN, a member of the '벌거벗은 세계사' group SUPER...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN winter album ‘2021 Winter SMTOWN...]]></title>
+            <link>https://now.smtown.com/news/detail/2380707</link>
+            <guid>https://now.smtown.com/news/detail/2380707</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ sold over 4...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN’s new solo album ‘Devil’ t...]]></title>
+            <link>https://now.smtown.com/news/detail/2380706</link>
+            <guid>https://now.smtown.com/news/detail/2380706</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ!'s MAX CHANGMIN (SM) will make a comeback ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Promising rookie actor CHO JUNYOUNG mad...]]></title>
+            <link>https://now.smtown.com/news/detail/2380705</link>
+            <guid>https://now.smtown.com/news/detail/2380705</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[CHO JUNYOUNG(SM) made a clear impression with t...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Museezn' SUPER JUNIOR RYEOWOOK, a char...]]></title>
+            <link>https://now.smtown.com/news/detail/2380704</link>
+            <guid>https://now.smtown.com/news/detail/2380704</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR RYEOWOOK raised expectations for t...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['우리 식구 됐어요' YESUNG, a lover who listens...]]></title>
+            <link>https://now.smtown.com/news/detail/2380703</link>
+            <guid>https://now.smtown.com/news/detail/2380703</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[Group SUPER JUNIOR member YESUNG showed a lovin...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #13 | NCT 2021 ‘Beautiful...]]></title>
+            <link>https://www.youtube.com/watch?v=8OfnOg3fi30</link>
+            <guid>https://www.youtube.com/watch?v=8OfnOg3fi30</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8OfnOg3fi30/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["BEST CHOI's MINHO 2021" FAN PARTY Behi...]]></title>
+            <link>https://www.youtube.com/watch?v=heV2viqnSrA</link>
+            <guid>https://www.youtube.com/watch?v=heV2viqnSrA</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[MINHO's new single "Heartbreak" is out!
+Listen ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/heV2viqnSrA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[📞FaceTime with SUPER JUNIOR | 2022 New...]]></title>
+            <link>https://www.youtube.com/watch?v=GafwJ_n8xkM</link>
+            <guid>https://www.youtube.com/watch?v=GafwJ_n8xkM</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR Official
+http://www.youtube.com/SU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GafwJ_n8xkM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Entertainment releases ‘MUSIC NATION...]]></title>
+            <link>https://now.smtown.com/news/detail/2380692</link>
+            <guid>https://now.smtown.com/news/detail/2380692</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment is launching a new concept mem...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM, DJ show streaming channel ‘SHOWME' ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380691</link>
+            <guid>https://now.smtown.com/news/detail/2380691</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[ScreaM Records, an EDM label under SM Entertain...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM project unit GOT the beat, new song ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380690</link>
+            <guid>https://now.smtown.com/news/detail/2380690</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[SM project unit GOT the beat(SM)'s new song 'St...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SBS '너의 밤이 되어줄게' Kang Ji Young, a good ...]]></title>
+            <link>https://now.smtown.com/news/detail/2380689</link>
+            <guid>https://now.smtown.com/news/detail/2380689</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kang Ji Young lit up the play by giving a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영]]></title>
+            <link>https://www.youtube.com/watch?v=KhCmr1DZe-0</link>
+            <guid>https://www.youtube.com/watch?v=KhCmr1DZe-0</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[[#LetMeBeYourKnight] Secret guest on Let Me Be ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/KhCmr1DZe-0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Un Cut] Take #12 | NCT U ‘Universe (Le...]]></title>
+            <link>https://www.youtube.com/watch?v=4GWjry7Awf8</link>
+            <guid>https://www.youtube.com/watch?v=4GWjry7Awf8</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
+Listen a...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4GWjry7Awf8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WayV-log] KUN's Cloud (Ocean ver.) | �...]]></title>
+            <link>https://www.youtube.com/watch?v=yG8mAno5nd4</link>
+            <guid>https://www.youtube.com/watch?v=yG8mAno5nd4</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[WayV Official
+https://www.weibo.com/WeiShenV
+ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yG8mAno5nd4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWAN...]]></title>
+            <link>https://now.smtown.com/news/detail/2380688</link>
+            <guid>https://now.smtown.com/news/detail/2380688</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA['SMTOWN LIVE 2022 : SMCU EXPRESS @ KWANGYA' was...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘살림남2’ EUNHYUK, the main dancer of SUPE...]]></title>
+            <link>https://now.smtown.com/news/detail/2380687</link>
+            <guid>https://now.smtown.com/news/detail/2380687</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[The group SUPER JUNIOR EUNHYUK presented a sple...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
+            <link>https://www.youtube.com/watch?v=WDaYFk4PDDg</link>
+            <guid>https://www.youtube.com/watch?v=WDaYFk4PDDg</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WDaYFk4PDDg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
+            <link>https://www.youtube.com/watch?v=2fmxTXvPmEk</link>
+            <guid>https://www.youtube.com/watch?v=2fmxTXvPmEk</guid>
+            <pubDate>Thu, 06 Jan 2022 13:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/2fmxTXvPmEk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
