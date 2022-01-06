@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380736</link>
+            <guid>https://now.smtown.com/news/detail/2380736</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380735</link>
+            <guid>https://now.smtown.com/news/detail/2380735</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380734</link>
+            <guid>https://now.smtown.com/news/detail/2380734</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[SPECIAL LIVE] Analog Trip NCT 127: Esc...]]></title>
             <link>https://www.youtube.com/watch?v=WQC0XAaau74</link>
@@ -218,33 +233,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/49c4FAOv-ow/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#SHINee’s Pink Blood Is Running!💗｜Pink...]]></title>
-            <link>https://www.youtube.com/watch?v=2hSE1l_exOU</link>
-            <guid>https://www.youtube.com/watch?v=2hSE1l_exOU</guid>
-            <pubDate>Thu, 06 Jan 2022 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2hSE1l_exOU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT #유타 #도영 #마크 #런쥔’s Pink Blood Is Ru...]]></title>
-            <link>https://www.youtube.com/watch?v=3MgeFJROuh8</link>
-            <guid>https://www.youtube.com/watch?v=3MgeFJROuh8</guid>
-            <pubDate>Thu, 06 Jan 2022 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3MgeFJROuh8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WayV SEASON’S GREETINGS #WayV]]></title>
-            <link>https://www.youtube.com/watch?v=TuRrTwZhxog</link>
-            <guid>https://www.youtube.com/watch?v=TuRrTwZhxog</guid>
-            <pubDate>Thu, 06 Jan 2022 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from WayV
-HAPPY NEW YEAR 202...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TuRrTwZhxog/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

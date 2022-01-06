@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최강창민, 신곡 ‘Devil’ 다크한 변신 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5825</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5825</guid>
-            <pubDate>Wed, 05 Jan 2022 02:59:14 GMT</pubDate>
+            <title><![CDATA[NCT 정규 3집 ‘Universe’, 12월 월간 음반 차트 1위 석권! 막강 파워 입증! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5828</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5828</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민, 신곡 ‘Devil’ 다크한 변신 예고!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4fa9b38788.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 정규 3집 ‘Universe’, 12월 월간 음반 차트 1위 석권! 막강 파워 입증!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67be08229e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5827</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5827</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67a98ceac3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강창민, 새 솔로 앨범 2곡 작사 참여! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5826</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5826</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민 (에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)에 수록된 2곡을 직접 작사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d677c762d1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 겸 프로듀서 히치하이커, 새 싱글 ‘Alone’ 1월 7일 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5824</link>
             <guid>https://www.smtown.com/artist/newsDetail/5824</guid>
             <pubDate>Wed, 05 Jan 2022 02:59:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">DJ 겸 프로듀서 히치하이커, 새 싱글 ‘Alone’ 1월 7일 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[DJ 겸 프로듀서 히치하이커(Hitchhiker)가 1월 7일 새 싱글 ‘Alone’(얼론)을 발표한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4fa2461a50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘최강 보컬’의 귀환! 최강창민, 새 솔로 앨범 ‘Devil’ 1월 13일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5820</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5820</guid>
+            <pubDate>Tue, 04 Jan 2022 05:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 1월 13일 새 솔로 앨범 ‘Devil’(데블)로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d60565353.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5815</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5815</guid>
+            <pubDate>Mon, 03 Jan 2022 05:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)의 신곡 ‘Step Back’(스텝 백)이 3일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d28733dfc53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ D-DAY! 기대 포인트 3 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5811</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5811</guid>
+            <pubDate>Mon, 03 Jan 2022 05:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[1일 오후 1시부터 전 세계 무료 온라인 중계되는 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 특급 라인업으로 열기를 고조시키고 있는 가운데, 이번 콘서트의 기대 포인트를 짚어봤다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d284ec7a2b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강창민, 신곡 ‘Devil’ 다크한 변신 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5825</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5825</guid>
+            <pubDate>Wed, 05 Jan 2022 02:59:14 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 신곡 ‘Devil’(데블)로 다크한 변신을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4fa9b38788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN 겨울앨범 41만장 돌파! SM 시즌 앨범 역대 최고 판매량 기록! (SMTOWN ─ Musicians News)]]></title>
@@ -423,54 +471,6 @@
             <pubDate>Fri, 31 Dec 2021 07:41:17 GMT</pubDate>
             <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 인기 질주를 이어가고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceadbddc713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5805</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
-            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’(에스엠타운 라이브 2022 : SMCU 익스프레스@광야)가 특별한 스테이지를 준비했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘최강 보컬’의 귀환! 최강창민, 새 솔로 앨범 ‘Devil’ 1월 13일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5820</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5820</guid>
-            <pubDate>Tue, 04 Jan 2022 05:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 1월 13일 새 솔로 앨범 ‘Devil’(데블)로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d60565353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 3일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5815</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5815</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)의 신곡 ‘Step Back’(스텝 백)이 3일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d28733dfc53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SMTOWN LIVE 2022’ D-DAY! 기대 포인트 3 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5811</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5811</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[1일 오후 1시부터 전 세계 무료 온라인 중계되는 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 특급 라인업으로 열기를 고조시키고 있는 가운데, 이번 콘서트의 기대 포인트를 짚어봤다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d284ec7a2b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집 ‘Sticker’, 美 ‘빌보드 200’ 14주 연속 진입! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5806</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5806</guid>
-            <pubDate>Thu, 30 Dec 2021 06:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127(엔시티 127, 에스엠엔터테인먼트 소속)이 정규 3집으로 미국 ‘빌보드 200’에 14주 연속 진입, 올해 발매된 K팝 앨범 중 최장 차트인 기록을 세웠다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd497e141e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GOT the beat, 신곡 ‘Step Back’으로 ‘퍼포먼스 갓’ 시너지 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5804</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5804</guid>
-            <pubDate>Thu, 30 Dec 2021 06:52:12 GMT</pubDate>
-            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 신곡 ‘Step Back’(스텝 백)으로 ‘퍼포먼스 갓’의 면모를 보여준다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd4878d64c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력! (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,24 @@
             <pubDate>Fri, 24 Dec 2021 01:45:47 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 캐릭터 흡수력으로 뜨거운 주목받고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c5243cdad51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380736</link>
+            <guid>https://now.smtown.com/news/detail/2380736</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380735</link>
+            <guid>https://now.smtown.com/news/detail/2380735</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380734</link>
+            <guid>https://now.smtown.com/news/detail/2380734</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[SPECIAL LIVE] Analog Trip NCT 127: Esc... (SMTOWN ─ NOW)]]></title>
@@ -781,33 +799,6 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[NCT's 3rd album "Universe" is out now!
 Listen a...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/49c4FAOv-ow/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#SHINee’s Pink Blood Is Running!💗｜Pink... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=2hSE1l_exOU</link>
-            <guid>https://www.youtube.com/watch?v=2hSE1l_exOU</guid>
-            <pubDate>Thu, 06 Jan 2022 01:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/2hSE1l_exOU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#NCT #유타 #도영 #마크 #런쥔’s Pink Blood Is Ru... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=3MgeFJROuh8</link>
-            <guid>https://www.youtube.com/watch?v=3MgeFJROuh8</guid>
-            <pubDate>Thu, 06 Jan 2022 01:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-➡ 2022...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3MgeFJROuh8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WayV SEASON’S GREETINGS #WayV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=TuRrTwZhxog</link>
-            <guid>https://www.youtube.com/watch?v=TuRrTwZhxog</guid>
-            <pubDate>Thu, 06 Jan 2022 01:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[SEASON’S GREETINGS from WayV
-HAPPY NEW YEAR 202...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TuRrTwZhxog/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[임윤아] '해피 융 이어'! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
