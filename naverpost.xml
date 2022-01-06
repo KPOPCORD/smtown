@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 01:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[임윤아] '해피 융 이어'!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33072303&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33072303&amp;memberNo=41350603</guid>
+            <pubDate>Thu, 06 Jan 2022 03:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[해피 융 이어! 여러분의 폭발적인 요청으로 시리즈가 된임윤아 배우의 한 해활약 정산 시간입니다! 숨 가쁘게 달려온 윤아 배우의 2021년 한 해와2022년의 시작을 함께 살펴 보실까요~? 충무로 활약 윤아 배우는 영···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjAw/MDAxNjQxMzc0ODE0NzU3.SFM84DFkNQnIpqwa2si_fN4cEmYOXaCfsNCwa3TeGC0g.D4zWvaiz_6tbKvpqwBPQBjB0C0hkK-g3pSqb8YxMKdAg.JPEG/IbK7-bwmX69xJcD6F7R4ssTpyDoY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최강창민] 🚨心스틸러🚨 컴백 심장 워밍업 타임]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33066955&amp;memberNo=41350603</link>
@@ -174,15 +182,6 @@ MV 비하인드 현장!]]></title>
             <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
             <content:encoded><![CDATA[10년을 기다려온 슈퍼주니어-D&amp;E의 정규 1집!드디어 어제 (11월 2일) 발매되었습니다.  손꼽아 기다리던 국내 첫 정규 앨범의 타이틀 곡 ‘ZERO’,듣고 또 들어도 자꾸만 듣고 싶은 명곡이죠! ‘천재 작곡가’ 동해···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMjI3/MDAxNjM1NDAxODQwODU3.i1yRpfqrZPEgzknTjqWlvac0BBH1l1bvuCm_hdju3VAg.G5lSYzlUqqoQDUQXgcdI_8HB6lKyVGLLVGq-siICKu4g.JPEG/ILjwMt0bIAyFfcuhilbzPe98FakI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] ⏳ 3, 2, 1, ZERO! 
-D&E 첫 정규앨범 'COUNTDOWN' 발매✨]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32653539&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32653539&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[11월 2일 바로 오늘! 슈퍼주니어-D&amp;E가 국내 첫 정규앨범 'COUNTDOWN'을 발매했습니다.오는 12월, 어느덧 데뷔 10주년을 맞이하는 슈퍼주니어-D&amp;E! 'COUNTDOWN'은 지난 10년의 시간을 토대로, 10부터 0까지 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMTQ0/MDAxNjM1NDc4MDQ1MzU5.FXyKFrANVzpPIcZSiQxC3BltogMRZxjvCs0SVaLQvq8g.l6StrB2Y-8EfVmCeXFcXBh-_cJpFQLxTcQYFU7B6rkgg.JPEG/IYrZ5TG42-T2dY8DVR1l1xhEB1o8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

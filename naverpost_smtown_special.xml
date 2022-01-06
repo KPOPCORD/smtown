@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 01:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[임윤아] '해피 융 이어'!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33072303&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33072303&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Thu, 06 Jan 2022 03:01:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjAw/MDAxNjQxMzc0ODE0NzU3.SFM84DFkNQnIpqwa2si_fN4cEmYOXaCfsNCwa3TeGC0g.D4zWvaiz_6tbKvpqwBPQBjB0C0hkK-g3pSqb8YxMKdAg.JPEG/IbK7-bwmX69xJcD6F7R4ssTpyDoY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최강창민] 🚨心스틸러🚨 컴백 심장 워밍업 타임]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33066955&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -175,15 +183,6 @@ MV 비하인드 현장!]]></title>
             <pubDate>Fri, 15 Oct 2021 03:46:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMyAg/MDAxNjM0MjA3MDA0NTQ2.0h5bOXH1yqBouMdEj2OyupwqhMs7CaaIHrRSeegOENQg.DNzfJb1fCh-uMp5y8fqXNcUfJ2gsIXcO5mw7z57CIo4g.JPEG/Iajj6i6WkfvTESqLOrS9Mzk1lNhc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁의 어린 시절 꿈이 담긴,
-‘be’ MV 촬영 현장 비하인드]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32550330&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32550330&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Fri, 22 Oct 2021 01:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMjIw/MDAxNjM0MTkxMzExMjIz.q3csCnH-VZVRJS2a2OmeR7YFrdojMy8vFwuv3tRKqbog.vCkgmrFO00nZf1eS_achYYo2q7IEuzV3WeQcZdSUi5gg.JPEG/ILdBiN4XRK5giuv3Jn-P8rYMD8UU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
