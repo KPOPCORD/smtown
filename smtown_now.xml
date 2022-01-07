@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 10:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 11:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
+            <link>https://www.youtube.com/watch?v=gdCx2HqZhIs</link>
+            <guid>https://www.youtube.com/watch?v=gdCx2HqZhIs</guid>
+            <pubDate>Fri, 07 Jan 2022 11:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[Hitchhiker and 3RD's new single 'Alone' is out ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/gdCx2HqZhIs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[WayV-log] 🐱👀Old Beijing Tour with TE...]]></title>
             <link>https://www.youtube.com/watch?v=AXakzkH8heQ</link>
@@ -225,13 +233,6 @@ http://www.youtube.com/SU...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380690</guid>
             <pubDate>Fri, 07 Jan 2022 09:47:51 GMT</pubDate>
             <content:encoded><![CDATA[SM project unit GOT the beat(SM)'s new song 'St...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SBS '너의 밤이 되어줄게' Kang Ji Young, a good ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380689</link>
-            <guid>https://now.smtown.com/news/detail/2380689</guid>
-            <pubDate>Fri, 07 Jan 2022 09:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Kang Ji Young lit up the play by giving a...]]></content:encoded>
         </item>
     </channel>
 </rss>
