@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-27321906</link>
+            <guid>https://vlive.tv/post/0-27321906</guid>
+            <pubDate>Fri, 07 Jan 2022 15:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220107_144/1641552188902cu42m_JPEG/upload_856318518049819335b3430b7-5f8f-4205-b2d3-3271be7dfe3b.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hitchhiker X 3RD 'Alone' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-27307729</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-27238570</guid>
             <pubDate>Fri, 07 Jan 2022 13:45:07 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_234/1641034478375XBtz8_JPEG/upload_851142064195585182d177a27-6df4-4c78-bc6e-6d3758ecdf1e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-26933668</link>
             <guid>https://vlive.tv/post/0-26933668</guid>
-            <pubDate>Fri, 07 Jan 2022 13:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-26911336</link>
-            <guid>https://vlive.tv/post/0-26911336</guid>
             <pubDate>Fri, 07 Jan 2022 13:45:07 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
@@ -1524,6 +1524,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24492074</link>
+            <guid>https://tv.naver.com/v/24492074</guid>
+            <pubDate>Fri, 07 Jan 2022 15:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_135/4CWJH_1641552083631fbGsq_JPEG/1641552047870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hitchhiker X 3RD 'Alone' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24463089</link>
             <guid>https://tv.naver.com/v/24463089</guid>
@@ -1754,14 +1762,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Mon, 06 Dec 2021 09:47:22 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_253/kNb2U_1638766991639D6Q4T_JPEG/1638761552719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23917181</link>
-            <guid>https://tv.naver.com/v/23917181</guid>
-            <pubDate>Sun, 05 Dec 2021 15:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_281/adh0u_1638718542937zyDUa_JPEG/1638718539603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

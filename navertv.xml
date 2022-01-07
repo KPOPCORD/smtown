@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
+            <link>https://tv.naver.com/v/24492074</link>
+            <guid>https://tv.naver.com/v/24492074</guid>
+            <pubDate>Fri, 07 Jan 2022 15:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_135/4CWJH_1641552083631fbGsq_JPEG/1641552047870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
             <link>https://tv.naver.com/v/24463089</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 09:47:22 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_253/kNb2U_1638766991639D6Q4T_JPEG/1638761552719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
-            <link>https://tv.naver.com/v/23917181</link>
-            <guid>https://tv.naver.com/v/23917181</guid>
-            <pubDate>Sun, 05 Dec 2021 15:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_281/adh0u_1638718542937zyDUa_JPEG/1638718539603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

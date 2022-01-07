@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 14:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 15:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27321906</link>
+            <guid>https://vlive.tv/post/0-27321906</guid>
+            <pubDate>Fri, 07 Jan 2022 15:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220107_144/1641552188902cu42m_JPEG/upload_856318518049819335b3430b7-5f8f-4205-b2d3-3271be7dfe3b.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
             <link>https://vlive.tv/post/1-27307729</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-27238570</guid>
             <pubDate>Fri, 07 Jan 2022 13:45:07 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_234/1641034478375XBtz8_JPEG/upload_851142064195585182d177a27-6df4-4c78-bc6e-6d3758ecdf1e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV]]></title>
             <link>https://vlive.tv/post/0-26933668</link>
             <guid>https://vlive.tv/post/0-26933668</guid>
-            <pubDate>Fri, 07 Jan 2022 13:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV Teaser]]></title>
-            <link>https://vlive.tv/post/0-26911336</link>
-            <guid>https://vlive.tv/post/0-26911336</guid>
             <pubDate>Fri, 07 Jan 2022 13:45:07 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
