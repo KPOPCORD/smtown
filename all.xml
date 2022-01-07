@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 15:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9cdaec9e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=JO-jX9fn97Q</link>
+            <guid>https://www.youtube.com/watch?v=JO-jX9fn97Q</guid>
+            <pubDate>Fri, 07 Jan 2022 17:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" will be r...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/JO-jX9fn97Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hitchhiker X 3RD 'Alone' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=gdCx2HqZhIs</link>
             <guid>https://www.youtube.com/watch?v=gdCx2HqZhIs</guid>
@@ -790,13 +798,6 @@ http://www.youtube.com/SU...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380691</guid>
             <pubDate>Fri, 07 Jan 2022 09:47:51 GMT</pubDate>
             <content:encoded><![CDATA[ScreaM Records, an EDM label under SM Entertain...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM project unit GOT the beat, new song ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380690</link>
-            <guid>https://now.smtown.com/news/detail/2380690</guid>
-            <pubDate>Fri, 07 Jan 2022 09:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[SM project unit GOT the beat(SM)'s new song 'St...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
