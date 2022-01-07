@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 01:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 안방극장 드라마 첫 도전! 성공적 마무리]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5829</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5829</guid>
+            <pubDate>Fri, 07 Jan 2022 03:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 안방극장 드라마 첫 도전! 성공적 마무리</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79e913e6e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5823</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력! </span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조준영, 영화 ‘해피 뉴 이어’로 확실한 눈도장!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5819</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5819</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">조준영, 영화 ‘해피 뉴 이어’로 확실한 눈도장!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d57539cff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

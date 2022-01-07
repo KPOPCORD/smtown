@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 01:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 12월 월간 음반 차트 1위 석권! 막강 파워 입증!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5828</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5828</guid>
-            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
+            <title><![CDATA[최강창민, 새 솔로 앨범 발매 기념 유튜브 라이브 13일 진행! 컴백 기대감 MAX!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5833</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5833</guid>
+            <pubDate>Fri, 07 Jan 2022 03:00:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 정규 3집 ‘Universe’, 12월 월간 음반 차트 1위 석권! 막강 파워 입증!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67be08229e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">최강창민, 새 솔로 앨범 발매 기념 유튜브 라이브 13일 진행! 컴백 기대감 MAX!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7a03426607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5827</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5827</guid>
-            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5832</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5832</guid>
+            <pubDate>Fri, 07 Jan 2022 03:00:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67a98ceac3.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79ff65b148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
