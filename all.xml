@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 10:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 11:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9cdaec9e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#YouTubeShorts Challenge #드컴챌🧚 - YOONA... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=9VtlV9ed0eg</link>
+            <guid>https://www.youtube.com/watch?v=9VtlV9ed0eg</guid>
+            <pubDate>Sat, 08 Jan 2022 11:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[Join YOONA and aespa for #DreamsComeTrue YouTub...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9VtlV9ed0eg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa in New York✨ㅣNew York VLOG Pt.2 (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=j4CCDUF889c</link>
             <guid>https://www.youtube.com/watch?v=j4CCDUF889c</guid>
@@ -794,13 +802,6 @@ Listen ...]]></content:encoded>
             <content:encoded><![CDATA[SUPER JUNIOR Official
 http://www.youtube.com/SU...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/GafwJ_n8xkM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Entertainment releases ‘MUSIC NATION... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380692</link>
-            <guid>https://now.smtown.com/news/detail/2380692</guid>
-            <pubDate>Sat, 08 Jan 2022 06:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment is launching a new concept mem...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
