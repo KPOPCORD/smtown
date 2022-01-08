@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 09:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 10:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa in New York✨ㅣNew York VLOG Pt.2]]></title>
+            <link>https://www.youtube.com/watch?v=j4CCDUF889c</link>
+            <guid>https://www.youtube.com/watch?v=j4CCDUF889c</guid>
+            <pubDate>Sat, 08 Jan 2022 10:47:05 GMT</pubDate>
+            <content:encoded><![CDATA[aespa official
+https://www.youtube.com/c/aespa
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/j4CCDUF889c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
             <link>https://www.youtube.com/watch?v=JO-jX9fn97Q</link>
@@ -227,13 +237,6 @@ http://www.youtube.com/SU...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380692</guid>
             <pubDate>Sat, 08 Jan 2022 06:53:11 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment is launching a new concept mem...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM, DJ show streaming channel ‘SHOWME' ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380691</link>
-            <guid>https://now.smtown.com/news/detail/2380691</guid>
-            <pubDate>Sat, 08 Jan 2022 06:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[ScreaM Records, an EDM label under SM Entertain...]]></content:encoded>
         </item>
     </channel>
 </rss>
