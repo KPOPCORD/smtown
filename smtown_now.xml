@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 09:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 10:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,9 +52,11 @@ ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AXakzkH8heQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jung Sung Il to appear in tvN's '배드 앤 크...]]></title>
             <link>https://now.smtown.com/news/detail/2380766</link>
             <guid>https://now.smtown.com/news/detail/2380766</guid>
             <pubDate>Sun, 09 Jan 2022 03:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Jung Sung Il will appear in '배드 앤 크레이지'.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MAX CHANGMIN celebrating his new solo a...]]></title>
