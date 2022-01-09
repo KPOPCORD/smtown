@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 11:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 13:05:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://vlive.tv/post/0-27349824</link>
+            <guid>https://vlive.tv/post/0-27349824</guid>
+            <pubDate>Sun, 09 Jan 2022 13:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220109_214/1641715233782fUz6v_JPEG/upload_579848165359890254ed03a90-f750-439c-a19e-60758bdb8db4.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
             <link>https://vlive.tv/post/0-27321906</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-27307204</guid>
             <pubDate>Sun, 09 Jan 2022 03:45:58 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220106_143/1641440734093RLHkR_JPEG/upload_85520443863096144b2f4f68d-34ec-4895-b50f-4b7e43ea0226.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)' Dance Practice]]></title>
             <link>https://vlive.tv/post/0-26944608</link>
             <guid>https://vlive.tv/post/0-26944608</guid>
-            <pubDate>Sun, 09 Jan 2022 03:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' MV]]></title>
-            <link>https://vlive.tv/post/0-26933668</link>
-            <guid>https://vlive.tv/post/0-26933668</guid>
             <pubDate>Sun, 09 Jan 2022 03:45:58 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
