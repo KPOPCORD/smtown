@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 03:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 03:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정성일, tvN ‘배드 앤 크레이지’ 출연… 심리상담가 주혁役]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5834</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5834</guid>
+            <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정성일이 ‘배드 앤 크레이지’에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7e5dbdeaf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5823</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘한 사람만’ 윤보라, 캐릭터 소화력+깨알 같은 웃음으로 돋보이는 ‘존재감’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5794</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5794</guid>
-            <pubDate>Fri, 31 Dec 2021 07:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 윤보라가 JTBC 월화드라마 ‘한 사람만’에서 데뷔 후 첫 수녀 역할에 도전하며 안정적인 연기로 주목받고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbccf5aed41.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 안방극장 드라마 첫 도전! 성공적 마무리]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5829</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5829</guid>
+            <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 종영 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79e913e6e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조준영, 영화 ‘해피 뉴 이어’로 확실한 눈도장!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Dec 2021 07:41:47 GMT</pubDate>
             <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 목소리 연기로 호평을 받고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd481abed66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 솔직한 ‘마라맛 매력’으로 시청자 홀릭!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5790</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5790</guid>
-            <pubDate>Thu, 30 Dec 2021 06:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 ‘마라맛 매력’으로 시청자들의 심장을 저격하고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9cdaec9e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
