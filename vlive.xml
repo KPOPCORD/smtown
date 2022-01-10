@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video]]></title>
+            <link>https://vlive.tv/post/0-27366840</link>
+            <guid>https://vlive.tv/post/0-27366840</guid>
+            <pubDate>Mon, 10 Jan 2022 09:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_296/1641805238100HukAz_JPEG/upload_8588480467215886935990c1e-ae4d-40af-bef2-52220d1fd454.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유]]></title>
             <link>https://vlive.tv/post/0-27349824</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-27307729</guid>
             <pubDate>Mon, 10 Jan 2022 06:52:54 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220106_215/1641443642092L5YSi_JPEG/upload_8552335522209576847b2d396-b7e1-4abf-bf8f-56ac9c6d186c.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV Teaser]]></title>
             <link>https://vlive.tv/post/0-26999723</link>
             <guid>https://vlive.tv/post/0-26999723</guid>
-            <pubDate>Mon, 10 Jan 2022 06:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)' Dance Practice]]></title>
-            <link>https://vlive.tv/post/0-26944608</link>
-            <guid>https://vlive.tv/post/0-26944608</guid>
             <pubDate>Mon, 10 Jan 2022 06:52:54 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
