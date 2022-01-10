@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 06:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 07:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -578,28 +578,32 @@
             <content:encoded><![CDATA[SM Entertainment's total album sales in 2021 ex...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Comeback D-3’ MAX CHANGMIN’s new album... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380786</link>
             <guid>https://now.smtown.com/news/detail/2380786</guid>
             <pubDate>Mon, 10 Jan 2022 04:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN(SM)'s new solo album 'Maniac...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[KYUHYUN releases 4th mini album 'Love S... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380785</link>
             <guid>https://now.smtown.com/news/detail/2380785</guid>
             <pubDate>Mon, 10 Jan 2022 04:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN wraps up the four seasons ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[MBC drama '트레이서' Ko A Sung, acting tran... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380784</link>
             <guid>https://now.smtown.com/news/detail/2380784</guid>
             <pubDate>Mon, 10 Jan 2022 04:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[Ko A Sung proved once again that he is an 'trus...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘며느라기2…ing’ Park Ha Seon, the perfect r... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380783</link>
             <guid>https://now.smtown.com/news/detail/2380783</guid>
             <pubDate>Mon, 10 Jan 2022 04:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Ha Seon is back with my drama for th...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[#YouTubeShorts Challenge #드컴챌🧚 - YOONA... (SMTOWN ─ NOW)]]></title>
@@ -620,10 +624,11 @@ https://www.youtube.com/c/aespa
             <enclosure url="https://i.ytimg.com/vi/j4CCDUF889c/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[MAX CHANGMIN releases stage video for t... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380782</link>
             <guid>https://now.smtown.com/news/detail/2380782</guid>
             <pubDate>Mon, 10 Jan 2022 04:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN(SM)'s new solo album 'Fever'...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video (SMTOWN ─ NOW)]]></title>
