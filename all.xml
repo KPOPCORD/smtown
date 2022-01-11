@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 03:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 04:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘믿듣탱’ 태연, 컴백 신호탄 쏘다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5842</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5842</guid>
+            <pubDate>Tue, 11 Jan 2022 04:55:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘믿듣탱’ 태연, 컴백 신호탄 쏘다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfe675153a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5841</link>
             <guid>https://www.smtown.com/artist/newsDetail/5841</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5839</link>
             <guid>https://www.smtown.com/artist/newsDetail/5839</guid>
             <pubDate>Mon, 10 Jan 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘컴백 D-3’ 최강창민, 새 앨범 수록곡 ‘Maniac’ 비디오 10일 오후 6시 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 새 솔로 앨범 수록곡 ‘Maniac’(매니악) 비디오가 10일 선공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbad3633afa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강창민, 새 앨범 수록곡 ‘Fever’ 스테이지 비디오 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5835</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5835</guid>
+            <pubDate>Mon, 10 Jan 2022 03:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 새 솔로 앨범 수록곡 ‘Fever’(피버) 스테이지 비디오가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbab2a1f856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5832</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5832</guid>
+            <pubDate>Fri, 07 Jan 2022 03:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[인기 DJ J.E.B(요한 일렉트릭 바흐)가 DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 첫 번째 주자로 출격한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79ff65b148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히치하이커, 신곡 ‘Alone’ 7일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5830</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5830</guid>
+            <pubDate>Fri, 07 Jan 2022 03:01:04 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 겸 프로듀서 히치하이커(Hitchhiker)의 새 싱글 ‘Alone’(얼론)이 7일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79f2c46810.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5827</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5827</guid>
+            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 정규 3집과 NCT 정규 3집이 나란히 미국 ‘빌보드 200’ 차트에 이름을 올리며 쌍끌이 인기 행진을 펼치고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67a98ceac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현, 25일 네 번째 미니앨범 '연애소설' 발매...사계절 프로젝트 ‘PROJECT : 季’ 대단원 마무리 (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Thu, 06 Jan 2022 05:43:12 GMT</pubDate>
             <content:encoded><![CDATA[동방신기 최강창민 (에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)에 수록된 2곡을 직접 작사했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d677c762d1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민, 새 앨범 수록곡 ‘Fever’ 스테이지 비디오 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5835</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5835</guid>
-            <pubDate>Mon, 10 Jan 2022 03:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 새 솔로 앨범 수록곡 ‘Fever’(피버) 스테이지 비디오가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbab2a1f856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5832</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5832</guid>
-            <pubDate>Fri, 07 Jan 2022 03:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[인기 DJ J.E.B(요한 일렉트릭 바흐)가 DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 첫 번째 주자로 출격한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79ff65b148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히치하이커, 신곡 ‘Alone’ 7일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5830</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5830</guid>
-            <pubDate>Fri, 07 Jan 2022 03:01:04 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 겸 프로듀서 히치하이커(Hitchhiker)의 새 싱글 ‘Alone’(얼론)이 7일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79f2c46810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5827</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5827</guid>
-            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 정규 3집과 NCT 정규 3집이 나란히 미국 ‘빌보드 200’ 차트에 이름을 올리며 쌍끌이 인기 행진을 펼치고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67a98ceac3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민, 신곡 ‘Devil’ 다크한 변신 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5825</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5825</guid>
-            <pubDate>Wed, 05 Jan 2022 02:59:14 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 신곡 ‘Devil’(데블)로 다크한 변신을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4fa9b38788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’ (SMTOWN ─ Actors News)]]></title>
@@ -571,16 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[TAEYEON to come back (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380799</link>
+            <guid>https://now.smtown.com/news/detail/2380799</guid>
+            <pubDate>Tue, 11 Jan 2022 04:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM) to come back with...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN to show his vocal charms t... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380798</link>
             <guid>https://now.smtown.com/news/detail/2380798</guid>
             <pubDate>Tue, 11 Jan 2022 03:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) shows off a variety of ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[PARK SOOYOUNG of the JTBC drama ‘한 사람만’... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380797</link>
             <guid>https://now.smtown.com/news/detail/2380797</guid>
             <pubDate>Tue, 11 Jan 2022 03:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) show...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SM proved the best K-pop content power ... (SMTOWN ─ NOW)]]></title>
@@ -788,13 +797,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380718</guid>
             <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['벌거벗은 세계사' KYUHYUN, "There is a need fo... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380717</link>
-            <guid>https://now.smtown.com/news/detail/2380717</guid>
-            <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[KYUHYUN, a member of the '벌거벗은 세계사' group SUPER...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

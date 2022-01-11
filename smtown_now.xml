@@ -4,18 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 03:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 04:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[TAEYEON to come back]]></title>
+            <link>https://now.smtown.com/news/detail/2380799</link>
+            <guid>https://now.smtown.com/news/detail/2380799</guid>
+            <pubDate>Tue, 11 Jan 2022 04:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM) to come back with...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN to show his vocal charms t...]]></title>
             <link>https://now.smtown.com/news/detail/2380798</link>
             <guid>https://now.smtown.com/news/detail/2380798</guid>
             <pubDate>Tue, 11 Jan 2022 03:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) shows off a variety of ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[PARK SOOYOUNG of the JTBC drama ‘한 사람만’...]]></title>
             <link>https://now.smtown.com/news/detail/2380797</link>
             <guid>https://now.smtown.com/news/detail/2380797</guid>
             <pubDate>Tue, 11 Jan 2022 03:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) show...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SM proved the best K-pop content power ...]]></title>
@@ -223,13 +234,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380718</guid>
             <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['벌거벗은 세계사' KYUHYUN, "There is a need fo...]]></title>
-            <link>https://now.smtown.com/news/detail/2380717</link>
-            <guid>https://now.smtown.com/news/detail/2380717</guid>
-            <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[KYUHYUN, a member of the '벌거벗은 세계사' group SUPER...]]></content:encoded>
         </item>
     </channel>
 </rss>
