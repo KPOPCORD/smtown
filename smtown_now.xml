@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 03:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380798</link>
+            <guid>https://now.smtown.com/news/detail/2380798</guid>
+            <pubDate>Tue, 11 Jan 2022 03:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380797</link>
+            <guid>https://now.smtown.com/news/detail/2380797</guid>
+            <pubDate>Tue, 11 Jan 2022 03:47:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SM proved the best K-pop content power ...]]></title>
             <link>https://now.smtown.com/news/detail/2380787</link>
@@ -220,20 +230,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380717</guid>
             <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
             <content:encoded><![CDATA[KYUHYUN, a member of the '벌거벗은 세계사' group SUPER...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN winter album ‘2021 Winter SMTOWN...]]></title>
-            <link>https://now.smtown.com/news/detail/2380707</link>
-            <guid>https://now.smtown.com/news/detail/2380707</guid>
-            <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ sold over 4...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN’s new solo album ‘Devil’ t...]]></title>
-            <link>https://now.smtown.com/news/detail/2380706</link>
-            <guid>https://now.smtown.com/news/detail/2380706</guid>
-            <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ!'s MAX CHANGMIN (SM) will make a comeback ...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 03:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5841</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5841</guid>
+            <pubDate>Tue, 11 Jan 2022 03:47:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfdb564d3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백 D-3’ 최강창민, 새 앨범 수록곡 ‘Maniac’ 비디오 10일 오후 6시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5839</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘컴백 D-3’ 최강창민, 새 앨범 수록곡 ‘Maniac’ 비디오 10일 오후 6시 공개!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbad3633afa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 25일 네 번째 미니앨범 '연애소설' 발매...사계절 프로젝트 ‘PROJECT : 季’ 대단원 마무리]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5838</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5838</guid>
-            <pubDate>Mon, 10 Jan 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">규현, 25일 네 번째 미니앨범 '연애소설' 발매...사계절 프로젝트 ‘PROJECT : 季’ 대단원 마무리</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbacb9e1589.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
