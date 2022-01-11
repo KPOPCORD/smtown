@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 04:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380800</link>
+            <guid>https://now.smtown.com/news/detail/2380800</guid>
+            <pubDate>Tue, 11 Jan 2022 05:43:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TAEYEON to come back]]></title>
             <link>https://now.smtown.com/news/detail/2380799</link>
@@ -227,13 +232,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380719</guid>
             <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
             <content:encoded><![CDATA[DJ and producer Hitchhiker to be released a new...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Best character ever’ PARK SOOYOUNG of ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380718</link>
-            <guid>https://now.smtown.com/news/detail/2380718</guid>
-            <pubDate>Mon, 10 Jan 2022 11:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) capt...]]></content:encoded>
         </item>
     </channel>
 </rss>
