@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 10:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 11:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=Gdz0dEkh_YI</link>
+            <guid>https://www.youtube.com/watch?v=Gdz0dEkh_YI</guid>
+            <pubDate>Tue, 11 Jan 2022 11:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[KANGTA's new single "Slow Dance" will be releas...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Gdz0dEkh_YI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHANNEL A ‘슈퍼 DNA 피는 못 속여’]]></title>
             <link>https://now.smtown.com/news/detail/2380800</link>
@@ -227,13 +235,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380720</guid>
             <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) heralded a dark transfo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DJ and Producer Hitchhiker to be releas...]]></title>
-            <link>https://now.smtown.com/news/detail/2380719</link>
-            <guid>https://now.smtown.com/news/detail/2380719</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[DJ and producer Hitchhiker to be released a new...]]></content:encoded>
         </item>
     </channel>
 </rss>
