@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 08:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 09:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24538756</link>
+            <guid>https://tv.naver.com/v/24538756</guid>
+            <pubDate>Tue, 11 Jan 2022 09:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_182/GCiZc_1641868737787N6ezM_JPEG/1641868630495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video]]></title>
             <link>https://tv.naver.com/v/24527502</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
             <content:encoded><![CDATA[5:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_9/h9m3U_1638960593005JJDxL_JPEG/1638960479273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Live Video]]></title>
-            <link>https://tv.naver.com/v/23977726</link>
-            <guid>https://tv.naver.com/v/23977726</guid>
-            <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_63/0XPiY_1638953924007gIB39_JPEG/1638953837349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
