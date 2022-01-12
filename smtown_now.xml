@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 10:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 11:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV]]></title>
+            <link>https://www.youtube.com/watch?v=9zsfAfbk_Ig</link>
+            <guid>https://www.youtube.com/watch?v=9zsfAfbk_Ig</guid>
+            <pubDate>Wed, 12 Jan 2022 11:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[KANGTA's new single "Slow Dance" is out!
+Listen...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9zsfAfbk_Ig/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 & NCT's album both enter the ‘B...]]></title>
             <link>https://now.smtown.com/news/detail/2380823</link>
@@ -219,13 +228,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380759</guid>
             <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
             <content:encoded><![CDATA[KANGTA (SM) will release a new song ‘Slow Dance...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hitchhiker's new song 'Alone' will be r...]]></title>
-            <link>https://now.smtown.com/news/detail/2380758</link>
-            <guid>https://now.smtown.com/news/detail/2380758</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[DJ and producer Hitchhiker's new single 'Alone'...]]></content:encoded>
         </item>
     </channel>
 </rss>
