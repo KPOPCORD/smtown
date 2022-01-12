@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 21:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 22:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국방의 의무를 다하고 돌아온 #우도환 의 스윗한 #전역인사 | WooD...]]></title>
+            <link>https://www.youtube.com/watch?v=30EFqAis1Qg</link>
+            <guid>https://www.youtube.com/watch?v=30EFqAis1Qg</guid>
+            <pubDate>Wed, 12 Jan 2022 22:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[A gift for fans who finally put on the flower s...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/30EFqAis1Qg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser]]></title>
             <link>https://www.youtube.com/watch?v=yDEqdvZQYlA</link>
@@ -222,13 +230,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380761</guid>
             <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) meets fans with a comeb...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[J.E.B to perform at DJ streaming show ‘...]]></title>
-            <link>https://now.smtown.com/news/detail/2380760</link>
-            <guid>https://now.smtown.com/news/detail/2380760</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[Popular DJ J.E.B scrambles as the first runner ...]]></content:encoded>
         </item>
     </channel>
 </rss>
