@@ -4,7 +4,7 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,6 +41,15 @@
             <pubDate>Tue, 04 Jan 2022 09:47:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTE0/MDAxNjQxMjM3OTE5OTc5.RwyXdDLejHgUAvE3-UA49IwWIzQmQte2qq8dKV3c0jYg.Doro6FsSbfOYSJ40TSZBBBGnA34eu4Le5wIFUKSGwJIg.JPEG/I3GUvkd_S0vsvqYpMXxZdjBV2Msg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강타의 감미로운 목소리와
+'Slow Dance' 함께 하실래요?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 12 Jan 2022 09:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjIg/MDAxNjQxNTIzNjg1Mzky.l10Ok4aCWWpfWczD_LCBM2zQNab4WrWqTg3ysu93VyAg.2Sm9vjuvoI2K4yA_WzqQHoa5RPHr3iVEvjHUipVDK_Qg.JPEG/IArBx1HCVF-lGtjqCJFCdEM8s_Os.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재 자체부터 '갓' ⭐ 
@@ -174,15 +183,6 @@ MV 비하인드 현장!]]></title>
             <pubDate>Mon, 25 Oct 2021 06:52:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjRfNTcg/MDAxNjM1MDg2MzIwODM5.eA11qUvQHBYNMGeOwBCvd6y7KpVVXfhEphrInq414aUg.O_WM-JysnmlV8vHfbm7K1NxTVvjEw5HaozAI5_F4lx4g.JPEG/IBNPowUS-_wYxe5MF9G3VHOfVQ_g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
-은혁의 데뷔 첫 싱글 'be']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Wed, 20 Oct 2021 09:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTgw/MDAxNjM0NDgzNjE0NDMw.YxM6mY-TACfQJ06rjEUuialpQ71Oxf681DSh7N8yncwg.TMdFapV15Htfc-rIQfOjRUKGzcjjsngnenk7x_1TGykg.JPEG/I-rQgp66oPedD-QH3oAVVL_kjYF4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

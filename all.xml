@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/1-27398614</link>
+            <guid>https://vlive.tv/post/1-27398614</guid>
+            <pubDate>Wed, 12 Jan 2022 09:44:57 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_101/1641958361029HdCYF_JPEG/upload_86038074982184268c8ce8898-2f3b-4dd7-b636-493149540444.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-27383457</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-27349824</guid>
             <pubDate>Tue, 11 Jan 2022 17:06:27 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220109_214/1641715233782fUz6v_JPEG/upload_579848165359890254ed03a90-f750-439c-a19e-60758bdb8db4.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/0-27011549</link>
             <guid>https://vlive.tv/post/0-27011549</guid>
-            <pubDate>Tue, 11 Jan 2022 17:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] aespa 에스파 'Dreams Come True' MV (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-27010854</link>
-            <guid>https://vlive.tv/post/0-27010854</guid>
             <pubDate>Tue, 11 Jan 2022 17:06:27 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
@@ -791,6 +791,15 @@ ht...]]></content:encoded>
             <content:encoded><![CDATA[DJ and producer Hitchhiker's new single 'Alone'...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[강타의 감미로운 목소리와
+'Slow Dance' 함께 하실래요? (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603</guid>
+            <pubDate>Wed, 12 Jan 2022 09:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[강타의 새 싱글 'Slow Dance'가 공개되었습니다! 데뷔 25주년 프로젝트의 마지막을 장식할 싱글인데요~ 추운 겨울에 듣기 좋은 이 곡, 강타의 소개와 함께 지금 바로 만나봐요!Slow Dance몽환적인 기타 사운드와 감···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjIg/MDAxNjQxNTIzNjg1Mzky.l10Ok4aCWWpfWczD_LCBM2zQNab4WrWqTg3ysu93VyAg.2Sm9vjuvoI2K4yA_WzqQHoa5RPHr3iVEvjHUipVDK_Qg.JPEG/IArBx1HCVF-lGtjqCJFCdEM8s_Os.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33080261&amp;memberNo=41350603</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33080261&amp;memberNo=41350603</guid>
@@ -958,14 +967,6 @@ NCT 'Universe'에서 같이 놀래? (네이버 포스트 ─ SMTOWN 신곡 포�
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMjYy/MDAxNjM3NzQzMTI1NjY3.np9mlPKa1F5dELUQ9rWQUAnf4Az0Q84Cn1q0r5ojNbEg.x1sBuYSwroQb3s2YvX7JJq0Uy3fbuK8P0kl6UdTqeykg.JPEG/IHmlM3c0snp7HhCPJG2nM7lIxYXI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[카이] 순간이동능력자 솔로 활동기 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32735700&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32735700&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[두둥, 神(=카이) 등장! 엑소엘이 기다리고 기다리던 소식세젤킹카☆ 카이(KAI)가 11월 30일 드디어 두 번째 솔로 앨범 ‘Peaches’로컴백합니다!작년 첫 솔로 앨범 ‘KAI (开)’ 이후1년 만에 발표하는 새 앨범인데요음···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTFfODUg/MDAxNjM2NjMwNjUyNzM2.WLGAYTwZ0ggO8Tg4s2-nc2uZqZhXTyK8ZDrD4qx6u18g.2Y8Bv9Q6YIKSmlG-twpFbFVx9lCfkXw_N3lUovGQ9Msg.JPEG/II3Xs-WHYJbExTkgfr5QNrNx6eEs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33080261&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33080261&amp;memberNo=41350603&amp;navigationType=push</guid>
@@ -999,6 +1000,15 @@ NCT 'Universe'에서 같이 놀래? (네이버 포스트 ─ SMTOWN 신곡 포�
             <pubDate>Tue, 04 Jan 2022 09:47:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTE0/MDAxNjQxMjM3OTE5OTc5.RwyXdDLejHgUAvE3-UA49IwWIzQmQte2qq8dKV3c0jYg.Doro6FsSbfOYSJ40TSZBBBGnA34eu4Le5wIFUKSGwJIg.JPEG/I3GUvkd_S0vsvqYpMXxZdjBV2Msg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강타의 감미로운 목소리와
+'Slow Dance' 함께 하실래요? (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 12 Jan 2022 09:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjIg/MDAxNjQxNTIzNjg1Mzky.l10Ok4aCWWpfWczD_LCBM2zQNab4WrWqTg3ysu93VyAg.2Sm9vjuvoI2K4yA_WzqQHoa5RPHr3iVEvjHUipVDK_Qg.JPEG/IArBx1HCVF-lGtjqCJFCdEM8s_Os.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재 자체부터 '갓' ⭐ 
@@ -1132,15 +1142,6 @@ MV 비하인드 현장! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Mon, 25 Oct 2021 06:52:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjRfNTcg/MDAxNjM1MDg2MzIwODM5.eA11qUvQHBYNMGeOwBCvd6y7KpVVXfhEphrInq414aUg.O_WM-JysnmlV8vHfbm7K1NxTVvjEw5HaozAI5_F4lx4g.JPEG/IBNPowUS-_wYxe5MF9G3VHOfVQ_g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나와 어디든 함께 걸어줘 ෆ˙ᵕ˙ෆ 
-은혁의 데뷔 첫 싱글 'be' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32575563&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Wed, 20 Oct 2021 09:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTgw/MDAxNjM0NDgzNjE0NDMw.YxM6mY-TACfQJ06rjEUuialpQ71Oxf681DSh7N8yncwg.TMdFapV15Htfc-rIQfOjRUKGzcjjsngnenk7x_1TGykg.JPEG/I-rQgp66oPedD-QH3oAVVL_kjYF4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카이] 순간이동능력자 솔로 활동기 (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
@@ -1516,6 +1517,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24558774</link>
+            <guid>https://tv.naver.com/v/24558774</guid>
+            <pubDate>Wed, 12 Jan 2022 09:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_114/i4T6y_1641958141485KGI68_JPEG/1641958030551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24538756</link>
             <guid>https://tv.naver.com/v/24538756</guid>
@@ -1746,14 +1755,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_149/4NqRa_1638975146923NSiQh_JPEG/1638975142996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-D&E 슈퍼주니어-D&E 'Need U' Special Video | ‘COUNTDOWN TO ZERO' Epilogue (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23979921</link>
-            <guid>https://tv.naver.com/v/23979921</guid>
-            <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[5:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_9/h9m3U_1638960593005JJDxL_JPEG/1638960479273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
