@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380818</link>
+            <guid>https://now.smtown.com/news/detail/2380818</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380817</link>
+            <guid>https://now.smtown.com/news/detail/2380817</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380816</link>
+            <guid>https://now.smtown.com/news/detail/2380816</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380815</link>
+            <guid>https://now.smtown.com/news/detail/2380815</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
             <link>https://www.youtube.com/watch?v=Gdz0dEkh_YI</link>
@@ -204,37 +224,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380736</guid>
             <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT (SM) topped the December Monthly Albums Cha...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 The 3rd Album ‘Sticker’ enters ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380735</link>
-            <guid>https://now.smtown.com/news/detail/2380735</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album and NCT's 3rd album were li...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN participated in writing th...]]></title>
-            <link>https://now.smtown.com/news/detail/2380734</link>
-            <guid>https://now.smtown.com/news/detail/2380734</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) writing the lyrics for ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL LIVE] Analog Trip NCT 127: Esc...]]></title>
-            <link>https://www.youtube.com/watch?v=WQC0XAaau74</link>
-            <guid>https://www.youtube.com/watch?v=WQC0XAaau74</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA["아날로그 트립 NCT 127" 스페셜 라이브
-
-특별했던 소무의도 여행을 추억하기 위...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WQC0XAaau74/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN heralded a dark transforma...]]></title>
-            <link>https://now.smtown.com/news/detail/2380720</link>
-            <guid>https://now.smtown.com/news/detail/2380720</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) heralded a dark transfo...]]></content:encoded>
         </item>
     </channel>
 </rss>

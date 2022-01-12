@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연, 컴백 신호탄 쏘다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5842</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5842</guid>
-            <pubDate>Tue, 11 Jan 2022 04:55:05 GMT</pubDate>
+            <title><![CDATA[엑소 백현, 솔로 가수 10년 누적 앨범 판매량 1위 기록!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5847</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5847</guid>
+            <pubDate>Wed, 12 Jan 2022 05:42:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연, 컴백 신호탄 쏘다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfe675153a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">엑소 백현, 솔로 가수 10년 누적 앨범 판매량 1위 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6a4b286e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5841</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5841</guid>
-            <pubDate>Tue, 11 Jan 2022 03:47:08 GMT</pubDate>
+            <title><![CDATA[태연, 女 솔로 가수 10년 누적 앨범 판매량 1위 기록!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5846</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5846</guid>
+            <pubDate>Wed, 12 Jan 2022 05:42:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfdb564d3b.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">태연, 女 솔로 가수 10년 누적 앨범 판매량 1위 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de69d99a937.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

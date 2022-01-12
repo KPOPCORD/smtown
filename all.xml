@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연, 컴백 신호탄 쏘다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5842</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5842</guid>
-            <pubDate>Tue, 11 Jan 2022 04:55:05 GMT</pubDate>
+            <title><![CDATA[엑소 백현, 솔로 가수 10년 누적 앨범 판매량 1위 기록! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5847</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5847</guid>
+            <pubDate>Wed, 12 Jan 2022 05:42:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연, 컴백 신호탄 쏘다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfe675153a.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">엑소 백현, 솔로 가수 10년 누적 앨범 판매량 1위 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6a4b286e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, 女 솔로 가수 10년 누적 앨범 판매량 1위 기록! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5846</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5846</guid>
+            <pubDate>Wed, 12 Jan 2022 05:42:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">태연, 女 솔로 가수 10년 누적 앨범 판매량 1위 기록!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de69d99a937.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['25일 컴백' 규현, 미니 4집 'Love Story' 티저 이미지 공개! 따뜻한 계절감 물씬 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5845</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5845</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 'Love Story'의 따뜻한 무드를 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de68d8b352b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5841</link>
             <guid>https://www.smtown.com/artist/newsDetail/5841</guid>
             <pubDate>Tue, 11 Jan 2022 03:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민, 새 앨범 ‘Devil’로 들려줄 다채로운 보컬 매력!</span>]]></content:encoded>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)로 다채로운 보컬 매력을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfdb564d3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, 25일 네 번째 미니앨범 '연애소설' 발매...사계절 프로젝트 ‘PROJECT : 季’ 대단원 마무리 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5838</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5838</guid>
+            <pubDate>Mon, 10 Jan 2022 04:56:29 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 새 앨범으로 사계절 프로젝트 ‘PROJECT : 季’를 마무리한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbacb9e1589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강창민, 새 솔로 앨범 발매 기념 유튜브 라이브 13일 진행! 컴백 기대감 MAX! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5833</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5833</guid>
+            <pubDate>Fri, 07 Jan 2022 03:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 컴백 카운트다운 생방송으로 팬들과 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7a03426607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 1월 12일 공개! 로맨틱 감성 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5831</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5831</guid>
+            <pubDate>Fri, 07 Jan 2022 03:01:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)가 오는 12일 신곡 ‘Slow Dance’(슬로우 댄스)를 발표한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79f744d082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 태연, 컴백 신호탄 쏘다! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5842</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5842</guid>
+            <pubDate>Tue, 11 Jan 2022 04:55:05 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘Can’t Control Myself’(캔트 컨트롤 마이셀프)로 컴백 신호탄을 쏘아 올린다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfe675153a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘컴백 D-3’ 최강창민, 새 앨범 수록곡 ‘Maniac’ 비디오 10일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -423,54 +471,6 @@
             <pubDate>Fri, 07 Jan 2022 03:01:04 GMT</pubDate>
             <content:encoded><![CDATA[DJ 겸 프로듀서 히치하이커(Hitchhiker)의 새 싱글 ‘Alone’(얼론)이 7일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79f2c46810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 정규 3집, 美 ‘빌보드 200’ 15주 연속 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5827</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5827</guid>
-            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 정규 3집과 NCT 정규 3집이 나란히 미국 ‘빌보드 200’ 차트에 이름을 올리며 쌍끌이 인기 행진을 펼치고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67a98ceac3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 25일 네 번째 미니앨범 '연애소설' 발매...사계절 프로젝트 ‘PROJECT : 季’ 대단원 마무리 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5838</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5838</guid>
-            <pubDate>Mon, 10 Jan 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 새 앨범으로 사계절 프로젝트 ‘PROJECT : 季’를 마무리한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbacb9e1589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민, 새 솔로 앨범 발매 기념 유튜브 라이브 13일 진행! 컴백 기대감 MAX! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5833</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5833</guid>
-            <pubDate>Fri, 07 Jan 2022 03:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 컴백 카운트다운 생방송으로 팬들과 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7a03426607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 1월 12일 공개! 로맨틱 감성 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5831</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5831</guid>
-            <pubDate>Fri, 07 Jan 2022 03:01:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)가 오는 12일 신곡 ‘Slow Dance’(슬로우 댄스)를 발표한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79f744d082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 ‘Universe’, 12월 월간 음반 차트 1위 석권! 막강 파워 입증! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5828</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5828</guid>
-            <pubDate>Thu, 06 Jan 2022 05:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 정규 3집 ‘Universe’(유니버스)로 12월 월간 음반 차트 1위를 휩쓸었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d67be08229e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민, 새 솔로 앨범 2곡 작사 참여! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5826</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5826</guid>
-            <pubDate>Thu, 06 Jan 2022 05:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민 (에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)에 수록된 2곡을 직접 작사했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d677c762d1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’ (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,30 @@
             <pubDate>Fri, 31 Dec 2021 07:41:37 GMT</pubDate>
             <content:encoded><![CDATA[배우 배다빈이 KBS 2TV 새 주말드라마 ‘현재는 아름다워’에 캐스팅됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380818</link>
+            <guid>https://now.smtown.com/news/detail/2380818</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380817</link>
+            <guid>https://now.smtown.com/news/detail/2380817</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380816</link>
+            <guid>https://now.smtown.com/news/detail/2380816</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380815</link>
+            <guid>https://now.smtown.com/news/detail/2380815</guid>
+            <pubDate>Wed, 12 Jan 2022 05:43:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser (SMTOWN ─ NOW)]]></title>
@@ -767,37 +791,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380736</guid>
             <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
             <content:encoded><![CDATA[NCT (SM) topped the December Monthly Albums Cha...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 The 3rd Album ‘Sticker’ enters ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380735</link>
-            <guid>https://now.smtown.com/news/detail/2380735</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127's 3rd album and NCT's 3rd album were li...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN participated in writing th... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380734</link>
-            <guid>https://now.smtown.com/news/detail/2380734</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) writing the lyrics for ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL LIVE] Analog Trip NCT 127: Esc... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=WQC0XAaau74</link>
-            <guid>https://www.youtube.com/watch?v=WQC0XAaau74</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA["아날로그 트립 NCT 127" 스페셜 라이브
-
-특별했던 소무의도 여행을 추억하기 위...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WQC0XAaau74/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN heralded a dark transforma... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380720</link>
-            <guid>https://now.smtown.com/news/detail/2380720</guid>
-            <pubDate>Tue, 11 Jan 2022 09:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) heralded a dark transfo...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
