@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 14:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 15:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser (SMTOWN ─ Media Board)]]></title>
+            <link>https://vlive.tv/post/0-27400788</link>
+            <guid>https://vlive.tv/post/0-27400788</guid>
+            <pubDate>Wed, 12 Jan 2022 15:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_229/1641999243153dQPcp_JPEG/upload_8607895507490903548f6aa85-2b86-4ad8-bcff-7e86baa701fe.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-27398614</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-27366840</guid>
             <pubDate>Tue, 11 Jan 2022 17:06:27 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_296/1641805238100HukAz_JPEG/upload_8588480467215886935990c1e-ae4d-40af-bef2-52220d1fd454.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유 (SMTOWN ─ Media Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[MINHO 민호 'Heartbreak' MV (SMTOWN ─ Media Board)]]></title>
             <link>https://vlive.tv/post/1-27029131</link>
             <guid>https://vlive.tv/post/1-27029131</guid>
-            <pubDate>Tue, 11 Jan 2022 17:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MINHO 민호 'Heartbreak' MV Teaser (SMTOWN ─ Media Board)]]></title>
-            <link>https://vlive.tv/post/0-27011549</link>
-            <guid>https://vlive.tv/post/0-27011549</guid>
             <pubDate>Tue, 11 Jan 2022 17:06:27 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
@@ -1519,6 +1519,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24572283</link>
+            <guid>https://tv.naver.com/v/24572283</guid>
+            <pubDate>Wed, 12 Jan 2022 15:51:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_166/Z8NP2_16419993715210xbv9_JPEG/1641999219387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24558774</link>
             <guid>https://tv.naver.com/v/24558774</guid>
@@ -1749,14 +1757,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_132/tJe36_1639044828095nB4Oh_JPEG/1639044826910.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/23983232</link>
-            <guid>https://tv.naver.com/v/23983232</guid>
-            <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_149/4NqRa_1638975146923NSiQh_JPEG/1638975142996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
