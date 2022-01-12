@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 15:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 17:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=yDEqdvZQYlA</link>
+            <guid>https://www.youtube.com/watch?v=yDEqdvZQYlA</guid>
+            <pubDate>Wed, 12 Jan 2022 17:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" will be r...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/yDEqdvZQYlA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KANGTA 강타 'Slow Dance' MV (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=9zsfAfbk_Ig</link>
             <guid>https://www.youtube.com/watch?v=9zsfAfbk_Ig</guid>
@@ -784,13 +792,6 @@ ht...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380760</guid>
             <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
             <content:encoded><![CDATA[Popular DJ J.E.B scrambles as the first runner ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA, new song ‘Slow Dance’ released ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380759</link>
-            <guid>https://now.smtown.com/news/detail/2380759</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[KANGTA (SM) will release a new song ‘Slow Dance...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강타의 감미로운 목소리와
