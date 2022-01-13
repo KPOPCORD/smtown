@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 127 & NCT 앨범, 美 ‘빌보드 200’ 또 동시 차트인!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5852</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5852</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:39 GMT</pubDate>
+            <title><![CDATA[최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5854</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5854</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 &amp; NCT 앨범, 美 ‘빌보드 200’ 또 동시 차트인!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6d4e3fba7.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df894c51225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5851</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5851</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:40 GMT</pubDate>
+            <title><![CDATA[샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5853</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5853</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6c7963733.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df88bd623da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

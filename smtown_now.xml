@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380839</link>
+            <guid>https://now.smtown.com/news/detail/2380839</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380838</link>
+            <guid>https://now.smtown.com/news/detail/2380838</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[국방의 의무를 다하고 돌아온 #우도환 의 스윗한 #전역인사 | WooD...]]></title>
             <link>https://www.youtube.com/watch?v=30EFqAis1Qg</link>
@@ -216,20 +226,6 @@ https://www.youtube.com/c/aespa
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AXakzkH8heQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jung Sung Il to appear in tvN's '배드 앤 크...]]></title>
-            <link>https://now.smtown.com/news/detail/2380766</link>
-            <guid>https://now.smtown.com/news/detail/2380766</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Jung Sung Il will appear in '배드 앤 크레이지'.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN celebrating his new solo a...]]></title>
-            <link>https://now.smtown.com/news/detail/2380761</link>
-            <guid>https://now.smtown.com/news/detail/2380761</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) meets fans with a comeb...]]></content:encoded>
         </item>
     </channel>
 </rss>

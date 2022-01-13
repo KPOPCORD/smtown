@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 01:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5854</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5854</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df894c51225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5853</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5853</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df88bd623da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 & NCT 앨범, 美 ‘빌보드 200’ 또 동시 차트인! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5852</link>
             <guid>https://www.smtown.com/artist/newsDetail/5852</guid>
             <pubDate>Wed, 12 Jan 2022 06:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 127 &amp; NCT 앨범, 美 ‘빌보드 200’ 또 동시 차트인!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 127과 NCT 앨범이 미국 ‘빌보드 200’에 3주 연속 동시 차트인하며 쌍끌이 인기 행보를 이어갔다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6d4e3fba7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5851</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5851</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6c7963733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최강창민, 이번 주 음악 방송 출격! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfe675153a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘컴백 D-3’ 최강창민, 새 앨범 수록곡 ‘Maniac’ 비디오 10일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5839</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5839</guid>
-            <pubDate>Mon, 10 Jan 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 새 솔로 앨범 수록곡 ‘Maniac’(매니악) 비디오가 10일 선공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbad3633afa.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5851</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5851</guid>
+            <pubDate>Wed, 12 Jan 2022 06:53:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)가 12일 신곡 ‘Slow Dance’(슬로우 댄스)를 공개한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6c7963733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어 히트곡 ‘U’ 리마스터 뮤직비디오 13일 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 11 Jan 2022 03:47:08 GMT</pubDate>
             <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)로 다채로운 보컬 매력을 들려준다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfdb564d3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 25일 네 번째 미니앨범 '연애소설' 발매...사계절 프로젝트 ‘PROJECT : 季’ 대단원 마무리 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5838</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5838</guid>
-            <pubDate>Mon, 10 Jan 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 새 앨범으로 사계절 프로젝트 ‘PROJECT : 季’를 마무리한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbacb9e1589.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’ (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,18 @@
             <pubDate>Fri, 31 Dec 2021 07:41:37 GMT</pubDate>
             <content:encoded><![CDATA[배우 배다빈이 KBS 2TV 새 주말드라마 ‘현재는 아름다워’에 캐스팅됐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380839</link>
+            <guid>https://now.smtown.com/news/detail/2380839</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380838</link>
+            <guid>https://now.smtown.com/news/detail/2380838</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[국방의 의무를 다하고 돌아온 #우도환 의 스윗한 #전역인사 | WooD... (SMTOWN ─ NOW)]]></title>
@@ -779,20 +791,6 @@ https://www.youtube.com/c/aespa
 https://www.weibo.com/WeiShenV
 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/AXakzkH8heQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jung Sung Il to appear in tvN's '배드 앤 크... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380766</link>
-            <guid>https://now.smtown.com/news/detail/2380766</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Jung Sung Il will appear in '배드 앤 크레이지'.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN celebrating his new solo a... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380761</link>
-            <guid>https://now.smtown.com/news/detail/2380761</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) meets fans with a comeb...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강타의 감미로운 목소리와
