@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380843</link>
+            <guid>https://now.smtown.com/news/detail/2380843</guid>
+            <pubDate>Thu, 13 Jan 2022 06:53:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN’s dark transformation to b...]]></title>
             <link>https://now.smtown.com/news/detail/2380839</link>
@@ -220,16 +225,6 @@ https://www.youtube.com/c/aespa
             <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
             <content:encoded><![CDATA[Hitchhiker and 3RD's new single 'Alone' is out ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/gdCx2HqZhIs/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WayV-log] 🐱👀Old Beijing Tour with TE...]]></title>
-            <link>https://www.youtube.com/watch?v=AXakzkH8heQ</link>
-            <guid>https://www.youtube.com/watch?v=AXakzkH8heQ</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[WayV Official
-https://www.weibo.com/WeiShenV
-ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AXakzkH8heQ/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
