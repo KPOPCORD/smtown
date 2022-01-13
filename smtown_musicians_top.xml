@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 08:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 09:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5856</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5856</guid>
+            <pubDate>Thu, 13 Jan 2022 09:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dff2bddc701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5854</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df894c51225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5853</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5853</guid>
-            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df88bd623da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

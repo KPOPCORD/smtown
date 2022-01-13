@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 08:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 09:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380845</link>
+            <guid>https://now.smtown.com/news/detail/2380845</guid>
+            <pubDate>Thu, 13 Jan 2022 09:46:49 GMT</pubDate>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380843</link>
             <guid>https://now.smtown.com/news/detail/2380843</guid>
@@ -39,7 +44,8 @@
             <link>https://www.youtube.com/watch?v=yDEqdvZQYlA</link>
             <guid>https://www.youtube.com/watch?v=yDEqdvZQYlA</guid>
             <pubDate>Wed, 12 Jan 2022 17:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" will be r...]]></content:encoded>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/yDEqdvZQYlA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -217,14 +223,6 @@ https://www.youtube.com/c/aespa
             <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
             <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" will be r...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/JO-jX9fn97Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
-            <link>https://www.youtube.com/watch?v=gdCx2HqZhIs</link>
-            <guid>https://www.youtube.com/watch?v=gdCx2HqZhIs</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[Hitchhiker and 3RD's new single 'Alone' is out ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/gdCx2HqZhIs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
