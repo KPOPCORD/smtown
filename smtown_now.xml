@@ -4,18 +4,31 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 09:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 10:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[TAEYEON, ‘Can’t Control Myself’ teaser ...]]></title>
             <link>https://now.smtown.com/news/detail/2380845</link>
             <guid>https://now.smtown.com/news/detail/2380845</guid>
             <pubDate>Thu, 13 Jan 2022 09:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)'s new song 'Can't...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
+            <link>https://www.youtube.com/watch?v=XVwi2VF7_R4</link>
+            <guid>https://www.youtube.com/watch?v=XVwi2VF7_R4</guid>
+            <pubDate>Thu, 13 Jan 2022 10:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/XVwi2VF7_R4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lee Yong Jin, 2022 Korea First Brand Gr...]]></title>
             <link>https://now.smtown.com/news/detail/2380843</link>
             <guid>https://now.smtown.com/news/detail/2380843</guid>
             <pubDate>Thu, 13 Jan 2022 06:53:44 GMT</pubDate>
+            <content:encoded><![CDATA[Lee Yong Jin won the 2022 Korea First Brand Gra...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MAX CHANGMIN’s dark transformation to b...]]></title>
@@ -215,14 +228,6 @@ https://www.youtube.com/c/aespa
             <guid>https://now.smtown.com/news/detail/2380782</guid>
             <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! MAX CHANGMIN(SM)'s new solo album 'Fever'...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
-            <link>https://www.youtube.com/watch?v=JO-jX9fn97Q</link>
-            <guid>https://www.youtube.com/watch?v=JO-jX9fn97Q</guid>
-            <pubDate>Wed, 12 Jan 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" will be r...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/JO-jX9fn97Q/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
