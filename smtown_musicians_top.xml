@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5856</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5856</guid>
-            <pubDate>Thu, 13 Jan 2022 09:46:02 GMT</pubDate>
+            <title><![CDATA[최강창민, 새 솔로 앨범 아이튠즈 14개 지역 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5861</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5861</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dff2bddc701.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">최강창민, 새 솔로 앨범 아이튠즈 14개 지역 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eb49804ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5854</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5854</guid>
-            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5860</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5860</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df894c51225.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eaa3868d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

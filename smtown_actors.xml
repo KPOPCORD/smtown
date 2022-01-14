@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBC 금토드라마 '트레이서' 고아성, 장르물 최적화된 연기 변신]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5837</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5837</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[고아성이 또 한 번 '믿고 보는 배우'임을 증명해냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbac133bf6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정성일, tvN ‘배드 앤 크레이지’ 출연… 심리상담가 주혁役]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5834</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5834</guid>
+            <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정성일이 ‘배드 앤 크레이지’에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7e5dbdeaf3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5823</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5823</guid>
+            <pubDate>Fri, 07 Jan 2022 07:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 흡인력으로 시청자들을 끌어당기고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뮤시즌' 슈퍼주니어 려욱, 뮤지컬 '팬레터' 동료들도 극찬한 인생 캐릭터 "정세훈 役 그 자체"]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5818</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5818</guid>
+            <pubDate>Wed, 05 Jan 2022 02:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 려욱이 탄탄한 연기력으로 창작 뮤지컬 '팬레터'에 대한 기대감을 높였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d501a56eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5810</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5810</guid>
+            <pubDate>Tue, 04 Jan 2022 05:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘가요대제전’ 7년 연속 MC로 맹활약했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d282c3e0429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘며느라기2…ing’ 박하선, 맞춤옷 입은 듯한 ‘완벽한 귀환’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5836</link>
@@ -46,46 +86,6 @@
             <pubDate>Mon, 03 Jan 2022 05:43:08 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 다채로운 연기로 사랑받고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성일, tvN ‘배드 앤 크레이지’ 출연… 심리상담가 주혁役]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5834</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5834</guid>
-            <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정성일이 ‘배드 앤 크레이지’에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7e5dbdeaf3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5823</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5823</guid>
-            <pubDate>Fri, 07 Jan 2022 07:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 흡인력으로 시청자들을 끌어당기고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뮤시즌' 슈퍼주니어 려욱, 뮤지컬 '팬레터' 동료들도 극찬한 인생 캐릭터 "정세훈 役 그 자체"]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5818</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5818</guid>
-            <pubDate>Wed, 05 Jan 2022 02:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 려욱이 탄탄한 연기력으로 창작 뮤지컬 '팬레터'에 대한 기대감을 높였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d501a56eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5810</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5810</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘가요대제전’ 7년 연속 MC로 맹활약했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d282c3e0429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 배다빈, KBS 2TV 새 주말드라마]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5807</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5807</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 배다빈이 KBS 2TV 새 주말드라마 ‘현재는 아름다워’에 캐스팅됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ceacc3dba50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

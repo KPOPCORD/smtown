@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성,]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5857</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5857</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">웨이브 오리지널 '트레이서' 고아성, </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e876d5b6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5840</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfd4ee0753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBC 금토드라마 '트레이서' 고아성, 장르물 최적화된 연기 변신]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5837</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5837</guid>
-            <pubDate>Mon, 10 Jan 2022 03:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">MBC 금토드라마 '트레이서' 고아성, 장르물 최적화된 연기 변신</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbac133bf6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
