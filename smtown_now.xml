@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 10:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 11:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISEL...]]></title>
+            <link>https://www.youtube.com/watch?v=0IBSemQmno8</link>
+            <guid>https://www.youtube.com/watch?v=0IBSemQmno8</guid>
+            <pubDate>Fri, 14 Jan 2022 11:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0IBSemQmno8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 손태진 SONTAEJIN - 오늘 MV]]></title>
             <link>https://www.youtube.com/watch?v=tTueB1hOc0A</link>
@@ -220,13 +230,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380797</guid>
             <pubDate>Fri, 14 Jan 2022 07:42:48 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) show...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM proved the best K-pop content power ...]]></title>
-            <link>https://now.smtown.com/news/detail/2380787</link>
-            <guid>https://now.smtown.com/news/detail/2380787</guid>
-            <pubDate>Fri, 14 Jan 2022 07:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment's total album sales in 2021 ex...]]></content:encoded>
         </item>
     </channel>
 </rss>
