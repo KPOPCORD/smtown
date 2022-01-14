@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2022-01-14T18:57:27.791Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Jan 2022 19:42:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISELLE 'ZOO' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27424391</link>
+            <guid>https://vlive.tv/post/0-27424391</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220114_243/1642155491879XsA9q_JPEG/upload_58423470013773988ddcdf213-e1a8-4131-8a6c-2de22d92ee8a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
+            <link>https://vlive.tv/post/0-27410057</link>
+            <guid>https://vlive.tv/post/0-27410057</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220114_289/1642149416615R5CdY_JPEG/upload_58418608268249309b34f0817-0c2d-45cb-8f6e-7c9d3aa50992.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-27400788</link>
+            <guid>https://vlive.tv/post/0-27400788</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_229/1641999243153dQPcp_JPEG/upload_8607895507490903548f6aa85-2b86-4ad8-bcff-7e86baa701fe.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV]]></title>
+            <link>https://vlive.tv/post/1-27398614</link>
+            <guid>https://vlive.tv/post/1-27398614</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27383457</link>
+            <guid>https://vlive.tv/post/1-27383457</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video]]></title>
+            <link>https://vlive.tv/post/0-27366840</link>
+            <guid>https://vlive.tv/post/0-27366840</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://vlive.tv/post/0-27349824</link>
+            <guid>https://vlive.tv/post/0-27349824</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27321906</link>
+            <guid>https://vlive.tv/post/0-27321906</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
+            <link>https://vlive.tv/post/1-27307729</link>
+            <guid>https://vlive.tv/post/1-27307729</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27307204</link>
+            <guid>https://vlive.tv/post/1-27307204</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
+            <link>https://vlive.tv/post/1-27238570</link>
+            <guid>https://vlive.tv/post/1-27238570</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
+            <link>https://vlive.tv/post/1-27238253</link>
+            <guid>https://vlive.tv/post/1-27238253</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat 'Step Back' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27231164</link>
+            <guid>https://vlive.tv/post/0-27231164</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! 동방신기 'DINNER' Live Clip @DINNER with Cassiopeia]]></title>
+            <link>https://vlive.tv/post/0-27183121</link>
+            <guid>https://vlive.tv/post/0-27183121</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice]]></title>
+            <link>https://vlive.tv/post/1-27167671</link>
+            <guid>https://vlive.tv/post/1-27167671</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV]]></title>
+            <link>https://vlive.tv/post/1-27143827</link>
+            <guid>https://vlive.tv/post/1-27143827</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27137250</link>
+            <guid>https://vlive.tv/post/1-27137250</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV]]></title>
+            <link>https://vlive.tv/post/1-27134016</link>
+            <guid>https://vlive.tv/post/1-27134016</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27119039</link>
+            <guid>https://vlive.tv/post/1-27119039</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performance Stage]]></title>
+            <link>https://vlive.tv/post/1-27081270</link>
+            <guid>https://vlive.tv/post/1-27081270</guid>
+            <pubDate>Fri, 14 Jan 2022 19:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+    </channel>
+</rss>
