@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 13:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 13:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,7 +581,7 @@
             <enclosure url="https://i.ytimg.com/vi/0IBSemQmno8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MV] 손태진 SONTAEJIN - 오늘 MV (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[[MV] 손태진 SONTAEJIN - 오늘 MV / ENG sub (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=tTueB1hOc0A</link>
             <guid>https://www.youtube.com/watch?v=tTueB1hOc0A</guid>
             <pubDate>Fri, 14 Jan 2022 09:46:58 GMT</pubDate>
