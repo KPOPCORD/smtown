@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 08:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 09:47:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 손태진 SONTAEJIN - 오늘 MV]]></title>
+            <link>https://www.youtube.com/watch?v=tTueB1hOc0A</link>
+            <guid>https://www.youtube.com/watch?v=tTueB1hOc0A</guid>
+            <pubDate>Fri, 14 Jan 2022 09:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #ThePresent_Todays #오늘
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tTueB1hOc0A/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON's new song 'Can't Control Mysel...]]></title>
             <link>https://now.smtown.com/news/detail/2380857</link>
@@ -217,13 +227,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380787</guid>
             <pubDate>Fri, 14 Jan 2022 07:42:48 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment's total album sales in 2021 ex...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Comeback D-3’ MAX CHANGMIN’s new album...]]></title>
-            <link>https://now.smtown.com/news/detail/2380786</link>
-            <guid>https://now.smtown.com/news/detail/2380786</guid>
-            <pubDate>Fri, 14 Jan 2022 07:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN(SM)'s new solo album 'Maniac...]]></content:encoded>
         </item>
     </channel>
 </rss>
