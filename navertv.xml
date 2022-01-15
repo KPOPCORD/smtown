@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 14:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 15:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24621861</link>
+            <guid>https://tv.naver.com/v/24621861</guid>
+            <pubDate>Sat, 15 Jan 2022 15:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_23/YSGP3_1642246136625zqrCn_JPEG/1642246132682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISELLE 'ZOO' Stage Video]]></title>
             <link>https://tv.naver.com/v/24605719</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211212_291/jkC9r_1639320800510BBOv3_JPEG/1639320796806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
-            <link>https://tv.naver.com/v/24019046</link>
-            <guid>https://tv.naver.com/v/24019046</guid>
-            <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_14/id7mY_1639126676067gpyw7_JPEG/1639126658652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
