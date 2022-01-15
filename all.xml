@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 10:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 11:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,35 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어? 네가 전학생이구나?🏫💚 | Somethinc Behind th... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=fFtL9IcJZ_8</link>
+            <guid>https://www.youtube.com/watch?v=fFtL9IcJZ_8</guid>
+            <pubDate>Sat, 15 Jan 2022 11:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[#NCTDREAM #NCT
+#Somethinc #Behind
+
+NCT DREAM Of...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/fFtL9IcJZ_8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Reaction w... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=y6Wlk6Lozq0</link>
+            <guid>https://www.youtube.com/watch?v=y6Wlk6Lozq0</guid>
+            <pubDate>Sat, 15 Jan 2022 11:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/y6Wlk6Lozq0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ Jac... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Vryn7ZHIIvU</link>
+            <guid>https://www.youtube.com/watch?v=Vryn7ZHIIvU</guid>
+            <pubDate>Sat, 15 Jan 2022 11:40:41 GMT</pubDate>
+            <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
+🎧 ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Vryn7ZHIIvU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[REPLAY] MAX CHANGMIN 최강창민 ‘Devil’ Coun... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=5pATsbQE0Wk</link>
             <guid>https://www.youtube.com/watch?v=5pATsbQE0Wk</guid>
@@ -774,27 +803,6 @@ Listen...]]></content:encoded>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[KANGTA's new single "Slow Dance" will be releas...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Gdz0dEkh_YI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHANNEL A ‘슈퍼 DNA 피는 못 속여’ (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380800</link>
-            <guid>https://now.smtown.com/news/detail/2380800</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[Kang Ho Dong and Jang Ye Won captivated viewers...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON to come back (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380799</link>
-            <guid>https://now.smtown.com/news/detail/2380799</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM) to come back with...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN to show his vocal charms t... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380798</link>
-            <guid>https://now.smtown.com/news/detail/2380798</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) shows off a variety of ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 최강창민의 언블리버블한 변신, 😈Devil😈 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
