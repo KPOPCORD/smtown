@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 09:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 10:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['2021 Winter SMTOWN : SMCU EXPRESS' Jac... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=jNgxwuHAooo</link>
+            <guid>https://www.youtube.com/watch?v=jNgxwuHAooo</guid>
+            <pubDate>Sun, 16 Jan 2022 10:47:03 GMT</pubDate>
+            <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
+🎧 ht...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jNgxwuHAooo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Te... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=pLk_8u6FNp0</link>
             <guid>https://www.youtube.com/watch?v=pLk_8u6FNp0</guid>
@@ -796,13 +805,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380816</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN heralded the warm mood of ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jang Yoon Ju, donated his voice talent ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380815</link>
-            <guid>https://now.smtown.com/news/detail/2380815</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[Top model and actor Jang Yoon Ju started to don...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 최강창민의 언블리버블한 변신, 😈Devil😈 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
