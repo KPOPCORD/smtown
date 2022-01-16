@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 15:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 17:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Happy WayV Day!]]></title>
+            <link>https://www.youtube.com/watch?v=WxSD2WGvx84</link>
+            <guid>https://www.youtube.com/watch?v=WxSD2WGvx84</guid>
+            <pubDate>Sun, 16 Jan 2022 17:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[【Happy WayVersary l WayV 3rd Anniversary Party】...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WxSD2WGvx84/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2021 Winter SMTOWN : SMCU EXPRESS' Jac...]]></title>
             <link>https://www.youtube.com/watch?v=jNgxwuHAooo</link>
@@ -235,13 +243,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380817</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) ranks No.1 on ’1...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['25th Comeback' KYUHYUN, The 4th Mini A...]]></title>
-            <link>https://now.smtown.com/news/detail/2380816</link>
-            <guid>https://now.smtown.com/news/detail/2380816</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN heralded the warm mood of ...]]></content:encoded>
         </item>
     </channel>
 </rss>
