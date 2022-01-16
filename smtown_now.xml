@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 21:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 22:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가영 또 예쁘네..😍 자꾸만 찾아가고 싶은 #문가영 광고 촬영 현장 ...]]></title>
+            <link>https://www.youtube.com/watch?v=bUbCn3JziN8</link>
+            <guid>https://www.youtube.com/watch?v=bUbCn3JziN8</guid>
+            <pubDate>Sun, 16 Jan 2022 22:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[Ka-young is beautiful again..😍 Behind-the-scen...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bUbCn3JziN8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Happy WayV Day!]]></title>
             <link>https://www.youtube.com/watch?v=WxSD2WGvx84</link>
@@ -236,13 +244,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380818</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[EXO BAEKHYUN (SM) ranks No.1 on ’10-year cumula...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON ranks No.1 on ’10-year cumulati...]]></title>
-            <link>https://now.smtown.com/news/detail/2380817</link>
-            <guid>https://now.smtown.com/news/detail/2380817</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) ranks No.1 on ’1...]]></content:encoded>
         </item>
     </channel>
 </rss>
