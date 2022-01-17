@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 01:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON, new s...]]></title>
+            <link>https://now.smtown.com/news/detail/2380897</link>
+            <guid>https://now.smtown.com/news/detail/2380897</guid>
+            <pubDate>Mon, 17 Jan 2022 03:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ Girls’ Generation TAEY...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가영 또 예쁘네..😍 자꾸만 찾아가고 싶은 #문가영 광고 촬영 현장 ...]]></title>
             <link>https://www.youtube.com/watch?v=bUbCn3JziN8</link>
@@ -237,13 +244,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380819</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a deep ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXO BAEKHYUN, ranks No.1 on ’10-year cu...]]></title>
-            <link>https://now.smtown.com/news/detail/2380818</link>
-            <guid>https://now.smtown.com/news/detail/2380818</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[EXO BAEKHYUN (SM) ranks No.1 on ’10-year cumula...]]></content:encoded>
         </item>
     </channel>
 </rss>

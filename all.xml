@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 01:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5863</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5863</guid>
+            <pubDate>Mon, 17 Jan 2022 03:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e4d3daf1c0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5862</link>
             <guid>https://www.smtown.com/artist/newsDetail/5862</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5861</link>
             <guid>https://www.smtown.com/artist/newsDetail/5861</guid>
             <pubDate>Fri, 14 Jan 2022 03:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민, 새 솔로 앨범 아이튠즈 14개 지역 1위!</span>]]></content:encoded>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)로 컴백과 동시에 뜨거운 관심을 얻고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eb49804ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘유니세프 동아시아태평양지역 친선대사’ 최시원, 유니세프 아동의회 아동정책제안 온라인 발표회 참석! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5859</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5859</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아동 권리 보호를 위해 적극 나섰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0ea074ff2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5856</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5856</guid>
+            <pubDate>Thu, 13 Jan 2022 09:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 신곡 ‘Can’t Control Myself’(캔 컨트롤 마이셀프) 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dff2bddc701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5853</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5853</guid>
+            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)가 13일 ‘엠카운트다운’에 출연해 스페셜 무대를 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df88bd623da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5851</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5851</guid>
+            <pubDate>Wed, 12 Jan 2022 06:53:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)가 12일 신곡 ‘Slow Dance’(슬로우 댄스)를 공개한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6c7963733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Wed, 12 Jan 2022 06:53:52 GMT</pubDate>
             <content:encoded><![CDATA[새 솔로 앨범 ‘Devil’(데블)로 컴백하는 동방신기 최강창민(에스엠엔터테인먼트 소속)이 이번 주 음악 방송에 출격한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6bf482fdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유니세프 동아시아태평양지역 친선대사’ 최시원, 유니세프 아동의회 아동정책제안 온라인 발표회 참석! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5859</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5859</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아동 권리 보호를 위해 적극 나섰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0ea074ff2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5856</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5856</guid>
-            <pubDate>Thu, 13 Jan 2022 09:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 신곡 ‘Can’t Control Myself’(캔 컨트롤 마이셀프) 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dff2bddc701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5853</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5853</guid>
-            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)가 13일 ‘엠카운트다운’에 출연해 스페셜 무대를 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df88bd623da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강타, 신곡 ‘Slow Dance’ 음원+MV 12일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5851</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5851</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)가 12일 신곡 ‘Slow Dance’(슬로우 댄스)를 공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6c7963733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 히트곡 ‘U’ 리마스터 뮤직비디오 13일 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5849</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5849</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어의 히트곡 ‘U’(유) 리마스터 뮤직비디오가 오는 13일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6b5fbce6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨이브 오리지널 '트레이서' 고아성, (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,13 @@
             <pubDate>Fri, 31 Dec 2021 07:41:37 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 다채로운 연기로 사랑받고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON, new s... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380897</link>
+            <guid>https://now.smtown.com/news/detail/2380897</guid>
+            <pubDate>Mon, 17 Jan 2022 03:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ Girls’ Generation TAEY...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가영 또 예쁘네..😍 자꾸만 찾아가고 싶은 #문가영 광고 촬영 현장 ... (SMTOWN ─ NOW)]]></title>
@@ -800,13 +807,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380819</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a deep ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXO BAEKHYUN, ranks No.1 on ’10-year cu... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380818</link>
-            <guid>https://now.smtown.com/news/detail/2380818</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[EXO BAEKHYUN (SM) ranks No.1 on ’10-year cumula...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 최강창민의 언블리버블한 변신, 😈Devil😈 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

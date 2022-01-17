@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 01:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5863</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5863</guid>
+            <pubDate>Mon, 17 Jan 2022 03:00:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e4d3daf1c0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5862</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e10ecbb33c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민, 새 솔로 앨범 아이튠즈 14개 지역 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5861</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5861</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민, 새 솔로 앨범 아이튠즈 14개 지역 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eb49804ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
