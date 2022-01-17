@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 09:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 10:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=RccDIpx4ZMM</link>
+            <guid>https://www.youtube.com/watch?v=RccDIpx4ZMM</guid>
+            <pubDate>Mon, 17 Jan 2022 10:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RccDIpx4ZMM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세상에서 가장 화가 없는 책방, 규서점 | KYUHYUN’s Books... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=bOgyhSK2iF0</link>
             <guid>https://www.youtube.com/watch?v=bOgyhSK2iF0</guid>
@@ -804,13 +812,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380822</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[KANGTA(SM) will release a new song 'Slow Dance'...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN to appear on this week's m... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380821</link>
-            <guid>https://now.smtown.com/news/detail/2380821</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM), who is making a comeba...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리킹 태연을 향한 사랑,
