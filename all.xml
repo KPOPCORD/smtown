@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:49:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,24 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cead6385d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세상에서 가장 화가 없는 책방, 규서점 | KYUHYUN’s Books... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=bOgyhSK2iF0</link>
+            <guid>https://www.youtube.com/watch?v=bOgyhSK2iF0</guid>
+            <pubDate>Mon, 17 Jan 2022 03:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN’s 4th Mini Album "Love Story (4 Season ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bOgyhSK2iF0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신년 키트 언박싱📹] SM Ent. GROUP 키트 🎁 를 열어보... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=UL2TVi1UuTo</link>
+            <guid>https://www.youtube.com/watch?v=UL2TVi1UuTo</guid>
+            <pubDate>Mon, 17 Jan 2022 03:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[✨2022 새해의 시작을 신년키트 언박싱과 함께✨
+
+SM Ent. Group 전 구성...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/UL2TVi1UuTo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON, new s... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380897</link>
             <guid>https://now.smtown.com/news/detail/2380897</guid>
@@ -793,20 +811,6 @@ Listen...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380821</guid>
             <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM), who is making a comeba...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR hit song 'U' remaster musi... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380820</link>
-            <guid>https://now.smtown.com/news/detail/2380820</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR's hit song 'U' remastered music vi...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON participated in writing the lyr... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380819</link>
-            <guid>https://now.smtown.com/news/detail/2380819</guid>
-            <pubDate>Sat, 15 Jan 2022 04:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a deep ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 최강창민의 언블리버블한 변신, 😈Devil😈 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
