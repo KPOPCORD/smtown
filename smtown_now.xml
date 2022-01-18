@@ -4,9 +4,47 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 03:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380914</link>
+            <guid>https://now.smtown.com/news/detail/2380914</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380913</link>
+            <guid>https://now.smtown.com/news/detail/2380913</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380912</link>
+            <guid>https://now.smtown.com/news/detail/2380912</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380911</link>
+            <guid>https://now.smtown.com/news/detail/2380911</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380910</link>
+            <guid>https://now.smtown.com/news/detail/2380910</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380909</link>
+            <guid>https://now.smtown.com/news/detail/2380909</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=Pz5iMvm1eYA</link>
+            <guid>https://www.youtube.com/watch?v=Pz5iMvm1eYA</guid>
+            <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Pz5iMvm1eYA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV]]></title>
             <link>https://www.youtube.com/watch?v=RccDIpx4ZMM</link>
@@ -195,60 +233,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380843</guid>
             <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
             <content:encoded><![CDATA[Lee Yong Jin won the 2022 Korea First Brand Gra...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN’s dark transformation to b...]]></title>
-            <link>https://now.smtown.com/news/detail/2380839</link>
-            <guid>https://now.smtown.com/news/detail/2380839</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM), who predicted a dark t...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MINHO to appear on Mnet ‘M COUNTDOWN’ o...]]></title>
-            <link>https://now.smtown.com/news/detail/2380838</link>
-            <guid>https://now.smtown.com/news/detail/2380838</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee MINHO (SM) to appear on 'M COUNTDOWN' on...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국방의 의무를 다하고 돌아온 #우도환 의 스윗한 #전역인사 | WooD...]]></title>
-            <link>https://www.youtube.com/watch?v=30EFqAis1Qg</link>
-            <guid>https://www.youtube.com/watch?v=30EFqAis1Qg</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[A gift for fans who finally put on the flower s...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/30EFqAis1Qg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser]]></title>
-            <link>https://www.youtube.com/watch?v=yDEqdvZQYlA</link>
-            <guid>https://www.youtube.com/watch?v=yDEqdvZQYlA</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/yDEqdvZQYlA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA 강타 'Slow Dance' MV]]></title>
-            <link>https://www.youtube.com/watch?v=9zsfAfbk_Ig</link>
-            <guid>https://www.youtube.com/watch?v=9zsfAfbk_Ig</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[KANGTA's new single "Slow Dance" is out!
-Listen...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/9zsfAfbk_Ig/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 & NCT's album both enter the ‘B...]]></title>
-            <link>https://now.smtown.com/news/detail/2380823</link>
-            <guid>https://now.smtown.com/news/detail/2380823</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127 and NCT albums continued their populari...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA, new song 'Slow Dance' + MV rele...]]></title>
-            <link>https://now.smtown.com/news/detail/2380822</link>
-            <guid>https://now.smtown.com/news/detail/2380822</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[KANGTA(SM) will release a new song 'Slow Dance'...]]></content:encoded>
         </item>
     </channel>
 </rss>

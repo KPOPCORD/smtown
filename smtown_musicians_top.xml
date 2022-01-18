@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 03:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5863</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5863</guid>
-            <pubDate>Mon, 17 Jan 2022 03:00:21 GMT</pubDate>
+            <title><![CDATA[‘믿듣탱’ 태연 변신 또 통했다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5869</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5869</guid>
+            <pubDate>Tue, 18 Jan 2022 03:46:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e4d3daf1c0e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘믿듣탱’ 태연 변신 또 통했다!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e632cf97230.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5862</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5862</guid>
-            <pubDate>Fri, 14 Jan 2022 06:53:16 GMT</pubDate>
+            <title><![CDATA['컴백 D-7' 규현, 18일 '연애소설' M/V 티저 공개…공명·채수빈 이별 서사 풀리나]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5867</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5867</guid>
+            <pubDate>Tue, 18 Jan 2022 03:46:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e10ecbb33c7.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">'컴백 D-7' 규현, 18일 '연애소설' M/V 티저 공개…공명·채수빈 이별 서사 풀리나</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e631b9dbf9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

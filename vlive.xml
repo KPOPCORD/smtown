@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 03:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/1-27490514</link>
+            <guid>https://vlive.tv/post/1-27490514</guid>
+            <pubDate>Tue, 18 Jan 2022 03:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_96/16424686913717g8OF_JPEG/upload_865484100892460931f2cbe85-747c-4dd4-a569-43e85040eeaf.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV]]></title>
             <link>https://vlive.tv/post/0-27474131</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-27424391</guid>
             <pubDate>Mon, 17 Jan 2022 22:44:13 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_243/1642155491879XsA9q_JPEG/upload_58423470013773988ddcdf213-e1a8-4131-8a6c-2de22d92ee8a.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV Teaser]]></title>
             <link>https://vlive.tv/post/1-27137250</link>
             <guid>https://vlive.tv/post/1-27137250</guid>
-            <pubDate>Mon, 17 Jan 2022 22:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV]]></title>
-            <link>https://vlive.tv/post/1-27134016</link>
-            <guid>https://vlive.tv/post/1-27134016</guid>
             <pubDate>Mon, 17 Jan 2022 22:44:13 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
