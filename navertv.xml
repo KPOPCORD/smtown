@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 10:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 11:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ]]></title>
+            <link>https://tv.naver.com/v/24664993</link>
+            <guid>https://tv.naver.com/v/24664993</guid>
+            <pubDate>Tue, 18 Jan 2022 11:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_120/DcAnl_1642488728821yly5V_JPEG/1642485033259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #1]]></title>
             <link>https://tv.naver.com/v/24648379</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211219_87/hxA7z_1639911376191fwNoB_JPEG/1639911334642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 U 'Universe (Let's Play Ball)' Dance Practice]]></title>
-            <link>https://tv.naver.com/v/24088579</link>
-            <guid>https://tv.naver.com/v/24088579</guid>
-            <pubDate>Mon, 10 Jan 2022 11:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_54/BThIu_1639546105119cVgLJ_JPEG/1639545626602.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

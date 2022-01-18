@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 10:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 11:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ]]></title>
+            <link>https://www.youtube.com/watch?v=aP188FsHQus</link>
+            <guid>https://www.youtube.com/watch?v=aP188FsHQus</guid>
+            <pubDate>Tue, 18 Jan 2022 11:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/aP188FsHQus/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON's transformation worked again!]]></title>
             <link>https://now.smtown.com/news/detail/2380914</link>
@@ -238,13 +247,6 @@ L...]]></content:encoded>
             <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
 L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/XVwi2VF7_R4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Yong Jin, 2022 Korea First Brand Gr...]]></title>
-            <link>https://now.smtown.com/news/detail/2380843</link>
-            <guid>https://now.smtown.com/news/detail/2380843</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[Lee Yong Jin won the 2022 Korea First Brand Gra...]]></content:encoded>
         </item>
     </channel>
 </rss>
