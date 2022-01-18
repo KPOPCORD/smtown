@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 03:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603</guid>
+            <pubDate>Tue, 18 Jan 2022 03:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[우리 매력 공장장 박수영 배우가3년 만에 안방극장에 컴백해서  매주 월, 화요일 11시우리의 마음을 따뜻하게 만드는 JTBC 월화드라마 &lt;한 사람만&gt;모두 시청하고 계시겠죠? 사진 출처: 키이스트, JTBC 스튜디···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMjU5/MDAxNjQyNDAyNTU4MDU5.CK0IU_Cv_5wbxc_F8s4ivoZROuRe2lsFYSs55Jp0MRog.6iIk08DaDjNAP0mLlkDiLjNvqHxxOhgF04pk3KrkL10g.JPEG/IK3ikC2CnzM0kh_J8lalrNpHGcSg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리킹 태연을 향한 사랑,
 ‘Can’t Control Myself’]]></title>
@@ -173,15 +181,6 @@ NCT 'Universe'에서 같이 놀래?]]></title>
             <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
             <content:encoded><![CDATA[이번 겨울, 가장 따뜻한 신곡을 들고SM STATION이 돌아왔습니다!그간 SM STATION을 통해 다양한명곡들이 공개되었죠.이번 곡은 여러분들의겨울 감성을 한층 북돋아 줄 곡인데요.바로, 온유 X 펀치의 듀엣곡,'별 하나···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNTAg/MDAxNjM4NzU0MjkzODY2.gf7PCZmRsFfFWel6sIdZtLv2S-P4RwZ9Strjkohq2cEg.3bCyM9jIjPaPNqAFm9mmBX0VpIofUrX-C1LkC6-2F4Ug.JPEG/I9l_M2dZubA_9yX4cjHa_87Qsctw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] 카이 ❤Peaches❤ 때문에 
-너무 달콤한 기분 (with 비하인드)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32826391&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32826391&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 오늘 오후 6시카이의 두 번째 미니 앨범 'Peaches' 가 공개됩니다. 지난해 11월 30일,첫 솔로 앨범 'KAI' 이후정확히 1년 만의 컴백인데요.온 우주가 기다리던카이의 새 앨범에는 타이틀곡 'Peaches' 를 포함···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTIx/MDAxNjM3ODI4MDgyOTQ5.sR5qrGd6zIsb8innwWGzAOLhZLIFTmnLYxtSrsHepxwg.IDFsGjoNypPXVrhELDtSqs9Qt5OFLoEgNsrx5ePiS-0g.JPEG/IoMVVZELY3dMiKVZAK0uoZvjVmMg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
