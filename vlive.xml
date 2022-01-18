@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2022-01-18T07:44:05.141Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Jan 2022 08:52:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/1-27490514</link>
+            <guid>https://vlive.tv/post/1-27490514</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_96/16424686913717g8OF_JPEG/upload_865484100892460931f2cbe85-747c-4dd4-a569-43e85040eeaf.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV]]></title>
+            <link>https://vlive.tv/post/0-27474131</link>
+            <guid>https://vlive.tv/post/0-27474131</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_148/1642409608334fw03B_JPEG/upload_86489024608916785c1244b90-23cf-4279-942b-b3f437c508ec.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27448921</link>
+            <guid>https://vlive.tv/post/1-27448921</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_287/1642245946108nuKLc_JPEG/upload_863256642170479323d052e9c-0f6e-4366-85fd-0f51ac25b3b9.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISELLE 'ZOO' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27424391</link>
+            <guid>https://vlive.tv/post/0-27424391</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
+            <link>https://vlive.tv/post/0-27410057</link>
+            <guid>https://vlive.tv/post/0-27410057</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-27400788</link>
+            <guid>https://vlive.tv/post/0-27400788</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV]]></title>
+            <link>https://vlive.tv/post/1-27398614</link>
+            <guid>https://vlive.tv/post/1-27398614</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27383457</link>
+            <guid>https://vlive.tv/post/1-27383457</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video]]></title>
+            <link>https://vlive.tv/post/0-27366840</link>
+            <guid>https://vlive.tv/post/0-27366840</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://vlive.tv/post/0-27349824</link>
+            <guid>https://vlive.tv/post/0-27349824</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27321906</link>
+            <guid>https://vlive.tv/post/0-27321906</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
+            <link>https://vlive.tv/post/1-27307729</link>
+            <guid>https://vlive.tv/post/1-27307729</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27307204</link>
+            <guid>https://vlive.tv/post/1-27307204</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
+            <link>https://vlive.tv/post/1-27238570</link>
+            <guid>https://vlive.tv/post/1-27238570</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
+            <link>https://vlive.tv/post/1-27238253</link>
+            <guid>https://vlive.tv/post/1-27238253</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat 'Step Back' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27231164</link>
+            <guid>https://vlive.tv/post/0-27231164</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! 동방신기 'DINNER' Live Clip @DINNER with Cassiopeia]]></title>
+            <link>https://vlive.tv/post/0-27183121</link>
+            <guid>https://vlive.tv/post/0-27183121</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice]]></title>
+            <link>https://vlive.tv/post/1-27167671</link>
+            <guid>https://vlive.tv/post/1-27167671</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV]]></title>
+            <link>https://vlive.tv/post/1-27143827</link>
+            <guid>https://vlive.tv/post/1-27143827</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27137250</link>
+            <guid>https://vlive.tv/post/1-27137250</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+    </channel>
+</rss>
