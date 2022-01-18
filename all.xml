@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 04:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 05:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -606,10 +606,11 @@
             <content:encoded><![CDATA['우리 식구 됐어요' YESUNG, causing excitement... Lim N...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[ELLE GOLF and Lim Hee Jeong-Kim Tae Hoo... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380909</link>
             <guid>https://now.smtown.com/news/detail/2380909</guid>
             <pubDate>Tue, 18 Jan 2022 03:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[Stylish &amp; Young golf wear ELLE GOLF held a S/S ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Tease... (SMTOWN ─ NOW)]]></title>
