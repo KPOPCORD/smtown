@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 시청자들의 애착 캐릭터 등극 비법은 ‘대본 사랑’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5868</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5868</guid>
-            <pubDate>Tue, 18 Jan 2022 03:47:22 GMT</pubDate>
+            <title><![CDATA[김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5874</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5874</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 시청자들의 애착 캐릭터 등극 비법은 ‘대본 사랑’</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성,]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5857</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5857</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:41 GMT</pubDate>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5873</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5873</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">웨이브 오리지널 '트레이서' 고아성, </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e876d5b6b.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7791ed87b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재철, tvN 드라마 '킬힐' 출연 확정!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5872</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5872</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김재철이 누구나 부러워하는 홈쇼핑 사장으로 변신했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 시청자들의 애착 캐릭터 등극 비법은 ‘대본 사랑’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5868</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5868</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 사랑받는 캐릭터를 만들기 위해 노력한 순간을 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5840</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79e913e6e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조준영, 영화 ‘해피 뉴 이어’로 확실한 눈도장!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5819</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5819</guid>
-            <pubDate>Fri, 07 Jan 2022 03:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 영화 ‘해피 뉴 이어’로 관객들에게 확실히 눈도장을 찍었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d57539cff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정은채, 완벽한 화보 여신 비하인드 컷 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5871</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5871</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정은채가 광채보다 빛나는 '은채 비주얼'을 선보였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77835a53aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SBS '너의 밤이 되어줄게' 강지영, 특별출연의 좋은 예]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5814</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5814</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강지영이 특별출연의 좋은 예를 보여주며 극을 빛냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d286be345fd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성,]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5857</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5857</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[고아성의 한계 없는 캐릭터 소화력이 놀랍다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e876d5b6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBC 금토드라마 '트레이서' 고아성, 장르물 최적화된 연기 변신]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 07:42:34 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 흡인력으로 시청자들을 끌어당기고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뮤시즌' 슈퍼주니어 려욱, 뮤지컬 '팬레터' 동료들도 극찬한 인생 캐릭터 "정세훈 役 그 자체"]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5818</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5818</guid>
-            <pubDate>Wed, 05 Jan 2022 02:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 려욱이 탄탄한 연기력으로 창작 뮤지컬 '팬레터'에 대한 기대감을 높였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d501a56eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5810</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5810</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘가요대제전’ 7년 연속 MC로 맹활약했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d282c3e0429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

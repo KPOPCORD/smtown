@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최강창민 신곡 ‘Devil’ 스페셜 안무 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5876</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5876</guid>
+            <pubDate>Wed, 19 Jan 2022 02:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">최강창민 신곡 ‘Devil’ 스페셜 안무 영상 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77a845ff29.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 1월 27일 ‘엠카운트다운’ 출격! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5875</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5875</guid>
+            <pubDate>Wed, 19 Jan 2022 02:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘퍼포먼스 갓’ GOT the beat, 1월 27일 ‘엠카운트다운’ 출격!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77a114fab7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘믿듣탱’ 태연 변신 또 통했다! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5869</link>
             <guid>https://www.smtown.com/artist/newsDetail/5869</guid>
             <pubDate>Tue, 18 Jan 2022 03:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연 변신 또 통했다!</span>]]></content:encoded>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 신곡 ‘Can’t Control Myself’(캔트 컨트롤 마이셀프)가 국내외의 뜨거운 관심을 얻고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e632cf97230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['컴백 D-7' 규현, 18일 '연애소설' M/V 티저 공개…공명·채수빈 이별 서사 풀리나 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5867</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5867</guid>
-            <pubDate>Tue, 18 Jan 2022 03:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'컴백 D-7' 규현, 18일 '연애소설' M/V 티저 공개…공명·채수빈 이별 서사 풀리나</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e631b9dbf9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dff2bddc701.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 민호, 13일 ‘엠카운트다운’ 출연! 솔로곡 ‘Heartbreak’ 스페셜 무대 선사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5853</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5853</guid>
-            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[샤이니 민호(에스엠엔터테인먼트 소속)가 13일 ‘엠카운트다운’에 출연해 스페셜 무대를 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df88bd623da.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['컴백 D-7' 규현, 18일 '연애소설' M/V 티저 공개…공명·채수빈 이별 서사 풀리나 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5867</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5867</guid>
+            <pubDate>Tue, 18 Jan 2022 03:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 '연애소설' 뮤직비디오 티저로 감성을 전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e631b9dbf9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다! (SMTOWN ─ Musicians News)]]></title>
@@ -465,30 +473,38 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df894c51225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 & NCT 앨범, 美 ‘빌보드 200’ 또 동시 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5852</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5852</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127과 NCT 앨범이 미국 ‘빌보드 200’에 3주 연속 동시 차트인하며 쌍끌이 인기 행보를 이어갔다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61de6d4e3fba7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5874</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5874</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5873</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5873</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7791ed87b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김재철, tvN 드라마 '킬힐' 출연 확정! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5872</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5872</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김재철이 누구나 부러워하는 홈쇼핑 사장으로 변신했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 시청자들의 애착 캐릭터 등극 비법은 ‘대본 사랑’ (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5868</link>
             <guid>https://www.smtown.com/artist/newsDetail/5868</guid>
             <pubDate>Tue, 18 Jan 2022 03:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 시청자들의 애착 캐릭터 등극 비법은 ‘대본 사랑’</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 사랑받는 캐릭터를 만들기 위해 노력한 순간을 공개했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성, (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5857</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5857</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">웨이브 오리지널 '트레이서' 고아성, </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e876d5b6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), 강렬한 핫핑크 드레스 장착하고 ‘분위기 압도’ (SMTOWN ─ Actors News)]]></title>
@@ -515,20 +531,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79e913e6e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조준영, 영화 ‘해피 뉴 이어’로 확실한 눈도장! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5819</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5819</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[신예 조준영(에스엠엔터테인먼트 소속)이 영화 ‘해피 뉴 이어’로 관객들에게 확실히 눈도장을 찍었다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d57539cff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정은채, 완벽한 화보 여신 비하인드 컷 공개! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5871</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5871</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정은채가 광채보다 빛나는 '은채 비주얼'을 선보였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77835a53aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SBS '너의 밤이 되어줄게' 강지영, 특별출연의 좋은 예 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5814</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5814</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[배우 강지영이 특별출연의 좋은 예를 보여주며 극을 빛냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d286be345fd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성, (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5857</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5857</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[고아성의 한계 없는 캐릭터 소화력이 놀랍다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e876d5b6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MBC 금토드라마 '트레이서' 고아성, 장르물 최적화된 연기 변신 (SMTOWN ─ Actors News)]]></title>
@@ -555,20 +571,46 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['뮤시즌' 슈퍼주니어 려욱, 뮤지컬 '팬레터' 동료들도 극찬한 인생 캐릭터 "정세훈 役 그 자체" (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5818</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5818</guid>
-            <pubDate>Tue, 04 Jan 2022 05:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 려욱이 탄탄한 연기력으로 창작 뮤지컬 '팬레터'에 대한 기대감을 높였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d3d501a56eb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380937</link>
+            <guid>https://now.smtown.com/news/detail/2380937</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘2021 MBC 가요대제전’ 임윤아, 7년 연속 믿고 보는 MC로 대활약! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5810</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5810</guid>
-            <pubDate>Mon, 03 Jan 2022 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 ‘가요대제전’ 7년 연속 MC로 맹활약했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d282c3e0429.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380936</link>
+            <guid>https://now.smtown.com/news/detail/2380936</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380935</link>
+            <guid>https://now.smtown.com/news/detail/2380935</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380934</link>
+            <guid>https://now.smtown.com/news/detail/2380934</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380933</link>
+            <guid>https://now.smtown.com/news/detail/2380933</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380932</link>
+            <guid>https://now.smtown.com/news/detail/2380932</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380931</link>
+            <guid>https://now.smtown.com/news/detail/2380931</guid>
+            <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ (SMTOWN ─ NOW)]]></title>
@@ -759,57 +801,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380857</guid>
             <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)'s new song 'Can't...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN’s new solo album ‘Devil’ t... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380856</link>
-            <guid>https://now.smtown.com/news/detail/2380856</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) is gaining a lot of att...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The 2nd runner of DJ streaming show 'SH... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380855</link>
-            <guid>https://now.smtown.com/news/detail/2380855</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[The second performance of the DJ streaming show...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘UNICEF East Asia & Pacific Regional Am... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380854</link>
-            <guid>https://now.smtown.com/news/detail/2380854</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[CHOI SIWON (SM) took an active role in protecti...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, 4th mini album 'Love Story' st... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380853</link>
-            <guid>https://now.smtown.com/news/detail/2380853</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN shared the narrative of 'L...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[wavve original '트레이서' Ko A Sung, (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380852</link>
-            <guid>https://now.smtown.com/news/detail/2380852</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[Ko A Sung's limitless character digestibility i...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON, ‘Can’t Control Myself’ teaser ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2380845</link>
-            <guid>https://now.smtown.com/news/detail/2380845</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)'s new song 'Can't...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=XVwi2VF7_R4</link>
-            <guid>https://www.youtube.com/watch?v=XVwi2VF7_R4</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/XVwi2VF7_R4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
