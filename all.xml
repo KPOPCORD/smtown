@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 07:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 08:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Lee Hye Seung, the next-generation ente... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380949</link>
             <guid>https://now.smtown.com/news/detail/2380949</guid>
             <pubDate>Wed, 19 Jan 2022 06:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[Broadcaster Lee Hye-seung predicted the perform...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MAX CHANGMIN's new song 'Devil' special... (SMTOWN ─ NOW)]]></title>
@@ -612,16 +613,18 @@
             <content:encoded><![CDATA[Actor Kim Jae Chul has transformed into the env...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Jung Eun Chae reveals behind-the-scenes... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380932</link>
             <guid>https://now.smtown.com/news/detail/2380932</guid>
             <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Jung Eun Chae showed off a brilliant visu...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Cha Su Min, MBN ‘Battle In The Box’ Gue... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380931</link>
             <guid>https://now.smtown.com/news/detail/2380931</guid>
             <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[Model and broadcaster Cha Su Min will appear as...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ (SMTOWN ─ NOW)]]></title>
