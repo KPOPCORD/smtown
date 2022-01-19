@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 10:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 11:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['Devil' Jacket Behind l MAX CHANGMIN 최강... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=xFGW8ItZqdI</link>
+            <guid>https://www.youtube.com/watch?v=xFGW8ItZqdI</guid>
+            <pubDate>Wed, 19 Jan 2022 11:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xFGW8ItZqdI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#손태진] 2nd EP The Present 'Today's' Pla... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=RYrP_q2kTAw</link>
+            <guid>https://www.youtube.com/watch?v=RYrP_q2kTAw</guid>
+            <pubDate>Wed, 19 Jan 2022 11:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #ThePresent_Todays #오늘
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RYrP_q2kTAw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lee Hye Seung, the next-generation ente... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2380949</link>
             <guid>https://now.smtown.com/news/detail/2380949</guid>
@@ -788,26 +807,6 @@ L...]]></content:encoded>
             <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
 L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5pATsbQE0Wk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISEL... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=0IBSemQmno8</link>
-            <guid>https://www.youtube.com/watch?v=0IBSemQmno8</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[From SMTOWN LIVE 2022 : SMCU EXPRESS @KWANGYA
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0IBSemQmno8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 손태진 SONTAEJIN - 오늘 MV / ENG sub (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=tTueB1hOc0A</link>
-            <guid>https://www.youtube.com/watch?v=tTueB1hOc0A</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[#손태진 #SONTAEJIN #TJSON #ThePresent_Todays #오늘
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/tTueB1hOc0A/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
