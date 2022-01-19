@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 06:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2380949</link>
+            <guid>https://now.smtown.com/news/detail/2380949</guid>
+            <pubDate>Wed, 19 Jan 2022 06:49:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN's new song 'Devil' special...]]></title>
             <link>https://now.smtown.com/news/detail/2380937</link>
@@ -230,13 +235,6 @@ L...]]></content:encoded>
 
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/tTueB1hOc0A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON's new song 'Can't Control Mysel...]]></title>
-            <link>https://now.smtown.com/news/detail/2380857</link>
-            <guid>https://now.smtown.com/news/detail/2380857</guid>
-            <pubDate>Mon, 17 Jan 2022 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)'s new song 'Can't...]]></content:encoded>
         </item>
     </channel>
 </rss>
