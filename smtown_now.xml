@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,14 +34,18 @@
             <content:encoded><![CDATA[‘BLUE BIRTHDAY’, starring KIM YERIM (Red Velvet...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY),...]]></title>
             <link>https://now.smtown.com/news/detail/2380934</link>
             <guid>https://now.smtown.com/news/detail/2380934</guid>
             <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) is a...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Kim Jae Chul confirmed to appear in tvN...]]></title>
             <link>https://now.smtown.com/news/detail/2380933</link>
             <guid>https://now.smtown.com/news/detail/2380933</guid>
             <pubDate>Wed, 19 Jan 2022 02:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Kim Jae Chul has transformed into the env...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2380932</link>
