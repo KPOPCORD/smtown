@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Tease...]]></title>
+            <link>https://www.youtube.com/watch?v=TkopOG_q-QA</link>
+            <guid>https://www.youtube.com/watch?v=TkopOG_q-QA</guid>
+            <pubDate>Thu, 20 Jan 2022 04:51:01 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/TkopOG_q-QA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Devil' Jacket Behind l MAX CHANGMIN 최강...]]></title>
             <link>https://www.youtube.com/watch?v=xFGW8ItZqdI</link>
@@ -235,15 +243,6 @@ L...]]></content:encoded>
             <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
 🎧 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/Vryn7ZHIIvU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] MAX CHANGMIN 최강창민 ‘Devil’ Coun...]]></title>
-            <link>https://www.youtube.com/watch?v=5pATsbQE0Wk</link>
-            <guid>https://www.youtube.com/watch?v=5pATsbQE0Wk</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5pATsbQE0Wk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
