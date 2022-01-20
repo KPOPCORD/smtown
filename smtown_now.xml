@@ -4,9 +4,37 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 & NCT both enter the ‘Billboard...]]></title>
+            <link>https://now.smtown.com/news/detail/2380962</link>
+            <guid>https://now.smtown.com/news/detail/2380962</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 and NCT albums proved their strong glob...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN to perform 'Fever' on ‘M C...]]></title>
+            <link>https://now.smtown.com/news/detail/2380961</link>
+            <guid>https://now.smtown.com/news/detail/2380961</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) will appear on 'M COUNT...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet WENDY, 'Rock Chic + Dark' pi...]]></title>
+            <link>https://now.smtown.com/news/detail/2380960</link>
+            <guid>https://now.smtown.com/news/detail/2380960</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet WENDY (SM) surprised everyone with a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, 'Love Story' 2nd M/V teaser re...]]></title>
+            <link>https://now.smtown.com/news/detail/2380959</link>
+            <guid>https://now.smtown.com/news/detail/2380959</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's second music video tease...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Tease...]]></title>
             <link>https://www.youtube.com/watch?v=TkopOG_q-QA</link>
@@ -206,43 +234,6 @@ SM Ent. Group 전 구성...]]></content:encoded>
             <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
 🎧 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jNgxwuHAooo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Te...]]></title>
-            <link>https://www.youtube.com/watch?v=pLk_8u6FNp0</link>
-            <guid>https://www.youtube.com/watch?v=pLk_8u6FNp0</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/pLk_8u6FNp0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어? 네가 전학생이구나?🏫💚 | Somethinc Behind th...]]></title>
-            <link>https://www.youtube.com/watch?v=fFtL9IcJZ_8</link>
-            <guid>https://www.youtube.com/watch?v=fFtL9IcJZ_8</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[#NCTDREAM #NCT
-#Somethinc #Behind
-
-NCT DREAM Of...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fFtL9IcJZ_8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Reaction w...]]></title>
-            <link>https://www.youtube.com/watch?v=y6Wlk6Lozq0</link>
-            <guid>https://www.youtube.com/watch?v=y6Wlk6Lozq0</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/y6Wlk6Lozq0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ Jac...]]></title>
-            <link>https://www.youtube.com/watch?v=Vryn7ZHIIvU</link>
-            <guid>https://www.youtube.com/watch?v=Vryn7ZHIIvU</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
-🎧 ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Vryn7ZHIIvU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,38 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127-NCT, 美 ‘빌보드 200’ 한 달째 동시 차트인! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5881</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5881</guid>
+            <pubDate>Thu, 20 Jan 2022 06:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 127-NCT, 美 ‘빌보드 200’ 한 달째 동시 차트인! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fc3cc8dfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강창민 20일 ‘엠카운트다운’ 출격, 신곡 ‘Fever’ 무대 선사! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5880</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5880</guid>
+            <pubDate>Thu, 20 Jan 2022 06:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">최강창민 20일 ‘엠카운트다운’ 출격, 신곡 ‘Fever’ 무대 선사!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fbcfc4dfa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳 웬디, ‘록 시크+다크’ 역대급 반전 매력 담은 화보 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5879</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5879</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳 웬디(에스엠엔터테인먼트 소속)가 이색적인 모습으로 모두를 놀라게 만들었다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fb55d08f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최강창민 신곡 ‘Devil’ 스페셜 안무 영상 공개 화제! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5876</link>
             <guid>https://www.smtown.com/artist/newsDetail/5876</guid>
             <pubDate>Wed, 19 Jan 2022 02:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">최강창민 신곡 ‘Devil’ 스페셜 안무 영상 공개 화제!</span>]]></content:encoded>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 새 솔로 앨범 타이틀 곡 ‘Devil’(데블) 스페셜 안무 영상이 공개되어 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77a845ff29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 1월 27일 ‘엠카운트다운’ 출격! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5875</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5875</guid>
-            <pubDate>Wed, 19 Jan 2022 02:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘퍼포먼스 갓’ GOT the beat, 1월 27일 ‘엠카운트다운’ 출격!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77a114fab7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘믿듣탱’ 태연 변신 또 통했다! (SMTOWN ─ Musicians News)]]></title>
@@ -417,20 +433,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eb49804ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘유니세프 동아시아태평양지역 친선대사’ 최시원, 유니세프 아동의회 아동정책제안 온라인 발표회 참석! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5859</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5859</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[최시원(에스엠엔터테인먼트 소속)이 아동 권리 보호를 위해 적극 나섰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0ea074ff2d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[규현, 20일 '연애소설' 두 번째 M/V 티저 공개…채수빈 눈물로 감성 배가 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5878</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5878</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 '연애소설'의 두 번째 뮤직비디오 티저로 보는 감동까지 전한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fae741141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연, ‘Can’t Control Myself’ 티저 이미지 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5856</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5856</guid>
-            <pubDate>Thu, 13 Jan 2022 09:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 신곡 ‘Can’t Control Myself’(캔 컨트롤 마이셀프) 티저 이미지가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dff2bddc701.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 1월 27일 ‘엠카운트다운’ 출격! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5875</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5875</guid>
+            <pubDate>Wed, 19 Jan 2022 02:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 오는 27일 ‘엠카운트다운’에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77a114fab7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['컴백 D-7' 규현, 18일 '연애소설' M/V 티저 공개…공명·채수빈 이별 서사 풀리나 (SMTOWN ─ Musicians News)]]></title>
@@ -455,22 +471,6 @@
             <pubDate>Fri, 14 Jan 2022 03:47:10 GMT</pubDate>
             <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 두 번째 공연이 14일 펼쳐진다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eaa3868d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 미니 4집 'Love Story' 스토리카드 공개…공명·채수빈과 사계절 함께 만든 서사 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5858</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5858</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 배우 공명, 채수빈과 함께 만든 'Love Story'의 서사를 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e8fc9cc00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민의 다크한 변신, 베일 벗는다! 새 솔로 앨범 ‘Devil’ 13일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5854</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5854</guid>
-            <pubDate>Thu, 13 Jan 2022 03:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[다크한 변신을 예고한 동방신기 최강창민(에스엠엔터테인먼트 소속)이 13일 새 솔로 앨범 ‘Devil’(데블)로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61df894c51225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉! (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,34 @@
             <pubDate>Wed, 05 Jan 2022 02:59:36 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 흡인력으로 시청자들을 끌어당기고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 & NCT both enter the ‘Billboard... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380962</link>
+            <guid>https://now.smtown.com/news/detail/2380962</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127 and NCT albums proved their strong glob...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN to perform 'Fever' on ‘M C... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380961</link>
+            <guid>https://now.smtown.com/news/detail/2380961</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) will appear on 'M COUNT...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet WENDY, 'Rock Chic + Dark' pi... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380960</link>
+            <guid>https://now.smtown.com/news/detail/2380960</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet WENDY (SM) surprised everyone with a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, 'Love Story' 2nd M/V teaser re... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2380959</link>
+            <guid>https://now.smtown.com/news/detail/2380959</guid>
+            <pubDate>Thu, 20 Jan 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's second music video tease...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Tease... (SMTOWN ─ NOW)]]></title>
@@ -769,43 +797,6 @@ SM Ent. Group 전 구성...]]></content:encoded>
             <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
 🎧 ht...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jNgxwuHAooo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Te... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=pLk_8u6FNp0</link>
-            <guid>https://www.youtube.com/watch?v=pLk_8u6FNp0</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/pLk_8u6FNp0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어? 네가 전학생이구나?🏫💚 | Somethinc Behind th... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=fFtL9IcJZ_8</link>
-            <guid>https://www.youtube.com/watch?v=fFtL9IcJZ_8</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[#NCTDREAM #NCT
-#Somethinc #Behind
-
-NCT DREAM Of...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/fFtL9IcJZ_8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Reaction w... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=y6Wlk6Lozq0</link>
-            <guid>https://www.youtube.com/watch?v=y6Wlk6Lozq0</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/y6Wlk6Lozq0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’ Jac... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=Vryn7ZHIIvU</link>
-            <guid>https://www.youtube.com/watch?v=Vryn7ZHIIvU</guid>
-            <pubDate>Wed, 19 Jan 2022 14:40:58 GMT</pubDate>
-            <content:encoded><![CDATA["2021 Winter SMTOWN : SMCU EXPRESS" Album
-🎧 ht...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Vryn7ZHIIvU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
