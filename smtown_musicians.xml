@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘시고르 경양식’ 최강창민, 새로운 도전 빛났다! ‘요리 금손’ 만능 캐릭터 등극!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5885</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5885</guid>
+            <pubDate>Fri, 21 Jan 2022 04:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 셰프 도전을 성공적으로 마무리했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea3a9b2b0b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127-NCT, 美 ‘빌보드 200’ 한 달째 동시 차트인!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5881</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5881</guid>
+            <pubDate>Fri, 21 Jan 2022 04:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127과 NCT 앨범이 미국 ‘빌보드 200’에 4주 연속 동시 차트인, 막강한 글로벌 파워를 입증했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fc3cc8dfb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드벨벳 웬디, ‘록 시크+다크’ 역대급 반전 매력 담은 화보 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5879</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e632cf97230.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연, 신곡 ‘Can’t Control Myself’ 17일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5863</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5863</guid>
-            <pubDate>Tue, 18 Jan 2022 03:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘Can’t Control Myself’(캔트 컨트롤 마이셀프)를 17일 공개한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e4d3daf1c0e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DJ 겸 프로듀서 임레이, DJ 스트리밍 쇼 ‘SHOWME’ 21일 출격!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5884</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5884</guid>
+            <pubDate>Fri, 21 Jan 2022 04:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 겸 프로듀서 임레이(IMLAY, 에스엠엔터테인먼트 소속)가 DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 세 번째 주자로 출격한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea3a53141a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최강창민, 새 솔로 앨범 아이튠즈 14개 지역 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5861</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5861</guid>
-            <pubDate>Mon, 17 Jan 2022 03:00:33 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 새 솔로 앨범 ‘Devil’(데블)로 컴백과 동시에 뜨거운 관심을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eb49804ae.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[최강창민 20일 ‘엠카운트다운’ 출격, 신곡 ‘Fever’ 무대 선사!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5880</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5880</guid>
+            <pubDate>Fri, 21 Jan 2022 04:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 20일 ‘엠카운트다운’에 출연해 신곡 ‘Fever’(피버) 무대를 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fbcfc4dfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[규현, 20일 '연애소설' 두 번째 M/V 티저 공개…채수빈 눈물로 감성 배가]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 02:49:53 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어 규현이 '연애소설' 뮤직비디오 티저로 감성을 전한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e631b9dbf9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 신곡 ‘Can’t Control Myself’ 뮤직비디오, 영화관에서 만난다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5862</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5862</guid>
-            <pubDate>Tue, 18 Jan 2022 03:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 신곡 ‘Can’t Control Myself’(캔트 컨트롤 마이셀프) 뮤직비디오가 영화관에서 상영된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e10ecbb33c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5860</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5860</guid>
-            <pubDate>Fri, 14 Jan 2022 06:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 두 번째 공연이 14일 펼쳐진다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0eaa3868d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

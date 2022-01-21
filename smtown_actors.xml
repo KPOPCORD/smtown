@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5874</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5874</guid>
+            <pubDate>Fri, 21 Jan 2022 04:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 주연으로 활약한 ‘블루버스데이’가 극장에서 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재철, tvN 드라마 '킬힐' 출연 확정!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5872</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbabb21d619.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈), 안방극장 드라마 첫 도전! 성공적 마무리]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5829</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5829</guid>
-            <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘지금, 헤어지는 중입니다’ 오세훈(엑소 세훈, 에스엠엔터테인먼트 소속)이 종영 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d79e913e6e9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5873</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5873</guid>
+            <pubDate>Fri, 21 Jan 2022 04:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 날이 갈수록 단단해지는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7791ed87b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정은채, 완벽한 화보 여신 비하인드 컷 공개!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
             <content:encoded><![CDATA[배우 정성일이 ‘배드 앤 크레이지’에 출연한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7e5dbdeaf3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC ‘한 사람만’ 박수영(레드벨벳 조이), ‘매력 천재’의 놀라운 흡인력!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5823</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5823</guid>
-            <pubDate>Fri, 07 Jan 2022 07:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 놀라운 흡인력으로 시청자들을 끌어당기고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d4f9e8bec35.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
