@@ -4,9 +4,25 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 12:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 13:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[❤‍🩹탱 Control Myself🕹]]></title>
+            <link>https://www.youtube.com/watch?v=CZf-EsEyIV0</link>
+            <guid>https://www.youtube.com/watch?v=CZf-EsEyIV0</guid>
+            <pubDate>Sat, 22 Jan 2022 13:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/CZf-EsEyIV0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#며느라기2] 사린의 꿈속까지 찾아간 #키동캠 비하인드 #박하선 | ...]]></title>
+            <link>https://www.youtube.com/watch?v=gGP0-prBcuA</link>
+            <guid>https://www.youtube.com/watch?v=gGP0-prBcuA</guid>
+            <pubDate>Sat, 22 Jan 2022 13:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene #KeyDongCam going to the insid...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/gGP0-prBcuA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DOYOUNG Reaction to MAX CHANGMIN ‘Devil...]]></title>
             <link>https://www.youtube.com/watch?v=iKc7DV-WJGU</link>
@@ -224,20 +240,6 @@ L...]]></content:encoded>
             <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
 L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/aP188FsHQus/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON's transformation worked again!]]></title>
-            <link>https://now.smtown.com/news/detail/2380914</link>
-            <guid>https://now.smtown.com/news/detail/2380914</guid>
-            <pubDate>Sat, 22 Jan 2022 12:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM)'s new song 'Can'...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Drama ‘한 사람만’, PARK SOOYOUNG’s secret t...]]></title>
-            <link>https://now.smtown.com/news/detail/2380913</link>
-            <guid>https://now.smtown.com/news/detail/2380913</guid>
-            <pubDate>Sat, 22 Jan 2022 12:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) reve...]]></content:encoded>
         </item>
     </channel>
 </rss>
