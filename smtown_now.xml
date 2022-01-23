@@ -4,9 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 08:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 09:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Audio Teaser] 홍자 HONG JA - 화양연화]]></title>
+            <link>https://www.youtube.com/watch?v=jMYYNIVGDhA</link>
+            <guid>https://www.youtube.com/watch?v=jMYYNIVGDhA</guid>
+            <pubDate>Sun, 23 Jan 2022 09:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 [화양연화] 
+2022.01.26 6PM
+
+✔️타이틀 곡 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jMYYNIVGDhA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[❤‍🩹탱 Control Myself🕹]]></title>
             <link>https://www.youtube.com/watch?v=CZf-EsEyIV0</link>
@@ -231,15 +242,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380931</guid>
             <pubDate>Sun, 23 Jan 2022 08:44:46 GMT</pubDate>
             <content:encoded><![CDATA[Model and broadcaster Cha Su Min will appear as...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ]]></title>
-            <link>https://www.youtube.com/watch?v=aP188FsHQus</link>
-            <guid>https://www.youtube.com/watch?v=aP188FsHQus</guid>
-            <pubDate>Sun, 23 Jan 2022 08:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/aP188FsHQus/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
