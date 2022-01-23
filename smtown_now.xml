@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 11:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 12:59:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 ReactionㅣMAX CHANGMIN 최강창민 'D...]]></title>
+            <link>https://www.youtube.com/watch?v=IsrIOXOup98</link>
+            <guid>https://www.youtube.com/watch?v=IsrIOXOup98</guid>
+            <pubDate>Sun, 23 Jan 2022 12:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[aespa 에스파 ReactionㅣMAX CHANGMIN 최강창민 'Devil' MV...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/IsrIOXOup98/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Audio Teaser] 홍자 HONG JA - 화양연화]]></title>
             <link>https://www.youtube.com/watch?v=jMYYNIVGDhA</link>
@@ -235,13 +243,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380932</guid>
             <pubDate>Sun, 23 Jan 2022 08:44:46 GMT</pubDate>
             <content:encoded><![CDATA[Actor Jung Eun Chae showed off a brilliant visu...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Cha Su Min, MBN ‘Battle In The Box’ Gue...]]></title>
-            <link>https://now.smtown.com/news/detail/2380931</link>
-            <guid>https://now.smtown.com/news/detail/2380931</guid>
-            <pubDate>Sun, 23 Jan 2022 08:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[Model and broadcaster Cha Su Min will appear as...]]></content:encoded>
         </item>
     </channel>
 </rss>
