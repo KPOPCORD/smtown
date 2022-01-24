@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 10:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 11:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Devil' MV Behind l MAX CHANGMIN 최강창민]]></title>
+            <link>https://www.youtube.com/watch?v=KWESz1Q7pd0</link>
+            <guid>https://www.youtube.com/watch?v=KWESz1Q7pd0</guid>
+            <pubDate>Mon, 24 Jan 2022 11:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/KWESz1Q7pd0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] 2022 월간 윤종신 1월호 - NFT(with ONEO)]]></title>
             <link>https://www.youtube.com/watch?v=zw2BpesR42k</link>
@@ -236,13 +245,6 @@ SM C&amp;C 여행사업부문 담당자에게 직접 물어보았SM!
             <guid>https://now.smtown.com/news/detail/2380960</guid>
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
             <content:encoded><![CDATA[Red Velvet WENDY (SM) surprised everyone with a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, 'Love Story' 2nd M/V teaser re...]]></title>
-            <link>https://now.smtown.com/news/detail/2380959</link>
-            <guid>https://now.smtown.com/news/detail/2380959</guid>
-            <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's second music video tease...]]></content:encoded>
         </item>
     </channel>
 </rss>
