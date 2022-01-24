@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 04:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,9 +16,11 @@
             <enclosure url="https://i.ytimg.com/vi/VxILz3KjYk8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Meet again the popular online concert ‘...]]></title>
             <link>https://now.smtown.com/news/detail/2381005</link>
             <guid>https://now.smtown.com/news/detail/2381005</guid>
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[The online concert 'SMTOWN LIVE 2022: SMCU EXPR...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2381004</link>
@@ -123,6 +125,11 @@ L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/_Gw7_AzzGQI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <link>https://now.smtown.com/news/detail/2381007</link>
+            <guid>https://now.smtown.com/news/detail/2381007</guid>
+            <pubDate>Mon, 24 Jan 2022 05:40:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['25th Comeback' KYUHYUN, 'Love Story' L...]]></title>
             <link>https://now.smtown.com/news/detail/2380976</link>
             <guid>https://now.smtown.com/news/detail/2380976</guid>
@@ -218,15 +225,6 @@ SM C&amp;C 여행사업부문 담당자에게 직접 물어보았SM!
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
             <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/TkopOG_q-QA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Devil' Jacket Behind l MAX CHANGMIN 최강...]]></title>
-            <link>https://www.youtube.com/watch?v=xFGW8ItZqdI</link>
-            <guid>https://www.youtube.com/watch?v=xFGW8ItZqdI</guid>
-            <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/xFGW8ItZqdI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
