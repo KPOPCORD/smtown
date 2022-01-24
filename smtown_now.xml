@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,9 +103,11 @@
             <enclosure url="https://i.ytimg.com/vi/iKc7DV-WJGU/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[EXO KAI ranks on ‘The 25 Most Stylish M...]]></title>
             <link>https://now.smtown.com/news/detail/2380999</link>
             <guid>https://now.smtown.com/news/detail/2380999</guid>
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[EXO KAI (SM) was selected as the only K-pop sol...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[☕️알바는 처음이라🐜  EP. 슬기&웬디 l 처음인데 뭐하지?]]></title>
@@ -135,9 +137,11 @@ L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/_Gw7_AzzGQI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Girls' Generation debut song 'Into The ...]]></title>
             <link>https://now.smtown.com/news/detail/2381007</link>
             <guid>https://now.smtown.com/news/detail/2381007</guid>
             <pubDate>Mon, 24 Jan 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered music video for Girls' Generatio...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['25th Comeback' KYUHYUN, 'Love Story' L...]]></title>
