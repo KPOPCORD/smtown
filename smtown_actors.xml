@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 01:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:58:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성,]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5883</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5883</guid>
+            <pubDate>Mon, 24 Jan 2022 02:57:14 GMT</pubDate>
+            <content:encoded><![CDATA[고아성의 불꽃 열연이 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea39ac35576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5874</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dcfd4ee0753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘며느라기2…ing’ 박하선, 맞춤옷 입은 듯한 ‘완벽한 귀환’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5836</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5836</guid>
-            <pubDate>Tue, 11 Jan 2022 03:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박하선이 인생 첫 시즌제 드라마로 반갑게 돌아왔다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbabb21d619.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배우 이학주, ‘슈트핏의 정석’ 담은 화보 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5882</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5882</guid>
+            <pubDate>Mon, 24 Jan 2022 02:57:14 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이학주가 ‘슈트장인’ 수식어에 방점을 찍었다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea38103f885.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 죄책감 담은 눈물 연기로 ‘안타까움 유발’]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Jan 2022 03:47:54 GMT</pubDate>
             <content:encoded><![CDATA[고아성이 또 한 번 '믿고 보는 배우'임을 증명해냈다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61dbac133bf6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성일, tvN ‘배드 앤 크레이지’ 출연… 심리상담가 주혁役]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5834</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5834</guid>
-            <pubDate>Mon, 10 Jan 2022 03:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정성일이 ‘배드 앤 크레이지’에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d7e5dbdeaf3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
