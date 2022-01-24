@@ -4,9 +4,21 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 08:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 2022 월간 윤종신 1월호 - NFT(with ONEO)]]></title>
+            <link>https://www.youtube.com/watch?v=zw2BpesR42k</link>
+            <guid>https://www.youtube.com/watch?v=zw2BpesR42k</guid>
+            <pubDate>Mon, 24 Jan 2022 09:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[[1월호 이야기]
+
+‘다가올 뭐든 대체 가능의 시대를 앞두고 대체 불가능 찾기’
+
+2...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zw2BpesR42k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Spoil...]]></title>
             <link>https://www.youtube.com/watch?v=VxILz3KjYk8</link>
@@ -231,14 +243,6 @@ SM C&amp;C 여행사업부문 담당자에게 직접 물어보았SM!
             <guid>https://now.smtown.com/news/detail/2380959</guid>
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's second music video tease...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Tease...]]></title>
-            <link>https://www.youtube.com/watch?v=TkopOG_q-QA</link>
-            <guid>https://www.youtube.com/watch?v=TkopOG_q-QA</guid>
-            <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/TkopOG_q-QA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
