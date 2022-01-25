@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계 179개 지역 5100만 스트리밍 기록한 화제의 온라인 콘서트 ‘SMTOWN LIVE 2022’ 다시 만난다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5894</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5894</guid>
+            <pubDate>Tue, 25 Jan 2022 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[새해 첫날 전 세계를 뜨겁게 달군 화제의 온라인 콘서트 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’(에스엠타운 라이브 2022 : SMCU 익스프레스@광야)가 29일 다시 한 번 ‘안방1열’을 찾아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee160923c56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이, 美 롤링스톤 ‘현재 가장 스타일리시한 뮤지션 25’ 선정! K팝 솔로 아티스트 유일!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5888</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fbcfc4dfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, 20일 '연애소설' 두 번째 M/V 티저 공개…채수빈 눈물로 감성 배가]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5878</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5878</guid>
-            <pubDate>Thu, 20 Jan 2022 06:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 '연애소설'의 두 번째 뮤직비디오 티저로 보는 감동까지 전한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fae741141.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['25일 컴백' 규현, '연애소설' 마지막 장 기대 포인트 셋 #기승전결 #공명·채수빈 #믿듣보컬]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5893</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5893</guid>
+            <pubDate>Tue, 25 Jan 2022 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 '연애소설'로 계절에 딱 맞는 공감을 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee159475ef7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소녀시대 데뷔곡 ‘다시 만난 세계’ 리마스터 MV 공개!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 06:49:01 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳 웬디(에스엠엔터테인먼트 소속)가 이색적인 모습으로 모두를 놀라게 만들었다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fb55d08f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민 신곡 ‘Devil’ 스페셜 안무 영상 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5876</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5876</guid>
-            <pubDate>Thu, 20 Jan 2022 06:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)의 새 솔로 앨범 타이틀 곡 ‘Devil’(데블) 스페셜 안무 영상이 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77a845ff29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
