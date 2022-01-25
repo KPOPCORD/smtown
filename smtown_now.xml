@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화보장인 #한선화 얼루어 비하인드 #키동캠 | Han Seon Hwa]]></title>
+            <link>https://www.youtube.com/watch?v=qtpv72g6r_s</link>
+            <guid>https://www.youtube.com/watch?v=qtpv72g6r_s</guid>
+            <pubDate>Tue, 25 Jan 2022 01:49:16 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'allure' pic...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qtpv72g6r_s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Can’t Control Myself' MV Behind | 태연 T...]]></title>
             <link>https://www.youtube.com/watch?v=7KqSYHnuKlI</link>
@@ -239,13 +247,6 @@ SM C&amp;C 여행사업부문 담당자에게 직접 물어보았SM!
             <guid>https://now.smtown.com/news/detail/2380962</guid>
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127 and NCT albums proved their strong glob...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN to perform 'Fever' on ‘M C...]]></title>
-            <link>https://now.smtown.com/news/detail/2380961</link>
-            <guid>https://now.smtown.com/news/detail/2380961</guid>
-            <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! MAX CHANGMIN (SM) will appear on 'M COUNT...]]></content:encoded>
         </item>
     </channel>
 </rss>
