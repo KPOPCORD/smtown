@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 05:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 06:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 규현의 목소리로 듣는 사계절, 그 마지막 장 '연애소설 (Love Story)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33161889&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33161889&amp;memberNo=41350603</guid>
+            <pubDate>Tue, 25 Jan 2022 06:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[규현의 목소리로 사계절을 채우다.모든 게 얼어붙어버릴 것만 같은 추운 겨울,여러분의 마음을 포근하게 감싸줄 신곡 '연애소설 (Love Story)'과 함께,오늘 오후 6시!규현의 네 번째 미니 앨범 "Love Story (4 Seaso···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfNzQg/MDAxNjQyNzA0Nzg2NzU5.kNk5MPjQTHhZz0pHJuH0SVSywcbTqK-XZ9KtxOGfIgog.MZ_mA0iqZYNJiTrtLnwHawzVSBkFkg2PEI32GaJoBa8g.JPEG/IC0R3a2070SGU-C7kzxSBZL0zQ_o.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603</link>
@@ -172,15 +180,6 @@ NCT 'Universe'에서 같이 놀래?]]></title>
             <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
             <content:encoded><![CDATA[권유리 배우가 &lt;2021 Asia Artist Awards&gt;에 참석해12월 시작부터기분 좋은 소식을 알렸는데요! 출처: 권유리 인스타그램 @yulyulk 그 기쁨의 현장!여러분과 함께 하고 싶어야무지게~ 담아왔습니다! 출처: MBN···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNDIg/MDAxNjM4ODAxNDU3Njc3.HDHFDhClv4mdnlsiyZPPupGY4rFRcOd0nW_I603sWoMg.-bP5O9DyrVIr1qInGml3cpQp3SawBSTyG4sEHzyIy58g.JPEG/IH3Him-pN906K6uNLjfuns7Nd1PQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SM STATION] 
-온유 X 펀치 '별 하나 (Way)']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32886457&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32886457&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 03 Jan 2022 08:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[이번 겨울, 가장 따뜻한 신곡을 들고SM STATION이 돌아왔습니다!그간 SM STATION을 통해 다양한명곡들이 공개되었죠.이번 곡은 여러분들의겨울 감성을 한층 북돋아 줄 곡인데요.바로, 온유 X 펀치의 듀엣곡,'별 하나···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNTAg/MDAxNjM4NzU0MjkzODY2.gf7PCZmRsFfFWel6sIdZtLv2S-P4RwZ9Strjkohq2cEg.3bCyM9jIjPaPNqAFm9mmBX0VpIofUrX-C1LkC6-2F4Ug.JPEG/I9l_M2dZubA_9yX4cjHa_87Qsctw.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

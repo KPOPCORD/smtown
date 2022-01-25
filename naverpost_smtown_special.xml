@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 05:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 06:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 규현의 목소리로 듣는 사계절, 그 마지막 장 '연애소설 (Love Story)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33161889&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33161889&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Tue, 25 Jan 2022 06:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfNzQg/MDAxNjQyNzA0Nzg2NzU5.kNk5MPjQTHhZz0pHJuH0SVSywcbTqK-XZ9KtxOGfIgog.MZ_mA0iqZYNJiTrtLnwHawzVSBkFkg2PEI32GaJoBa8g.JPEG/IC0R3a2070SGU-C7kzxSBZL0zQ_o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -173,15 +181,6 @@ NCT 'Universe'에서 같이 놀래?]]></title>
             <pubDate>Tue, 30 Nov 2021 06:45:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjVfMTIx/MDAxNjM3ODI4MDgyOTQ5.sR5qrGd6zIsb8innwWGzAOLhZLIFTmnLYxtSrsHepxwg.IDFsGjoNypPXVrhELDtSqs9Qt5OFLoEgNsrx5ePiS-0g.JPEG/IoMVVZELY3dMiKVZAK0uoZvjVmMg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최시원] 비상이다. 
-<술꾼도시여자들> 종영이라니!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32818402&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32818402&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Thu, 25 Nov 2021 03:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMjYy/MDAxNjM3NzQzMTI1NjY3.np9mlPKa1F5dELUQ9rWQUAnf4Az0Q84Cn1q0r5ojNbEg.x1sBuYSwroQb3s2YvX7JJq0Uy3fbuK8P0kl6UdTqeykg.JPEG/IHmlM3c0snp7HhCPJG2nM7lIxYXI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
