@@ -4,9 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Teaser] 홍자 HONG JA - 화양연화]]></title>
+            <link>https://www.youtube.com/watch?v=DvdR2DdmzJk</link>
+            <guid>https://www.youtube.com/watch?v=DvdR2DdmzJk</guid>
+            <pubDate>Tue, 25 Jan 2022 09:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 [화양연화] 
+2022.01.26 6PM
+
+✔️타이틀 곡 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DvdR2DdmzJk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR KYUHYUN releases 4th mini ...]]></title>
             <link>https://now.smtown.com/news/detail/2381029</link>
@@ -235,13 +246,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2380976</guid>
             <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's 'Love Story' live also c...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR, tops ‘KKBOX’ 2021 KKBOX Y...]]></title>
-            <link>https://now.smtown.com/news/detail/2380975</link>
-            <guid>https://now.smtown.com/news/detail/2380975</guid>
-            <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPER JUNIOR ranked first in '2021 KKBOX ...]]></content:encoded>
         </item>
     </channel>
 </rss>
