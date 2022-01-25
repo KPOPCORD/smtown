@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 09:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 10:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV]]></title>
+            <link>https://www.youtube.com/watch?v=c5GP9qar0_Y</link>
+            <guid>https://www.youtube.com/watch?v=c5GP9qar0_Y</guid>
+            <pubDate>Tue, 25 Jan 2022 10:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/c5GP9qar0_Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Teaser] 홍자 HONG JA - 화양연화]]></title>
             <link>https://www.youtube.com/watch?v=DvdR2DdmzJk</link>
@@ -239,13 +247,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381007</guid>
             <pubDate>Mon, 24 Jan 2022 05:40:47 GMT</pubDate>
             <content:encoded><![CDATA[The remastered music video for Girls' Generatio...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['25th Comeback' KYUHYUN, 'Love Story' L...]]></title>
-            <link>https://now.smtown.com/news/detail/2380976</link>
-            <guid>https://now.smtown.com/news/detail/2380976</guid>
-            <pubDate>Mon, 24 Jan 2022 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's 'Love Story' live also c...]]></content:encoded>
         </item>
     </channel>
 </rss>
