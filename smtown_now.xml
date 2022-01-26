@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,9 +50,11 @@
             <content:encoded><![CDATA[Park Jung Yeon has confirmed her appearance in ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Sales Insight signs a sub-sponsorship c...]]></title>
             <link>https://now.smtown.com/news/detail/2381039</link>
             <guid>https://now.smtown.com/news/detail/2381039</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[Sales Insight, a sales management CRM specialis...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['Maniac' Promotion Video Behind l MAX C...]]></title>
