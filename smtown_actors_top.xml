@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 끈끈한 우정+의리 지켰다! ‘감동 선사’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5906</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5906</guid>
+            <pubDate>Wed, 26 Jan 2022 08:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 끈끈한 우정+의리 지켰다! ‘감동 선사’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dedc0efa7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5904</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한선화, 라이프스타일 매거진 얼루어 코리아]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5898</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5898</guid>
-            <pubDate>Tue, 25 Jan 2022 05:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">한선화, 라이프스타일 매거진 얼루어 코리아</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef89dd15f80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
