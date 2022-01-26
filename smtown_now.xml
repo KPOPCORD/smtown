@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MV] 홍자 HONG JA - 화양연화 / ENG sub]]></title>
+            <link>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</link>
+            <guid>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</guid>
+            <pubDate>Wed, 26 Jan 2022 09:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 '화양연화'
+
+지난 4월, 두 번째 EP '술잔'을 통해 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uhFKZ_Tg4nY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON is back! TAEYEON's 3rd full-len...]]></title>
             <link>https://now.smtown.com/news/detail/2381045</link>
@@ -231,17 +241,6 @@ L...]]></content:encoded>
             <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
             <content:encoded><![CDATA[aespa 에스파 ReactionㅣMAX CHANGMIN 최강창민 'Devil' MV...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/IsrIOXOup98/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Audio Teaser] 홍자 HONG JA - 화양연화]]></title>
-            <link>https://www.youtube.com/watch?v=jMYYNIVGDhA</link>
-            <guid>https://www.youtube.com/watch?v=jMYYNIVGDhA</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 [화양연화] 
-2022.01.26 6PM
-
-✔️타이틀 곡 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/jMYYNIVGDhA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
