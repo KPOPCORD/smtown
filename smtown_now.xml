@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 17:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 18:49:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐇𝐀𝐄𝐂𝐇𝐀𝐍 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 새벽이라서...]]></title>
+            <link>https://www.youtube.com/watch?v=U34FTLS-mmo</link>
+            <guid>https://www.youtube.com/watch?v=U34FTLS-mmo</guid>
+            <pubDate>Wed, 26 Jan 2022 18:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[까맣게 물든 하늘에 달이 떠 있는 시간
+눈을 감고, 이어폰을 꽂고, 깊은 생각에 빠지...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/U34FTLS-mmo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Making 𝟏𝟐𝟕 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 #HAPPY...]]></title>
             <link>https://www.youtube.com/watch?v=bsxW9qipzJ8</link>
@@ -244,13 +253,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381004</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's 'Love Story' gives sympa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Jung Sung Il, from '꽃 피면 달 생각하고' to '배드...]]></title>
-            <link>https://now.smtown.com/news/detail/2381003</link>
-            <guid>https://now.smtown.com/news/detail/2381003</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Jung Sung Il has a strong presence.]]></content:encoded>
         </item>
     </channel>
 </rss>
