@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381042</link>
+            <guid>https://now.smtown.com/news/detail/2381042</guid>
+            <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381041</link>
+            <guid>https://now.smtown.com/news/detail/2381041</guid>
+            <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381040</link>
+            <guid>https://now.smtown.com/news/detail/2381040</guid>
+            <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381039</link>
+            <guid>https://now.smtown.com/news/detail/2381039</guid>
+            <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Maniac' Promotion Video Behind l MAX C...]]></title>
             <link>https://www.youtube.com/watch?v=habg8uhrnSU</link>
@@ -216,41 +236,6 @@ L...]]></content:encoded>
             <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
             <content:encoded><![CDATA[Behind-the-scene #KeyDongCam going to the insid...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/gGP0-prBcuA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DOYOUNG Reaction to MAX CHANGMIN ‘Devil...]]></title>
-            <link>https://www.youtube.com/watch?v=iKc7DV-WJGU</link>
-            <guid>https://www.youtube.com/watch?v=iKc7DV-WJGU</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[#DOYOUNG #Devil #Reaction
-#도영 #NCT #NCT127&nbsp;
-#최강...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/iKc7DV-WJGU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO KAI ranks on ‘The 25 Most Stylish M...]]></title>
-            <link>https://now.smtown.com/news/detail/2380999</link>
-            <guid>https://now.smtown.com/news/detail/2380999</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[EXO KAI (SM) was selected as the only K-pop sol...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[☕️알바는 처음이라🐜  EP. 슬기&웬디 l 처음인데 뭐하지?]]></title>
-            <link>https://www.youtube.com/watch?v=VnxK39yEMtQ</link>
-            <guid>https://www.youtube.com/watch?v=VnxK39yEMtQ</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet Official
-http://www.youtube.com/redv...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/VnxK39yEMtQ/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악마는 이력서를 읽는다 😈📜🖋 | The Devil Reads R...]]></title>
-            <link>https://www.youtube.com/watch?v=WrXtoamL4Pc</link>
-            <guid>https://www.youtube.com/watch?v=WrXtoamL4Pc</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WrXtoamL4Pc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

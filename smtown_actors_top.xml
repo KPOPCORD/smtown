@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5904</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5904</guid>
+            <pubDate>Wed, 26 Jan 2022 05:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한선화, 라이프스타일 매거진 얼루어 코리아]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5898</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">한선화, 라이프스타일 매거진 얼루어 코리아</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef89dd15f80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성일, ‘꽃피달’부터 ‘배앤크’까지 활약]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5892</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5892</guid>
-            <pubDate>Mon, 24 Jan 2022 02:57:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">정성일, ‘꽃피달’부터 ‘배앤크’까지 활약</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
