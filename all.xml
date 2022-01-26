@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 09:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 10:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MAX CHANGMIN 'Devil' 🗣 응원법 (Fanchant G... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=LNn2rz4iOm4</link>
+            <guid>https://www.youtube.com/watch?v=LNn2rz4iOm4</guid>
+            <pubDate>Wed, 26 Jan 2022 10:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LNn2rz4iOm4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[MV] 홍자 HONG JA - 화양연화 / ENG sub (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</link>
             <guid>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</guid>
@@ -796,14 +805,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381001</guid>
             <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
             <content:encoded><![CDATA[Top model and broadcaster Lee Hyun Yi will appe...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[aespa 에스파 ReactionㅣMAX CHANGMIN 최강창민 'D... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=IsrIOXOup98</link>
-            <guid>https://www.youtube.com/watch?v=IsrIOXOup98</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[aespa 에스파 ReactionㅣMAX CHANGMIN 최강창민 'Devil' MV...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/IsrIOXOup98/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 규현의 목소리로 듣는 사계절, 그 마지막 장 '연애소설 (Love Story)' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
