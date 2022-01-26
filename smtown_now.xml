@@ -4,23 +4,50 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[TAEYEON is back! TAEYEON's 3rd full-len...]]></title>
+            <link>https://now.smtown.com/news/detail/2381045</link>
+            <guid>https://now.smtown.com/news/detail/2381045</guid>
+            <pubDate>Wed, 26 Jan 2022 06:50:37 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, 'Love Story' tops the iTunes T...]]></title>
+            <link>https://now.smtown.com/news/detail/2381044</link>
+            <guid>https://now.smtown.com/news/detail/2381044</guid>
+            <pubDate>Wed, 26 Jan 2022 06:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's ballad is getting a good...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, no.1 on the music chart on the...]]></title>
+            <link>https://now.smtown.com/news/detail/2381043</link>
+            <guid>https://now.smtown.com/news/detail/2381043</guid>
+            <pubDate>Wed, 26 Jan 2022 06:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN is getting a good response...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ...]]></title>
             <link>https://now.smtown.com/news/detail/2381042</link>
             <guid>https://now.smtown.com/news/detail/2381042</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) impr...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Japan ARASHI Live DVD ‘This is 嵐 LIVE 2...]]></title>
             <link>https://now.smtown.com/news/detail/2381041</link>
             <guid>https://now.smtown.com/news/detail/2381041</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[The live DVD ‘This is 嵐 LIVE 2020.12.31’ of the...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Park Jung Yeon, TVING original '아직 최선을 ...]]></title>
             <link>https://now.smtown.com/news/detail/2381040</link>
             <guid>https://now.smtown.com/news/detail/2381040</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[Park Jung Yeon has confirmed her appearance in ...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2381039</link>
@@ -213,29 +240,6 @@ L...]]></content:encoded>
 
 ✔️타이틀 곡 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jMYYNIVGDhA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Hyun Yi·Song Hae Na·Irene to appear...]]></title>
-            <link>https://now.smtown.com/news/detail/2381000</link>
-            <guid>https://now.smtown.com/news/detail/2381000</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[Top models and broadcasters Lee Hyun Yi, Song H...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[❤‍🩹탱 Control Myself🕹]]></title>
-            <link>https://www.youtube.com/watch?v=CZf-EsEyIV0</link>
-            <guid>https://www.youtube.com/watch?v=CZf-EsEyIV0</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/CZf-EsEyIV0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#며느라기2] 사린의 꿈속까지 찾아간 #키동캠 비하인드 #박하선 | ...]]></title>
-            <link>https://www.youtube.com/watch?v=gGP0-prBcuA</link>
-            <guid>https://www.youtube.com/watch?v=gGP0-prBcuA</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scene #KeyDongCam going to the insid...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/gGP0-prBcuA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

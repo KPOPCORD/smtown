@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,38 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5909</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5909</guid>
+            <pubDate>Wed, 26 Jan 2022 06:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, 'Love Story'로 아이튠즈 톱 앨범 차트 10개 지역 1위! 국내 차트 이어 'K-발라드' 존재감 입증 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5908</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5908</guid>
+            <pubDate>Wed, 26 Jan 2022 06:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">규현, 'Love Story'로 아이튠즈 톱 앨범 차트 10개 지역 1위! 국내 차트 이어 'K-발라드' 존재감 입증</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dfbfee446.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, '연애소설' 발매 당일 음원 차트 1위 "팬들께 좋은 플레이리스트로 남길" (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5907</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5907</guid>
+            <pubDate>Wed, 26 Jan 2022 06:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 지난 1년 반의 사계절 프로젝트를 마무리하는 신곡으로 좋은 반응을 얻고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0df3915c38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[日 아라시 라이브 DVD ‘This is 嵐 LIVE 2020.12.31’ 국내 발매! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5905</link>
             <guid>https://www.smtown.com/artist/newsDetail/5905</guid>
             <pubDate>Wed, 26 Jan 2022 05:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">日 아라시 라이브 DVD ‘This is 嵐 LIVE 2020.12.31’ 국내 발매!</span>]]></content:encoded>
+            <content:encoded><![CDATA[일본 인기 그룹 아라시의 라이브 DVD ‘This is 嵐 LIVE 2020.12.31’(디스 이즈 아라시 라이브 2020.12.31)이 오늘(26일) 국내 발매된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de828e827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 규현, 25일 미니 4집 'Love Story' 발매…사계절 프로젝트 완결판 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5902</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5902</guid>
-            <pubDate>Tue, 25 Jan 2022 05:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어 규현, 25일 미니 4집 'Love Story' 발매…사계절 프로젝트 완결판</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef8bd60c35c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 태용, 패션 매거진 ‘더블유 코리아’ 2월호 커버 장식! (SMTOWN ─ Musicians News)]]></title>
@@ -417,20 +433,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee37b646fb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, 대만 KKBOX 선정 '2021 톱 한국 가수' 1위! 예성·D&E도 차트인…현지 인기 입증 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5886</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5886</guid>
-            <pubDate>Fri, 21 Jan 2022 04:52:47 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈퍼주니어가 대만 온라인 음악 사이트 KKBOX 선정 '2021 톱 한국 가수' 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea3b40e654b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 끈끈한 우정+의리 지켰다! ‘감동 선사’ (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5906</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5906</guid>
+            <pubDate>Wed, 26 Jan 2022 06:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 끈끈한 우정으로 시청자들에게 감동을 선사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dedc0efa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127-NCT, 美 ‘빌보드 200’ 한 달째 동시 차트인! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5881</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5881</guid>
-            <pubDate>Thu, 20 Jan 2022 06:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127과 NCT 앨범이 미국 ‘빌보드 200’에 4주 연속 동시 차트인, 막강한 글로벌 파워를 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fc3cc8dfb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈퍼주니어 규현, 25일 미니 4집 'Love Story' 발매…사계절 프로젝트 완결판 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5902</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5902</guid>
+            <pubDate>Tue, 25 Jan 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 자신만의 감성으로 'Love Story'를 완결한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef8bd60c35c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계 179개 지역 5100만 스트리밍 기록한 화제의 온라인 콘서트 ‘SMTOWN LIVE 2022’ 다시 만난다! (SMTOWN ─ Musicians News)]]></title>
@@ -455,22 +471,6 @@
             <pubDate>Fri, 21 Jan 2022 04:52:47 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어 규현이 '연애소설' 라이브로도 특별한 감성을 전한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea3bad74df3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 겸 프로듀서 임레이, DJ 스트리밍 쇼 ‘SHOWME’ 21일 출격! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5884</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5884</guid>
-            <pubDate>Fri, 21 Jan 2022 04:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 겸 프로듀서 임레이(IMLAY, 에스엠엔터테인먼트 소속)가 DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 세 번째 주자로 출격한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea3a53141a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강창민 20일 ‘엠카운트다운’ 출격, 신곡 ‘Fever’ 무대 선사! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5880</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5880</guid>
-            <pubDate>Thu, 20 Jan 2022 06:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 최강창민(에스엠엔터테인먼트 소속)이 20일 ‘엠카운트다운’에 출연해 신곡 ‘Fever’(피버) 무대를 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e8fbcfc4dfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’ (SMTOWN ─ Actors News)]]></title>
@@ -571,22 +571,46 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e0e876d5b6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[TAEYEON is back! TAEYEON's 3rd full-len... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381045</link>
+            <guid>https://now.smtown.com/news/detail/2381045</guid>
+            <pubDate>Wed, 26 Jan 2022 06:50:37 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, 'Love Story' tops the iTunes T... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381044</link>
+            <guid>https://now.smtown.com/news/detail/2381044</guid>
+            <pubDate>Wed, 26 Jan 2022 06:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's ballad is getting a good...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, no.1 on the music chart on the... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381043</link>
+            <guid>https://now.smtown.com/news/detail/2381043</guid>
+            <pubDate>Wed, 26 Jan 2022 06:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN is getting a good response...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381042</link>
             <guid>https://now.smtown.com/news/detail/2381042</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) impr...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Japan ARASHI Live DVD ‘This is 嵐 LIVE 2... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381041</link>
             <guid>https://now.smtown.com/news/detail/2381041</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[The live DVD ‘This is 嵐 LIVE 2020.12.31’ of the...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Park Jung Yeon, TVING original '아직 최선을 ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381040</link>
             <guid>https://now.smtown.com/news/detail/2381040</guid>
             <pubDate>Wed, 26 Jan 2022 05:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[Park Jung Yeon has confirmed her appearance in ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
@@ -780,29 +804,6 @@ L...]]></content:encoded>
 
 ✔️타이틀 곡 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jMYYNIVGDhA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Hyun Yi·Song Hae Na·Irene to appear... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381000</link>
-            <guid>https://now.smtown.com/news/detail/2381000</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[Top models and broadcasters Lee Hyun Yi, Song H...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[❤‍🩹탱 Control Myself🕹 (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=CZf-EsEyIV0</link>
-            <guid>https://www.youtube.com/watch?v=CZf-EsEyIV0</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/CZf-EsEyIV0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#며느라기2] 사린의 꿈속까지 찾아간 #키동캠 비하인드 #박하선 | ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=gGP0-prBcuA</link>
-            <guid>https://www.youtube.com/watch?v=gGP0-prBcuA</guid>
-            <pubDate>Wed, 26 Jan 2022 03:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scene #KeyDongCam going to the insid...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/gGP0-prBcuA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 규현의 목소리로 듣는 사계절, 그 마지막 장 '연애소설 (Love Story)' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
