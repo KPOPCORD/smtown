@@ -1,8 +1,256 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2022-01-26T17:01:55.405Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Jan 2022 17:45:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Making 𝟏𝟐𝟕 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 #HAPPY...]]></title>
+            <link>https://www.youtube.com/watch?v=bsxW9qipzJ8</link>
+            <guid>https://www.youtube.com/watch?v=bsxW9qipzJ8</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[#HAPPY127DAY 
+#NCT127DAY #127Playlist 
+#NCT127 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bsxW9qipzJ8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Today is pole dancing!🕺🏼✨ | Johnny’s ...]]></title>
+            <link>https://www.youtube.com/watch?v=QueS80LEptA</link>
+            <guid>https://www.youtube.com/watch?v=QueS80LEptA</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[#JCC #쟈씨씨 
+#NCT #JOHNNY #쟈니 
+#Poledance #폴댄스
+
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QueS80LEptA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 'Devil' 🗣 응원법 (Fanchant G...]]></title>
+            <link>https://www.youtube.com/watch?v=LNn2rz4iOm4</link>
+            <guid>https://www.youtube.com/watch?v=LNn2rz4iOm4</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/LNn2rz4iOm4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 홍자 HONG JA - 화양연화 / ENG sub]]></title>
+            <link>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</link>
+            <guid>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 '화양연화'
+
+지난 4월, 두 번째 EP '술잔'을 통해 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uhFKZ_Tg4nY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON is back! TAEYEON's 3rd full-len...]]></title>
+            <link>https://now.smtown.com/news/detail/2381045</link>
+            <guid>https://now.smtown.com/news/detail/2381045</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, 'Love Story' tops the iTunes T...]]></title>
+            <link>https://now.smtown.com/news/detail/2381044</link>
+            <guid>https://now.smtown.com/news/detail/2381044</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's ballad is getting a good...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, no.1 on the music chart on the...]]></title>
+            <link>https://now.smtown.com/news/detail/2381043</link>
+            <guid>https://now.smtown.com/news/detail/2381043</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN is getting a good response...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381042</link>
+            <guid>https://now.smtown.com/news/detail/2381042</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) impr...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Japan ARASHI Live DVD ‘This is 嵐 LIVE 2...]]></title>
+            <link>https://now.smtown.com/news/detail/2381041</link>
+            <guid>https://now.smtown.com/news/detail/2381041</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[The live DVD ‘This is 嵐 LIVE 2020.12.31’ of the...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Park Jung Yeon, TVING original '아직 최선을 ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381040</link>
+            <guid>https://now.smtown.com/news/detail/2381040</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Park Jung Yeon has confirmed her appearance in ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sales Insight signs a sub-sponsorship c...]]></title>
+            <link>https://now.smtown.com/news/detail/2381039</link>
+            <guid>https://now.smtown.com/news/detail/2381039</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Sales Insight, a sales management CRM specialis...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Maniac' Promotion Video Behind l MAX C...]]></title>
+            <link>https://www.youtube.com/watch?v=habg8uhrnSU</link>
+            <guid>https://www.youtube.com/watch?v=habg8uhrnSU</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/habg8uhrnSU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 제일 좋아하는 누들이야!🍜 | Lemonilo Behind th...]]></title>
+            <link>https://www.youtube.com/watch?v=KXouP9Mi6CI</link>
+            <guid>https://www.youtube.com/watch?v=KXouP9Mi6CI</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[#NCTDREAM #NCT
+#Lemonilo #Behind
+
+NCT DREAM Off...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/KXouP9Mi6CI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV]]></title>
+            <link>https://www.youtube.com/watch?v=c5GP9qar0_Y</link>
+            <guid>https://www.youtube.com/watch?v=c5GP9qar0_Y</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/c5GP9qar0_Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Teaser] 홍자 HONG JA - 화양연화]]></title>
+            <link>https://www.youtube.com/watch?v=DvdR2DdmzJk</link>
+            <guid>https://www.youtube.com/watch?v=DvdR2DdmzJk</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 [화양연화] 
+2022.01.26 6PM
+
+✔️타이틀 곡 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DvdR2DdmzJk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR KYUHYUN releases 4th mini ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381029</link>
+            <guid>https://now.smtown.com/news/detail/2381029</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN completes 'Love Story' wit...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT TAEYONG, fashion magazine 'W Korea'...]]></title>
+            <link>https://now.smtown.com/news/detail/2381028</link>
+            <guid>https://now.smtown.com/news/detail/2381028</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT TAEYONG (SM) decorated the cover of the fas...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR SHINDONG, '안싸우면 다행이야']]></title>
+            <link>https://now.smtown.com/news/detail/2381027</link>
+            <guid>https://now.smtown.com/news/detail/2381027</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[The group SUPER JUNIOR SHINDONG lit up their pr...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['우리 식구 됐어요' YESUNG's last gift "Thank y...]]></title>
+            <link>https://now.smtown.com/news/detail/2381026</link>
+            <guid>https://now.smtown.com/news/detail/2381026</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Group SUPERJUNIOR member YESUNG shared his thou...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Han Seon Hwa, Lifestyle Magazine Allure...]]></title>
+            <link>https://now.smtown.com/news/detail/2381025</link>
+            <guid>https://now.smtown.com/news/detail/2381025</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Han Seon Hwa showed off her free-spirited...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Global top model SOO JOO, DAZED KOREA F...]]></title>
+            <link>https://now.smtown.com/news/detail/2381024</link>
+            <guid>https://now.smtown.com/news/detail/2381024</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Global top model SOO JOO decorated the cover of...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Professional golfer Lim Hee Jeong donat...]]></title>
+            <link>https://now.smtown.com/news/detail/2381023</link>
+            <guid>https://now.smtown.com/news/detail/2381023</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Pro golfer Lim Hee Jeong (21, 한국토지신탁), who has ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화보장인 #한선화 얼루어 비하인드 #키동캠 | Han Seon Hwa]]></title>
+            <link>https://www.youtube.com/watch?v=qtpv72g6r_s</link>
+            <guid>https://www.youtube.com/watch?v=qtpv72g6r_s</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'allure' pic...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/qtpv72g6r_s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Can’t Control Myself' MV Behind | 태연 T...]]></title>
+            <link>https://www.youtube.com/watch?v=7KqSYHnuKlI</link>
+            <guid>https://www.youtube.com/watch?v=7KqSYHnuKlI</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/7KqSYHnuKlI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Devil' MV Behind l MAX CHANGMIN 최강창민]]></title>
+            <link>https://www.youtube.com/watch?v=KWESz1Q7pd0</link>
+            <guid>https://www.youtube.com/watch?v=KWESz1Q7pd0</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
+L...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/KWESz1Q7pd0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 2022 월간 윤종신 1월호 - NFT(with ONEO)]]></title>
+            <link>https://www.youtube.com/watch?v=zw2BpesR42k</link>
+            <guid>https://www.youtube.com/watch?v=zw2BpesR42k</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[[1월호 이야기]
+
+‘다가올 뭐든 대체 가능의 시대를 앞두고 대체 불가능 찾기’
+
+2...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zw2BpesR42k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Spoil...]]></title>
+            <link>https://www.youtube.com/watch?v=VxILz3KjYk8</link>
+            <guid>https://www.youtube.com/watch?v=VxILz3KjYk8</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN’s 4th Mini Album "Love Story (4 Season ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VxILz3KjYk8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meet again the popular online concert ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381005</link>
+            <guid>https://now.smtown.com/news/detail/2381005</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[The online concert 'SMTOWN LIVE 2022: SMCU EXPR...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Comeback on the 25th’ KYUHYUN, ‘Love S...]]></title>
+            <link>https://now.smtown.com/news/detail/2381004</link>
+            <guid>https://now.smtown.com/news/detail/2381004</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's 'Love Story' gives sympa...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jung Sung Il, from '꽃 피면 달 생각하고' to '배드...]]></title>
+            <link>https://now.smtown.com/news/detail/2381003</link>
+            <guid>https://now.smtown.com/news/detail/2381003</guid>
+            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Jung Sung Il has a strong presence.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
