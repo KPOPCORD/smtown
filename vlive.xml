@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2022-01-27T08:48:09.150Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>cs>https://validator.w3.org/feed/docs/rss2.html</docs>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jan 2022 09:44:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV]]></title>
