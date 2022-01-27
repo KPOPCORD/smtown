@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐓𝐀𝐄𝐈𝐋 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 다 괜찮아]]></title>
+            <link>https://www.youtube.com/watch?v=QH7aiSYbcZQ</link>
+            <guid>https://www.youtube.com/watch?v=QH7aiSYbcZQ</guid>
+            <pubDate>Thu, 27 Jan 2022 10:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 하루도 수고한 나를 위해&nbsp;
+지친 퇴근길을 위로해 주는 차분한 노래들&nbsp;
+“다 괜찮...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QH7aiSYbcZQ/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[𝐉𝐀𝐄𝐇𝐘𝐔𝐍 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 주말 낮잠]]></title>
             <link>https://www.youtube.com/watch?v=4CYAA95Olko</link>
@@ -249,13 +259,6 @@ NCT DREAM Off...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381025</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[Actor Han Seon Hwa showed off her free-spirited...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Global top model SOO JOO, DAZED KOREA F...]]></title>
-            <link>https://now.smtown.com/news/detail/2381024</link>
-            <guid>https://now.smtown.com/news/detail/2381024</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Global top model SOO JOO decorated the cover of...]]></content:encoded>
         </item>
     </channel>
 </rss>
