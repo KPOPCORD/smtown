@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐉𝐀𝐄𝐇𝐘𝐔𝐍 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 주말 낮잠]]></title>
+            <link>https://www.youtube.com/watch?v=4CYAA95Olko</link>
+            <guid>https://www.youtube.com/watch?v=4CYAA95Olko</guid>
+            <pubDate>Thu, 27 Jan 2022 08:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[2016년부터 2022년까지, 추억이 담긴 노래들 
+반복되는 일상을 끝내고 찾아온 모...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4CYAA95Olko/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[𝐉𝐔𝐍𝐆𝐖𝐎𝐎 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 기분 정환...]]></title>
             <link>https://www.youtube.com/watch?v=9YNnRnPDvHo</link>
@@ -247,13 +256,6 @@ NCT DREAM Off...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381024</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[Global top model SOO JOO decorated the cover of...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Professional golfer Lim Hee Jeong donat...]]></title>
-            <link>https://now.smtown.com/news/detail/2381023</link>
-            <guid>https://now.smtown.com/news/detail/2381023</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Pro golfer Lim Hee Jeong (21, 한국토지신탁), who has ...]]></content:encoded>
         </item>
     </channel>
 </rss>
