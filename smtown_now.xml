@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 01:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐉𝐎𝐇𝐍𝐍𝐘 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 일어나쟈]]></title>
+            <link>https://www.youtube.com/watch?v=OOACFQqTJ7s</link>
+            <guid>https://www.youtube.com/watch?v=OOACFQqTJ7s</guid>
+            <pubDate>Thu, 27 Jan 2022 02:51:19 GMT</pubDate>
+            <content:encoded><![CDATA[Good Morning!&nbsp;
+커피 한 잔으로 하루의 일과를 시작하는, 
+기분 좋은 오전...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/OOACFQqTJ7s/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[𝐘𝐔𝐓𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 마음을 담아서]]></title>
             <link>https://www.youtube.com/watch?v=ulJ7qXln0jA</link>
@@ -249,13 +259,6 @@ L...]]></content:encoded>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[KYUHYUN’s 4th Mini Album "Love Story (4 Season ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/VxILz3KjYk8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meet again the popular online concert ‘...]]></title>
-            <link>https://now.smtown.com/news/detail/2381005</link>
-            <guid>https://now.smtown.com/news/detail/2381005</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[The online concert 'SMTOWN LIVE 2022: SMCU EXPR...]]></content:encoded>
         </item>
     </channel>
 </rss>
