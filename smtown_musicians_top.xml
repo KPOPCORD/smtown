@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5909</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5909</guid>
-            <pubDate>Wed, 26 Jan 2022 06:49:41 GMT</pubDate>
+            <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5911</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
+            <pubDate>Thu, 27 Jan 2022 04:50:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, 'Love Story'로 아이튠즈 톱 앨범 차트 10개 지역 1위! 국내 차트 이어 'K-발라드' 존재감 입증]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5908</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5908</guid>
-            <pubDate>Wed, 26 Jan 2022 06:49:41 GMT</pubDate>
+            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5910</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5910</guid>
+            <pubDate>Thu, 27 Jan 2022 04:50:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">규현, 'Love Story'로 아이튠즈 톱 앨범 차트 10개 지역 1위! 국내 차트 이어 'K-발라드' 존재감 입증</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dfbfee446.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f221e8824bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

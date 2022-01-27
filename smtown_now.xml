@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381065</link>
+            <guid>https://now.smtown.com/news/detail/2381065</guid>
+            <pubDate>Thu, 27 Jan 2022 04:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381064</link>
+            <guid>https://now.smtown.com/news/detail/2381064</guid>
+            <pubDate>Thu, 27 Jan 2022 04:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381063</link>
+            <guid>https://now.smtown.com/news/detail/2381063</guid>
+            <pubDate>Thu, 27 Jan 2022 04:51:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[𝐃𝐎𝐘𝐎𝐔𝐍𝐆 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 더 자도 ...]]></title>
             <link>https://www.youtube.com/watch?v=8r9nVszCm4k</link>
@@ -232,35 +247,6 @@ NCT DREAM Off...]]></content:encoded>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'allure' pic...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/qtpv72g6r_s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Can’t Control Myself' MV Behind | 태연 T...]]></title>
-            <link>https://www.youtube.com/watch?v=7KqSYHnuKlI</link>
-            <guid>https://www.youtube.com/watch?v=7KqSYHnuKlI</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's pre-release single "Can't Control Mys...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/7KqSYHnuKlI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Devil' MV Behind l MAX CHANGMIN 최강창민]]></title>
-            <link>https://www.youtube.com/watch?v=KWESz1Q7pd0</link>
-            <guid>https://www.youtube.com/watch?v=KWESz1Q7pd0</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KWESz1Q7pd0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 2022 월간 윤종신 1월호 - NFT(with ONEO)]]></title>
-            <link>https://www.youtube.com/watch?v=zw2BpesR42k</link>
-            <guid>https://www.youtube.com/watch?v=zw2BpesR42k</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[[1월호 이야기]
-
-‘다가올 뭐든 대체 가능의 시대를 앞두고 대체 불가능 찾기’
-
-2...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zw2BpesR42k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
