@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 11:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 13:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘엠카운트다운’ 규현, 감성 발라더 귀환…‘연애소설’ 무대 음방 최초 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5912</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5912</guid>
+            <pubDate>Thu, 27 Jan 2022 13:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘엠카운트다운’ 규현, 감성 발라더 귀환…‘연애소설’ 무대 음방 최초 공개</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f2955d41b33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5911</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5910</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5910</guid>
-            <pubDate>Thu, 27 Jan 2022 04:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f221e8824bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

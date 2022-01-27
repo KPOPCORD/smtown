@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 11:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 13:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘M COUNTDOWN’ KYUHYUN, the emotional ba...]]></title>
+            <link>https://now.smtown.com/news/detail/2381076</link>
+            <guid>https://now.smtown.com/news/detail/2381076</guid>
+            <pubDate>Thu, 27 Jan 2022 13:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN is back with an emotional ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[𝐓𝐀𝐄𝐘𝐎𝐍𝐆 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 우리 오늘...]]></title>
+            <link>https://www.youtube.com/watch?v=8ALuciDbFJA</link>
+            <guid>https://www.youtube.com/watch?v=8ALuciDbFJA</guid>
+            <pubDate>Thu, 27 Jan 2022 13:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[바쁜 일과를 끝내고 돌아온 나만의 아지트&nbsp;
+“우리 오늘 뭐 할까?”&nbsp;
+“Chill~”...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8ALuciDbFJA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[𝐓𝐀𝐄𝐈𝐋 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 다 괜찮아]]></title>
             <link>https://www.youtube.com/watch?v=QH7aiSYbcZQ</link>
@@ -245,20 +262,6 @@ NCT DREAM Off...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381027</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[The group SUPER JUNIOR SHINDONG lit up their pr...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우리 식구 됐어요' YESUNG's last gift "Thank y...]]></title>
-            <link>https://now.smtown.com/news/detail/2381026</link>
-            <guid>https://now.smtown.com/news/detail/2381026</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Group SUPERJUNIOR member YESUNG shared his thou...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Han Seon Hwa, Lifestyle Magazine Allure...]]></title>
-            <link>https://now.smtown.com/news/detail/2381025</link>
-            <guid>https://now.smtown.com/news/detail/2381025</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Han Seon Hwa showed off her free-spirited...]]></content:encoded>
         </item>
     </channel>
 </rss>
