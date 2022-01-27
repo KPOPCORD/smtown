@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 13:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 14:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐌𝐀𝐑𝐊 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 There is a ...]]></title>
+            <link>https://www.youtube.com/watch?v=RY2dxeg93zI</link>
+            <guid>https://www.youtube.com/watch?v=RY2dxeg93zI</guid>
+            <pubDate>Thu, 27 Jan 2022 14:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[잠들기 전 하루의 마무리 시간
+아무도 방해받지 않는 나만의 공간 ‘방’에서 무언가에 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RY2dxeg93zI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘M COUNTDOWN’ KYUHYUN, the emotional ba...]]></title>
             <link>https://now.smtown.com/news/detail/2381076</link>
@@ -255,13 +264,6 @@ NCT DREAM Off...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381028</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[NCT TAEYONG (SM) decorated the cover of the fas...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR SHINDONG, '안싸우면 다행이야']]></title>
-            <link>https://now.smtown.com/news/detail/2381027</link>
-            <guid>https://now.smtown.com/news/detail/2381027</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[The group SUPER JUNIOR SHINDONG lit up their pr...]]></content:encoded>
         </item>
     </channel>
 </rss>
