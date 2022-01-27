@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 02:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 03:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐃𝐎𝐘𝐎𝐔𝐍𝐆 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 더 자도 ...]]></title>
+            <link>https://www.youtube.com/watch?v=8r9nVszCm4k</link>
+            <guid>https://www.youtube.com/watch?v=8r9nVszCm4k</guid>
+            <pubDate>Thu, 27 Jan 2022 03:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[여유로움이 가득한 오후
+영화의 주인공이 된 것처럼 만들어 주는 가슴 벅찬 노래
+초록색...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8r9nVszCm4k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[𝐉𝐎𝐇𝐍𝐍𝐘 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 일어나쟈]]></title>
             <link>https://www.youtube.com/watch?v=OOACFQqTJ7s</link>
@@ -251,14 +261,6 @@ L...]]></content:encoded>
 
 2...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/zw2BpesR42k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Spoil...]]></title>
-            <link>https://www.youtube.com/watch?v=VxILz3KjYk8</link>
-            <guid>https://www.youtube.com/watch?v=VxILz3KjYk8</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[KYUHYUN’s 4th Mini Album "Love Story (4 Season ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/VxILz3KjYk8/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
