@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 15:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT MARK Solo Performance Practice (Gao... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=lybfZKB5zJ4</link>
+            <guid>https://www.youtube.com/watch?v=lybfZKB5zJ4</guid>
+            <pubDate>Thu, 27 Jan 2022 17:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[NCT Official
+http://www.youtube.com/nctsmtown​
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/lybfZKB5zJ4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[𝐌𝐀𝐑𝐊 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 There is a ... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=RY2dxeg93zI</link>
             <guid>https://www.youtube.com/watch?v=RY2dxeg93zI</guid>
@@ -820,13 +830,6 @@ NCT DREAM Off...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381029</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN completes 'Love Story' wit...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT TAEYONG, fashion magazine 'W Korea'... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381028</link>
-            <guid>https://now.smtown.com/news/detail/2381028</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT TAEYONG (SM) decorated the cover of the fas...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1548,6 +1551,246 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 22 Aug 2021 15:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK Solo Performance Practice (Gaon ver.) (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24836957</link>
+            <guid>https://tv.naver.com/v/24836957</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_112/ffkXS_1643291384822RJU7F_JPEG/1643291373316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24764534</link>
+            <guid>https://tv.naver.com/v/24764534</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_118/dwJat_1643001792472LKAgH_JPEG/1643001477216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24716001</link>
+            <guid>https://tv.naver.com/v/24716001</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_30/x8qFY_1642688098160Iklvk_JPEG/1642688081344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #2 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24699631</link>
+            <guid>https://tv.naver.com/v/24699631</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_294/60SlW_1642641067703IkV3b_JPEG/1642640930350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24664993</link>
+            <guid>https://tv.naver.com/v/24664993</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_120/DcAnl_1642488728821yly5V_JPEG/1642485033259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #1 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24648379</link>
+            <guid>https://tv.naver.com/v/24648379</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_120/PBNNR_16424123572053MbQS_JPEG/1642412355235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24647398</link>
+            <guid>https://tv.naver.com/v/24647398</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_90/UBKuS_16424092837275YxFr_JPEG/1642409224253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24621861</link>
+            <guid>https://tv.naver.com/v/24621861</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_23/YSGP3_1642246136625zqrCn_JPEG/1642246132682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISELLE 'ZOO' Stage Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24605719</link>
+            <guid>https://tv.naver.com/v/24605719</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_293/6Tyfr_1642154006988FFLHF_JPEG/1642153996870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24586515</link>
+            <guid>https://tv.naver.com/v/24586515</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_31/ubMdV_1642064965209ASoVB_JPEG/1642064957383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24572283</link>
+            <guid>https://tv.naver.com/v/24572283</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_166/Z8NP2_16419993715210xbv9_JPEG/1641999219387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24558774</link>
+            <guid>https://tv.naver.com/v/24558774</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_114/i4T6y_1641958141485KGI68_JPEG/1641958030551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24538756</link>
+            <guid>https://tv.naver.com/v/24538756</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_182/GCiZc_1641868737787N6ezM_JPEG/1641868630495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24527502</link>
+            <guid>https://tv.naver.com/v/24527502</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_236/BX1YV_1641805069944ih55D_JPEG/1641805053628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24511566</link>
+            <guid>https://tv.naver.com/v/24511566</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220109_264/SgTdL_16417151984283bRXO_JPEG/1641715181294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24492074</link>
+            <guid>https://tv.naver.com/v/24492074</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_135/4CWJH_1641552083631fbGsq_JPEG/1641552047870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24463089</link>
+            <guid>https://tv.naver.com/v/24463089</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_10/k1omE_1641443685690MUYmF_JPEG/1641442421750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24462233</link>
+            <guid>https://tv.naver.com/v/24462233</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_94/tBcQI_1641440705933o60aB_JPEG/1641440682710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24387006</link>
+            <guid>https://tv.naver.com/v/24387006</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_151/H6OvL_1641034414777b2fqz_JPEG/1641033882038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24386181</link>
+            <guid>https://tv.naver.com/v/24386181</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[6:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_226/1tMKi_1641032171704QdWyc_JPEG/1641032133623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat 'Step Back' Stage Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24385136</link>
+            <guid>https://tv.naver.com/v/24385136</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_222/fQEYz_1641028996897jm3IS_JPEG/1641028974989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! 동방신기 'DINNER' Live Clip @DINNER with Cassiopeia│TVXQ! 18th Anniversary Party (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24358938</link>
+            <guid>https://tv.naver.com/v/24358938</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_78/WJDRJ_1640861372561AKmHi_JPEG/1640861358816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 'Heartbreak' Dance Practice (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24348077</link>
+            <guid>https://tv.naver.com/v/24348077</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_258/kVb12_1640828480353vew2c_JPEG/1640828137249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24342294</link>
+            <guid>https://tv.naver.com/v/24342294</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_98/F3F0t_1640783278654H3voN_JPEG/1640783110001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24333909</link>
+            <guid>https://tv.naver.com/v/24333909</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_178/CSZTx_1640758798291VehCB_JPEG/1640758598823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24328048</link>
+            <guid>https://tv.naver.com/v/24328048</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_248/Cuqz0_1640742094385j2yBG_JPEG/1640742079908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24306906</link>
+            <guid>https://tv.naver.com/v/24306906</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_226/Hz7he_1640653692328Wbhb7_JPEG/1640653653098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performance Stage (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24261259</link>
+            <guid>https://tv.naver.com/v/24261259</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211225_191/QhrKb_1640410172994dw6Mx_JPEG/1640410143408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Sweet Dream' Live Clip | NCT U 엔시티 유 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24253656</link>
+            <guid>https://tv.naver.com/v/24253656</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_160/oL4RD_1640350309314p96Ck_JPEG/1640350075789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINHO 민호 '같은 자리 (Area)' Dance Practice (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24247228</link>
+            <guid>https://tv.naver.com/v/24247228</guid>
+            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_202/VEapc_1640330402960sakwh_JPEG/1640330398292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
