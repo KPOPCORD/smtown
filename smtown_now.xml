@@ -4,18 +4,31 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[𝐉𝐔𝐍𝐆𝐖𝐎𝐎 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 기분 정환...]]></title>
+            <link>https://www.youtube.com/watch?v=9YNnRnPDvHo</link>
+            <guid>https://www.youtube.com/watch?v=9YNnRnPDvHo</guid>
+            <pubDate>Thu, 27 Jan 2022 05:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[나른한 오후, 잠깐의 휴식이 필요한 시점 
+구름 위에 떠있는 것만 같은 편안한 노래들...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/9YNnRnPDvHo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM Entertainment signed an industry-aca...]]></title>
             <link>https://now.smtown.com/news/detail/2381065</link>
             <guid>https://now.smtown.com/news/detail/2381065</guid>
             <pubDate>Thu, 27 Jan 2022 04:51:12 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment signed an industry-academic co...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[SMTOWN’s winter album ‘2021 Winter SMTO...]]></title>
             <link>https://now.smtown.com/news/detail/2381064</link>
             <guid>https://now.smtown.com/news/detail/2381064</guid>
             <pubDate>Thu, 27 Jan 2022 04:51:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN: SMCU EXPRESS’ topped the G...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2381063</link>
@@ -239,14 +252,6 @@ NCT DREAM Off...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381023</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[Pro golfer Lim Hee Jeong (21, 한국토지신탁), who has ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화보장인 #한선화 얼루어 비하인드 #키동캠 | Han Seon Hwa]]></title>
-            <link>https://www.youtube.com/watch?v=qtpv72g6r_s</link>
-            <guid>https://www.youtube.com/watch?v=qtpv72g6r_s</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Behind the scenes of #HanSeonHwa's 'allure' pic...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/qtpv72g6r_s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
