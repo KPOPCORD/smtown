@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 01:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[𝐘𝐔𝐓𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 마음을 담아서]]></title>
+            <link>https://www.youtube.com/watch?v=ulJ7qXln0jA</link>
+            <guid>https://www.youtube.com/watch?v=ulJ7qXln0jA</guid>
+            <pubDate>Thu, 27 Jan 2022 01:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[하루를 시작할 때 가장 중요한 것, 마음가짐
+“아, 오늘도 열심히 해야겠다”
+희망적인...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/ulJ7qXln0jA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[𝐇𝐀𝐄𝐂𝐇𝐀𝐍 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 새벽이라서...]]></title>
             <link>https://www.youtube.com/watch?v=U34FTLS-mmo</link>
@@ -246,13 +256,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381005</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[The online concert 'SMTOWN LIVE 2022: SMCU EXPR...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Comeback on the 25th’ KYUHYUN, ‘Love S...]]></title>
-            <link>https://now.smtown.com/news/detail/2381004</link>
-            <guid>https://now.smtown.com/news/detail/2381004</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's 'Love Story' gives sympa...]]></content:encoded>
         </item>
     </channel>
 </rss>
