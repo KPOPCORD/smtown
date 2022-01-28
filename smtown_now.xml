@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 03:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love S...]]></title>
+            <link>https://www.youtube.com/watch?v=A7DOkRNlyo4</link>
+            <guid>https://www.youtube.com/watch?v=A7DOkRNlyo4</guid>
+            <pubDate>Fri, 28 Jan 2022 03:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/A7DOkRNlyo4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT MARK Solo Performance Practice (Gao...]]></title>
             <link>https://www.youtube.com/watch?v=lybfZKB5zJ4</link>
@@ -260,13 +268,6 @@ NCT DREAM Off...]]></content:encoded>
 
 ✔️타이틀 곡 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DvdR2DdmzJk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR KYUHYUN releases 4th mini ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381029</link>
-            <guid>https://now.smtown.com/news/detail/2381029</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN completes 'Love Story' wit...]]></content:encoded>
         </item>
     </channel>
 </rss>

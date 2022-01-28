@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 03:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love Story" Drama ver.]]></title>
+            <link>https://tv.naver.com/v/24842353</link>
+            <guid>https://tv.naver.com/v/24842353</guid>
+            <pubDate>Fri, 28 Jan 2022 03:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[15:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_167/UWsna_1643337345599cc4or_JPEG/1643337338275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT MARK Solo Performance Practice (Gaon ver.)]]></title>
             <link>https://tv.naver.com/v/24836957</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_160/oL4RD_1640350309314p96Ck_JPEG/1640350075789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MINHO 민호 '같은 자리 (Area)' Dance Practice]]></title>
-            <link>https://tv.naver.com/v/24247228</link>
-            <guid>https://tv.naver.com/v/24247228</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_202/VEapc_1640330402960sakwh_JPEG/1640330398292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

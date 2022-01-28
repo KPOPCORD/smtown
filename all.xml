@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 03:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love S... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=A7DOkRNlyo4</link>
+            <guid>https://www.youtube.com/watch?v=A7DOkRNlyo4</guid>
+            <pubDate>Fri, 28 Jan 2022 03:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/A7DOkRNlyo4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT MARK Solo Performance Practice (Gao... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=lybfZKB5zJ4</link>
             <guid>https://www.youtube.com/watch?v=lybfZKB5zJ4</guid>
@@ -823,13 +831,6 @@ NCT DREAM Off...]]></content:encoded>
 
 ✔️타이틀 곡 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DvdR2DdmzJk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR KYUHYUN releases 4th mini ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381029</link>
-            <guid>https://now.smtown.com/news/detail/2381029</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN completes 'Love Story' wit...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1553,6 +1554,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love Story" Drama ver. (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24842353</link>
+            <guid>https://tv.naver.com/v/24842353</guid>
+            <pubDate>Fri, 28 Jan 2022 03:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[15:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_167/UWsna_1643337345599cc4or_JPEG/1643337338275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT MARK Solo Performance Practice (Gaon ver.) (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24836957</link>
             <guid>https://tv.naver.com/v/24836957</guid>
@@ -1783,14 +1792,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_160/oL4RD_1640350309314p96Ck_JPEG/1640350075789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MINHO 민호 '같은 자리 (Area)' Dance Practice (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24247228</link>
-            <guid>https://tv.naver.com/v/24247228</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_202/VEapc_1640330402960sakwh_JPEG/1640330398292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
