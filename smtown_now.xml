@@ -4,9 +4,20 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 12:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 13:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 행복합니다🐻❤️ㅣ2022 HAPPY KAI-DAY PARTY B...]]></title>
+            <link>https://www.youtube.com/watch?v=deWaxXxy2Zs</link>
+            <guid>https://www.youtube.com/watch?v=deWaxXxy2Zs</guid>
+            <pubDate>Fri, 28 Jan 2022 13:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[HAPPY KAI-DAY🐻❤️
+
+EXO Official
+http://www.yout...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/deWaxXxy2Zs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM ‘STATION’ started NCT music archivin...]]></title>
             <link>https://now.smtown.com/news/detail/2381089</link>
@@ -246,13 +257,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381043</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN is getting a good response...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381042</link>
-            <guid>https://now.smtown.com/news/detail/2381042</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) impr...]]></content:encoded>
         </item>
     </channel>
 </rss>
