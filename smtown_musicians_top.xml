@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[규현, 28일 사계절 프로젝트 'Project 季' 드라마 버전 M/V 공개…공명·채수빈 연애의 시작과 끝]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5916</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5916</guid>
-            <pubDate>Fri, 28 Jan 2022 05:39:58 GMT</pubDate>
+            <title><![CDATA[SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5919</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5919</guid>
+            <pubDate>Fri, 28 Jan 2022 06:49:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">규현, 28일 사계절 프로젝트 'Project 季' 드라마 버전 M/V 공개…공명·채수빈 연애의 시작과 끝</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f380c3b39ed.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f383211df4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘엠카운트다운’ 규현, 감성 발라더 귀환…‘연애소설’ 무대 음방 최초 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5912</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5912</guid>
-            <pubDate>Thu, 27 Jan 2022 13:00:57 GMT</pubDate>
+            <title><![CDATA[역시 GOT the beat, ‘퍼포먼스 갓’ 면모 입증! ‘Step Back’ 무대 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5918</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5918</guid>
+            <pubDate>Fri, 28 Jan 2022 06:49:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘엠카운트다운’ 규현, 감성 발라더 귀환…‘연애소설’ 무대 음방 최초 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f2955d41b33.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">역시 GOT the beat, ‘퍼포먼스 갓’ 면모 입증! ‘Step Back’ 무대 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f3827a37ca2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

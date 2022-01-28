@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381089</link>
+            <guid>https://now.smtown.com/news/detail/2381089</guid>
+            <pubDate>Fri, 28 Jan 2022 06:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381088</link>
+            <guid>https://now.smtown.com/news/detail/2381088</guid>
+            <pubDate>Fri, 28 Jan 2022 06:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 4th runner of DJ streaming show ’SH...]]></title>
+            <link>https://now.smtown.com/news/detail/2381087</link>
+            <guid>https://now.smtown.com/news/detail/2381087</guid>
+            <pubDate>Fri, 28 Jan 2022 06:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[DJ GINJO(SM) will be the fourth runner of the D...]]></content:encoded>
+        </item>
         <item>
             <link>https://now.smtown.com/news/detail/2381086</link>
             <guid>https://now.smtown.com/news/detail/2381086</guid>
@@ -228,27 +245,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381042</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) impr...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Japan ARASHI Live DVD ‘This is 嵐 LIVE 2...]]></title>
-            <link>https://now.smtown.com/news/detail/2381041</link>
-            <guid>https://now.smtown.com/news/detail/2381041</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[The live DVD ‘This is 嵐 LIVE 2020.12.31’ of the...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Park Jung Yeon, TVING original '아직 최선을 ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381040</link>
-            <guid>https://now.smtown.com/news/detail/2381040</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Park Jung Yeon has confirmed her appearance in ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sales Insight signs a sub-sponsorship c...]]></title>
-            <link>https://now.smtown.com/news/detail/2381039</link>
-            <guid>https://now.smtown.com/news/detail/2381039</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[Sales Insight, a sales management CRM specialis...]]></content:encoded>
         </item>
     </channel>
 </rss>
