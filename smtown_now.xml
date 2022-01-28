@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 17:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 17:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,9 +61,11 @@ http://www.yout...]]></content:encoded>
             <content:encoded><![CDATA[Actor Lee Hak Joo is attracting attention with ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Coffeesmith continues relationship with...]]></title>
             <link>https://now.smtown.com/news/detail/2381083</link>
             <guid>https://now.smtown.com/news/detail/2381083</guid>
             <pubDate>Fri, 28 Jan 2022 05:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[Coffeesmith (CEO Son Tae Young), a coffee franc...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love S...]]></title>
