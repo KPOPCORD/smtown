@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381086</link>
+            <guid>https://now.smtown.com/news/detail/2381086</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381085</link>
+            <guid>https://now.smtown.com/news/detail/2381085</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381084</link>
+            <guid>https://now.smtown.com/news/detail/2381084</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381083</link>
+            <guid>https://now.smtown.com/news/detail/2381083</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love S...]]></title>
             <link>https://www.youtube.com/watch?v=A7DOkRNlyo4</link>
@@ -229,45 +249,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381039</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[Sales Insight, a sales management CRM specialis...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Maniac' Promotion Video Behind l MAX C...]]></title>
-            <link>https://www.youtube.com/watch?v=habg8uhrnSU</link>
-            <guid>https://www.youtube.com/watch?v=habg8uhrnSU</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
-L...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/habg8uhrnSU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 제일 좋아하는 누들이야!🍜 | Lemonilo Behind th...]]></title>
-            <link>https://www.youtube.com/watch?v=KXouP9Mi6CI</link>
-            <guid>https://www.youtube.com/watch?v=KXouP9Mi6CI</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[#NCTDREAM #NCT
-#Lemonilo #Behind
-
-NCT DREAM Off...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KXouP9Mi6CI/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV]]></title>
-            <link>https://www.youtube.com/watch?v=c5GP9qar0_Y</link>
-            <guid>https://www.youtube.com/watch?v=c5GP9qar0_Y</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/c5GP9qar0_Y/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Teaser] 홍자 HONG JA - 화양연화]]></title>
-            <link>https://www.youtube.com/watch?v=DvdR2DdmzJk</link>
-            <guid>https://www.youtube.com/watch?v=DvdR2DdmzJk</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 [화양연화] 
-2022.01.26 6PM
-
-✔️타이틀 곡 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/DvdR2DdmzJk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

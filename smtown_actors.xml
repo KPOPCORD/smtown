@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 끈끈한 우정+의리 지켰다! ‘감동 선사’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5906</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5906</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 끈끈한 우정으로 시청자들에게 감동을 선사했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dedc0efa7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한선화, 라이프스타일 매거진 얼루어 코리아]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5898</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7791ed87b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정은채, 완벽한 화보 여신 비하인드 컷 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5871</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5871</guid>
-            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정은채가 광채보다 빛나는 '은채 비주얼'을 선보였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e77835a53aa.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5904</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5904</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[신예 박정연이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’(극본 박희권, 박은영 / 연출 임태우)에 출연을 확정, 박해준의 하나뿐인 딸로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정성일, ‘꽃피달’부터 ‘배앤크’까지 활약]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
             <content:encoded><![CDATA[배우 김재철이 누구나 부러워하는 홈쇼핑 사장으로 변신했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 시청자들의 애착 캐릭터 등극 비법은 ‘대본 사랑’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5868</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5868</guid>
-            <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 사랑받는 캐릭터를 만들기 위해 노력한 순간을 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e63234208a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
