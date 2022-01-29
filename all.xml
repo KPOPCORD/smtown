@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 02:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 03:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Vid... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=rE3GiOEhgKs</link>
+            <guid>https://www.youtube.com/watch?v=rE3GiOEhgKs</guid>
+            <pubDate>Sat, 29 Jan 2022 03:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rE3GiOEhgKs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[너무 행복합니다🐻❤️ㅣ2022 HAPPY KAI-DAY PARTY B... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=deWaxXxy2Zs</link>
             <guid>https://www.youtube.com/watch?v=deWaxXxy2Zs</guid>
@@ -817,13 +825,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381044</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's ballad is getting a good...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, no.1 on the music chart on the... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381043</link>
-            <guid>https://now.smtown.com/news/detail/2381043</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN is getting a good response...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1547,6 +1548,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/24853877</link>
+            <guid>https://tv.naver.com/v/24853877</guid>
+            <pubDate>Sat, 29 Jan 2022 03:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_240/RA5VW_1643378943384TBLXO_JPEG/1643378929401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love Story" Drama ver. (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24842353</link>
             <guid>https://tv.naver.com/v/24842353</guid>
@@ -1777,14 +1786,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211225_191/QhrKb_1640410172994dw6Mx_JPEG/1640410143408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Sweet Dream' Live Clip | NCT U 엔시티 유 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24253656</link>
-            <guid>https://tv.naver.com/v/24253656</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_160/oL4RD_1640350309314p96Ck_JPEG/1640350075789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
