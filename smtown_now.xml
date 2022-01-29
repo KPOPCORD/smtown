@@ -4,9 +4,23 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 15:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 17:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KYUHYUN, ‘유희열의 스케치북’ has a warm sensibi...]]></title>
+            <link>https://now.smtown.com/news/detail/2381113</link>
+            <guid>https://now.smtown.com/news/detail/2381113</guid>
+            <pubDate>Sat, 29 Jan 2022 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN has released a sweet live ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lee Hyun Yi, ‘호구들의 비밀과외’ MC scramble… F...]]></title>
+            <link>https://now.smtown.com/news/detail/2381112</link>
+            <guid>https://now.smtown.com/news/detail/2381112</guid>
+            <pubDate>Sat, 29 Jan 2022 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[SBS '호구들의 비밀과외', in which top model and broadca...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[한층 더 알아볼까? 퍼스널 컬러를 찾아서🌈🔎 | 천지의 이것저것 시...]]></title>
             <link>https://www.youtube.com/watch?v=-nmpnQ65A50</link>
@@ -247,23 +261,6 @@ http://www.youtube.com/nctsmtown​
             <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
 L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LNn2rz4iOm4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 홍자 HONG JA - 화양연화 / ENG sub]]></title>
-            <link>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</link>
-            <guid>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 '화양연화'
-
-지난 4월, 두 번째 EP '술잔'을 통해 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/uhFKZ_Tg4nY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON is back! TAEYEON's 3rd full-len...]]></title>
-            <link>https://now.smtown.com/news/detail/2381045</link>
-            <guid>https://now.smtown.com/news/detail/2381045</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
         </item>
     </channel>
 </rss>

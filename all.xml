@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 15:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 17:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5921</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5921</guid>
+            <pubDate>Sat, 29 Jan 2022 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f5685fa42bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5919</link>
             <guid>https://www.smtown.com/artist/newsDetail/5919</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5918</link>
             <guid>https://www.smtown.com/artist/newsDetail/5918</guid>
             <pubDate>Fri, 28 Jan 2022 06:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">역시 GOT the beat, ‘퍼포먼스 갓’ 면모 입증! ‘Step Back’ 무대 공개 화제!</span>]]></content:encoded>
+            <content:encoded><![CDATA[GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 ‘Step Back’(스텝 백) 무대를 통해 ‘퍼포먼스 갓’다운 면모를 입증했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f3827a37ca2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, 28일 사계절 프로젝트 'Project 季' 드라마 버전 M/V 공개…공명·채수빈 연애의 시작과 끝 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5916</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5916</guid>
+            <pubDate>Fri, 28 Jan 2022 05:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[배우 공명, 채수빈이 함께한 슈퍼주니어 규현의 사계절 프로젝트 이야기를 시간순으로 다시 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f380c3b39ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5911</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
+            <pubDate>Thu, 27 Jan 2022 04:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 가온차트 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5909</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5909</guid>
+            <pubDate>Wed, 26 Jan 2022 06:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 2월 14일 정규 3집 ‘INVU’(아이앤비유)로 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[규현, '연애소설' 발매 당일 음원 차트 1위 "팬들께 좋은 플레이리스트로 남길" (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5907</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5907</guid>
+            <pubDate>Wed, 26 Jan 2022 06:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 지난 1년 반의 사계절 프로젝트를 마무리하는 신곡으로 좋은 반응을 얻고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0df3915c38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Wed, 26 Jan 2022 05:40:27 GMT</pubDate>
             <content:encoded><![CDATA[일본 인기 그룹 아라시의 라이브 DVD ‘This is 嵐 LIVE 2020.12.31’(디스 이즈 아라시 라이브 2020.12.31)이 오늘(26일) 국내 발매된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de828e827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 28일 사계절 프로젝트 'Project 季' 드라마 버전 M/V 공개…공명·채수빈 연애의 시작과 끝 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5916</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5916</guid>
-            <pubDate>Fri, 28 Jan 2022 05:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[배우 공명, 채수빈이 함께한 슈퍼주니어 규현의 사계절 프로젝트 이야기를 시간순으로 다시 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f380c3b39ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5911</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
-            <pubDate>Thu, 27 Jan 2022 04:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 가온차트 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5909</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5909</guid>
-            <pubDate>Wed, 26 Jan 2022 06:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 2월 14일 정규 3집 ‘INVU’(아이앤비유)로 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, '연애소설' 발매 당일 음원 차트 1위 "팬들께 좋은 플레이리스트로 남길" (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5907</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5907</guid>
-            <pubDate>Wed, 26 Jan 2022 06:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 지난 1년 반의 사계절 프로젝트를 마무리하는 신곡으로 좋은 반응을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0df3915c38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어 규현, 25일 미니 4집 'Love Story' 발매…사계절 프로젝트 완결판 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5902</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5902</guid>
-            <pubDate>Tue, 25 Jan 2022 05:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 자신만의 감성으로 'Love Story'를 완결한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef8bd60c35c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문가영, ‘미모 정점’ 빛나는 자태 돋보이는 화보 공개 (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,20 @@
             <pubDate>Wed, 19 Jan 2022 02:50:16 GMT</pubDate>
             <content:encoded><![CDATA[배우 김재철이 누구나 부러워하는 홈쇼핑 사장으로 변신했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, ‘유희열의 스케치북’ has a warm sensibi... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381113</link>
+            <guid>https://now.smtown.com/news/detail/2381113</guid>
+            <pubDate>Sat, 29 Jan 2022 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN has released a sweet live ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Lee Hyun Yi, ‘호구들의 비밀과외’ MC scramble… F... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381112</link>
+            <guid>https://now.smtown.com/news/detail/2381112</guid>
+            <pubDate>Sat, 29 Jan 2022 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[SBS '호구들의 비밀과외', in which top model and broadca...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한층 더 알아볼까? 퍼스널 컬러를 찾아서🌈🔎 | 천지의 이것저것 시... (SMTOWN ─ NOW)]]></title>
@@ -810,23 +824,6 @@ http://www.youtube.com/nctsmtown​
             <content:encoded><![CDATA[MAX CHANGMIN's 2nd Mini Album "Devil" is out!
 L...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/LNn2rz4iOm4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 홍자 HONG JA - 화양연화 / ENG sub (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</link>
-            <guid>https://www.youtube.com/watch?v=uhFKZ_Tg4nY</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[홍자 첫 번째 디지털 싱글 '화양연화'
-
-지난 4월, 두 번째 EP '술잔'을 통해 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/uhFKZ_Tg4nY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON is back! TAEYEON's 3rd full-len... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381045</link>
-            <guid>https://now.smtown.com/news/detail/2381045</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
