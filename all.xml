@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 11:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 12:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한층 더 알아볼까? 퍼스널 컬러를 찾아서🌈🔎 | 천지의 이것저것 시... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=-nmpnQ65A50</link>
+            <guid>https://www.youtube.com/watch?v=-nmpnQ65A50</guid>
+            <pubDate>Sat, 29 Jan 2022 12:57:12 GMT</pubDate>
+            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
+#천지​ #이것저것​ #ThisA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/-nmpnQ65A50/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Vid... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=rE3GiOEhgKs</link>
             <guid>https://www.youtube.com/watch?v=rE3GiOEhgKs</guid>
@@ -818,13 +827,6 @@ L...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381045</guid>
             <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
             <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, 'Love Story' tops the iTunes T... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381044</link>
-            <guid>https://now.smtown.com/news/detail/2381044</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN's ballad is getting a good...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
