@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 13:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 14:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -578,16 +578,18 @@
             <content:encoded><![CDATA[SM Entertainment, which discovered and produced...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON, 3rd f... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381121</link>
             <guid>https://now.smtown.com/news/detail/2381121</guid>
             <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ Girls’ Generation TAEY...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Inkigayo’ KYUHYUN, ‘Love Story’ of ‘KY... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381120</link>
             <guid>https://now.smtown.com/news/detail/2381120</guid>
             <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN touched the hearts of musi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
