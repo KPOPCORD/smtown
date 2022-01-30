@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 11:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 12:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5921</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5921</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 감미로운 라이브 무대와 다양한 에피소드를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f5685fa42bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역시 GOT the beat, ‘퍼포먼스 갓’ 면모 입증! ‘Step Back’ 무대 공개 화제!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5918</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, '연애소설' 발매 당일 음원 차트 1위 "팬들께 좋은 플레이리스트로 남길"]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5907</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5907</guid>
-            <pubDate>Wed, 26 Jan 2022 06:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 지난 1년 반의 사계절 프로젝트를 마무리하는 신곡으로 좋은 반응을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0df3915c38.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5919</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5919</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[SM ‘STATION’(스테이션)이 NCT 멤버들의 다채로운 음악을 만날 수 있는 ‘NCT LAB’(엔시티 랩) 프로젝트를 시작한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f383211df4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 04:50:28 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어 규현표 발라드가 전 세계 음악 팬들에게도 좋은 반응을 얻고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dfbfee446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 아라시 라이브 DVD ‘This is 嵐 LIVE 2020.12.31’ 국내 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5905</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5905</guid>
-            <pubDate>Wed, 26 Jan 2022 06:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[일본 인기 그룹 아라시의 라이브 DVD ‘This is 嵐 LIVE 2020.12.31’(디스 이즈 아라시 라이브 2020.12.31)이 오늘(26일) 국내 발매된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de828e827.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

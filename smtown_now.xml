@@ -4,9 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 11:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 12:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381122</link>
+            <guid>https://now.smtown.com/news/detail/2381122</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381121</link>
+            <guid>https://now.smtown.com/news/detail/2381121</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381120</link>
+            <guid>https://now.smtown.com/news/detail/2381120</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381119</link>
+            <guid>https://now.smtown.com/news/detail/2381119</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[홍자 HONG JA - '화양연화' 스페셜 클립 / ENG sub]]></title>
             <link>https://www.youtube.com/watch?v=SBGIwsACRII</link>
@@ -220,48 +240,6 @@ http://www.youtube.com/nctsmtown​
 커피 한 잔으로 하루의 일과를 시작하는, 
 기분 좋은 오전...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/OOACFQqTJ7s/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[𝐘𝐔𝐓𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 마음을 담아서]]></title>
-            <link>https://www.youtube.com/watch?v=ulJ7qXln0jA</link>
-            <guid>https://www.youtube.com/watch?v=ulJ7qXln0jA</guid>
-            <pubDate>Thu, 27 Jan 2022 01:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[하루를 시작할 때 가장 중요한 것, 마음가짐
-“아, 오늘도 열심히 해야겠다”
-희망적인...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ulJ7qXln0jA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[𝐇𝐀𝐄𝐂𝐇𝐀𝐍 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 새벽이라서...]]></title>
-            <link>https://www.youtube.com/watch?v=U34FTLS-mmo</link>
-            <guid>https://www.youtube.com/watch?v=U34FTLS-mmo</guid>
-            <pubDate>Wed, 26 Jan 2022 18:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[까맣게 물든 하늘에 달이 떠 있는 시간
-눈을 감고, 이어폰을 꽂고, 깊은 생각에 빠지...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/U34FTLS-mmo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Making 𝟏𝟐𝟕 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 #HAPPY...]]></title>
-            <link>https://www.youtube.com/watch?v=bsxW9qipzJ8</link>
-            <guid>https://www.youtube.com/watch?v=bsxW9qipzJ8</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[#HAPPY127DAY 
-#NCT127DAY #127Playlist 
-#NCT127 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/bsxW9qipzJ8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Today is pole dancing!🕺🏼✨ | Johnny’s ...]]></title>
-            <link>https://www.youtube.com/watch?v=QueS80LEptA</link>
-            <guid>https://www.youtube.com/watch?v=QueS80LEptA</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[#JCC #쟈씨씨 
-#NCT #JOHNNY #쟈니 
-#Poledance #폴댄스
-
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/QueS80LEptA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

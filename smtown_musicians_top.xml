@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 11:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 12:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5921</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5921</guid>
-            <pubDate>Sat, 29 Jan 2022 17:46:46 GMT</pubDate>
+            <title><![CDATA[‘믿듣탱 컴백’ 태연, 정규 3집 ‘INVU’ 스케줄 포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5924</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5924</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f5685fa42bd.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘믿듣탱 컴백’ 태연, 정규 3집 ‘INVU’ 스케줄 포스터 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f68a2959328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5919</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5919</guid>
-            <pubDate>Fri, 28 Jan 2022 06:49:31 GMT</pubDate>
+            <title><![CDATA[‘인기가요’ 규현, 한겨울 따뜻하게 물들인 ‘규현’표 러브 스토리 ‘연애소설’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5923</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5923</guid>
+            <pubDate>Sun, 30 Jan 2022 12:56:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f383211df4e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘인기가요’ 규현, 한겨울 따뜻하게 물들인 ‘규현’표 러브 스토리 ‘연애소설’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f689b8e3cc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
