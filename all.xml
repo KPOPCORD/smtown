@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 12:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 13:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,10 +571,11 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM’s 2022 global audition ‘2022 SM GLOB... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381122</link>
             <guid>https://now.smtown.com/news/detail/2381122</guid>
             <pubDate>Sun, 30 Jan 2022 12:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment, which discovered and produced...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
