@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/FD53B/board/3530?lang=ko</id>
-    <title>SMTOWN ─ Media Board</title>
-    <updated>2022-01-31T16:56:47.607Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 31 Jan 2022 17:42:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT MARK Solo Performance Practice (Gaon ver.)]]></title>
+            <link>https://vlive.tv/post/0-27635353</link>
+            <guid>https://vlive.tv/post/0-27635353</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_200/164329209817604fdp_JPEG/upload_595610067575326359c60c2df-d63c-4e6a-accd-41c4f7bc3fbe.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV]]></title>
+            <link>https://vlive.tv/post/1-27585725</link>
+            <guid>https://vlive.tv/post/1-27585725</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_248/1643001825442YdPNC_JPEG/upload_870815344212059216d4da167-7127-4b8e-b394-3fc2e8e67d06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video Teaser]]></title>
+            <link>https://vlive.tv/post/0-27523150</link>
+            <guid>https://vlive.tv/post/0-27523150</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_264/1642688355496lzKdR_JPEG/upload_86767988635451038fd037ac7-178d-4310-a159-32fb9e7e2deb.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #2]]></title>
+            <link>https://vlive.tv/post/1-27518503</link>
+            <guid>https://vlive.tv/post/1-27518503</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ]]></title>
+            <link>https://vlive.tv/post/1-27493602</link>
+            <guid>https://vlive.tv/post/1-27493602</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #1]]></title>
+            <link>https://vlive.tv/post/1-27490514</link>
+            <guid>https://vlive.tv/post/1-27490514</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV]]></title>
+            <link>https://vlive.tv/post/0-27474131</link>
+            <guid>https://vlive.tv/post/0-27474131</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27448921</link>
+            <guid>https://vlive.tv/post/1-27448921</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISELLE 'ZOO' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27424391</link>
+            <guid>https://vlive.tv/post/0-27424391</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
+            <link>https://vlive.tv/post/0-27410057</link>
+            <guid>https://vlive.tv/post/0-27410057</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-27400788</link>
+            <guid>https://vlive.tv/post/0-27400788</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV]]></title>
+            <link>https://vlive.tv/post/1-27398614</link>
+            <guid>https://vlive.tv/post/1-27398614</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27383457</link>
+            <guid>https://vlive.tv/post/1-27383457</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video]]></title>
+            <link>https://vlive.tv/post/0-27366840</link>
+            <guid>https://vlive.tv/post/0-27366840</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유]]></title>
+            <link>https://vlive.tv/post/0-27349824</link>
+            <guid>https://vlive.tv/post/0-27349824</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
+            <link>https://vlive.tv/post/0-27321906</link>
+            <guid>https://vlive.tv/post/0-27321906</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
+            <link>https://vlive.tv/post/1-27307729</link>
+            <guid>https://vlive.tv/post/1-27307729</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-27307204</link>
+            <guid>https://vlive.tv/post/1-27307204</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN 'Dear My Family' Official Video]]></title>
+            <link>https://vlive.tv/post/1-27238570</link>
+            <guid>https://vlive.tv/post/1-27238570</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV]]></title>
+            <link>https://vlive.tv/post/1-27238253</link>
+            <guid>https://vlive.tv/post/1-27238253</guid>
+            <pubDate>Mon, 31 Jan 2022 17:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+        </item>
+    </channel>
+</rss>
