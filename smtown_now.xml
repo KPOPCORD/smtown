@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 13:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 13:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[RV Days] 새로운 컨셉이야 아주 ✨ | allure 화보 촬영 ...]]></title>
+            <link>https://www.youtube.com/watch?v=gdvovRsSrHk</link>
+            <guid>https://www.youtube.com/watch?v=gdvovRsSrHk</guid>
+            <pubDate>Mon, 31 Jan 2022 13:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet Official
+http://www.youtube.com/redv...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/gdvovRsSrHk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 SM GLOBAL AUDITION ‘KWANGYA’]]></title>
             <link>https://www.youtube.com/watch?v=m9Hjs-ZVD8A</link>
@@ -236,16 +245,6 @@ http://www.youtube.com/nctsmtown​
             <guid>https://now.smtown.com/news/detail/2381063</guid>
             <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
             <content:encoded><![CDATA[‘God of performance’ GOT the beat (SM) to prese...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[𝐃𝐎𝐘𝐎𝐔𝐍𝐆 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 더 자도 ...]]></title>
-            <link>https://www.youtube.com/watch?v=8r9nVszCm4k</link>
-            <guid>https://www.youtube.com/watch?v=8r9nVszCm4k</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[여유로움이 가득한 오후
-영화의 주인공이 된 것처럼 만들어 주는 가슴 벅찬 노래
-초록색...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8r9nVszCm4k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
