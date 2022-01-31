@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 07:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 08:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 SM GLOBAL AUDITION ‘KWANGYA’]]></title>
+            <link>https://www.youtube.com/watch?v=m9Hjs-ZVD8A</link>
+            <guid>https://www.youtube.com/watch?v=m9Hjs-ZVD8A</guid>
+            <pubDate>Mon, 31 Jan 2022 08:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022 SM GLOBAL AUDITION ‘KWANGYA’
+
+NOW, YOUR TU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/m9Hjs-ZVD8A/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM’s 2022 global audition ‘2022 SM GLOB...]]></title>
             <link>https://now.smtown.com/news/detail/2381122</link>
@@ -236,16 +246,6 @@ http://www.youtube.com/nctsmtown​
 영화의 주인공이 된 것처럼 만들어 주는 가슴 벅찬 노래
 초록색...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/8r9nVszCm4k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[𝐉𝐎𝐇𝐍𝐍𝐘 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🎧 일어나쟈]]></title>
-            <link>https://www.youtube.com/watch?v=OOACFQqTJ7s</link>
-            <guid>https://www.youtube.com/watch?v=OOACFQqTJ7s</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[Good Morning!&nbsp;
-커피 한 잔으로 하루의 일과를 시작하는, 
-기분 좋은 오전...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/OOACFQqTJ7s/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
