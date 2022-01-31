@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 13:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 14:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[INVlogU #01] ❤‍🩹탱 Control Myself🕹 비하...]]></title>
+            <link>https://www.youtube.com/watch?v=khbQi3P8aNs</link>
+            <guid>https://www.youtube.com/watch?v=khbQi3P8aNs</guid>
+            <pubDate>Mon, 31 Jan 2022 14:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 2nd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/khbQi3P8aNs/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lipstick chateau 와인빛 color💰💄🍷🌀🐻]]></title>
+            <link>https://www.youtube.com/watch?v=aN-HGi_36zY</link>
+            <guid>https://www.youtube.com/watch?v=aN-HGi_36zY</guid>
+            <pubDate>Mon, 31 Jan 2022 14:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[EXO Official
+http://www.youtube.com/weareoneEXO...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/aN-HGi_36zY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[RV Days] 새로운 컨셉이야 아주 ✨ | allure 화보 촬영 ...]]></title>
             <link>https://www.youtube.com/watch?v=gdvovRsSrHk</link>
@@ -231,20 +248,6 @@ http://www.youtube.com/nctsmtown​
             <guid>https://now.smtown.com/news/detail/2381065</guid>
             <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment signed an industry-academic co...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN’s winter album ‘2021 Winter SMTO...]]></title>
-            <link>https://now.smtown.com/news/detail/2381064</link>
-            <guid>https://now.smtown.com/news/detail/2381064</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN: SMCU EXPRESS’ topped the G...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘God of performance’ GOT the beat to pr...]]></title>
-            <link>https://now.smtown.com/news/detail/2381063</link>
-            <guid>https://now.smtown.com/news/detail/2381063</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘God of performance’ GOT the beat (SM) to prese...]]></content:encoded>
         </item>
     </channel>
 </rss>
