@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 03:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 04:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,16 @@
             <enclosure url="https://i.ytimg.com/vi/eMFTJQc6ijM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MARK’s Beautiful Moments of 2021 and Be...]]></title>
+            <link>https://www.youtube.com/watch?v=YuiuXQyU0HM</link>
+            <guid>https://www.youtube.com/watch?v=YuiuXQyU0HM</guid>
+            <pubDate>Tue, 01 Feb 2022 04:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[#MARK #NCT
+#Beautiful_Moment #Beautiful
+#NCT127...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YuiuXQyU0HM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TEN's Beautiful Moments of 2021 and Bey...]]></title>
             <link>https://www.youtube.com/watch?v=MkRpufkDXwA</link>
             <guid>https://www.youtube.com/watch?v=MkRpufkDXwA</guid>
@@ -58,6 +68,16 @@
             <enclosure url="https://i.ytimg.com/vi/MkRpufkDXwA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KUN's Beautiful Moments of 2021 and Bey...]]></title>
+            <link>https://www.youtube.com/watch?v=l8ReUdO0zaY</link>
+            <guid>https://www.youtube.com/watch?v=l8ReUdO0zaY</guid>
+            <pubDate>Tue, 01 Feb 2022 04:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[#KUN #NCT
+#Beautiful_Moment #Beautiful
+#NCT127 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/l8ReUdO0zaY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JENO’s Beautiful Moments of 2021 and Be...]]></title>
             <link>https://www.youtube.com/watch?v=ji29N-QUURg</link>
             <guid>https://www.youtube.com/watch?v=ji29N-QUURg</guid>
@@ -66,6 +86,16 @@
 #Beautiful_Moment #Beautiful
 #NCT127...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/ji29N-QUURg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YANGYANG’s Beautiful Moments of 2021 an...]]></title>
+            <link>https://www.youtube.com/watch?v=NMQv4gwHuL4</link>
+            <guid>https://www.youtube.com/watch?v=NMQv4gwHuL4</guid>
+            <pubDate>Tue, 01 Feb 2022 04:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[#YANGYANG #NCT
+#Beautiful_Moment #Beautiful
+#NC...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/NMQv4gwHuL4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HENDERY's Beautiful Moments of 2021 and...]]></title>
@@ -148,6 +178,16 @@
             <enclosure url="https://i.ytimg.com/vi/DIAdQAevGMg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[WINWIN’s Beautiful Moments of 2021 and ...]]></title>
+            <link>https://www.youtube.com/watch?v=Fzoahh5r4VI</link>
+            <guid>https://www.youtube.com/watch?v=Fzoahh5r4VI</guid>
+            <pubDate>Tue, 01 Feb 2022 04:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[#WINWIN #NCT
+#Beautiful_Moment #Beautiful
+#NCT1...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Fzoahh5r4VI/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JUNGWOO's Beautiful Moments of 2021 and...]]></title>
             <link>https://www.youtube.com/watch?v=FDEgniNKk0U</link>
             <guid>https://www.youtube.com/watch?v=FDEgniNKk0U</guid>
@@ -156,6 +196,16 @@
 #Beautiful_Moment #Beautiful
 #NCT...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/FDEgniNKk0U/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHOTARO’s Beautiful Moments of 2021 and...]]></title>
+            <link>https://www.youtube.com/watch?v=5IwpvzuPWbY</link>
+            <guid>https://www.youtube.com/watch?v=5IwpvzuPWbY</guid>
+            <pubDate>Tue, 01 Feb 2022 04:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[#SHOTARO #NCT
+#Beautiful_Moment #Beautiful
+#NCT...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5IwpvzuPWbY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JOHNNY’s Beautiful Moments of 2021 and ...]]></title>
@@ -238,47 +288,6 @@ NOW, YOUR TU...]]></content:encoded>
             <link>https://now.smtown.com/news/detail/2381119</link>
             <guid>https://now.smtown.com/news/detail/2381119</guid>
             <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[홍자 HONG JA - '화양연화' 스페셜 클립 / ENG sub]]></title>
-            <link>https://www.youtube.com/watch?v=SBGIwsACRII</link>
-            <guid>https://www.youtube.com/watch?v=SBGIwsACRII</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[홍자 HONG JA - '화양연화' 스페셜 클립 / ENG sub
-
-#홍자 #HONG...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/SBGIwsACRII/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, ‘유희열의 스케치북’ has a warm sensibi...]]></title>
-            <link>https://now.smtown.com/news/detail/2381113</link>
-            <guid>https://now.smtown.com/news/detail/2381113</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN has released a sweet live ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lee Hyun Yi, ‘호구들의 비밀과외’ MC scramble… F...]]></title>
-            <link>https://now.smtown.com/news/detail/2381112</link>
-            <guid>https://now.smtown.com/news/detail/2381112</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[SBS '호구들의 비밀과외', in which top model and broadca...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한층 더 알아볼까? 퍼스널 컬러를 찾아서🌈🔎 | 천지의 이것저것 시...]]></title>
-            <link>https://www.youtube.com/watch?v=-nmpnQ65A50</link>
-            <guid>https://www.youtube.com/watch?v=-nmpnQ65A50</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[#천지의이것저것​ #CHENLE​ #JISUNG​ 
-#천지​ #이것저것​ #ThisA...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/-nmpnQ65A50/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Vid...]]></title>
-            <link>https://www.youtube.com/watch?v=rE3GiOEhgKs</link>
-            <guid>https://www.youtube.com/watch?v=rE3GiOEhgKs</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/rE3GiOEhgKs/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
