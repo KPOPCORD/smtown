@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 15:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 17:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 02 Feb 2022 15:46:34 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/iwv4XzFp6Z0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV T...]]></title>
+            <link>https://www.youtube.com/watch?v=jGSk3nVE85k</link>
+            <guid>https://www.youtube.com/watch?v=jGSk3nVE85k</guid>
+            <pubDate>Wed, 02 Feb 2022 16:59:15 GMT</pubDate>
+            <content:encoded><![CDATA[MARK's new single "Child" will be released on F...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jGSk3nVE85k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ringing in the new year KAI-style🕺😎 O...]]></title>
@@ -286,13 +294,6 @@ NOW, YOUR TU...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381122</guid>
             <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment, which discovered and produced...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON, 3rd f...]]></title>
-            <link>https://now.smtown.com/news/detail/2381121</link>
-            <guid>https://now.smtown.com/news/detail/2381121</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ Girls’ Generation TAEY...]]></content:encoded>
         </item>
     </channel>
 </rss>
