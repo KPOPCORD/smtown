@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 14:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 15:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler]]></title>
+            <link>https://www.youtube.com/watch?v=iwv4XzFp6Z0</link>
+            <guid>https://www.youtube.com/watch?v=iwv4XzFp6Z0</guid>
+            <pubDate>Wed, 02 Feb 2022 15:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iwv4XzFp6Z0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ringing in the new year KAI-style🕺😎 O...]]></title>
             <link>https://www.youtube.com/watch?v=1nICEI8q8W8</link>
@@ -285,13 +293,6 @@ NOW, YOUR TU...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381121</guid>
             <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
             <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ Girls’ Generation TAEY...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Inkigayo’ KYUHYUN, ‘Love Story’ of ‘KY...]]></title>
-            <link>https://now.smtown.com/news/detail/2381120</link>
-            <guid>https://now.smtown.com/news/detail/2381120</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN touched the hearts of musi...]]></content:encoded>
         </item>
     </channel>
 </rss>

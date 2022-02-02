@@ -4,9 +4,25 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 14:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 15:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler]]></title>
+            <link>https://tv.naver.com/v/24900790</link>
+            <guid>https://tv.naver.com/v/24900790</guid>
+            <pubDate>Wed, 02 Feb 2022 15:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_11/OM5hK_1643810224301K8HIp_JPEG/1643810218485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24899838</link>
+            <guid>https://tv.naver.com/v/24899838</guid>
+            <pubDate>Wed, 02 Feb 2022 15:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_57/9Je3j_16438057730249oD1U_JPEG/1643805754949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video]]></title>
             <link>https://tv.naver.com/v/24853877</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_248/Cuqz0_1640742094385j2yBG_JPEG/1640742079908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GIANT PINK 자이언트핑크 'PINK' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/24306906</link>
-            <guid>https://tv.naver.com/v/24306906</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_226/Hz7he_1640653692328Wbhb7_JPEG/1640653653098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 2021 엔시티 2021 'Beautiful' Performance Stage]]></title>
-            <link>https://tv.naver.com/v/24261259</link>
-            <guid>https://tv.naver.com/v/24261259</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211225_191/QhrKb_1640410172994dw6Mx_JPEG/1640410143408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
