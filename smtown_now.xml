@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jeon Hyun Moo X Yang Se Chan, Proof of ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381195</link>
+            <guid>https://now.smtown.com/news/detail/2381195</guid>
+            <pubDate>Thu, 03 Feb 2022 08:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC’s ‘톡파원 25시’ received favorable reviews and...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[TAEYEON’s ‘INVU’, the title song of the...]]></title>
             <link>https://now.smtown.com/news/detail/2381192</link>
@@ -276,16 +283,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NCT...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/5IwpvzuPWbY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JOHNNY’s Beautiful Moments of 2021 and ...]]></title>
-            <link>https://www.youtube.com/watch?v=0T9I0bQlwsI</link>
-            <guid>https://www.youtube.com/watch?v=0T9I0bQlwsI</guid>
-            <pubDate>Tue, 01 Feb 2022 03:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[#JOHNNY #NCT
-#Beautiful_Moment #Beautiful
-#NCT1...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0T9I0bQlwsI/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
