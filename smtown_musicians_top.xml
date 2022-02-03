@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘믿듣탱 컴백’ 태연, 정규 3집 ‘INVU’ 스케줄 포스터 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5924</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5924</guid>
-            <pubDate>Sun, 30 Jan 2022 12:56:12 GMT</pubDate>
+            <title><![CDATA[태연 정규 3집 타이틀 곡 ‘INVU’, 강렬+절절한 러브송!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5929</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5929</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱 컴백’ 태연, 정규 3집 ‘INVU’ 스케줄 포스터 공개 화제!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f68a2959328.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">태연 정규 3집 타이틀 곡 ‘INVU’, 강렬+절절한 러브송!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb69b102b27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘인기가요’ 규현, 한겨울 따뜻하게 물들인 ‘규현’표 러브 스토리 ‘연애소설’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5923</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5923</guid>
-            <pubDate>Sun, 30 Jan 2022 12:56:12 GMT</pubDate>
+            <title><![CDATA[규현, 사계절 프로젝트 성공적 마침표! '연애소설' 국내외 차트 1위로 K-발라더 입지 수성]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5928</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5928</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘인기가요’ 규현, 한겨울 따뜻하게 물들인 ‘규현’표 러브 스토리 ‘연애소설’</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f689b8e3cc7.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">규현, 사계절 프로젝트 성공적 마침표! '연애소설' 국내외 차트 1위로 K-발라더 입지 수성</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb69534f304.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

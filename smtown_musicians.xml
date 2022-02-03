@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신화 ‘Perfect Man’ 리마스터 뮤직비디오 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5927</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5927</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘레전드 그룹’ 신화의 히트곡 ‘Perfect Man’(퍼펙트 맨) 리마스터 뮤직비디오가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb68d15940d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘믿듣탱 컴백’ 태연, 정규 3집 ‘INVU’ 스케줄 포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5924</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5924</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)의 정규 3집 ‘INVU’(아이앤비유) 스케줄 포스터가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f68a2959328.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5921</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f380c3b39ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5911</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 가온차트 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 마크 솔로곡 ‘Child’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5926</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5926</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 솔로곡 ‘Child’(차일드) 티저 이미지가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb682ae62d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연이 돌아온다! 정규 3집 ‘INVU’ 2월 14일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5909</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5909</guid>
-            <pubDate>Thu, 27 Jan 2022 04:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 2월 14일 정규 3집 ‘INVU’(아이앤비유)로 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0e07aa4e98.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘인기가요’ 규현, 한겨울 따뜻하게 물들인 ‘규현’표 러브 스토리 ‘연애소설’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5923</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5923</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어 규현이 따뜻한 감성으로 음악 팬들의 마음을 물들였다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f689b8e3cc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM ‘STATION’, NCT 음악 아카이빙 프로젝트 ‘NCT LAB’ 스타트!]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 28 Jan 2022 06:49:45 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어 규현이 감성 발라더로 돌아왔다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f2955d41b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5910</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5910</guid>
-            <pubDate>Thu, 27 Jan 2022 13:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘퍼포먼스 갓’ GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 드디어 27일 ‘엠카운트다운’에서 스페셜 무대를 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f221e8824bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[규현, 'Love Story'로 아이튠즈 톱 앨범 차트 10개 지역 1위! 국내 차트 이어 'K-발라드' 존재감 입증]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5908</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5908</guid>
-            <pubDate>Thu, 27 Jan 2022 04:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현표 발라드가 전 세계 음악 팬들에게도 좋은 반응을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dfbfee446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

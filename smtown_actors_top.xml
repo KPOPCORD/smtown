@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 사건 실마리 담긴 판도라 상자 열었다! ‘긴장감 조성’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5925</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5925</guid>
+            <pubDate>Thu, 03 Feb 2022 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 사건 실마리 담긴 판도라 상자 열었다! ‘긴장감 조성’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb679383c44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문가영, ‘미모 정점’ 빛나는 자태 돋보이는 화보 공개]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5915</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">문가영, ‘미모 정점’ 빛나는 자태 돋보이는 화보 공개</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f3801ca1508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이학주, 정의감 투철한 보도국 기자 ‘한동민’役 완벽 소화]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5914</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5914</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">배우 이학주, 정의감 투철한 보도국 기자 ‘한동민’役 완벽 소화</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f37fbd4f291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
