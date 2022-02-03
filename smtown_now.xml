@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SHINHWA 신화 'Perfect Man' MV]]></title>
+            <link>https://www.youtube.com/watch?v=Lxe9yXVa24Q</link>
+            <guid>https://www.youtube.com/watch?v=Lxe9yXVa24Q</guid>
+            <pubDate>Thu, 03 Feb 2022 02:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Lxe9yXVa24Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler]]></title>
             <link>https://www.youtube.com/watch?v=iwv4XzFp6Z0</link>
@@ -287,13 +297,6 @@ http://www.youtube.com/redv...]]></content:encoded>
 
 NOW, YOUR TU...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/m9Hjs-ZVD8A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM’s 2022 global audition ‘2022 SM GLOB...]]></title>
-            <link>https://now.smtown.com/news/detail/2381122</link>
-            <guid>https://now.smtown.com/news/detail/2381122</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment, which discovered and produced...]]></content:encoded>
         </item>
     </channel>
 </rss>

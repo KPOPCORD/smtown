@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e7789e3f174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SHINHWA 신화 'Perfect Man' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=Lxe9yXVa24Q</link>
+            <guid>https://www.youtube.com/watch?v=Lxe9yXVa24Q</guid>
+            <pubDate>Thu, 03 Feb 2022 02:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Lxe9yXVa24Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=iwv4XzFp6Z0</link>
             <guid>https://www.youtube.com/watch?v=iwv4XzFp6Z0</guid>
@@ -850,13 +860,6 @@ http://www.youtube.com/redv...]]></content:encoded>
 
 NOW, YOUR TU...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/m9Hjs-ZVD8A/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM’s 2022 global audition ‘2022 SM GLOB... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381122</link>
-            <guid>https://now.smtown.com/news/detail/2381122</guid>
-            <pubDate>Mon, 31 Jan 2022 01:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment, which discovered and produced...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
