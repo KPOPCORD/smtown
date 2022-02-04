@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM STATION : NCT LAB] 마크 'Child']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33230377&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33230377&amp;memberNo=41350603</guid>
+            <pubDate>Fri, 04 Feb 2022 09:42:47 GMT</pubDate>
+            <content:encoded><![CDATA['NCT LAB'의 첫 번째 곡! 마크의 'Child'가 공개되었습니다.SM STATION의 새로운 프로젝트! 'NCT LAB'은 NCT 멤버들의 다양한 음악 활동을 아카이빙하기 위해 시작되었는데요. 앨범 활동을 제외한 솔로곡과 자작곡, ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjMg/MDAxNjQzOTUzMjY3NDE2.yvxQjCPIkCp32CoVZa_Il4cRRuvbCh-0qFGulYvZWPMg.O66dX0YtthdA9kG71FQmDcO2FsrcRILinK0AnyJlUzIg.JPEG/IX2MlsUsfASwOHdIlk9UIVMsWiKc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33165324&amp;memberNo=41350603</link>
@@ -171,15 +179,6 @@ NCT 'Universe'에서 같이 놀래?]]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[아,&nbsp;NCT&nbsp;3집&nbsp;모야~왜 이렇게&nbsp;늦게 왔어 그래서 준비한 NCT의 선물!'Universe (Let's Play Ball)'선.공.개! NCT 정규 3집 &lt;Universe&gt;는더블 타이틀곡'Universe (Let’s Play Ball)'와'Beautiful'을 포함해 NCT만···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTA1/MDAxNjM5MTIzNDM4MDUw.CnRsmJ5l18zJus3MSyGY8jqvOtL1Iry-NaxAznMw05kg.64WWX_zmqCmdxX_wubHDNEQITbdMaCZqWIii_ImVPwQg.JPEG/IK351BImgxBB1YzRBGtqyUaUZDGo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[총결산] 2021
-'베스트 레이든' 어워즈]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32901215&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32901215&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021, 한해집 콕 중에도 안방을 스테이지로 만들며리스너들을 행복하게 만든 DJ가 있죠!페스티벌, OST, 컬래버레이션,첫 미니앨범까지!올 한해를 가요계를 뜨겁게 수놓고리스너들의 플레이리스트를 가득 채워준 바로···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfNzgg/MDAxNjM4ODc4OTIxOTE4.nnXXKT41998Zo4rGhWHn6XJPVmopaCxJmNrQqWCIhOcg.UZDB9n7tjyP2BhqWxEmO4kg4bCwyby6LHB3ZwufjJ7Mg.JPEG/IdHrb4sWctlstYn9vjstGzfFo_OY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
