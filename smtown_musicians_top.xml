@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 03:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 04:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태연 정규 3집 타이틀 곡 ‘INVU’, 강렬+절절한 러브송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5929</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5929</guid>
-            <pubDate>Thu, 03 Feb 2022 05:40:00 GMT</pubDate>
+            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5936</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
+            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연 정규 3집 타이틀 곡 ‘INVU’, 강렬+절절한 러브송!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb69b102b27.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, 사계절 프로젝트 성공적 마침표! '연애소설' 국내외 차트 1위로 K-발라더 입지 수성]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5928</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5928</guid>
-            <pubDate>Thu, 03 Feb 2022 05:40:00 GMT</pubDate>
+            <title><![CDATA[‘갓 유닛’ GOT the beat, 신곡 ‘Step Back’으로 음악방송 2관왕!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5935</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5935</guid>
+            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">규현, 사계절 프로젝트 성공적 마침표! '연애소설' 국내외 차트 1위로 K-발라더 입지 수성</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb69534f304.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘갓 유닛’ GOT the beat, 신곡 ‘Step Back’으로 음악방송 2관왕!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3394f9f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
