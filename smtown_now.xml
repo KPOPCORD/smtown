@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 14:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 15:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
+            <link>https://www.youtube.com/watch?v=lgciKRjWSQc</link>
+            <guid>https://www.youtube.com/watch?v=lgciKRjWSQc</guid>
+            <pubDate>Fri, 04 Feb 2022 15:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[The behind-the-scene of Mun Ka-young’s photosho...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/lgciKRjWSQc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY] KYUHYUN 규현 'Love Story' Comeba...]]></title>
             <link>https://www.youtube.com/watch?v=x72h98uraNE</link>
@@ -252,16 +260,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NCT...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dwRApk-tGIk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGCHAN's Beautiful Moments of 2021 an...]]></title>
-            <link>https://www.youtube.com/watch?v=KSxEZol8Yn0</link>
-            <guid>https://www.youtube.com/watch?v=KSxEZol8Yn0</guid>
-            <pubDate>Tue, 01 Feb 2022 03:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[#SUNGCHAN #NCT
-#Beautiful_Moment #Beautiful
-#NC...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/KSxEZol8Yn0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
