@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 08:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 09:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381221</link>
+            <guid>https://now.smtown.com/news/detail/2381221</guid>
+            <pubDate>Sat, 05 Feb 2022 09:40:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
             <link>https://www.youtube.com/watch?v=lgciKRjWSQc</link>
@@ -250,16 +255,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NC...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/NMQv4gwHuL4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HENDERY's Beautiful Moments of 2021 and...]]></title>
-            <link>https://www.youtube.com/watch?v=dwRApk-tGIk</link>
-            <guid>https://www.youtube.com/watch?v=dwRApk-tGIk</guid>
-            <pubDate>Tue, 01 Feb 2022 03:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[#HENDERY #NCT
-#Beautiful_Moment #Beautiful
-#NCT...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/dwRApk-tGIk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
