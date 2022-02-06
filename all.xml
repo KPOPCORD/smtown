@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 14:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 15:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR LEETEUK X SHINDONG, from ‘... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381226</link>
+            <guid>https://now.smtown.com/news/detail/2381226</guid>
+            <pubDate>Sun, 06 Feb 2022 15:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG showed fantas...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Cover | JISUNG - 마음 (아이유(IU)) (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=T3IkMH76XoA</link>
             <guid>https://www.youtube.com/watch?v=T3IkMH76XoA</guid>
@@ -811,16 +818,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NCT127 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/l8ReUdO0zaY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JENO’s Beautiful Moments of 2021 and Be... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=ji29N-QUURg</link>
-            <guid>https://www.youtube.com/watch?v=ji29N-QUURg</guid>
-            <pubDate>Sat, 05 Feb 2022 23:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[#JENO #NCT
-#Beautiful_Moment #Beautiful
-#NCT127...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/ji29N-QUURg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SM STATION : NCT LAB] 마크 'Child' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
