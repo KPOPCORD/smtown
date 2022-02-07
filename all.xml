@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#우도환 컬렉션 오픈! 제대 후 첫 화보 촬영 현장 #키동캠 | Woo... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=tXsEA_Ivn4o</link>
+            <guid>https://www.youtube.com/watch?v=tXsEA_Ivn4o</guid>
+            <pubDate>Mon, 07 Feb 2022 02:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene of #WooDoHwan's 'VOGUE' pictor...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tXsEA_Ivn4o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUPER JUNIOR LEETEUK X SHINDONG, from ‘... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381226</link>
             <guid>https://now.smtown.com/news/detail/2381226</guid>
@@ -808,16 +816,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NCT127 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/MkRpufkDXwA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KUN's Beautiful Moments of 2021 and Bey... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=l8ReUdO0zaY</link>
-            <guid>https://www.youtube.com/watch?v=l8ReUdO0zaY</guid>
-            <pubDate>Sat, 05 Feb 2022 23:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[#KUN #NCT
-#Beautiful_Moment #Beautiful
-#NCT127 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/l8ReUdO0zaY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SM STATION : NCT LAB] 마크 'Child' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
