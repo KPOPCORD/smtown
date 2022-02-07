@@ -1,8 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2022-02-07T05:42:06.530Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Feb 2022 06:50:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LEETEUK, active in '뷰티 앤 부티6'... A 'tre...]]></title>
+            <link>https://now.smtown.com/news/detail/2381229</link>
+            <guid>https://now.smtown.com/news/detail/2381229</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[As the group SUPER JUNIOR LEETEUK was active as...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[#우도환 컬렉션 오픈! 제대 후 첫 화보 촬영 현장 #키동캠 | Woo...]]></title>
+            <link>https://www.youtube.com/watch?v=tXsEA_Ivn4o</link>
+            <guid>https://www.youtube.com/watch?v=tXsEA_Ivn4o</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene of #WooDoHwan's 'VOGUE' pictor...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tXsEA_Ivn4o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR LEETEUK X SHINDONG, from ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381226</link>
+            <guid>https://now.smtown.com/news/detail/2381226</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG showed fantas...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cover | JISUNG - 마음 (아이유(IU))]]></title>
+            <link>https://www.youtube.com/watch?v=T3IkMH76XoA</link>
+            <guid>https://www.youtube.com/watch?v=T3IkMH76XoA</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[이건 나의 마음이자 너를 위한 선물 -JS
+
+#Cover #JISUNG #마음 
+#지...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/T3IkMH76XoA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK’s 1st solo song ‘Child’ topped...]]></title>
+            <link>https://now.smtown.com/news/detail/2381221</link>
+            <guid>https://now.smtown.com/news/detail/2381221</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' is getting a h...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
+            <link>https://www.youtube.com/watch?v=lgciKRjWSQc</link>
+            <guid>https://www.youtube.com/watch?v=lgciKRjWSQc</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[The behind-the-scene of Mun Ka-young’s photosho...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/lgciKRjWSQc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] KYUHYUN 규현 'Love Story' Comeba...]]></title>
+            <link>https://www.youtube.com/watch?v=x72h98uraNE</link>
+            <guid>https://www.youtube.com/watch?v=x72h98uraNE</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/x72h98uraNE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV]]></title>
+            <link>https://www.youtube.com/watch?v=VbIf3z2SqHg</link>
+            <guid>https://www.youtube.com/watch?v=VbIf3z2SqHg</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[MARK's new single "Child" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VbIf3z2SqHg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MV & a song of MARK's 'Child', the 1st ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381205</link>
+            <guid>https://now.smtown.com/news/detail/2381205</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)'s first solo song 'Child' will be ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘The God Unit’ GOT the beat wins 2 musi...]]></title>
+            <link>https://now.smtown.com/news/detail/2381204</link>
+            <guid>https://now.smtown.com/news/detail/2381204</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[The SM project unit GOT the beat (SM) proved it...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ exhibition ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381203</link>
+            <guid>https://now.smtown.com/news/detail/2381203</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[A special exhibition where you can preview Girl...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Producer/DJ ‘Will Not Fear’ to perform ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381202</link>
+            <guid>https://now.smtown.com/news/detail/2381202</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[Producer and DJ Will Not Fear will scramble as ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['방과 후 설렘' LEETEUK X SHINDONG, Laughter ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381201</link>
+            <guid>https://now.smtown.com/news/detail/2381201</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG transformed i...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Park Jae Min, scramble as a KBS c...]]></title>
+            <link>https://now.smtown.com/news/detail/2381200</link>
+            <guid>https://now.smtown.com/news/detail/2381200</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Jae Min, known as an all-around spor...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[땅바닥에 내리꽂아! | Ep.3 테니스 | JUST DO IT:제대로 ...]]></title>
+            <link>https://www.youtube.com/watch?v=uX42kBvtiK0</link>
+            <guid>https://www.youtube.com/watch?v=uX42kBvtiK0</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[#JUSTDOIT_제대로재밌게
+#JENO #JAEMIN
+#JUSTDOIT #제대로재밌...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uX42kBvtiK0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeon Hyun Moo X Yang Se Chan, Proof of ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381195</link>
+            <guid>https://now.smtown.com/news/detail/2381195</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC’s ‘톡파원 25시’ received favorable reviews and...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s ‘INVU’, the title song of the...]]></title>
+            <link>https://now.smtown.com/news/detail/2381192</link>
+            <guid>https://now.smtown.com/news/detail/2381192</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON (SM) heralded ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, Four Seasons Project Successfu...]]></title>
+            <link>https://now.smtown.com/news/detail/2381191</link>
+            <guid>https://now.smtown.com/news/detail/2381191</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN successfully completed the...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINHWA ‘Perfect Man’ remastered music ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381190</link>
+            <guid>https://now.smtown.com/news/detail/2381190</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[The remastered music video for the hit song 'Pe...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SHINHWA 신화 'Perfect Man' MV]]></title>
+            <link>https://www.youtube.com/watch?v=Lxe9yXVa24Q</link>
+            <guid>https://www.youtube.com/watch?v=Lxe9yXVa24Q</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Lxe9yXVa24Q/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler]]></title>
+            <link>https://www.youtube.com/watch?v=iwv4XzFp6Z0</link>
+            <guid>https://www.youtube.com/watch?v=iwv4XzFp6Z0</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iwv4XzFp6Z0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV T...]]></title>
+            <link>https://www.youtube.com/watch?v=jGSk3nVE85k</link>
+            <guid>https://www.youtube.com/watch?v=jGSk3nVE85k</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[MARK's new single "Child" will be released on F...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/jGSk3nVE85k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK's solo song 'Child' teaser ima...]]></title>
+            <link>https://now.smtown.com/news/detail/2381189</link>
+            <guid>https://now.smtown.com/news/detail/2381189</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' teaser image h...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381188</link>
+            <guid>https://now.smtown.com/news/detail/2381188</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) face...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ringing in the new year KAI-style🕺😎 O...]]></title>
+            <link>https://www.youtube.com/watch?v=1nICEI8q8W8</link>
+            <guid>https://www.youtube.com/watch?v=1nICEI8q8W8</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[EXO Official
+http://www.youtube.com/weareoneEXO...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/1nICEI8q8W8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RENJUN’s Beautiful Moments of 2021 and ...]]></title>
+            <link>https://www.youtube.com/watch?v=zvxNh4SyQ_c</link>
+            <guid>https://www.youtube.com/watch?v=zvxNh4SyQ_c</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[#RENJUN #NCT
+#Beautiful_Moment #Beautiful
+#NCT1...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/zvxNh4SyQ_c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYONG’s Beautiful Moments of 2021 and...]]></title>
+            <link>https://www.youtube.com/watch?v=nQoIEFh9vjo</link>
+            <guid>https://www.youtube.com/watch?v=nQoIEFh9vjo</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[#TAEYONG #NCT
+#Beautiful_Moment #Beautiful
+#NCT...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nQoIEFh9vjo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHENLE's Beautiful Moments of 2021 and ...]]></title>
+            <link>https://www.youtube.com/watch?v=hDTjxzx7Cwc</link>
+            <guid>https://www.youtube.com/watch?v=hDTjxzx7Cwc</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[#CHENLE #NCT
+#Beautiful_Moment #Beautiful
+#NCT1...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/hDTjxzx7Cwc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEIL's Beautiful Moments of 2021 and B...]]></title>
+            <link>https://www.youtube.com/watch?v=eMFTJQc6ijM</link>
+            <guid>https://www.youtube.com/watch?v=eMFTJQc6ijM</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[#TAEIL #NCT
+#Beautiful_Moment #Beautiful
+#NCT12...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/eMFTJQc6ijM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MARK’s Beautiful Moments of 2021 and Be...]]></title>
+            <link>https://www.youtube.com/watch?v=YuiuXQyU0HM</link>
+            <guid>https://www.youtube.com/watch?v=YuiuXQyU0HM</guid>
+            <pubDate>Mon, 07 Feb 2022 06:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[#MARK #NCT
+#Beautiful_Moment #Beautiful
+#NCT127...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/YuiuXQyU0HM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
