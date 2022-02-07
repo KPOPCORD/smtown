@@ -4,9 +4,14 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 03:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 04:52:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381229</link>
+            <guid>https://now.smtown.com/news/detail/2381229</guid>
+            <pubDate>Mon, 07 Feb 2022 04:51:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#우도환 컬렉션 오픈! 제대 후 첫 화보 촬영 현장 #키동캠 | Woo...]]></title>
             <link>https://www.youtube.com/watch?v=tXsEA_Ivn4o</link>
@@ -243,16 +248,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NCT127...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/YuiuXQyU0HM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEN's Beautiful Moments of 2021 and Bey...]]></title>
-            <link>https://www.youtube.com/watch?v=MkRpufkDXwA</link>
-            <guid>https://www.youtube.com/watch?v=MkRpufkDXwA</guid>
-            <pubDate>Sat, 05 Feb 2022 23:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[#TEN #NCT
-#Beautiful_Moment #Beautiful
-#NCT127 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/MkRpufkDXwA/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
