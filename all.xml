@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5942</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5942</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5941</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5941</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da94be5d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5937</link>
             <guid>https://www.smtown.com/artist/newsDetail/5937</guid>
             <pubDate>Sat, 05 Feb 2022 09:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 솔로곡 ‘Child’(차일드)가 뜨거운 반응을 얻고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fe450612a6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5936</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘갓 유닛’ GOT the beat, 신곡 ‘Step Back’으로 음악방송 2관왕! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb682ae62d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘인기가요’ 규현, 한겨울 따뜻하게 물들인 ‘규현’표 러브 스토리 ‘연애소설’ (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5923</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5923</guid>
-            <pubDate>Sun, 30 Jan 2022 12:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 따뜻한 감성으로 음악 팬들의 마음을 물들였다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f689b8e3cc7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5936</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
+            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 첫 솔로곡 ‘Child’(차일드)가 4일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 정규 3집 ‘INVU’ 발매 기념 전시 2월 7일 오픈! (SMTOWN ─ Musicians News)]]></title>
@@ -465,12 +473,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f68a2959328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[규현, ‘유희열의 스케치북’ 물들인 포근한 감성…사랑·이별 공감대 잡은 목소리 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5921</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5921</guid>
-            <pubDate>Sat, 29 Jan 2022 17:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어 규현이 감미로운 라이브 무대와 다양한 에피소드를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f5685fa42bd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘한 사람만’ 8일 종영! 박수영(레드벨벳 조이) 예측 불허 엔딩 선보인다 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5940</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5940</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘한 사람만’ 8일 종영! 박수영(레드벨벳 조이) 예측 불허 엔딩 선보인다</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da0c67052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 박재민, ‘2022 베이징 올림픽’ 스노보드 KBS 해설진으로 출격 (SMTOWN ─ Actors News)]]></title>
@@ -486,9 +495,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5925</link>
             <guid>https://www.smtown.com/artist/newsDetail/5925</guid>
             <pubDate>Thu, 03 Feb 2022 05:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘한 사람만’ 박수영(레드벨벳 조이), 사건 실마리 담긴 판도라 상자 열었다! ‘긴장감 조성’</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 숨겨졌던 진실 앞에 마주 서 극에 팽팽한 긴장감을 조성했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb679383c44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이학주, 정의감 투철한 보도국 기자 ‘한동민’役 완벽 소화 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5914</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5914</guid>
+            <pubDate>Fri, 28 Jan 2022 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’에서 흡인력 있는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f37fbd4f291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’ (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5904</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5904</guid>
+            <pubDate>Wed, 26 Jan 2022 05:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[신예 박정연이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’(극본 박희권, 박은영 / 연출 임태우)에 출연을 확정, 박해준의 하나뿐인 딸로 변신한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정성일, ‘꽃피달’부터 ‘배앤크’까지 활약 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5892</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5892</guid>
+            <pubDate>Mon, 24 Jan 2022 02:57:03 GMT</pubDate>
+            <content:encoded><![CDATA[정성일이 안방극장을 누비며 강력한 존재감을 떨치고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성, (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5883</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5883</guid>
+            <pubDate>Fri, 21 Jan 2022 04:53:11 GMT</pubDate>
+            <content:encoded><![CDATA[고아성의 불꽃 열연이 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea39ac35576.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문가영, ‘미모 정점’ 빛나는 자태 돋보이는 화보 공개 (SMTOWN ─ Actors News)]]></title>
@@ -531,44 +571,22 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea38103f885.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우 이학주, 정의감 투철한 보도국 기자 ‘한동민’役 완벽 소화 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5914</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5914</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’에서 흡인력 있는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f37fbd4f291.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381241</link>
+            <guid>https://now.smtown.com/news/detail/2381241</guid>
+            <pubDate>Tue, 08 Feb 2022 02:53:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’ (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5904</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5904</guid>
-            <pubDate>Wed, 26 Jan 2022 05:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[신예 박정연이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’(극본 박희권, 박은영 / 연출 임태우)에 출연을 확정, 박해준의 하나뿐인 딸로 변신한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381240</link>
+            <guid>https://now.smtown.com/news/detail/2381240</guid>
+            <pubDate>Tue, 08 Feb 2022 02:53:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[정성일, ‘꽃피달’부터 ‘배앤크’까지 활약 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5892</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5892</guid>
-            <pubDate>Mon, 24 Jan 2022 02:57:03 GMT</pubDate>
-            <content:encoded><![CDATA[정성일이 안방극장을 누비며 강력한 존재감을 떨치고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 오리지널 '트레이서' 고아성, (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5883</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5883</guid>
-            <pubDate>Fri, 21 Jan 2022 04:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[고아성의 불꽃 열연이 담긴 비하인드 컷이 공개됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea39ac35576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김예림(레드벨벳 예리) 주연 드라마 ‘블루버스데이’ 19일 CGV 개봉! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5874</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5874</guid>
-            <pubDate>Wed, 19 Jan 2022 02:50:04 GMT</pubDate>
-            <content:encoded><![CDATA[김예림(레드벨벳 예리, 에스엠엔터테인먼트 소속)이 주연으로 활약한 ‘블루버스데이’가 극장에서 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61e779a2208d9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381239</link>
+            <guid>https://now.smtown.com/news/detail/2381239</guid>
+            <pubDate>Tue, 08 Feb 2022 02:53:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LEETEUK, active in '뷰티 앤 부티6'... A 'tre... (SMTOWN ─ NOW)]]></title>
@@ -783,36 +801,6 @@ http://www.youtube.com/weareoneEXO...]]></content:encoded>
 #Beautiful_Moment #Beautiful
 #NCT...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nQoIEFh9vjo/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHENLE's Beautiful Moments of 2021 and ... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=hDTjxzx7Cwc</link>
-            <guid>https://www.youtube.com/watch?v=hDTjxzx7Cwc</guid>
-            <pubDate>Mon, 07 Feb 2022 18:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[#CHENLE #NCT
-#Beautiful_Moment #Beautiful
-#NCT1...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/hDTjxzx7Cwc/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEIL's Beautiful Moments of 2021 and B... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=eMFTJQc6ijM</link>
-            <guid>https://www.youtube.com/watch?v=eMFTJQc6ijM</guid>
-            <pubDate>Mon, 07 Feb 2022 18:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[#TAEIL #NCT
-#Beautiful_Moment #Beautiful
-#NCT12...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/eMFTJQc6ijM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MARK’s Beautiful Moments of 2021 and Be... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=YuiuXQyU0HM</link>
-            <guid>https://www.youtube.com/watch?v=YuiuXQyU0HM</guid>
-            <pubDate>Mon, 07 Feb 2022 18:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[#MARK #NCT
-#Beautiful_Moment #Beautiful
-#NCT127...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/YuiuXQyU0HM/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

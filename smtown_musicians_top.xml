@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5937</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5937</guid>
-            <pubDate>Sat, 05 Feb 2022 09:39:48 GMT</pubDate>
+            <title><![CDATA[‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5942</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5942</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fe450612a6e.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5936</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
+            <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5941</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5941</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da94be5d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
