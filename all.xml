@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 02:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 03:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ea38103f885.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[‘Comeback’ TAEYEON’s 3rd album ‘INVU’, ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381241</link>
             <guid>https://now.smtown.com/news/detail/2381241</guid>
             <pubDate>Tue, 08 Feb 2022 02:53:18 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[TVXQ! U-Know, Japanese solo album ‘君は先へ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381240</link>
             <guid>https://now.smtown.com/news/detail/2381240</guid>
             <pubDate>Tue, 08 Feb 2022 02:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! U-Know (SM)'s new Japanese mini album '君は...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Drama ‘한 사람만’ ends on the 8th! PARK SOO... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381239</link>
             <guid>https://now.smtown.com/news/detail/2381239</guid>
             <pubDate>Tue, 08 Feb 2022 02:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) runs...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LEETEUK, active in '뷰티 앤 부티6'... A 'tre... (SMTOWN ─ NOW)]]></title>
