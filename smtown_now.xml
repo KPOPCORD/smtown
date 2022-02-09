@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again]]></title>
+            <link>https://www.youtube.com/watch?v=3qSfE3qOXZg</link>
+            <guid>https://www.youtube.com/watch?v=3qSfE3qOXZg</guid>
+            <pubDate>Wed, 09 Feb 2022 09:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3qSfE3qOXZg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON, comeback commemorative YouTube...]]></title>
             <link>https://now.smtown.com/news/detail/2381251</link>
@@ -226,13 +234,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381189</guid>
             <pubDate>Wed, 09 Feb 2022 07:40:41 GMT</pubDate>
             <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' teaser image h...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381188</link>
-            <guid>https://now.smtown.com/news/detail/2381188</guid>
-            <pubDate>Wed, 09 Feb 2022 07:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) face...]]></content:encoded>
         </item>
     </channel>
 </rss>

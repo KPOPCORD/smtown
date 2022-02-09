@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee14e7ea448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=3qSfE3qOXZg</link>
+            <guid>https://www.youtube.com/watch?v=3qSfE3qOXZg</guid>
+            <pubDate>Wed, 09 Feb 2022 09:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3qSfE3qOXZg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON, comeback commemorative YouTube... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381251</link>
             <guid>https://now.smtown.com/news/detail/2381251</guid>
@@ -789,13 +797,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381189</guid>
             <pubDate>Wed, 09 Feb 2022 07:40:41 GMT</pubDate>
             <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' teaser image h...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY) ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381188</link>
-            <guid>https://now.smtown.com/news/detail/2381188</guid>
-            <pubDate>Wed, 09 Feb 2022 07:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) face...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1515,6 +1516,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25028863</link>
+            <guid>https://tv.naver.com/v/25028863</guid>
+            <pubDate>Wed, 09 Feb 2022 09:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_252/38i0e_16443970351463Fpff_JPEG/1644397024401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[GOT the beat 'Step Back' Dance Practice (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/24966183</link>
             <guid>https://tv.naver.com/v/24966183</guid>
@@ -1745,14 +1754,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_258/kVb12_1640828480353vew2c_JPEG/1640828137249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 엔시티 127 'Sticker (Will Not Fear Remix)' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24342294</link>
-            <guid>https://tv.naver.com/v/24342294</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_98/F3F0t_1640783278654H3voN_JPEG/1640783110001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
