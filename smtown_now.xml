@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON, comeback commemorative YouTube...]]></title>
+            <link>https://now.smtown.com/news/detail/2381251</link>
+            <guid>https://now.smtown.com/news/detail/2381251</guid>
+            <pubDate>Wed, 09 Feb 2022 04:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will meet fans o...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381250</link>
+            <guid>https://now.smtown.com/news/detail/2381250</guid>
+            <pubDate>Wed, 09 Feb 2022 04:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381249</link>
+            <guid>https://now.smtown.com/news/detail/2381249</guid>
+            <pubDate>Wed, 09 Feb 2022 04:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Comeback’ TAEYEON’s 3rd album ‘INVU’, ...]]></title>
             <link>https://now.smtown.com/news/detail/2381241</link>
@@ -212,35 +229,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381188</guid>
             <pubDate>Wed, 09 Feb 2022 03:43:14 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) face...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Ringing in the new year KAI-style🕺😎 O...]]></title>
-            <link>https://www.youtube.com/watch?v=1nICEI8q8W8</link>
-            <guid>https://www.youtube.com/watch?v=1nICEI8q8W8</guid>
-            <pubDate>Wed, 09 Feb 2022 03:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[EXO Official
-http://www.youtube.com/weareoneEXO...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/1nICEI8q8W8/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RENJUN’s Beautiful Moments of 2021 and ...]]></title>
-            <link>https://www.youtube.com/watch?v=zvxNh4SyQ_c</link>
-            <guid>https://www.youtube.com/watch?v=zvxNh4SyQ_c</guid>
-            <pubDate>Wed, 09 Feb 2022 03:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[#RENJUN #NCT
-#Beautiful_Moment #Beautiful
-#NCT1...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/zvxNh4SyQ_c/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYONG’s Beautiful Moments of 2021 and...]]></title>
-            <link>https://www.youtube.com/watch?v=nQoIEFh9vjo</link>
-            <guid>https://www.youtube.com/watch?v=nQoIEFh9vjo</guid>
-            <pubDate>Wed, 09 Feb 2022 03:43:14 GMT</pubDate>
-            <content:encoded><![CDATA[#TAEYONG #NCT
-#Beautiful_Moment #Beautiful
-#NCT...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nQoIEFh9vjo/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

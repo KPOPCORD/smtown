@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연, 컴백 기념 유튜브 카운트다운 라이브 14일 오후 5시 진행!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5945</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5945</guid>
+            <pubDate>Wed, 09 Feb 2022 04:50:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">태연, 컴백 기념 유튜브 카운트다운 라이브 14일 오후 5시 진행!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62033a1ce6ec6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5942</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5941</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5941</guid>
-            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da94be5d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
