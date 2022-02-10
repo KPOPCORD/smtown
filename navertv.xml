@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #3 Set Myself On Fire]]></title>
+            <link>https://tv.naver.com/v/25052530</link>
+            <guid>https://tv.naver.com/v/25052530</guid>
+            <pubDate>Thu, 10 Feb 2022 09:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_280/TEc9z_1644483556934JXdMq_JPEG/1644483331485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #2 그런 밤 (Some Nights)]]></title>
             <link>https://tv.naver.com/v/25034232</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220101_222/fQEYz_1641028996897jm3IS_JPEG/1641028974989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TVXQ! 동방신기 'DINNER' Live Clip @DINNER with Cassiopeia│TVXQ! 18th Anniversary Party]]></title>
-            <link>https://tv.naver.com/v/24358938</link>
-            <guid>https://tv.naver.com/v/24358938</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_78/WJDRJ_1640861372561AKmHi_JPEG/1640861358816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

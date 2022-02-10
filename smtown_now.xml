@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #3 Set Myself On...]]></title>
+            <link>https://www.youtube.com/watch?v=dxIHcC1uEC0</link>
+            <guid>https://www.youtube.com/watch?v=dxIHcC1uEC0</guid>
+            <pubDate>Thu, 10 Feb 2022 09:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/dxIHcC1uEC0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM Entertainment-예술과 인간개발, and healing ...]]></title>
             <link>https://now.smtown.com/news/detail/2381270</link>
@@ -225,13 +233,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381192</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON (SM) heralded ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN, Four Seasons Project Successfu...]]></title>
-            <link>https://now.smtown.com/news/detail/2381191</link>
-            <guid>https://now.smtown.com/news/detail/2381191</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN successfully completed the...]]></content:encoded>
         </item>
     </channel>
 </rss>
