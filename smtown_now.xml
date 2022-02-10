@@ -4,9 +4,36 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 13:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 14:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #4 Siren]]></title>
+            <link>https://www.youtube.com/watch?v=BFLlirxPCqk</link>
+            <guid>https://www.youtube.com/watch?v=BFLlirxPCqk</guid>
+            <pubDate>Thu, 10 Feb 2022 14:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/BFLlirxPCqk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Cup of Coffee Part. 3 | THE NCT SHOW]]></title>
+            <link>https://www.youtube.com/watch?v=N_E39apQWuo</link>
+            <guid>https://www.youtube.com/watch?v=N_E39apQWuo</guid>
+            <pubDate>Thu, 10 Feb 2022 14:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[#ACupOfCoffee 
+#THE_NCT_SHOW #엔쇼
+#JOHNNY #TAEYO...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/N_E39apQWuo/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아주아주 완벽한 슬기의 Vlog I Hi 👋 SSEULGI’s BIR...]]></title>
+            <link>https://www.youtube.com/watch?v=rvM2EYhdp2c</link>
+            <guid>https://www.youtube.com/watch?v=rvM2EYhdp2c</guid>
+            <pubDate>Thu, 10 Feb 2022 14:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet Official
+http://www.youtube.com/redv...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rvM2EYhdp2c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT NEWS | NCT DREAM 컴백… "기다렸어 어서 와" (2...]]></title>
             <link>https://www.youtube.com/watch?v=E6T8vjKQ4xw</link>
@@ -212,30 +239,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381201</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG transformed i...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Actor Park Jae Min, scramble as a KBS c...]]></title>
-            <link>https://now.smtown.com/news/detail/2381200</link>
-            <guid>https://now.smtown.com/news/detail/2381200</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Park Jae Min, known as an all-around spor...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[땅바닥에 내리꽂아! | Ep.3 테니스 | JUST DO IT:제대로 ...]]></title>
-            <link>https://www.youtube.com/watch?v=uX42kBvtiK0</link>
-            <guid>https://www.youtube.com/watch?v=uX42kBvtiK0</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[#JUSTDOIT_제대로재밌게
-#JENO #JAEMIN
-#JUSTDOIT #제대로재밌...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/uX42kBvtiK0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeon Hyun Moo X Yang Se Chan, Proof of ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381195</link>
-            <guid>https://now.smtown.com/news/detail/2381195</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC’s ‘톡파원 25시’ received favorable reviews and...]]></content:encoded>
         </item>
     </channel>
 </rss>
