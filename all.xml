@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 03:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 04:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,22 +571,25 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee14e7ea448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ heralded var... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381269</link>
             <guid>https://now.smtown.com/news/detail/2381269</guid>
             <pubDate>Thu, 10 Feb 2022 03:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a varie...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[U-KNOW’s Japanese solo album ‘君は先へ行く’ t... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381268</link>
             <guid>https://now.smtown.com/news/detail/2381268</guid>
             <pubDate>Thu, 10 Feb 2022 03:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! U-KNOW(SM)'s new Japanese mini album topp...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[SM 'Remastering project', Black Beat 'I... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381267</link>
             <guid>https://now.smtown.com/news/detail/2381267</guid>
             <pubDate>Thu, 10 Feb 2022 03:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[SM 'Remastering project' to be released a remas...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Black Beat 블랙비트 'In The Sky' MV (SMTOWN ─ NOW)]]></title>
