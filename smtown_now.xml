@@ -1,8 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2022-02-10T06:48:56.511Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Feb 2022 07:42:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM Entertainment-예술과 인간개발, and healing ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381270</link>
+            <guid>https://now.smtown.com/news/detail/2381270</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment has signed an MOU with '예술과 인간...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ heralded var...]]></title>
+            <link>https://now.smtown.com/news/detail/2381269</link>
+            <guid>https://now.smtown.com/news/detail/2381269</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a varie...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[U-KNOW’s Japanese solo album ‘君は先へ行く’ t...]]></title>
+            <link>https://now.smtown.com/news/detail/2381268</link>
+            <guid>https://now.smtown.com/news/detail/2381268</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! U-KNOW(SM)'s new Japanese mini album topp...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM 'Remastering project', Black Beat 'I...]]></title>
+            <link>https://now.smtown.com/news/detail/2381267</link>
+            <guid>https://now.smtown.com/news/detail/2381267</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[SM 'Remastering project' to be released a remas...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Black Beat 블랙비트 'In The Sky' MV]]></title>
+            <link>https://www.youtube.com/watch?v=gmliMnOTk50</link>
+            <guid>https://www.youtube.com/watch?v=gmliMnOTk50</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/gmliMnOTk50/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again]]></title>
+            <link>https://www.youtube.com/watch?v=3qSfE3qOXZg</link>
+            <guid>https://www.youtube.com/watch?v=3qSfE3qOXZg</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/3qSfE3qOXZg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON, comeback commemorative YouTube...]]></title>
+            <link>https://now.smtown.com/news/detail/2381251</link>
+            <guid>https://now.smtown.com/news/detail/2381251</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will meet fans o...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PARK SOOYOUNG of Red Velvet successfull...]]></title>
+            <link>https://now.smtown.com/news/detail/2381250</link>
+            <guid>https://now.smtown.com/news/detail/2381250</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) rece...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ Yoon Bo Ra reveals his thoughts...]]></title>
+            <link>https://now.smtown.com/news/detail/2381249</link>
+            <guid>https://now.smtown.com/news/detail/2381249</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Yoon Bo Ra gave a meaningful impression a...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Comeback’ TAEYEON’s 3rd album ‘INVU’, ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381241</link>
+            <guid>https://now.smtown.com/news/detail/2381241</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! U-Know, Japanese solo album ‘君は先へ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381240</link>
+            <guid>https://now.smtown.com/news/detail/2381240</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! U-Know (SM)'s new Japanese mini album '君は...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Drama ‘한 사람만’ ends on the 8th! PARK SOO...]]></title>
+            <link>https://now.smtown.com/news/detail/2381239</link>
+            <guid>https://now.smtown.com/news/detail/2381239</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) runs...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LEETEUK, active in '뷰티 앤 부티6'... A 'tre...]]></title>
+            <link>https://now.smtown.com/news/detail/2381229</link>
+            <guid>https://now.smtown.com/news/detail/2381229</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[As the group SUPER JUNIOR LEETEUK was active as...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[#우도환 컬렉션 오픈! 제대 후 첫 화보 촬영 현장 #키동캠 | Woo...]]></title>
+            <link>https://www.youtube.com/watch?v=tXsEA_Ivn4o</link>
+            <guid>https://www.youtube.com/watch?v=tXsEA_Ivn4o</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Behind-the-scene of #WooDoHwan's 'VOGUE' pictor...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/tXsEA_Ivn4o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR LEETEUK X SHINDONG, from ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381226</link>
+            <guid>https://now.smtown.com/news/detail/2381226</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG showed fantas...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cover | JISUNG - 마음 (아이유(IU))]]></title>
+            <link>https://www.youtube.com/watch?v=T3IkMH76XoA</link>
+            <guid>https://www.youtube.com/watch?v=T3IkMH76XoA</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[이건 나의 마음이자 너를 위한 선물 -JS
+
+#Cover #JISUNG #마음 
+#지...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/T3IkMH76XoA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK’s 1st solo song ‘Child’ topped...]]></title>
+            <link>https://now.smtown.com/news/detail/2381221</link>
+            <guid>https://now.smtown.com/news/detail/2381221</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' is getting a h...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
+            <link>https://www.youtube.com/watch?v=lgciKRjWSQc</link>
+            <guid>https://www.youtube.com/watch?v=lgciKRjWSQc</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[The behind-the-scene of Mun Ka-young’s photosho...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/lgciKRjWSQc/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] KYUHYUN 규현 'Love Story' Comeba...]]></title>
+            <link>https://www.youtube.com/watch?v=x72h98uraNE</link>
+            <guid>https://www.youtube.com/watch?v=x72h98uraNE</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/x72h98uraNE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV]]></title>
+            <link>https://www.youtube.com/watch?v=VbIf3z2SqHg</link>
+            <guid>https://www.youtube.com/watch?v=VbIf3z2SqHg</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[MARK's new single "Child" is out!
+Listen and do...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/VbIf3z2SqHg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MV & a song of MARK's 'Child', the 1st ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381205</link>
+            <guid>https://now.smtown.com/news/detail/2381205</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)'s first solo song 'Child' will be ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘The God Unit’ GOT the beat wins 2 musi...]]></title>
+            <link>https://now.smtown.com/news/detail/2381204</link>
+            <guid>https://now.smtown.com/news/detail/2381204</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[The SM project unit GOT the beat (SM) proved it...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ exhibition ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381203</link>
+            <guid>https://now.smtown.com/news/detail/2381203</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[A special exhibition where you can preview Girl...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Producer/DJ ‘Will Not Fear’ to perform ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381202</link>
+            <guid>https://now.smtown.com/news/detail/2381202</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Producer and DJ Will Not Fear will scramble as ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['방과 후 설렘' LEETEUK X SHINDONG, Laughter ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381201</link>
+            <guid>https://now.smtown.com/news/detail/2381201</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG transformed i...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Park Jae Min, scramble as a KBS c...]]></title>
+            <link>https://now.smtown.com/news/detail/2381200</link>
+            <guid>https://now.smtown.com/news/detail/2381200</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Jae Min, known as an all-around spor...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[땅바닥에 내리꽂아! | Ep.3 테니스 | JUST DO IT:제대로 ...]]></title>
+            <link>https://www.youtube.com/watch?v=uX42kBvtiK0</link>
+            <guid>https://www.youtube.com/watch?v=uX42kBvtiK0</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[#JUSTDOIT_제대로재밌게
+#JENO #JAEMIN
+#JUSTDOIT #제대로재밌...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/uX42kBvtiK0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeon Hyun Moo X Yang Se Chan, Proof of ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381195</link>
+            <guid>https://now.smtown.com/news/detail/2381195</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC’s ‘톡파원 25시’ received favorable reviews and...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s ‘INVU’, the title song of the...]]></title>
+            <link>https://now.smtown.com/news/detail/2381192</link>
+            <guid>https://now.smtown.com/news/detail/2381192</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON (SM) heralded ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN, Four Seasons Project Successfu...]]></title>
+            <link>https://now.smtown.com/news/detail/2381191</link>
+            <guid>https://now.smtown.com/news/detail/2381191</guid>
+            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR KYUHYUN successfully completed the...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
