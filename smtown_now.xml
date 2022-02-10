@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 02:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 03:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381269</link>
+            <guid>https://now.smtown.com/news/detail/2381269</guid>
+            <pubDate>Thu, 10 Feb 2022 03:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381268</link>
+            <guid>https://now.smtown.com/news/detail/2381268</guid>
+            <pubDate>Thu, 10 Feb 2022 03:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381267</link>
+            <guid>https://now.smtown.com/news/detail/2381267</guid>
+            <pubDate>Thu, 10 Feb 2022 03:42:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Black Beat 블랙비트 'In The Sky' MV]]></title>
             <link>https://www.youtube.com/watch?v=gmliMnOTk50</link>
@@ -211,32 +226,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381190</guid>
             <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
             <content:encoded><![CDATA[The remastered music video for the hit song 'Pe...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SHINHWA 신화 'Perfect Man' MV]]></title>
-            <link>https://www.youtube.com/watch?v=Lxe9yXVa24Q</link>
-            <guid>https://www.youtube.com/watch?v=Lxe9yXVa24Q</guid>
-            <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/Lxe9yXVa24Q/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler]]></title>
-            <link>https://www.youtube.com/watch?v=iwv4XzFp6Z0</link>
-            <guid>https://www.youtube.com/watch?v=iwv4XzFp6Z0</guid>
-            <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/iwv4XzFp6Z0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV T...]]></title>
-            <link>https://www.youtube.com/watch?v=jGSk3nVE85k</link>
-            <guid>https://www.youtube.com/watch?v=jGSk3nVE85k</guid>
-            <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[MARK's new single "Child" will be released on F...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/jGSk3nVE85k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
