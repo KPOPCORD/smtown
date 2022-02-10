@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee14e7ea448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Black Beat 블랙비트 'In The Sky' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=gmliMnOTk50</link>
+            <guid>https://www.youtube.com/watch?v=gmliMnOTk50</guid>
+            <pubDate>Thu, 10 Feb 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/gmliMnOTk50/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=3qSfE3qOXZg</link>
             <guid>https://www.youtube.com/watch?v=3qSfE3qOXZg</guid>
@@ -790,13 +800,6 @@ Listen and do...]]></content:encoded>
             <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
             <content:encoded><![CDATA[MARK's new single "Child" will be released on F...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jGSk3nVE85k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT MARK's solo song 'Child' teaser ima... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381189</link>
-            <guid>https://now.smtown.com/news/detail/2381189</guid>
-            <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' teaser image h...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>

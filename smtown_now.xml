@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Black Beat 블랙비트 'In The Sky' MV]]></title>
+            <link>https://www.youtube.com/watch?v=gmliMnOTk50</link>
+            <guid>https://www.youtube.com/watch?v=gmliMnOTk50</guid>
+            <pubDate>Thu, 10 Feb 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/gmliMnOTk50/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again]]></title>
             <link>https://www.youtube.com/watch?v=3qSfE3qOXZg</link>
@@ -227,13 +237,6 @@ Listen and do...]]></content:encoded>
             <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
             <content:encoded><![CDATA[MARK's new single "Child" will be released on F...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/jGSk3nVE85k/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT MARK's solo song 'Child' teaser ima...]]></title>
-            <link>https://now.smtown.com/news/detail/2381189</link>
-            <guid>https://now.smtown.com/news/detail/2381189</guid>
-            <pubDate>Wed, 09 Feb 2022 23:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' teaser image h...]]></content:encoded>
         </item>
     </channel>
 </rss>
