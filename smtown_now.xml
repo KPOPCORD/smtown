@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:59:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT NEWS | NCT DREAM 컴백… "기다렸어 어서 와" (2...]]></title>
+            <link>https://www.youtube.com/watch?v=E6T8vjKQ4xw</link>
+            <guid>https://www.youtube.com/watch?v=E6T8vjKQ4xw</guid>
+            <pubDate>Thu, 10 Feb 2022 12:58:19 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT_NEWS
+#THE_NCT_SHOW #엔쇼
+#JENO #SUNGCHAN #JU...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/E6T8vjKQ4xw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #3 Set Myself On...]]></title>
             <link>https://www.youtube.com/watch?v=dxIHcC1uEC0</link>
@@ -226,13 +236,6 @@ Listen and do...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381195</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[JTBC’s ‘톡파원 25시’ received favorable reviews and...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON’s ‘INVU’, the title song of the...]]></title>
-            <link>https://now.smtown.com/news/detail/2381192</link>
-            <guid>https://now.smtown.com/news/detail/2381192</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘Guaranteed Vocal Queen’ TAEYEON (SM) heralded ...]]></content:encoded>
         </item>
     </channel>
 </rss>
