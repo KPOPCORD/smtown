@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 오리콘 데일리 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5947</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5947</guid>
+            <pubDate>Fri, 11 Feb 2022 03:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 유노윤호(에스엠엔터테인먼트 소속)의 일본 새 미니앨범이 오리콘 차트 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620485f7db614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, 컴백 기념 유튜브 카운트다운 라이브 14일 오후 5시 진행!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5945</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5945</guid>
+            <pubDate>Thu, 10 Feb 2022 03:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 컴백을 맞아 팬들과 랜선으로 만난다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62033a1ce6ec6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5941</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5941</guid>
+            <pubDate>Wed, 09 Feb 2022 04:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[동방신기 유노윤호(에스엠엔터테인먼트 소속)의 일본 새 미니앨범 ‘君は先へ行く’(키미와 사키에유쿠/너는 먼저 간다)가 오는 9일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da94be5d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5936</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 첫 솔로곡 ‘Child’(차일드)가 4일 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연 정규 3집 ‘INVU’ 발매 기념 전시 2월 7일 오픈!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5934</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5934</guid>
+            <pubDate>Fri, 04 Feb 2022 04:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 정규 3집 ‘INVU’(아이앤비유)를 미리 만날 수 있는 특별한 전시가 2월 7일 오픈된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca2cd8ec26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM ‘리마스터링 프로젝트’, 블랙비트 ‘In The Sky’ 리마스터 MV 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5946</link>
@@ -46,46 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 04:43:46 GMT</pubDate>
             <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 다섯 번째 공연 주자로 프로듀서 겸 DJ 윌 낫 피어(Will Not Fear)가 출격한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca2768a303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 컴백 기념 유튜브 카운트다운 라이브 14일 오후 5시 진행!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5945</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5945</guid>
-            <pubDate>Thu, 10 Feb 2022 03:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 컴백을 맞아 팬들과 랜선으로 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62033a1ce6ec6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 ‘키미와 사키에유쿠’(君は先へ行く) 9일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5941</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5941</guid>
-            <pubDate>Wed, 09 Feb 2022 04:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 유노윤호(에스엠엔터테인먼트 소속)의 일본 새 미니앨범 ‘君は先へ行く’(키미와 사키에유쿠/너는 먼저 간다)가 오는 9일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da94be5d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5936</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
-            <pubDate>Tue, 08 Feb 2022 02:52:40 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 첫 솔로곡 ‘Child’(차일드)가 4일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 정규 3집 ‘INVU’ 발매 기념 전시 2월 7일 오픈!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5934</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5934</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 정규 3집 ‘INVU’(아이앤비유)를 미리 만날 수 있는 특별한 전시가 2월 7일 오픈된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca2cd8ec26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 정규 3집 타이틀 곡 ‘INVU’, 강렬+절절한 러브송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5929</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5929</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 태연(에스엠엔터테인먼트 소속)이 정규 3집 타이틀 곡 ‘INVU’(아이앤비유)로 강렬한 변신을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb69b102b27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
