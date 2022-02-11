@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=0G6OQmQIvdw</link>
+            <guid>https://www.youtube.com/watch?v=0G6OQmQIvdw</guid>
+            <pubDate>Fri, 11 Feb 2022 09:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0G6OQmQIvdw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The two anchors are getting ready for t... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=aY4RMJl05BM</link>
             <guid>https://www.youtube.com/watch?v=aY4RMJl05BM</guid>
@@ -794,14 +802,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381221</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' is getting a h...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=lgciKRjWSQc</link>
-            <guid>https://www.youtube.com/watch?v=lgciKRjWSQc</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[The behind-the-scene of Mun Ka-young’s photosho...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/lgciKRjWSQc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1521,6 +1521,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25075613</link>
+            <guid>https://tv.naver.com/v/25075613</guid>
+            <pubDate>Fri, 11 Feb 2022 09:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_89/wVRGI_1644568911493gweDP_JPEG/1644568905954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #5 You Better Not (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25068169</link>
             <guid>https://tv.naver.com/v/25068169</guid>
@@ -1751,14 +1759,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_94/tBcQI_1641440705933o60aB_JPEG/1641440682710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN 'Dear My Family' Official Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24387006</link>
-            <guid>https://tv.naver.com/v/24387006</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[5:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_151/H6OvL_1641034414777b2fqz_JPEG/1641033882038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

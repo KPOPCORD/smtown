@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless]]></title>
+            <link>https://www.youtube.com/watch?v=0G6OQmQIvdw</link>
+            <guid>https://www.youtube.com/watch?v=0G6OQmQIvdw</guid>
+            <pubDate>Fri, 11 Feb 2022 09:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0G6OQmQIvdw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The two anchors are getting ready for t...]]></title>
             <link>https://www.youtube.com/watch?v=aY4RMJl05BM</link>
@@ -231,14 +239,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381221</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' is getting a h...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
-            <link>https://www.youtube.com/watch?v=lgciKRjWSQc</link>
-            <guid>https://www.youtube.com/watch?v=lgciKRjWSQc</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[The behind-the-scene of Mun Ka-young’s photosho...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/lgciKRjWSQc/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
