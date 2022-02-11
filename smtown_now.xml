@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 12:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 13:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell]]></title>
+            <link>https://www.youtube.com/watch?v=8-hx1CY2jsY</link>
+            <guid>https://www.youtube.com/watch?v=8-hx1CY2jsY</guid>
+            <pubDate>Fri, 11 Feb 2022 13:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8-hx1CY2jsY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless]]></title>
             <link>https://www.youtube.com/watch?v=0G6OQmQIvdw</link>
@@ -232,13 +240,6 @@ http://www.youtube.com/redv...]]></content:encoded>
 #Cover #JISUNG #마음 
 #지...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/T3IkMH76XoA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT MARK’s 1st solo song ‘Child’ topped...]]></title>
-            <link>https://now.smtown.com/news/detail/2381221</link>
-            <guid>https://now.smtown.com/news/detail/2381221</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[NCT MARK(SM)'s solo song 'Child' is getting a h...]]></content:encoded>
         </item>
     </channel>
 </rss>
