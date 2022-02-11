@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연 정규 3집 ‘INVU’ 애틋+몽환적 분위기도 담았다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5950</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5950</guid>
+            <pubDate>Fri, 11 Feb 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 애틋하고 몽환적인 분위기를 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dac0df63d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동방신기 유노윤호, 日 솔로 앨범 오리콘 데일리 1위!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5947</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연 정규 3집 ‘INVU’ 발매 기념 전시 2월 7일 오픈!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5934</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5934</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)의 정규 3집 ‘INVU’(아이앤비유)를 미리 만날 수 있는 특별한 전시가 2월 7일 오픈된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca2cd8ec26.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[태연 정규 3집 ‘INVU’, 업템포 팝→발라드, 다양한 장르 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5948</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5948</guid>
+            <pubDate>Fri, 11 Feb 2022 04:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 다양한 음악 색깔을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62048676dea7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM ‘리마스터링 프로젝트’, 블랙비트 ‘In The Sky’ 리마스터 MV 공개!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 05 Feb 2022 09:39:59 GMT</pubDate>
             <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 출연 없이 음악방송 2관왕에 오르며 역대급 화제성을 입증했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3394f9f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, 윌 낫 피어 공연 4일 오후 9시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5933</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5933</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 다섯 번째 공연 주자로 프로듀서 겸 DJ 윌 낫 피어(Will Not Fear)가 출격한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca2768a303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

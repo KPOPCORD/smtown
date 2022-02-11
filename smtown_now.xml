@@ -4,18 +4,43 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[SM Entertainment signed an MOU with the...]]></title>
+            <link>https://now.smtown.com/news/detail/2381296</link>
+            <guid>https://now.smtown.com/news/detail/2381296</guid>
+            <pubDate>Fri, 11 Feb 2022 04:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment signed an MOU with the Seoul P...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT launches ‘THE NCT SHOW’!]]></title>
+            <link>https://now.smtown.com/news/detail/2381295</link>
+            <guid>https://now.smtown.com/news/detail/2381295</guid>
+            <pubDate>Fri, 11 Feb 2022 04:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM) launches ‘THE NCT SHOW’.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK’s 1st solo song ‘Child’ topped...]]></title>
+            <link>https://now.smtown.com/news/detail/2381294</link>
+            <guid>https://now.smtown.com/news/detail/2381294</guid>
+            <pubDate>Fri, 11 Feb 2022 04:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)’s 1st solo song ‘Child’ topped on ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd album ‘INVU’ also has a l...]]></title>
             <link>https://now.smtown.com/news/detail/2381293</link>
             <guid>https://now.smtown.com/news/detail/2381293</guid>
             <pubDate>Fri, 11 Feb 2022 03:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a roman...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Actor Lee Hak Joo, JTBC's ‘공작도시’ Ending...]]></title>
             <link>https://now.smtown.com/news/detail/2381292</link>
             <guid>https://now.smtown.com/news/detail/2381292</guid>
             <pubDate>Fri, 11 Feb 2022 03:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Lee Hak Joo shared his thoughts on finish...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #4 Siren]]></title>
@@ -214,27 +239,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <content:encoded><![CDATA[MARK's new single "Child" is out!
 Listen and do...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/VbIf3z2SqHg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MV & a song of MARK's 'Child', the 1st ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381205</link>
-            <guid>https://now.smtown.com/news/detail/2381205</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[NCT MARK(SM)'s first solo song 'Child' will be ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘The God Unit’ GOT the beat wins 2 musi...]]></title>
-            <link>https://now.smtown.com/news/detail/2381204</link>
-            <guid>https://now.smtown.com/news/detail/2381204</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[The SM project unit GOT the beat (SM) proved it...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ exhibition ‘...]]></title>
-            <link>https://now.smtown.com/news/detail/2381203</link>
-            <guid>https://now.smtown.com/news/detail/2381203</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[A special exhibition where you can preview Girl...]]></content:encoded>
         </item>
     </channel>
 </rss>

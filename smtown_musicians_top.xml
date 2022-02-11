@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태연 정규 3집 ‘INVU’ 애틋+몽환적 분위기도 담았다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5950</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5950</guid>
-            <pubDate>Fri, 11 Feb 2022 03:42:12 GMT</pubDate>
+            <title><![CDATA[NCT, ‘THE NCT SHOW’ 론칭!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5952</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5952</guid>
+            <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연 정규 3집 ‘INVU’ 애틋+몽환적 분위기도 담았다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dac0df63d.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT, ‘THE NCT SHOW’ 론칭!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dbc735c13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연 정규 3집 ‘INVU’, 업템포 팝→발라드, 다양한 장르 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5948</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5948</guid>
-            <pubDate>Thu, 10 Feb 2022 03:41:55 GMT</pubDate>
+            <title><![CDATA[NCT 마크, 첫 솔로곡 ‘Child’ 가온 다운로드 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5951</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5951</guid>
+            <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연 정규 3집 ‘INVU’, 업템포 팝→발라드, 다양한 장르 예고! </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62048676dea7f.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 마크, 첫 솔로곡 ‘Child’ 가온 다운로드 차트 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205db494326e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
