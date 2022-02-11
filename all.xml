@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5953</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5953</guid>
+            <pubDate>Fri, 11 Feb 2022 05:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205ed8da951f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT, ‘THE NCT SHOW’ 론칭! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5952</link>
             <guid>https://www.smtown.com/artist/newsDetail/5952</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5951</link>
             <guid>https://www.smtown.com/artist/newsDetail/5951</guid>
             <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT 마크, 첫 솔로곡 ‘Child’ 가온 다운로드 차트 1위!</span>]]></content:encoded>
+            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)가 첫 솔로곡 ‘Child’(차일드)로 가온 다운로드 차트 1위에 올랐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205db494326e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연 정규 3집 ‘INVU’, 업템포 팝→발라드, 다양한 장르 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5948</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5948</guid>
+            <pubDate>Thu, 10 Feb 2022 03:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 다양한 음악 색깔을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62048676dea7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 블랙비트 ‘In The Sky’ 리마스터 MV 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5946</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5946</guid>
+            <pubDate>Thu, 10 Feb 2022 03:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[SM ‘리마스터링 프로젝트’가 이번에는 블랙비트의 ‘In The Sky’(인 더 스카이) 리마스터 뮤직비디오를 공개했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6204855a40347.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5942</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5942</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 풍성한 음악 색깔을 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5937</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5937</guid>
+            <pubDate>Sat, 05 Feb 2022 09:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 솔로곡 ‘Child’(차일드)가 뜨거운 반응을 얻고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fe450612a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 정규 3집 ‘INVU’ 애틋+몽환적 분위기도 담았다! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
             <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 첫 솔로곡 ‘Child’(차일드)가 4일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 정규 3집 ‘INVU’, 업템포 팝→발라드, 다양한 장르 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5948</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5948</guid>
-            <pubDate>Thu, 10 Feb 2022 03:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 다양한 음악 색깔을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62048676dea7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, 블랙비트 ‘In The Sky’ 리마스터 MV 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5946</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5946</guid>
-            <pubDate>Thu, 10 Feb 2022 03:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[SM ‘리마스터링 프로젝트’가 이번에는 블랙비트의 ‘In The Sky’(인 더 스카이) 리마스터 뮤직비디오를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6204855a40347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5942</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5942</guid>
-            <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 풍성한 음악 색깔을 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5937</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5937</guid>
-            <pubDate>Sat, 05 Feb 2022 09:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 솔로곡 ‘Child’(차일드)가 뜨거운 반응을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fe450612a6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘갓 유닛’ GOT the beat, 신곡 ‘Step Back’으로 음악방송 2관왕! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5935</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5935</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 출연 없이 음악방송 2관왕에 오르며 역대급 화제성을 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3394f9f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 이학주, JTBC ‘공작도시’ 종영소감 (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,13 @@
             <pubDate>Mon, 24 Jan 2022 02:57:03 GMT</pubDate>
             <content:encoded><![CDATA[정성일이 안방극장을 누비며 강력한 존재감을 떨치고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anton to perform at DJ streaming show ‘... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381297</link>
+            <guid>https://now.smtown.com/news/detail/2381297</guid>
+            <pubDate>Fri, 11 Feb 2022 05:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[The 6th performance of the DJ streaming show 'S...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SM Entertainment signed an MOU with the... (SMTOWN ─ NOW)]]></title>
@@ -793,15 +800,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/x72h98uraNE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=VbIf3z2SqHg</link>
-            <guid>https://www.youtube.com/watch?v=VbIf3z2SqHg</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[MARK's new single "Child" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/VbIf3z2SqHg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1521,6 +1519,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #5 You Better Not (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25068169</link>
+            <guid>https://tv.naver.com/v/25068169</guid>
+            <pubDate>Fri, 11 Feb 2022 05:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_7/np7qg_1644553422571mzQzS_JPEG/1644553415001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #4 Siren (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25059559</link>
             <guid>https://tv.naver.com/v/25059559</guid>
@@ -1751,14 +1757,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[5:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220101_151/H6OvL_1641034414777b2fqz_JPEG/1641033882038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN '빛 (Hope from KWANGYA)' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24386181</link>
-            <guid>https://tv.naver.com/v/24386181</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[6:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_226/1tMKi_1641032171704QdWyc_JPEG/1641032133623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

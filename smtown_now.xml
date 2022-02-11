@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anton to perform at DJ streaming show ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381297</link>
+            <guid>https://now.smtown.com/news/detail/2381297</guid>
+            <pubDate>Fri, 11 Feb 2022 05:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[The 6th performance of the DJ streaming show 'S...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[SM Entertainment signed an MOU with the...]]></title>
             <link>https://now.smtown.com/news/detail/2381296</link>
@@ -230,15 +237,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[KYUHYUN's the 4th mini album "Love Story (4 Sea...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/x72h98uraNE/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV]]></title>
-            <link>https://www.youtube.com/watch?v=VbIf3z2SqHg</link>
-            <guid>https://www.youtube.com/watch?v=VbIf3z2SqHg</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[MARK's new single "Child" is out!
-Listen and do...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/VbIf3z2SqHg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
