@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 07:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 08:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Check it out~~~ NCT MUSIC SPACE! #NCT #... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=RNMxC4276Ls</link>
+            <guid>https://www.youtube.com/watch?v=RNMxC4276Ls</guid>
+            <pubDate>Sat, 12 Feb 2022 08:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts #MUSIC_SPACE 
+#THE_NCT_SHOW #엔쇼 #MARK #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RNMxC4276Ls/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler) (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=nCt9llA680c</link>
             <guid>https://www.youtube.com/watch?v=nCt9llA680c</guid>
@@ -795,14 +804,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381229</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[As the group SUPER JUNIOR LEETEUK was active as...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[#우도환 컬렉션 오픈! 제대 후 첫 화보 촬영 현장 #키동캠 | Woo... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=tXsEA_Ivn4o</link>
-            <guid>https://www.youtube.com/watch?v=tXsEA_Ivn4o</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[Behind-the-scene of #WooDoHwan's 'VOGUE' pictor...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/tXsEA_Ivn4o/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
