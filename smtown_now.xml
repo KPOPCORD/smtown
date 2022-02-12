@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 13:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 14:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도전! 시티골든벨 Ep.1 ❮오답(?)의 재구성❯ | THE NCT S...]]></title>
+            <link>https://www.youtube.com/watch?v=GvIM_rbI6Wk</link>
+            <guid>https://www.youtube.com/watch?v=GvIM_rbI6Wk</guid>
+            <pubDate>Sat, 12 Feb 2022 14:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[#시티골든벨 
+#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
+#JOHNNY #TA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GvIM_rbI6Wk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credi...]]></title>
             <link>https://www.youtube.com/watch?v=DcXDnuZHr88</link>
@@ -239,13 +249,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381249</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[Actor Yoon Bo Ra gave a meaningful impression a...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘Comeback’ TAEYEON’s 3rd album ‘INVU’, ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381241</link>
-            <guid>https://now.smtown.com/news/detail/2381241</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
         </item>
     </channel>
 </rss>
