@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 11:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 12:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N...]]></title>
+            <link>https://www.youtube.com/watch?v=y_g3CEnWYCk</link>
+            <guid>https://www.youtube.com/watch?v=y_g3CEnWYCk</guid>
+            <pubDate>Sat, 12 Feb 2022 12:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts #시티골든벨 
+#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
+#JO...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/y_g3CEnWYCk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #9 품 (Heart)]]></title>
             <link>https://www.youtube.com/watch?v=xF4VvWOzttA</link>
@@ -235,13 +245,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381240</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[TVXQ! U-Know (SM)'s new Japanese mini album '君は...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Drama ‘한 사람만’ ends on the 8th! PARK SOO...]]></title>
-            <link>https://now.smtown.com/news/detail/2381239</link>
-            <guid>https://now.smtown.com/news/detail/2381239</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) runs...]]></content:encoded>
         </item>
     </channel>
 </rss>
