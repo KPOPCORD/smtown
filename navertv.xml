@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 04:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 05:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler)]]></title>
+            <link>https://tv.naver.com/v/25087760</link>
+            <guid>https://tv.naver.com/v/25087760</guid>
+            <pubDate>Sat, 12 Feb 2022 05:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_35/l0At5_1644637000024gem4C_JPEG/1644636994244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell]]></title>
             <link>https://tv.naver.com/v/25080520</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_135/4CWJH_1641552083631fbGsq_JPEG/1641552047870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hitchhiker X 3RD 'Alone' MV]]></title>
-            <link>https://tv.naver.com/v/24463089</link>
-            <guid>https://tv.naver.com/v/24463089</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_10/k1omE_1641443685690MUYmF_JPEG/1641442421750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

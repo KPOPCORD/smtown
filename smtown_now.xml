@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 04:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 05:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler)]]></title>
+            <link>https://www.youtube.com/watch?v=nCt9llA680c</link>
+            <guid>https://www.youtube.com/watch?v=nCt9llA680c</guid>
+            <pubDate>Sat, 12 Feb 2022 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nCt9llA680c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MUSIC SPACE : 'Child' Live & Behind Sto...]]></title>
             <link>https://www.youtube.com/watch?v=5kQVtdNsMGM</link>
@@ -232,13 +240,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[Behind-the-scene of #WooDoHwan's 'VOGUE' pictor...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/tXsEA_Ivn4o/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR LEETEUK X SHINDONG, from ‘...]]></title>
-            <link>https://now.smtown.com/news/detail/2381226</link>
-            <guid>https://now.smtown.com/news/detail/2381226</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR LEETEUK and SHINDONG showed fantas...]]></content:encoded>
         </item>
     </channel>
 </rss>
