@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 14:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 15:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/25090140</link>
+            <guid>https://tv.naver.com/v/25090140</guid>
+            <pubDate>Sat, 12 Feb 2022 15:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_208/lv9u3_1644651348460rrqWM_JPEG/1644651235808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #9 품 (Heart)]]></title>
             <link>https://tv.naver.com/v/25087779</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_182/GCiZc_1641868737787N6ezM_JPEG/1641868630495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Maniac' Promotion Video]]></title>
-            <link>https://tv.naver.com/v/24527502</link>
-            <guid>https://tv.naver.com/v/24527502</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_236/BX1YV_1641805069944ih55D_JPEG/1641805053628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
