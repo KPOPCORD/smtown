@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 12:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 13:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,14 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credi... (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=DcXDnuZHr88</link>
+            <guid>https://www.youtube.com/watch?v=DcXDnuZHr88</guid>
+            <pubDate>Sat, 12 Feb 2022 13:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N... (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=y_g3CEnWYCk</link>
             <guid>https://www.youtube.com/watch?v=y_g3CEnWYCk</guid>
@@ -801,13 +809,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381241</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVXQ! U-Know, Japanese solo album ‘君は先へ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381240</link>
-            <guid>https://now.smtown.com/news/detail/2381240</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! U-Know (SM)'s new Japanese mini album '君は...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -1543,6 +1544,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20220212_35/l0At5_1644637000024gem4C_JPEG/1644636994244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credits (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25080971</link>
+            <guid>https://tv.naver.com/v/25080971</guid>
+            <pubDate>Sat, 12 Feb 2022 13:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_37/TsCmV_1644586164759yYATc_JPEG/1644586128079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25080520</link>
             <guid>https://tv.naver.com/v/25080520</guid>
@@ -1757,14 +1766,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_236/BX1YV_1641805069944ih55D_JPEG/1641805053628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['별자리 (Good Night)' Live Clip | NCT U 엔시티 유 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24511566</link>
-            <guid>https://tv.naver.com/v/24511566</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220109_264/SgTdL_16417151984283bRXO_JPEG/1641715181294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

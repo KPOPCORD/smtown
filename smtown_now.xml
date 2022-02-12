@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 12:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 13:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credi...]]></title>
+            <link>https://www.youtube.com/watch?v=DcXDnuZHr88</link>
+            <guid>https://www.youtube.com/watch?v=DcXDnuZHr88</guid>
+            <pubDate>Sat, 12 Feb 2022 13:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N...]]></title>
             <link>https://www.youtube.com/watch?v=y_g3CEnWYCk</link>
@@ -238,13 +246,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381241</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TVXQ! U-Know, Japanese solo album ‘君は先へ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381240</link>
-            <guid>https://now.smtown.com/news/detail/2381240</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! U-Know (SM)'s new Japanese mini album '君は...]]></content:encoded>
         </item>
     </channel>
 </rss>
