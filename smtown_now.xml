@@ -4,9 +4,16 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 11:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 12:57:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Comeback D-1' TAEYEON to show mature v...]]></title>
+            <link>https://now.smtown.com/news/detail/2381332</link>
+            <guid>https://now.smtown.com/news/detail/2381332</guid>
+            <pubDate>Sun, 13 Feb 2022 12:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[Girls 'Generation TAEYEON (SM) to show mature v...]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser]]></title>
             <link>https://www.youtube.com/watch?v=EiLyiSM1MFU</link>
@@ -32,6 +39,13 @@
             <pubDate>Sat, 12 Feb 2022 13:41:16 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ to show a wi...]]></title>
+            <link>https://now.smtown.com/news/detail/2381331</link>
+            <guid>https://now.smtown.com/news/detail/2381331</guid>
+            <pubDate>Sun, 13 Feb 2022 12:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)’s 3rd Album ‘INVU...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N...]]></title>
@@ -236,20 +250,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/3qSfE3qOXZg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON, comeback commemorative YouTube...]]></title>
-            <link>https://now.smtown.com/news/detail/2381251</link>
-            <guid>https://now.smtown.com/news/detail/2381251</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will meet fans o...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PARK SOOYOUNG of Red Velvet successfull...]]></title>
-            <link>https://now.smtown.com/news/detail/2381250</link>
-            <guid>https://now.smtown.com/news/detail/2381250</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) rece...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 11:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 12:57:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘컴백 D-1’ 태연, 정규 3집 ‘INVU’로 들려줄 성숙한 보컬 매력! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5955</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5955</guid>
+            <pubDate>Sun, 13 Feb 2022 12:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘컴백 D-1’ 태연, 정규 3집 ‘INVU’로 들려줄 성숙한 보컬 매력!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6208f2207c43c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5954</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5954</guid>
+            <pubDate>Sun, 13 Feb 2022 12:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6208f1b8456d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5953</link>
             <guid>https://www.smtown.com/artist/newsDetail/5953</guid>
             <pubDate>Fri, 11 Feb 2022 05:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격!</span>]]></content:encoded>
+            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 6번째 공연이 11일 펼쳐진다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205ed8da951f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, ‘THE NCT SHOW’ 론칭! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5952</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5952</guid>
-            <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT, ‘THE NCT SHOW’ 론칭!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dbc735c13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 마크, 첫 솔로곡 ‘Child’ 가온 다운로드 차트 1위! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201dae174dd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 마크 첫 솔로곡 ‘Child’ 음원 차트 1위! 아이튠즈 톱 송 차트 14개 지역 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5937</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5937</guid>
-            <pubDate>Sat, 05 Feb 2022 09:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 솔로곡 ‘Child’(차일드)가 뜨거운 반응을 얻고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fe450612a6e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT, ‘THE NCT SHOW’ 론칭! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5952</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5952</guid>
+            <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 ‘THE NCT SHOW’를 론칭한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dbc735c13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 정규 3집 ‘INVU’ 애틋+몽환적 분위기도 담았다! (SMTOWN ─ Musicians News)]]></title>
@@ -463,14 +471,6 @@
             <pubDate>Tue, 08 Feb 2022 02:52:30 GMT</pubDate>
             <content:encoded><![CDATA[동방신기 유노윤호(에스엠엔터테인먼트 소속)의 일본 새 미니앨범 ‘君は先へ行く’(키미와 사키에유쿠/너는 먼저 간다)가 오는 9일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6201da94be5d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM ‘STATION : NCT LAB’ 첫 번째 곡, 마크 ‘Child’ 4일 오후 6시 음원+MV 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5936</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5936</guid>
-            <pubDate>Fri, 04 Feb 2022 04:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)의 첫 솔로곡 ‘Child’(차일드)가 4일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca3e252969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 이학주, JTBC ‘공작도시’ 종영소감 (SMTOWN ─ Actors News)]]></title>
@@ -571,6 +571,13 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ee15436f3bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['Comeback D-1' TAEYEON to show mature v... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381332</link>
+            <guid>https://now.smtown.com/news/detail/2381332</guid>
+            <pubDate>Sun, 13 Feb 2022 12:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[Girls 'Generation TAEYEON (SM) to show mature v...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=EiLyiSM1MFU</link>
             <guid>https://www.youtube.com/watch?v=EiLyiSM1MFU</guid>
@@ -595,6 +602,13 @@
             <pubDate>Sat, 12 Feb 2022 13:41:16 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ to show a wi... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381331</link>
+            <guid>https://now.smtown.com/news/detail/2381331</guid>
+            <pubDate>Sun, 13 Feb 2022 12:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)’s 3rd Album ‘INVU...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N... (SMTOWN ─ NOW)]]></title>
@@ -799,20 +813,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/3qSfE3qOXZg/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON, comeback commemorative YouTube... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381251</link>
-            <guid>https://now.smtown.com/news/detail/2381251</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will meet fans o...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PARK SOOYOUNG of Red Velvet successfull... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381250</link>
-            <guid>https://now.smtown.com/news/detail/2381250</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ PARK SOOYOUNG (Red Velvet JOY, SM) rece...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
