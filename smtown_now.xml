@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 12:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 13:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도전! 시티골든벨 Ep.2 ❮이거 진짜 레알이에요?❯ | THE NCT...]]></title>
+            <link>https://www.youtube.com/watch?v=Khy4sO7RsPY</link>
+            <guid>https://www.youtube.com/watch?v=Khy4sO7RsPY</guid>
+            <pubDate>Sun, 13 Feb 2022 13:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[#시티골든벨 
+#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
+#JOHNNY #TA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Khy4sO7RsPY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Comeback D-1' TAEYEON to show mature v...]]></title>
             <link>https://now.smtown.com/news/detail/2381332</link>
@@ -242,14 +252,6 @@ http://www.youtube.com/redv...]]></content:encoded>
 
 ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/gmliMnOTk50/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again]]></title>
-            <link>https://www.youtube.com/watch?v=3qSfE3qOXZg</link>
-            <guid>https://www.youtube.com/watch?v=3qSfE3qOXZg</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/3qSfE3qOXZg/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
