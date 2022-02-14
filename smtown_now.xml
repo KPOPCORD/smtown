@@ -4,7 +4,7 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 11:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 12:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[SPEEKER INFLUENCER, pattern artist
 instagram @j...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/4d4S08_Bk0E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변치 않는 사랑｜밸런타인데이 꽃꽂이]]></title>
+            <link>https://www.youtube.com/watch?v=WpzJHtkno_Y</link>
+            <guid>https://www.youtube.com/watch?v=WpzJHtkno_Y</guid>
+            <pubDate>Mon, 14 Feb 2022 12:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세여 큥튜브 구독자 '이뇨속' 여러분!! 주인장 백현입니다!!!!! 
+여러분들 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WpzJHtkno_Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[speeker] 모델 윤영주]]></title>
@@ -244,14 +253,6 @@ Listen and d...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381292</guid>
             <pubDate>Fri, 11 Feb 2022 03:42:56 GMT</pubDate>
             <content:encoded><![CDATA[Actor Lee Hak Joo shared his thoughts on finish...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #4 Siren]]></title>
-            <link>https://www.youtube.com/watch?v=BFLlirxPCqk</link>
-            <guid>https://www.youtube.com/watch?v=BFLlirxPCqk</guid>
-            <pubDate>Thu, 10 Feb 2022 14:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/BFLlirxPCqk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
