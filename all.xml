@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 07:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 08:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef89dd15f80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MC햄찌🐹의 시티골든벨 촬영 소감🔔💬 #NCT #Shorts (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=h8EiS762HZM</link>
+            <guid>https://www.youtube.com/watch?v=h8EiS762HZM</guid>
+            <pubDate>Mon, 14 Feb 2022 08:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts
+#시티골든벨&nbsp;#THE_NCT_SHOW
+#JISUNG #엔쇼 #도전_시티...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h8EiS762HZM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘Guaranteed Vocal Queen’ The Song & MV ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381336</link>
             <guid>https://now.smtown.com/news/detail/2381336</guid>
@@ -578,16 +588,18 @@
             <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA['K-POP Legend' SUPER JUNIOR, comeback w... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381335</link>
             <guid>https://now.smtown.com/news/detail/2381335</guid>
             <pubDate>Mon, 14 Feb 2022 03:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR is making a comeback with a specia...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Actor Park Jae Min, active as a snowboa... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381334</link>
             <guid>https://now.smtown.com/news/detail/2381334</guid>
             <pubDate>Mon, 14 Feb 2022 03:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Jae Min participated as a commentato...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[도전! 시티골든벨 Ep.2 ❮이거 진짜 레알이에요?❯ | THE NCT... (SMTOWN ─ NOW)]]></title>
@@ -803,13 +815,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381270</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[SM Entertainment has signed an MOU with '예술과 인간...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ heralded var... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381269</link>
-            <guid>https://now.smtown.com/news/detail/2381269</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a varie...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
