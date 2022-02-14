@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 02:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 03:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381336</link>
+            <guid>https://now.smtown.com/news/detail/2381336</guid>
+            <pubDate>Mon, 14 Feb 2022 03:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381335</link>
+            <guid>https://now.smtown.com/news/detail/2381335</guid>
+            <pubDate>Mon, 14 Feb 2022 03:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381334</link>
+            <guid>https://now.smtown.com/news/detail/2381334</guid>
+            <pubDate>Mon, 14 Feb 2022 03:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[도전! 시티골든벨 Ep.2 ❮이거 진짜 레알이에요?❯ | THE NCT...]]></title>
             <link>https://www.youtube.com/watch?v=Khy4sO7RsPY</link>
@@ -228,30 +243,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381269</guid>
             <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a varie...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[U-KNOW’s Japanese solo album ‘君は先へ行く’ t...]]></title>
-            <link>https://now.smtown.com/news/detail/2381268</link>
-            <guid>https://now.smtown.com/news/detail/2381268</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[TVXQ! U-KNOW(SM)'s new Japanese mini album topp...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SM 'Remastering project', Black Beat 'I...]]></title>
-            <link>https://now.smtown.com/news/detail/2381267</link>
-            <guid>https://now.smtown.com/news/detail/2381267</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[SM 'Remastering project' to be released a remas...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Black Beat 블랙비트 'In The Sky' MV]]></title>
-            <link>https://www.youtube.com/watch?v=gmliMnOTk50</link>
-            <guid>https://www.youtube.com/watch?v=gmliMnOTk50</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[Original Release in 2002, Remastered in 2022.
-
-...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/gmliMnOTk50/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
