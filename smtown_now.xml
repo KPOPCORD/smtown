@@ -1,8 +1,258 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2022-02-14T17:43:15.966Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Feb 2022 18:48:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[speeker] 패턴 아티스트 정수]]></title>
+            <link>https://www.youtube.com/watch?v=4d4S08_Bk0E</link>
+            <guid>https://www.youtube.com/watch?v=4d4S08_Bk0E</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, pattern artist
+instagram @j...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4d4S08_Bk0E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변치 않는 사랑｜밸런타인데이 꽃꽂이]]></title>
+            <link>https://www.youtube.com/watch?v=WpzJHtkno_Y</link>
+            <guid>https://www.youtube.com/watch?v=WpzJHtkno_Y</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세여 큥튜브 구독자 '이뇨속' 여러분!! 주인장 백현입니다!!!!! 
+여러분들 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WpzJHtkno_Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 모델 윤영주]]></title>
+            <link>https://www.youtube.com/watch?v=iwaFkm0atmU</link>
+            <guid>https://www.youtube.com/watch?v=iwaFkm0atmU</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, model
+instagram @youngjusta...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iwaFkm0atmU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 쇼호스트 정시현]]></title>
+            <link>https://www.youtube.com/watch?v=XRFXh9UHoN0</link>
+            <guid>https://www.youtube.com/watch?v=XRFXh9UHoN0</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, showhost
+instagram @sihyun....]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/XRFXh9UHoN0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 글로벌 마케팅 디렉터/작가 스텔라]]></title>
+            <link>https://www.youtube.com/watch?v=nnyy-hr0yi4</link>
+            <guid>https://www.youtube.com/watch?v=nnyy-hr0yi4</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, global marketing director /...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nnyy-hr0yi4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
+            <link>https://www.youtube.com/watch?v=AbZH7XWDW_k</link>
+            <guid>https://www.youtube.com/watch?v=AbZH7XWDW_k</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" is out!
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AbZH7XWDW_k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MC햄찌🐹의 시티골든벨 촬영 소감🔔💬 #NCT #Shorts]]></title>
+            <link>https://www.youtube.com/watch?v=h8EiS762HZM</link>
+            <guid>https://www.youtube.com/watch?v=h8EiS762HZM</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts
+#시티골든벨&nbsp;#THE_NCT_SHOW
+#JISUNG #엔쇼 #도전_시티...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h8EiS762HZM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Guaranteed Vocal Queen’ The Song & MV ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381336</link>
+            <guid>https://now.smtown.com/news/detail/2381336</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['K-POP Legend' SUPER JUNIOR, comeback w...]]></title>
+            <link>https://now.smtown.com/news/detail/2381335</link>
+            <guid>https://now.smtown.com/news/detail/2381335</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR is making a comeback with a specia...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Park Jae Min, active as a snowboa...]]></title>
+            <link>https://now.smtown.com/news/detail/2381334</link>
+            <guid>https://now.smtown.com/news/detail/2381334</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Jae Min participated as a commentato...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도전! 시티골든벨 Ep.2 ❮이거 진짜 레알이에요?❯ | THE NCT...]]></title>
+            <link>https://www.youtube.com/watch?v=Khy4sO7RsPY</link>
+            <guid>https://www.youtube.com/watch?v=Khy4sO7RsPY</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#시티골든벨 
+#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
+#JOHNNY #TA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/Khy4sO7RsPY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Comeback D-1' TAEYEON to show mature v...]]></title>
+            <link>https://now.smtown.com/news/detail/2381332</link>
+            <guid>https://now.smtown.com/news/detail/2381332</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[Girls 'Generation TAEYEON (SM) to show mature v...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser]]></title>
+            <link>https://www.youtube.com/watch?v=EiLyiSM1MFU</link>
+            <guid>https://www.youtube.com/watch?v=EiLyiSM1MFU</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/EiLyiSM1MFU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도전! 시티골든벨 Ep.1 ❮오답(?)의 재구성❯ | THE NCT S...]]></title>
+            <link>https://www.youtube.com/watch?v=GvIM_rbI6Wk</link>
+            <guid>https://www.youtube.com/watch?v=GvIM_rbI6Wk</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#시티골든벨 
+#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
+#JOHNNY #TA...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GvIM_rbI6Wk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credi...]]></title>
+            <link>https://www.youtube.com/watch?v=DcXDnuZHr88</link>
+            <guid>https://www.youtube.com/watch?v=DcXDnuZHr88</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ to show a wi...]]></title>
+            <link>https://now.smtown.com/news/detail/2381331</link>
+            <guid>https://now.smtown.com/news/detail/2381331</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)’s 3rd Album ‘INVU...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N...]]></title>
+            <link>https://www.youtube.com/watch?v=y_g3CEnWYCk</link>
+            <guid>https://www.youtube.com/watch?v=y_g3CEnWYCk</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts #시티골든벨 
+#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
+#JO...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/y_g3CEnWYCk/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #9 품 (Heart)]]></title>
+            <link>https://www.youtube.com/watch?v=xF4VvWOzttA</link>
+            <guid>https://www.youtube.com/watch?v=xF4VvWOzttA</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/xF4VvWOzttA/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Check it out~~~ NCT MUSIC SPACE! #NCT #...]]></title>
+            <link>https://www.youtube.com/watch?v=RNMxC4276Ls</link>
+            <guid>https://www.youtube.com/watch?v=RNMxC4276Ls</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts #MUSIC_SPACE 
+#THE_NCT_SHOW #엔쇼 #MARK #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/RNMxC4276Ls/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler)]]></title>
+            <link>https://www.youtube.com/watch?v=nCt9llA680c</link>
+            <guid>https://www.youtube.com/watch?v=nCt9llA680c</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nCt9llA680c/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSIC SPACE : 'Child' Live & Behind Sto...]]></title>
+            <link>https://www.youtube.com/watch?v=5kQVtdNsMGM</link>
+            <guid>https://www.youtube.com/watch?v=5kQVtdNsMGM</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#MUSIC_SPACE #Child
+#THE_NCT_SHOW #엔쇼
+#MARK #JO...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/5kQVtdNsMGM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell]]></title>
+            <link>https://www.youtube.com/watch?v=8-hx1CY2jsY</link>
+            <guid>https://www.youtube.com/watch?v=8-hx1CY2jsY</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/8-hx1CY2jsY/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless]]></title>
+            <link>https://www.youtube.com/watch?v=0G6OQmQIvdw</link>
+            <guid>https://www.youtube.com/watch?v=0G6OQmQIvdw</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0G6OQmQIvdw/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The two anchors are getting ready for t...]]></title>
+            <link>https://www.youtube.com/watch?v=aY4RMJl05BM</link>
+            <guid>https://www.youtube.com/watch?v=aY4RMJl05BM</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts #NCT_NEWS
+#THE_NCT_SHOW #엔쇼
+#JENO #SUNG...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/aY4RMJl05BM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anton to perform at DJ streaming show ‘...]]></title>
+            <link>https://now.smtown.com/news/detail/2381297</link>
+            <guid>https://now.smtown.com/news/detail/2381297</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[The 6th performance of the DJ streaming show 'S...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM Entertainment signed an MOU with the...]]></title>
+            <link>https://now.smtown.com/news/detail/2381296</link>
+            <guid>https://now.smtown.com/news/detail/2381296</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SM Entertainment signed an MOU with the Seoul P...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT launches ‘THE NCT SHOW’!]]></title>
+            <link>https://now.smtown.com/news/detail/2381295</link>
+            <guid>https://now.smtown.com/news/detail/2381295</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[NCT(SM) launches ‘THE NCT SHOW’.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK’s 1st solo song ‘Child’ topped...]]></title>
+            <link>https://now.smtown.com/news/detail/2381294</link>
+            <guid>https://now.smtown.com/news/detail/2381294</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[NCT MARK(SM)’s 1st solo song ‘Child’ topped on ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd album ‘INVU’ also has a l...]]></title>
+            <link>https://now.smtown.com/news/detail/2381293</link>
+            <guid>https://now.smtown.com/news/detail/2381293</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a roman...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Actor Lee Hak Joo, JTBC's ‘공작도시’ Ending...]]></title>
+            <link>https://now.smtown.com/news/detail/2381292</link>
+            <guid>https://now.smtown.com/news/detail/2381292</guid>
+            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Lee Hak Joo shared his thoughts on finish...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
