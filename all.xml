@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,15 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61ef89dd15f80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=AbZH7XWDW_k</link>
+            <guid>https://www.youtube.com/watch?v=AbZH7XWDW_k</guid>
+            <pubDate>Mon, 14 Feb 2022 09:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" is out!
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AbZH7XWDW_k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MC햄찌🐹의 시티골든벨 촬영 소감🔔💬 #NCT #Shorts (SMTOWN ─ NOW)]]></title>
             <link>https://www.youtube.com/watch?v=h8EiS762HZM</link>
             <guid>https://www.youtube.com/watch?v=h8EiS762HZM</guid>
@@ -810,11 +819,13 @@ http://www.youtube.com/redv...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dxIHcC1uEC0/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM Entertainment-예술과 인간개발, and healing ... (SMTOWN ─ NOW)]]></title>
-            <link>https://now.smtown.com/news/detail/2381270</link>
-            <guid>https://now.smtown.com/news/detail/2381270</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment has signed an MOU with '예술과 인간...]]></content:encoded>
+            <title><![CDATA[[인터뷰] 태연 정규 3집 "INVU", 
+It’s my kind of love ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 14 Feb 2022 09:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[Happy Valentine's Day ♡태연님이 선물과 메시지를 보냈습니다. 이보다 더 감동적이고 소중한 밸런타인데이 선물이 있을까요! ( ⁎ ᵕᴗᵕ ⁎ ) 기다리고 기다리던 2월 14일, 바로 오늘! 태연이 세 번째 정규 앨범 "I···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjg5/MDAxNjQ0NTIyOTMyODEz.1WVc6Ty1w2eM2aoDiznWzSd2MDITWf_C8BVPk7ADA9gg.czCqDuqogVGDcZ1GLcANPczf1YJKQUgKbMYJzDHmiuwg.JPEG/I7Qc9Ga_FDWMH7S8IovRf79hBJis.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -980,13 +991,13 @@ GOT the beat의 'Step Back' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfMTkg/MDAxNjM5NzIxMTU1Njcz.UXrU-MfPWJYbZF31fIl1vAHJEAaxndxILdAwqdTOUEEg.HZz-SVAxkbbK1qRG41YTrxBFunctlbMQbWaURfNLSLQg.JPEG/IUJMCLUkp_-_7Mi3npiEs0Fw8DDQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
-(Feat. NCT 학급문고) (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32931475&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32931475&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 12월 14일 18시! 우주급 강력함을 담은 NCT의 정규 3집 &lt;Universe&gt;가 공개됩니다!&lt;Universe&gt;에는 더블 타이틀곡 'Universe (Let's Play Ball)'와 'Beautiful'을 비롯해 총 13트랙이 담겨있···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfNzMg/MDAxNjM5NDU2MDg3NjA2.yQXlugy21uh0In43BhfIIsaOAuyb67X7eMlXDBELGKsg.dibrshZhTRUFiPL1TIL6qrd6E-xyAQJuhO6HtRgVeogg.JPEG/IzUFqwxo-8wR7JyIkBrD6PubyTq8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <title><![CDATA[[인터뷰] 태연 정규 3집 "INVU", 
+It’s my kind of love ❤ (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Feb 2022 09:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjg5/MDAxNjQ0NTIyOTMyODEz.1WVc6Ty1w2eM2aoDiznWzSd2MDITWf_C8BVPk7ADA9gg.czCqDuqogVGDcZ1GLcANPczf1YJKQUgKbMYJzDHmiuwg.JPEG/I7Qc9Ga_FDWMH7S8IovRf79hBJis.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -1153,14 +1164,6 @@ NCT 'Universe'에서 같이 놀래? (SMTOWN 신곡 포스트 ─ SPECIAL)]]></ti
             <pubDate>Wed, 08 Dec 2021 03:47:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfNzgg/MDAxNjM4ODc4OTIxOTE4.nnXXKT41998Zo4rGhWHn6XJPVmopaCxJmNrQqWCIhOcg.UZDB9n7tjyP2BhqWxEmO4kg4bCwyby6LHB3ZwufjJ7Mg.JPEG/IdHrb4sWctlstYn9vjstGzfFo_OY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!🏆 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32894388&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32894388&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 07 Dec 2021 07:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNDIg/MDAxNjM4ODAxNDU3Njc3.HDHFDhClv4mdnlsiyZPPupGY4rFRcOd0nW_I603sWoMg.-bP5O9DyrVIr1qInGml3cpQp3SawBSTyG4sEHzyIy58g.JPEG/IH3Him-pN906K6uNLjfuns7Nd1PQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
@@ -1534,6 +1537,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25115955</link>
+            <guid>https://tv.naver.com/v/25115955</guid>
+            <pubDate>Mon, 14 Feb 2022 09:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_130/BzpcN_164482000577590k15_JPEG/1644819994417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25090140</link>
             <guid>https://tv.naver.com/v/25090140</guid>
@@ -1764,14 +1775,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_114/i4T6y_1641958141485KGI68_JPEG/1641958030551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24538756</link>
-            <guid>https://tv.naver.com/v/24538756</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_182/GCiZc_1641868737787N6ezM_JPEG/1641868630495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

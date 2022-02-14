@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 태연 정규 3집 "INVU", 
+It’s my kind of love ❤]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Feb 2022 09:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjg5/MDAxNjQ0NTIyOTMyODEz.1WVc6Ty1w2eM2aoDiznWzSd2MDITWf_C8BVPk7ADA9gg.czCqDuqogVGDcZ1GLcANPczf1YJKQUgKbMYJzDHmiuwg.JPEG/I7Qc9Ga_FDWMH7S8IovRf79hBJis.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독점] 규현 ‘연애소설 (Love Story)' MV 촬영 현장 비하인드 대공개!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33165324&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -172,14 +181,6 @@ NCT 'Universe'에서 같이 놀래?]]></title>
             <pubDate>Wed, 08 Dec 2021 03:47:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfNzgg/MDAxNjM4ODc4OTIxOTE4.nnXXKT41998Zo4rGhWHn6XJPVmopaCxJmNrQqWCIhOcg.UZDB9n7tjyP2BhqWxEmO4kg4bCwyby6LHB3ZwufjJ7Mg.JPEG/IdHrb4sWctlstYn9vjstGzfFo_OY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[권유리] 옹주자가 'AAA' 뒤집어 놓으셨다!🏆]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32894388&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32894388&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 07 Dec 2021 07:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfNDIg/MDAxNjM4ODAxNDU3Njc3.HDHFDhClv4mdnlsiyZPPupGY4rFRcOd0nW_I603sWoMg.-bP5O9DyrVIr1qInGml3cpQp3SawBSTyG4sEHzyIy58g.JPEG/IH3Him-pN906K6uNLjfuns7Nd1PQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

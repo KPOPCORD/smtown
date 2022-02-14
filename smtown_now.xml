@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
+            <link>https://www.youtube.com/watch?v=AbZH7XWDW_k</link>
+            <guid>https://www.youtube.com/watch?v=AbZH7XWDW_k</guid>
+            <pubDate>Mon, 14 Feb 2022 09:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" is out!
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AbZH7XWDW_k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MC햄찌🐹의 시티골든벨 촬영 소감🔔💬 #NCT #Shorts]]></title>
             <link>https://www.youtube.com/watch?v=h8EiS762HZM</link>
@@ -245,13 +254,6 @@ http://www.youtube.com/redv...]]></content:encoded>
             <pubDate>Thu, 10 Feb 2022 09:42:47 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/dxIHcC1uEC0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Entertainment-예술과 인간개발, and healing ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381270</link>
-            <guid>https://now.smtown.com/news/detail/2381270</guid>
-            <pubDate>Thu, 10 Feb 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[SM Entertainment has signed an MOU with '예술과 인간...]]></content:encoded>
         </item>
     </channel>
 </rss>

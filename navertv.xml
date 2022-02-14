@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
+            <link>https://tv.naver.com/v/25115955</link>
+            <guid>https://tv.naver.com/v/25115955</guid>
+            <pubDate>Mon, 14 Feb 2022 09:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_130/BzpcN_164482000577590k15_JPEG/1644819994417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser]]></title>
             <link>https://tv.naver.com/v/25090140</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_114/i4T6y_1641958141485KGI68_JPEG/1641958030551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KANGTA 강타 'Slow Dance' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/24538756</link>
-            <guid>https://tv.naver.com/v/24538756</guid>
-            <pubDate>Thu, 27 Jan 2022 17:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_182/GCiZc_1641868737787N6ezM_JPEG/1641868630495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 태연 정규 3집 "INVU", 
+It’s my kind of love ❤]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33272028&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 14 Feb 2022 09:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[Happy Valentine's Day ♡태연님이 선물과 메시지를 보냈습니다. 이보다 더 감동적이고 소중한 밸런타인데이 선물이 있을까요! ( ⁎ ᵕᴗᵕ ⁎ ) 기다리고 기다리던 2월 14일, 바로 오늘! 태연이 세 번째 정규 앨범 "I···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjg5/MDAxNjQ0NTIyOTMyODEz.1WVc6Ty1w2eM2aoDiznWzSd2MDITWf_C8BVPk7ADA9gg.czCqDuqogVGDcZ1GLcANPczf1YJKQUgKbMYJzDHmiuwg.JPEG/I7Qc9Ga_FDWMH7S8IovRf79hBJis.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33235154&amp;memberNo=41350603</link>
@@ -169,15 +178,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[※ 별안간 깜짝 퀴즈 ※레전드와 레전드, 그리고 글로벌 대세가 만나면? ★대놓고 주는 힌트★ 지난 20여 년간 SM엔터테인먼트에서 프로듀싱한 음원과 뮤직비디오를 리마스터링 및 업스케일링하여 2021년부터 새롭게 선···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTdfMTkg/MDAxNjM5NzIxMTU1Njcz.UXrU-MfPWJYbZF31fIl1vAHJEAaxndxILdAwqdTOUEEg.HZz-SVAxkbbK1qRG41YTrxBFunctlbMQbWaURfNLSLQg.JPEG/IUJMCLUkp_-_7Mi3npiEs0Fw8DDQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 정규 3집 <Universe> 공개 3시간 전! 
-(Feat. NCT 학급문고)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32931475&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32931475&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 12월 14일 18시! 우주급 강력함을 담은 NCT의 정규 3집 &lt;Universe&gt;가 공개됩니다!&lt;Universe&gt;에는 더블 타이틀곡 'Universe (Let's Play Ball)'와 'Beautiful'을 비롯해 총 13트랙이 담겨있···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfNzMg/MDAxNjM5NDU2MDg3NjA2.yQXlugy21uh0In43BhfIIsaOAuyb67X7eMlXDBELGKsg.dibrshZhTRUFiPL1TIL6qrd6E-xyAQJuhO6HtRgVeogg.JPEG/IzUFqwxo-8wR7JyIkBrD6PubyTq8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
