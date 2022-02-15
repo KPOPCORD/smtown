@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘믿고 듣는 보컬퀸’ 태연, 정규 3집 ‘INVU’ 음원+MV 베일 벗는다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5958</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5958</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 14일 정규 3집 ‘INVU’(아이앤비유)로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c8e1db5de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘컴백 D-1’ 태연, 정규 3집 ‘INVU’로 들려줄 성숙한 보컬 매력!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5955</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62048676dea7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SM ‘리마스터링 프로젝트’, 블랙비트 ‘In The Sky’ 리마스터 MV 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5946</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5946</guid>
-            <pubDate>Thu, 10 Feb 2022 03:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[SM ‘리마스터링 프로젝트’가 이번에는 블랙비트의 ‘In The Sky’(인 더 스카이) 리마스터 뮤직비디오를 공개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6204855a40347.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['K-POP 레전드' 슈퍼주니어, 1년 만에 스페셜 싱글로 컴백]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5957</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5957</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 1년 만에 스페셜 싱글로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c88506474.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Feb 2022 03:42:22 GMT</pubDate>
             <content:encoded><![CDATA[동방신기 유노윤호(에스엠엔터테인먼트 소속)의 일본 새 미니앨범이 오리콘 차트 정상에 올랐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620485f7db614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 컴백 기념 유튜브 카운트다운 라이브 14일 오후 5시 진행!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5945</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5945</guid>
-            <pubDate>Thu, 10 Feb 2022 03:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 컴백을 맞아 팬들과 랜선으로 만난다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62033a1ce6ec6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

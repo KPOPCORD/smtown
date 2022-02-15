@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘믿고 듣는 보컬퀸’ 태연, 정규 3집 ‘INVU’ 음원+MV 베일 벗는다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5958</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5958</guid>
-            <pubDate>Mon, 14 Feb 2022 03:42:52 GMT</pubDate>
+            <title><![CDATA[동방신기 유노윤호, 日 미니앨범 오리콘 위클리도 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5961</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5961</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿고 듣는 보컬퀸’ 태연, 정규 3집 ‘INVU’ 음원+MV 베일 벗는다!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c8e1db5de.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">동방신기 유노윤호, 日 미니앨범 오리콘 위클리도 1위!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1d297aaad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['K-POP 레전드' 슈퍼주니어, 1년 만에 스페셜 싱글로 컴백]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5957</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5957</guid>
-            <pubDate>Mon, 14 Feb 2022 03:42:52 GMT</pubDate>
+            <title><![CDATA[역시 ‘대체불가’ 보컬퀸! 태연 정규 3집 ‘INVU’ 국내 및 글로벌 차트 1위 행진!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5960</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5960</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'K-POP 레전드' 슈퍼주니어, 1년 만에 스페셜 싱글로 컴백</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c88506474.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">역시 ‘대체불가’ 보컬퀸! 태연 정규 3집 ‘INVU’ 국내 및 글로벌 차트 1위 행진!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1ce98b352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

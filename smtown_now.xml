@@ -4,9 +4,24 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381351</link>
+            <guid>https://now.smtown.com/news/detail/2381351</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381350</link>
+            <guid>https://now.smtown.com/news/detail/2381350</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381349</link>
+            <guid>https://now.smtown.com/news/detail/2381349</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[speeker] 패턴 아티스트 정수]]></title>
             <link>https://www.youtube.com/watch?v=4d4S08_Bk0E</link>
@@ -232,27 +247,6 @@ Listen and d...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381295</guid>
             <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
             <content:encoded><![CDATA[NCT(SM) launches ‘THE NCT SHOW’.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NCT MARK’s 1st solo song ‘Child’ topped...]]></title>
-            <link>https://now.smtown.com/news/detail/2381294</link>
-            <guid>https://now.smtown.com/news/detail/2381294</guid>
-            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[NCT MARK(SM)’s 1st solo song ‘Child’ topped on ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON’s 3rd album ‘INVU’ also has a l...]]></title>
-            <link>https://now.smtown.com/news/detail/2381293</link>
-            <guid>https://now.smtown.com/news/detail/2381293</guid>
-            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) heralded a roman...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Actor Lee Hak Joo, JTBC's ‘공작도시’ Ending...]]></title>
-            <link>https://now.smtown.com/news/detail/2381292</link>
-            <guid>https://now.smtown.com/news/detail/2381292</guid>
-            <pubDate>Mon, 14 Feb 2022 18:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[Actor Lee Hak Joo shared his thoughts on finish...]]></content:encoded>
         </item>
     </channel>
 </rss>
