@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/smtown/clips</id>
-    <title>네이버TV ─ SMTOWN</title>
-    <updated>2022-02-16T11:42:29.418Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/smtown/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버TV ─ SMTOWN</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Feb 2022 12:59:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
+            <link>https://tv.naver.com/v/25115955</link>
+            <guid>https://tv.naver.com/v/25115955</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_130/BzpcN_164482000577590k15_JPEG/1644819994417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/25090140</link>
+            <guid>https://tv.naver.com/v/25090140</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_208/lv9u3_1644651348460rrqWM_JPEG/1644651235808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #9 품 (Heart)]]></title>
+            <link>https://tv.naver.com/v/25087779</link>
+            <guid>https://tv.naver.com/v/25087779</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_90/LRXtz_1644637090085SuAoK_JPEG/1644637081161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler)]]></title>
+            <link>https://tv.naver.com/v/25087760</link>
+            <guid>https://tv.naver.com/v/25087760</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_35/l0At5_1644637000024gem4C_JPEG/1644636994244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credits]]></title>
+            <link>https://tv.naver.com/v/25080971</link>
+            <guid>https://tv.naver.com/v/25080971</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_37/TsCmV_1644586164759yYATc_JPEG/1644586128079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell]]></title>
+            <link>https://tv.naver.com/v/25080520</link>
+            <guid>https://tv.naver.com/v/25080520</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_78/wMbZP_1644583326661KfbNz_JPEG/1644583319587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless]]></title>
+            <link>https://tv.naver.com/v/25075613</link>
+            <guid>https://tv.naver.com/v/25075613</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_89/wVRGI_1644568911493gweDP_JPEG/1644568905954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #5 You Better Not]]></title>
+            <link>https://tv.naver.com/v/25068169</link>
+            <guid>https://tv.naver.com/v/25068169</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_7/np7qg_1644553422571mzQzS_JPEG/1644553415001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #4 Siren]]></title>
+            <link>https://tv.naver.com/v/25059559</link>
+            <guid>https://tv.naver.com/v/25059559</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_191/OVKOi_1644501274633bUJYF_JPEG/1644501271358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #3 Set Myself On Fire]]></title>
+            <link>https://tv.naver.com/v/25052530</link>
+            <guid>https://tv.naver.com/v/25052530</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_280/TEc9z_1644483556934JXdMq_JPEG/1644483331485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #2 그런 밤 (Some Nights)]]></title>
+            <link>https://tv.naver.com/v/25034232</link>
+            <guid>https://tv.naver.com/v/25034232</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_203/EITot_1644412868607dSS4T_JPEG/1644412865490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Clip #1 No Love Again]]></title>
+            <link>https://tv.naver.com/v/25028863</link>
+            <guid>https://tv.naver.com/v/25028863</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_252/38i0e_16443970351463Fpff_JPEG/1644397024401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat 'Step Back' Dance Practice]]></title>
+            <link>https://tv.naver.com/v/24966183</link>
+            <guid>https://tv.naver.com/v/24966183</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220206_98/9PgBQ_1644146229332WK1X7_JPEG/1644146211324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV]]></title>
+            <link>https://tv.naver.com/v/24932280</link>
+            <guid>https://tv.naver.com/v/24932280</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_284/MWR93_1643943016930P7FAb_JPEG/1643941988790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' Mood Sampler]]></title>
+            <link>https://tv.naver.com/v/24900790</link>
+            <guid>https://tv.naver.com/v/24900790</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_11/OM5hK_1643810224301K8HIp_JPEG/1643810218485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24899838</link>
+            <guid>https://tv.naver.com/v/24899838</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_57/9Je3j_16438057730249oD1U_JPEG/1643805754949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video]]></title>
+            <link>https://tv.naver.com/v/24853877</link>
+            <guid>https://tv.naver.com/v/24853877</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_240/RA5VW_1643378943384TBLXO_JPEG/1643378929401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 2021 4 Season Project 季 "Love Story" Drama ver.]]></title>
+            <link>https://tv.naver.com/v/24842353</link>
+            <guid>https://tv.naver.com/v/24842353</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[15:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_167/UWsna_1643337345599cc4or_JPEG/1643337338275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT MARK Solo Performance Practice (Gaon ver.)]]></title>
+            <link>https://tv.naver.com/v/24836957</link>
+            <guid>https://tv.naver.com/v/24836957</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_112/ffkXS_1643291384822RJU7F_JPEG/1643291373316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV]]></title>
+            <link>https://tv.naver.com/v/24764534</link>
+            <guid>https://tv.naver.com/v/24764534</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_118/dwJat_1643001792472LKAgH_JPEG/1643001477216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video Teaser]]></title>
+            <link>https://tv.naver.com/v/24716001</link>
+            <guid>https://tv.naver.com/v/24716001</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_30/x8qFY_1642688098160Iklvk_JPEG/1642688081344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #2]]></title>
+            <link>https://tv.naver.com/v/24699631</link>
+            <guid>https://tv.naver.com/v/24699631</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_294/60SlW_1642641067703IkV3b_JPEG/1642640930350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ]]></title>
+            <link>https://tv.naver.com/v/24664993</link>
+            <guid>https://tv.naver.com/v/24664993</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_120/DcAnl_1642488728821yly5V_JPEG/1642485033259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #1]]></title>
+            <link>https://tv.naver.com/v/24648379</link>
+            <guid>https://tv.naver.com/v/24648379</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_120/PBNNR_16424123572053MbQS_JPEG/1642412355235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV]]></title>
+            <link>https://tv.naver.com/v/24647398</link>
+            <guid>https://tv.naver.com/v/24647398</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_90/UBKuS_16424092837275YxFr_JPEG/1642409224253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24621861</link>
+            <guid>https://tv.naver.com/v/24621861</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_23/YSGP3_1642246136625zqrCn_JPEG/1642246132682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYONG, JENO, HENDERY, YANGYANG, GISELLE 'ZOO' Stage Video]]></title>
+            <link>https://tv.naver.com/v/24605719</link>
+            <guid>https://tv.naver.com/v/24605719</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_293/6Tyfr_1642154006988FFLHF_JPEG/1642153996870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
+            <link>https://tv.naver.com/v/24586515</link>
+            <guid>https://tv.naver.com/v/24586515</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_31/ubMdV_1642064965209ASoVB_JPEG/1642064957383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/24572283</link>
+            <guid>https://tv.naver.com/v/24572283</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_166/Z8NP2_16419993715210xbv9_JPEG/1641999219387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KANGTA 강타 'Slow Dance' MV]]></title>
+            <link>https://tv.naver.com/v/24558774</link>
+            <guid>https://tv.naver.com/v/24558774</guid>
+            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_114/i4T6y_1641958141485KGI68_JPEG/1641958030551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
