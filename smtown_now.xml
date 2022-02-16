@@ -4,18 +4,29 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[JTBC '언니들이 뛴다-마녀체력 농구부' PARK SUN YOUNG,]]></title>
+            <link>https://now.smtown.com/news/detail/2381367</link>
+            <guid>https://now.smtown.com/news/detail/2381367</guid>
+            <pubDate>Wed, 16 Feb 2022 05:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[PARK SUN YOUNG of JTBC's '언니들이 뛴다-마녀체력 농구부' mad...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR releases special single 'T...]]></title>
             <link>https://now.smtown.com/news/detail/2381366</link>
             <guid>https://now.smtown.com/news/detail/2381366</guid>
             <pubDate>Wed, 16 Feb 2022 02:54:06 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP Legend' SUPER JUNIOR will make a comebac...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TAEYEON ‘INVU’, YouTube ‘STUDIO CHOOM’ ...]]></title>
             <link>https://now.smtown.com/news/detail/2381365</link>
             <guid>https://now.smtown.com/news/detail/2381365</guid>
             <pubDate>Wed, 16 Feb 2022 02:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM), who made a come...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2381364</link>
@@ -239,14 +250,6 @@ Listen and d...]]></content:encoded>
             <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/8-hx1CY2jsY/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #6 Timeless]]></title>
-            <link>https://www.youtube.com/watch?v=0G6OQmQIvdw</link>
-            <guid>https://www.youtube.com/watch?v=0G6OQmQIvdw</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/0G6OQmQIvdw/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
