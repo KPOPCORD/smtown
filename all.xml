@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 05:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 06:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -592,10 +592,11 @@
             <content:encoded><![CDATA[Girls' Generation TAEYEON (SM), who made a come...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ (SMTOWN ─ NOW)]]></title>
+            <title><![CDATA[Rookie Kim Jun Hyung cast in TVING ‘아직 ... (SMTOWN ─ NOW)]]></title>
             <link>https://now.smtown.com/news/detail/2381364</link>
             <guid>https://now.smtown.com/news/detail/2381364</guid>
             <pubDate>Wed, 16 Feb 2022 02:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[Rookie actor Kim Jun Hyung will appear on TVING...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누군가 날 알아주면 안 될까? | Child’s Diary (SMTOWN ─ NOW)]]></title>
