@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 16:58:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV Teaser ...]]></title>
+            <link>https://www.youtube.com/watch?v=GYaLjX0Quu4</link>
+            <guid>https://www.youtube.com/watch?v=GYaLjX0Quu4</guid>
+            <pubDate>Thu, 17 Feb 2022 16:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR's new single "The Road : Winter fo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GYaLjX0Quu4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한겨울 카우보이로 변신한 #이동휘 광고 촬영 현장 | Lee Dong ...]]></title>
             <link>https://www.youtube.com/watch?v=QRj-m03Y7zM</link>
@@ -239,14 +247,6 @@ Listen and d...]]></content:encoded>
 #THE_NCT_SHOW #엔쇼 #도전_시티골든벨
 #JOHNNY #TA...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/GvIM_rbI6Wk/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credi...]]></title>
-            <link>https://www.youtube.com/watch?v=DcXDnuZHr88</link>
-            <guid>https://www.youtube.com/watch?v=DcXDnuZHr88</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
