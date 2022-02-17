@@ -4,9 +4,40 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Original Sentimental Ballad Singer' KI...]]></title>
+            <link>https://now.smtown.com/news/detail/2381385</link>
+            <guid>https://now.smtown.com/news/detail/2381385</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘Original Sentimental Ballad Singer’ KIM MIN JO...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON to perform her new song 'INVU' ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381384</link>
+            <guid>https://now.smtown.com/news/detail/2381384</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will appear on '...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM 'Remastering Project', M.I.L.K. ‘Com...]]></title>
+            <link>https://now.smtown.com/news/detail/2381383</link>
+            <guid>https://now.smtown.com/news/detail/2381383</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[The girl group M.I.L.K.'s 'Come To Me' remaster...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[M.I.L.K. 'Come To Me' MV]]></title>
+            <link>https://www.youtube.com/watch?v=oyJtrvJfvDE</link>
+            <guid>https://www.youtube.com/watch?v=oyJtrvJfvDE</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2001, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oyJtrvJfvDE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC '언니들이 뛴다-마녀체력 농구부' PARK SUN YOUNG,]]></title>
             <link>https://now.smtown.com/news/detail/2381367</link>
@@ -217,41 +248,6 @@ Listen and d...]]></content:encoded>
             <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xF4VvWOzttA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check it out~~~ NCT MUSIC SPACE! #NCT #...]]></title>
-            <link>https://www.youtube.com/watch?v=RNMxC4276Ls</link>
-            <guid>https://www.youtube.com/watch?v=RNMxC4276Ls</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[#Shorts #MUSIC_SPACE 
-#THE_NCT_SHOW #엔쇼 #MARK #...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/RNMxC4276Ls/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler)]]></title>
-            <link>https://www.youtube.com/watch?v=nCt9llA680c</link>
-            <guid>https://www.youtube.com/watch?v=nCt9llA680c</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nCt9llA680c/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC SPACE : 'Child' Live & Behind Sto...]]></title>
-            <link>https://www.youtube.com/watch?v=5kQVtdNsMGM</link>
-            <guid>https://www.youtube.com/watch?v=5kQVtdNsMGM</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[#MUSIC_SPACE #Child
-#THE_NCT_SHOW #엔쇼
-#MARK #JO...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5kQVtdNsMGM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell]]></title>
-            <link>https://www.youtube.com/watch?v=8-hx1CY2jsY</link>
-            <guid>https://www.youtube.com/watch?v=8-hx1CY2jsY</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8-hx1CY2jsY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

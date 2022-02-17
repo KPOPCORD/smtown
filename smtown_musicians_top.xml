@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5964</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5964</guid>
-            <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
+            <title><![CDATA[‘원조 감성 발라더’ 김민종, 가수 데뷔 30주년 기념 신곡 ‘긴 밤’ 21일 발표!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5968</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5968</guid>
+            <pubDate>Thu, 17 Feb 2022 03:43:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c65db97805.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘원조 감성 발라더’ 김민종, 가수 데뷔 30주년 기념 신곡 ‘긴 밤’ 21일 발표!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db973bf190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연 ‘INVU’, 유튜브 ‘스튜디오 춤’ 퍼포먼스 영상 18일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5963</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5963</guid>
-            <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
+            <title><![CDATA[태연, 17일 ‘엠카운트다운’ 출격! 신곡 ‘INVU’ 무대 첫 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5967</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5967</guid>
+            <pubDate>Thu, 17 Feb 2022 03:43:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연 ‘INVU’, 유튜브 ‘스튜디오 춤’ 퍼포먼스 영상 18일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c656de1295.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">태연, 17일 ‘엠카운트다운’ 출격! 신곡 ‘INVU’ 무대 첫 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db8f21c1bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

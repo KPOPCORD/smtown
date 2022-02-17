@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,22 +232,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5964</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5964</guid>
-            <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
+            <title><![CDATA[‘원조 감성 발라더’ 김민종, 가수 데뷔 30주년 기념 신곡 ‘긴 밤’ 21일 발표! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5968</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5968</guid>
+            <pubDate>Thu, 17 Feb 2022 03:43:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c65db97805.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘원조 감성 발라더’ 김민종, 가수 데뷔 30주년 기념 신곡 ‘긴 밤’ 21일 발표!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db973bf190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, 17일 ‘엠카운트다운’ 출격! 신곡 ‘INVU’ 무대 첫 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5967</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5967</guid>
+            <pubDate>Thu, 17 Feb 2022 03:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">태연, 17일 ‘엠카운트다운’ 출격! 신곡 ‘INVU’ 무대 첫 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db8f21c1bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM ‘리마스터링 프로젝트’, 밀크 ‘Come To Me’ 리마스터 MV 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5966</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5966</guid>
+            <pubDate>Thu, 17 Feb 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 밀크(M.I.L.K.)의 ‘Come To Me’(컴 투 미) 리마스터 뮤직비디오가 공개됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db8899c6a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 유튜브 ‘스튜디오 춤’ 퍼포먼스 영상 18일 공개! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5963</link>
             <guid>https://www.smtown.com/artist/newsDetail/5963</guid>
             <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">태연 ‘INVU’, 유튜브 ‘스튜디오 춤’ 퍼포먼스 영상 18일 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[정규 3집 ‘INVU’로 컴백한 소녀시대 태연(에스엠엔터테인먼트 소속)이 ‘스튜디오 춤’ 퍼포먼스 영상을 18일 공개한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c656de1295.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역시 ‘대체불가’ 보컬퀸! 태연 정규 3집 ‘INVU’ 국내 및 글로벌 차트 1위 행진! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5960</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5960</guid>
+            <pubDate>Tue, 15 Feb 2022 03:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 컴백과 동시에 국내외 차트 1위를 차지하며 '믿고 듣는 보컬퀸'의 명성을 다시 한번 입증했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1ce98b352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['K-POP 레전드' 슈퍼주니어, 1년 만에 스페셜 싱글로 컴백 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5957</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5957</guid>
+            <pubDate>Mon, 14 Feb 2022 03:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 1년 만에 스페셜 싱글로 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c88506474.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5954</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5954</guid>
+            <pubDate>Sun, 13 Feb 2022 12:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 폭넓은 음악 스펙트럼을 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6208f1b8456d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5964</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5964</guid>
+            <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 28일 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c65db97805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동방신기 유노윤호, 日 미니앨범 오리콘 위클리도 1위! (SMTOWN ─ Musicians News)]]></title>
@@ -280,54 +328,6 @@
             <pubDate>Fri, 11 Feb 2022 05:40:02 GMT</pubDate>
             <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 6번째 공연이 11일 펼쳐진다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205ed8da951f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 마크, 첫 솔로곡 ‘Child’ 가온 다운로드 차트 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5951</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5951</guid>
-            <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 마크(에스엠엔터테인먼트 소속)가 첫 솔로곡 ‘Child’(차일드)로 가온 다운로드 차트 1위에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205db494326e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역시 ‘대체불가’ 보컬퀸! 태연 정규 3집 ‘INVU’ 국내 및 글로벌 차트 1위 행진! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5960</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5960</guid>
-            <pubDate>Tue, 15 Feb 2022 03:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 컴백과 동시에 국내외 차트 1위를 차지하며 '믿고 듣는 보컬퀸'의 명성을 다시 한번 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1ce98b352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-POP 레전드' 슈퍼주니어, 1년 만에 스페셜 싱글로 컴백 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5957</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5957</guid>
-            <pubDate>Mon, 14 Feb 2022 03:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 1년 만에 스페셜 싱글로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c88506474.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘믿듣탱’ 태연 정규 3집 ‘INVU’로 보여줄 폭넓은 음악 스펙트럼! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5954</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5954</guid>
-            <pubDate>Sun, 13 Feb 2022 12:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 폭넓은 음악 스펙트럼을 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6208f1b8456d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, ‘THE NCT SHOW’ 론칭! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5952</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5952</guid>
-            <pubDate>Fri, 11 Feb 2022 04:49:11 GMT</pubDate>
-            <content:encoded><![CDATA[NCT(엔시티, 에스엠엔터테인먼트 소속)가 ‘THE NCT SHOW’를 론칭한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dbc735c13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 정규 3집 ‘INVU’ 애틋+몽환적 분위기도 담았다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5950</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5950</guid>
-            <pubDate>Fri, 11 Feb 2022 03:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 애틋하고 몽환적인 분위기를 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205dac0df63d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 김준형, 티빙 오리지널 (SMTOWN ─ Actors News)]]></title>
@@ -426,6 +426,37 @@
             <pubDate>Wed, 26 Jan 2022 05:40:48 GMT</pubDate>
             <content:encoded><![CDATA[신예 박정연이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’(극본 박희권, 박은영 / 연출 임태우)에 출연을 확정, 박해준의 하나뿐인 딸로 변신한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Original Sentimental Ballad Singer' KI... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381385</link>
+            <guid>https://now.smtown.com/news/detail/2381385</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘Original Sentimental Ballad Singer’ KIM MIN JO...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON to perform her new song 'INVU' ... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381384</link>
+            <guid>https://now.smtown.com/news/detail/2381384</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will appear on '...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM 'Remastering Project', M.I.L.K. ‘Com... (SMTOWN ─ NOW)]]></title>
+            <link>https://now.smtown.com/news/detail/2381383</link>
+            <guid>https://now.smtown.com/news/detail/2381383</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[The girl group M.I.L.K.'s 'Come To Me' remaster...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[M.I.L.K. 'Come To Me' MV (SMTOWN ─ NOW)]]></title>
+            <link>https://www.youtube.com/watch?v=oyJtrvJfvDE</link>
+            <guid>https://www.youtube.com/watch?v=oyJtrvJfvDE</guid>
+            <pubDate>Thu, 17 Feb 2022 03:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2001, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oyJtrvJfvDE/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JTBC '언니들이 뛴다-마녀체력 농구부' PARK SUN YOUNG, (SMTOWN ─ NOW)]]></title>
@@ -637,41 +668,6 @@ Listen and d...]]></content:encoded>
             <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/xF4VvWOzttA/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check it out~~~ NCT MUSIC SPACE! #NCT #... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=RNMxC4276Ls</link>
-            <guid>https://www.youtube.com/watch?v=RNMxC4276Ls</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[#Shorts #MUSIC_SPACE 
-#THE_NCT_SHOW #엔쇼 #MARK #...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/RNMxC4276Ls/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #8 어른아이 (Toddler) (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=nCt9llA680c</link>
-            <guid>https://www.youtube.com/watch?v=nCt9llA680c</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nCt9llA680c/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC SPACE : 'Child' Live & Behind Sto... (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=5kQVtdNsMGM</link>
-            <guid>https://www.youtube.com/watch?v=5kQVtdNsMGM</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[#MUSIC_SPACE #Child
-#THE_NCT_SHOW #엔쇼
-#MARK #JO...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/5kQVtdNsMGM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #7 Cold As Hell (SMTOWN ─ NOW)]]></title>
-            <link>https://www.youtube.com/watch?v=8-hx1CY2jsY</link>
-            <guid>https://www.youtube.com/watch?v=8-hx1CY2jsY</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/8-hx1CY2jsY/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[태연] 아르'탱'미스🏹 'INVU' MV 비하인드 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
