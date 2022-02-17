@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 11:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 12:59:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Child' MV Behind the Scene]]></title>
+            <link>https://www.youtube.com/watch?v=rWY7V3vkVf4</link>
+            <guid>https://www.youtube.com/watch?v=rWY7V3vkVf4</guid>
+            <pubDate>Thu, 17 Feb 2022 12:58:37 GMT</pubDate>
+            <content:encoded><![CDATA[#MARK #마크 #Child #NCTLAB
+#MARK_Child #STATION #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rWY7V3vkVf4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RYEOWOOK, laughter X touching talk → li...]]></title>
             <link>https://now.smtown.com/news/detail/2381392</link>
@@ -237,16 +246,6 @@ Listen and d...]]></content:encoded>
             <guid>https://now.smtown.com/news/detail/2381331</guid>
             <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
             <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)’s 3rd Album ‘INVU...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TODAY! CT Goldenbell Ep.1🔔 10PM KST #N...]]></title>
-            <link>https://www.youtube.com/watch?v=y_g3CEnWYCk</link>
-            <guid>https://www.youtube.com/watch?v=y_g3CEnWYCk</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[#Shorts #시티골든벨 
-#THE_NCT_SHOW #엔쇼 #도전_시티골든벨
-#JO...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/y_g3CEnWYCk/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
