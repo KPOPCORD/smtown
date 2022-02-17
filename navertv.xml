@@ -4,7 +4,7 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 07:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 08:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220206_98/9PgBQ_1644146229332WK1X7_JPEG/1644146211324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV]]></title>
+            <title><![CDATA[[STATION : NCT LAB] MARK 마크 'Child' MV]]></title>
             <link>https://tv.naver.com/v/24932280</link>
             <guid>https://tv.naver.com/v/24932280</guid>
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
