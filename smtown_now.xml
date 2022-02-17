@@ -4,9 +4,17 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 14:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:46:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한겨울 카우보이로 변신한 #이동휘 광고 촬영 현장 | Lee Dong ...]]></title>
+            <link>https://www.youtube.com/watch?v=QRj-m03Y7zM</link>
+            <guid>https://www.youtube.com/watch?v=QRj-m03Y7zM</guid>
+            <pubDate>Thu, 17 Feb 2022 15:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[The commercial filming site of the winter cowbo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QRj-m03Y7zM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Child' MV Behind the Scene]]></title>
             <link>https://www.youtube.com/watch?v=rWY7V3vkVf4</link>
@@ -239,13 +247,6 @@ Listen and d...]]></content:encoded>
             <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
             <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" will be released on ...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/DcXDnuZHr88/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ to show a wi...]]></title>
-            <link>https://now.smtown.com/news/detail/2381331</link>
-            <guid>https://now.smtown.com/news/detail/2381331</guid>
-            <pubDate>Tue, 15 Feb 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[Girls' Generation TAEYEON(SM)’s 3rd Album ‘INVU...]]></content:encoded>
         </item>
     </channel>
 </rss>
