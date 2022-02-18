@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 09:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' Performance V...]]></title>
+            <link>https://www.youtube.com/watch?v=AAxNulx1PhM</link>
+            <guid>https://www.youtube.com/watch?v=AAxNulx1PhM</guid>
+            <pubDate>Fri, 18 Feb 2022 09:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[Happy MAX CHANGMIN Day🎂🎉
+
+MAX CHANGMIN's 2nd ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AAxNulx1PhM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Comeback on the 28th' SUPER JUNIOR, DO...]]></title>
             <link>https://now.smtown.com/news/detail/2381404</link>
@@ -36,9 +46,11 @@
             <content:encoded><![CDATA[DJ WOW will appear as the 7th performer of the ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ Park Jung Yeon,]]></title>
             <link>https://now.smtown.com/news/detail/2381400</link>
             <guid>https://now.smtown.com/news/detail/2381400</guid>
             <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[Actor Park Jung Yeon showed off her neat visual...]]></content:encoded>
         </item>
         <item>
             <link>https://now.smtown.com/news/detail/2381399</link>
@@ -229,13 +241,6 @@ Listen and d...]]></content:encoded>
 #시티골든벨&nbsp;#THE_NCT_SHOW
 #JISUNG #엔쇼 #도전_시티...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/h8EiS762HZM/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Guaranteed Vocal Queen’ The Song & MV ...]]></title>
-            <link>https://now.smtown.com/news/detail/2381336</link>
-            <guid>https://now.smtown.com/news/detail/2381336</guid>
-            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
-            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
         </item>
     </channel>
 </rss>
