@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[태연] INVU : THE EXHIBIT 투어에
+초대합니다 💌]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33310794&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33310794&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 18 Feb 2022 03:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTdfNzAg/MDAxNjQ1MDg2ODg0Mjg1.o2rjybGlYTINgl-La7-Ny7AZ8myPA37AjUgUkrycSIMg.riupM_LDfl9QAxao27IWC9IRER6qoIUeur8wrS5vxFYg.JPEG/IUBFlICwK8m3Cb1xBm5eyLQYehGo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[태연] 아르'탱'미스🏹 'INVU' MV 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33301103&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,15 +180,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Tue, 14 Dec 2021 06:50:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfNzMg/MDAxNjM5NDU2MDg3NjA2.yQXlugy21uh0In43BhfIIsaOAuyb67X7eMlXDBELGKsg.dibrshZhTRUFiPL1TIL6qrd6E-xyAQJuhO6HtRgVeogg.JPEG/IzUFqwxo-8wR7JyIkBrD6PubyTq8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] 
-NCT 'Universe'에서 같이 놀래?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32920972&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32920972&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Fri, 10 Dec 2021 09:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTBfMTA1/MDAxNjM5MTIzNDM4MDUw.CnRsmJ5l18zJus3MSyGY8jqvOtL1Iry-NaxAznMw05kg.64WWX_zmqCmdxX_wubHDNEQITbdMaCZqWIii_ImVPwQg.JPEG/IK351BImgxBB1YzRBGtqyUaUZDGo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

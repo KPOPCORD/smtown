@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[태연] INVU : THE EXHIBIT 투어에
+초대합니다 💌]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33310794&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33310794&amp;memberNo=41350603</guid>
+            <pubDate>Fri, 18 Feb 2022 03:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 7일부터 14일까지 태연 정규 3집 발매 기념 전시회[TAEYEON - INVU : THE EXHIBIT]가 진행됐습니다. 이번 전시는새 앨범에 담긴 사랑❤️에 대한 내러티브를다방면으로 감상할 수 있도록 구성되었는데요. 팬 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTdfNzAg/MDAxNjQ1MDg2ODg0Mjg1.o2rjybGlYTINgl-La7-Ny7AZ8myPA37AjUgUkrycSIMg.riupM_LDfl9QAxao27IWC9IRER6qoIUeur8wrS5vxFYg.JPEG/IUBFlICwK8m3Cb1xBm5eyLQYehGo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[태연] 아르'탱'미스🏹 'INVU' MV 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33301103&amp;memberNo=41350603</link>
@@ -170,14 +179,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[추운 겨울, 여러분의 몸과 마음을 따뜻하게 녹여줄 명반이 나왔습니다 (๑・‿・๑)❤바로 오늘 공개된 '2021 Winter SMTOWN : SMCU EXPRESS'입니다. 이번 앨범은 '2011 SMTOWN Winter [The Warmest Gift]' 이후 무려 10년···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfODkg/MDAxNjQwNTI1NTcyMDQx.IGVyzunBUPT3-_o38vvTFxHuHvoF8xEm_G0RE0I808Eg.GpwXD5sHpz1qLeRipfuGD4daUAUnfnq0ouv3qdob_ekg.JPEG/IFgsSqMwL5gDkAyczmoTwKxcMSEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일 오후 6시, 민호의 솔로 싱글 ‘Heartbreak’가 공개되었습니다! 지난 2019년 공개된 SM STATION 싱글 ‘I’m Home (그래)’ 이후 2년 만에 선보이는 민호의 솔로 곡인 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjIg/MDAxNjQwMTUwMTMzNDUz.ZWriPMq4DPUgb3VKapt-AhNHGCoh9J_l2aOXAJHHXTsg.RwUqWbiUz0KdnWbn4UPvsNiCPXc1NN8iTVVeB-pxAmQg.JPEG/Iq7u4ildSTyBLwut-PElaCXXsWmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

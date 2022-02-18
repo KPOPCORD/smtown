@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 김준형, 티빙 오리지널]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5962</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5962</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[신예 배우 김준형이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c64f2c5128.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이학주, JTBC ‘공작도시’ 종영소감]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5949</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f3801ca1508.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이), 끈끈한 우정+의리 지켰다! ‘감동 선사’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5906</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5906</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 끈끈한 우정으로 시청자들에게 감동을 선사했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0dedc0efa7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배우 박재민, ‘2022 베이징 올림픽’ 스노보드 해설진으로 활약! 진심과 영혼 담은 해설로 화제]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5956</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5956</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박재민이 ‘2022 베이징 올림픽’ KBS 스노보드 해설 위원으로 참여, 진심과 영혼을 담은 해설로 국내외에서 화제를 모으고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c7b2957ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이) “‘미도’는 내게 선물처럼 다가온 역할” 종영 소감]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Feb 2022 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’에서 흡인력 있는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f37fbd4f291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 박정연, 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5904</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5904</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[신예 박정연이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’(극본 박희권, 박은영 / 연출 임태우)에 출연을 확정, 박해준의 하나뿐인 딸로 변신한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f0de234fa37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
