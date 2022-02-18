@@ -1,8 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://now.smtown.com/news</id>
-    <title>SMTOWN ─ NOW</title>
-    <updated>2022-02-18T04:51:45.282Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://now.smtown.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SMTOWN ─ NOW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Feb 2022 05:41:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381404</link>
+            <guid>https://now.smtown.com/news/detail/2381404</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EXO SUHO, YouTube Live Live broadcast a...]]></title>
+            <link>https://now.smtown.com/news/detail/2381403</link>
+            <guid>https://now.smtown.com/news/detail/2381403</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[EXO SUHO (SM) greets fans through the first liv...]]></content:encoded>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381402</link>
+            <guid>https://now.smtown.com/news/detail/2381402</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381401</link>
+            <guid>https://now.smtown.com/news/detail/2381401</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381400</link>
+            <guid>https://now.smtown.com/news/detail/2381400</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <link>https://now.smtown.com/news/detail/2381399</link>
+            <guid>https://now.smtown.com/news/detail/2381399</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV Teaser ...]]></title>
+            <link>https://www.youtube.com/watch?v=GYaLjX0Quu4</link>
+            <guid>https://www.youtube.com/watch?v=GYaLjX0Quu4</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR's new single "The Road : Winter fo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/GYaLjX0Quu4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한겨울 카우보이로 변신한 #이동휘 광고 촬영 현장 | Lee Dong ...]]></title>
+            <link>https://www.youtube.com/watch?v=QRj-m03Y7zM</link>
+            <guid>https://www.youtube.com/watch?v=QRj-m03Y7zM</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[The commercial filming site of the winter cowbo...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/QRj-m03Y7zM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Child' MV Behind the Scene]]></title>
+            <link>https://www.youtube.com/watch?v=rWY7V3vkVf4</link>
+            <guid>https://www.youtube.com/watch?v=rWY7V3vkVf4</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[#MARK #마크 #Child #NCTLAB
+#MARK_Child #STATION #...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/rWY7V3vkVf4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RYEOWOOK, laughter X touching talk → li...]]></title>
+            <link>https://now.smtown.com/news/detail/2381392</link>
+            <guid>https://now.smtown.com/news/detail/2381392</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR RYEOWOOK touched the hearts of peo...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Original Sentimental Ballad Singer' KI...]]></title>
+            <link>https://now.smtown.com/news/detail/2381385</link>
+            <guid>https://now.smtown.com/news/detail/2381385</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘Original Sentimental Ballad Singer’ KIM MIN JO...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON to perform her new song 'INVU' ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381384</link>
+            <guid>https://now.smtown.com/news/detail/2381384</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) will appear on '...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SM 'Remastering Project', M.I.L.K. ‘Com...]]></title>
+            <link>https://now.smtown.com/news/detail/2381383</link>
+            <guid>https://now.smtown.com/news/detail/2381383</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[The girl group M.I.L.K.'s 'Come To Me' remaster...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[M.I.L.K. 'Come To Me' MV]]></title>
+            <link>https://www.youtube.com/watch?v=oyJtrvJfvDE</link>
+            <guid>https://www.youtube.com/watch?v=oyJtrvJfvDE</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[Original Release in 2001, Remastered in 2022.
+
+...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/oyJtrvJfvDE/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC '언니들이 뛴다-마녀체력 농구부' PARK SUN YOUNG,]]></title>
+            <link>https://now.smtown.com/news/detail/2381367</link>
+            <guid>https://now.smtown.com/news/detail/2381367</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[PARK SUN YOUNG of JTBC's '언니들이 뛴다-마녀체력 농구부' mad...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR releases special single 'T...]]></title>
+            <link>https://now.smtown.com/news/detail/2381366</link>
+            <guid>https://now.smtown.com/news/detail/2381366</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP Legend' SUPER JUNIOR will make a comebac...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON ‘INVU’, YouTube ‘STUDIO CHOOM’ ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381365</link>
+            <guid>https://now.smtown.com/news/detail/2381365</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM), who made a come...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rookie Kim Jun Hyung cast in TVING ‘아직 ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381364</link>
+            <guid>https://now.smtown.com/news/detail/2381364</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[Rookie actor Kim Jun Hyung will appear on TVING...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[누군가 날 알아주면 안 될까? | Child’s Diary]]></title>
+            <link>https://www.youtube.com/watch?v=0Y6cbQonILg</link>
+            <guid>https://www.youtube.com/watch?v=0Y6cbQonILg</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[#MARK #마크 #Child
+#MARK_Child #NCTLAB
+#ChildsDia...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/0Y6cbQonILg/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TVXQ! U-KNOW’s Japanese mini album ‘君ha...]]></title>
+            <link>https://now.smtown.com/news/detail/2381351</link>
+            <guid>https://now.smtown.com/news/detail/2381351</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[TVXQ! U-KNOW(SM) topped the Oricon Weekly Chart...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON’s 3rd Album ‘INVU’ tops various...]]></title>
+            <link>https://now.smtown.com/news/detail/2381350</link>
+            <guid>https://now.smtown.com/news/detail/2381350</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[Girls' Generation TAEYEON (SM) topped Korean an...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AIKI to hold their first solo online fa...]]></title>
+            <link>https://now.smtown.com/news/detail/2381349</link>
+            <guid>https://now.smtown.com/news/detail/2381349</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[Creator and dancer AIKI will hold her first sol...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 패턴 아티스트 정수]]></title>
+            <link>https://www.youtube.com/watch?v=4d4S08_Bk0E</link>
+            <guid>https://www.youtube.com/watch?v=4d4S08_Bk0E</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, pattern artist
+instagram @j...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/4d4S08_Bk0E/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변치 않는 사랑｜밸런타인데이 꽃꽂이]]></title>
+            <link>https://www.youtube.com/watch?v=WpzJHtkno_Y</link>
+            <guid>https://www.youtube.com/watch?v=WpzJHtkno_Y</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세여 큥튜브 구독자 '이뇨속' 여러분!! 주인장 백현입니다!!!!! 
+여러분들 ...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/WpzJHtkno_Y/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 모델 윤영주]]></title>
+            <link>https://www.youtube.com/watch?v=iwaFkm0atmU</link>
+            <guid>https://www.youtube.com/watch?v=iwaFkm0atmU</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, model
+instagram @youngjusta...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/iwaFkm0atmU/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 쇼호스트 정시현]]></title>
+            <link>https://www.youtube.com/watch?v=XRFXh9UHoN0</link>
+            <guid>https://www.youtube.com/watch?v=XRFXh9UHoN0</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, showhost
+instagram @sihyun....]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/XRFXh9UHoN0/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[speeker] 글로벌 마케팅 디렉터/작가 스텔라]]></title>
+            <link>https://www.youtube.com/watch?v=nnyy-hr0yi4</link>
+            <guid>https://www.youtube.com/watch?v=nnyy-hr0yi4</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[SPEEKER INFLUENCER, global marketing director /...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/nnyy-hr0yi4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
+            <link>https://www.youtube.com/watch?v=AbZH7XWDW_k</link>
+            <guid>https://www.youtube.com/watch?v=AbZH7XWDW_k</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" is out!
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/AbZH7XWDW_k/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MC햄찌🐹의 시티골든벨 촬영 소감🔔💬 #NCT #Shorts]]></title>
+            <link>https://www.youtube.com/watch?v=h8EiS762HZM</link>
+            <guid>https://www.youtube.com/watch?v=h8EiS762HZM</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[#Shorts
+#시티골든벨&nbsp;#THE_NCT_SHOW
+#JISUNG #엔쇼 #도전_시티...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/h8EiS762HZM/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Guaranteed Vocal Queen’ The Song & MV ...]]></title>
+            <link>https://now.smtown.com/news/detail/2381336</link>
+            <guid>https://now.smtown.com/news/detail/2381336</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA['Guaranteed Vocal Queen' Girls' Generation TAEY...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
