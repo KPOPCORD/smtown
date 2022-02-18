@@ -4,9 +4,19 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 13:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 14:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Poster & VCR Shooting Behind | Ep.1 | T...]]></title>
+            <link>https://www.youtube.com/watch?v=obWumoPfC3o</link>
+            <guid>https://www.youtube.com/watch?v=obWumoPfC3o</guid>
+            <pubDate>Fri, 18 Feb 2022 14:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[#NCT127 #NEOCITY
+#NEOCITY_THE_LINK
+#NCT127_NEOC...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/obWumoPfC3o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[RV Days] 제가 좋아하는 언니의 모습이 있어요 | 서가대+가온차...]]></title>
             <link>https://www.youtube.com/watch?v=aUeBwSPODh4</link>
@@ -233,15 +243,6 @@ instagram @sihyun....]]></content:encoded>
             <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
             <content:encoded><![CDATA[SPEEKER INFLUENCER, global marketing director /...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/nnyy-hr0yi4/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
-            <link>https://www.youtube.com/watch?v=AbZH7XWDW_k</link>
-            <guid>https://www.youtube.com/watch?v=AbZH7XWDW_k</guid>
-            <pubDate>Fri, 18 Feb 2022 05:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" is out!
-Listen and d...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/AbZH7XWDW_k/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
