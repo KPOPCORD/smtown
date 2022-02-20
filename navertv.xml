@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 08:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 09:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION] KIM MIN JONG 김민종 '긴 밤 (Endless Night)' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/25246596</link>
+            <guid>https://tv.naver.com/v/25246596</guid>
+            <pubDate>Sun, 20 Feb 2022 09:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220220_99/Cv2jq_1645339276956oElhB_JPEG/1645339273924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' Performance Video]]></title>
             <link>https://tv.naver.com/v/25208934</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_293/6Tyfr_1642154006988FFLHF_JPEG/1642153996870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' MV]]></title>
-            <link>https://tv.naver.com/v/24586515</link>
-            <guid>https://tv.naver.com/v/24586515</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_31/ubMdV_1642064965209ASoVB_JPEG/1642064957383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
