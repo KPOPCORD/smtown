@@ -4,9 +4,26 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 10:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 11:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] TAEYEON ‘INVU’ Countdown Live]]></title>
+            <link>https://www.youtube.com/watch?v=mTi58IrJQi8</link>
+            <guid>https://www.youtube.com/watch?v=mTi58IrJQi8</guid>
+            <pubDate>Sun, 20 Feb 2022 11:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[TAEYEON's 3rd album "INVU" is out!
+Listen and d...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/mTi58IrJQi8/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STATION] KIM MIN JONG 김민종 '긴 밤 (Endles...]]></title>
+            <link>https://www.youtube.com/watch?v=r4JAbj09F2o</link>
+            <guid>https://www.youtube.com/watch?v=r4JAbj09F2o</guid>
+            <pubDate>Sun, 20 Feb 2022 11:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[KIM MIN JONG's new single "Endless Night - SM S...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/r4JAbj09F2o/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Poster & VCR Shooting Behind | Ep.1 | T...]]></title>
             <link>https://www.youtube.com/watch?v=obWumoPfC3o</link>
@@ -226,23 +243,6 @@ instagram @j...]]></content:encoded>
             <content:encoded><![CDATA[SPEEKER INFLUENCER, model
 instagram @youngjusta...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/iwaFkm0atmU/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 쇼호스트 정시현]]></title>
-            <link>https://www.youtube.com/watch?v=XRFXh9UHoN0</link>
-            <guid>https://www.youtube.com/watch?v=XRFXh9UHoN0</guid>
-            <pubDate>Sun, 20 Feb 2022 07:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, showhost
-instagram @sihyun....]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/XRFXh9UHoN0/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[speeker] 글로벌 마케팅 디렉터/작가 스텔라]]></title>
-            <link>https://www.youtube.com/watch?v=nnyy-hr0yi4</link>
-            <guid>https://www.youtube.com/watch?v=nnyy-hr0yi4</guid>
-            <pubDate>Sun, 20 Feb 2022 07:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[SPEEKER INFLUENCER, global marketing director /...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/nnyy-hr0yi4/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
