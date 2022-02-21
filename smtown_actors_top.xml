@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연,]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5971</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5971</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
+            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5980</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘아직 최선을 다하지 않았을 뿐’ 박정연, </span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11b961506.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이동휘, 반박 불가 패셔니스타!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5970</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5970</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
+            <title><![CDATA[임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5979</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5979</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">이동휘, 반박 불가 패셔니스타!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11815c5c0.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314356ffea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

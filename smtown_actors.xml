@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연,]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5971</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5971</guid>
+            <pubDate>Mon, 21 Feb 2022 04:51:02 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박정연이 교복을 입고 청초한 비주얼을 뽐내 눈길을 끈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11b961506.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예 김준형, 티빙 오리지널]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5962</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca1400dbc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문가영, ‘미모 정점’ 빛나는 자태 돋보이는 화보 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5915</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5915</guid>
-            <pubDate>Fri, 04 Feb 2022 04:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문가영이 대담하면서도 신비로운 분위기를 표출했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f3801ca1508.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이동휘, 반박 불가 패셔니스타!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5970</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5970</guid>
+            <pubDate>Mon, 21 Feb 2022 04:51:02 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘가 반박 불가 패셔니스타의 면모를 뽐냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11815c5c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 박재민, ‘2022 베이징 올림픽’ 스노보드 해설진으로 활약! 진심과 영혼 담은 해설로 화제]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 02:53:03 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 숨겨졌던 진실 앞에 마주 서 극에 팽팽한 긴장감을 조성했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb679383c44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이학주, 정의감 투철한 보도국 기자 ‘한동민’役 완벽 소화]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5914</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5914</guid>
-            <pubDate>Thu, 03 Feb 2022 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’에서 흡인력 있는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f37fbd4f291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

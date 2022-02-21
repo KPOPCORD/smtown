@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,30 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5981</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5981</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6213150e1fb91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ MV 티저 영상 20일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5978</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5978</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ MV 티저 영상 20일 오후 6시 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621313a301271.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 '기대 UP' (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5975</link>
             <guid>https://www.smtown.com/artist/newsDetail/5975</guid>
             <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">'28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 '기대 UP'</span>]]></content:encoded>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 동해, 이특, 예성의 티저로 새 앨범의 분위기를 예고했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f13a79f5b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 수호, 유튜브 라이브 19일 오후 9시 생방송! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5974</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5974</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">엑소 수호, 유튜브 라이브 19일 오후 9시 생방송!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f132e5884a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -425,12 +433,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1d297aaad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘믿고 듣는 보컬퀸’ 태연, 정규 3집 ‘INVU’ 음원+MV 베일 벗는다! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5958</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5958</guid>
-            <pubDate>Mon, 14 Feb 2022 03:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 14일 정규 3집 ‘INVU’(아이앤비유)로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c8e1db5de.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[엑소 수호, 유튜브 라이브 19일 오후 9시 생방송! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5974</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5974</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 수호(에스엠엔터테인먼트 소속)가 소집해제 후 첫 생방송으로 팬들과 인사를 나눈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f132e5884a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘원조 감성 발라더’ 김민종, 가수 데뷔 30주년 기념 신곡 ‘긴 밤’ 21일 발표! (SMTOWN ─ Musicians News)]]></title>
@@ -465,30 +473,30 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1ce98b352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['K-POP 레전드' 슈퍼주니어, 1년 만에 스페셜 싱글로 컴백 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5957</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5957</guid>
-            <pubDate>Mon, 14 Feb 2022 03:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼주니어가 1년 만에 스페셜 싱글로 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6209c88506474.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5980</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5979</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5979</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314356ffea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연, (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5971</link>
             <guid>https://www.smtown.com/artist/newsDetail/5971</guid>
             <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘아직 최선을 다하지 않았을 뿐’ 박정연, </span>]]></content:encoded>
+            <content:encoded><![CDATA[배우 박정연이 교복을 입고 청초한 비주얼을 뽐내 눈길을 끈다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11b961506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘, 반박 불가 패셔니스타! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5970</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5970</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">이동휘, 반박 불가 패셔니스타!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11815c5c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신예 김준형, 티빙 오리지널 (SMTOWN ─ Actors News)]]></title>
@@ -523,12 +531,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fca1400dbc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문가영, ‘미모 정점’ 빛나는 자태 돋보이는 화보 공개 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5915</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5915</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문가영이 대담하면서도 신비로운 분위기를 표출했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f3801ca1508.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이동휘, 반박 불가 패셔니스타! (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5970</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5970</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이동휘가 반박 불가 패셔니스타의 면모를 뽐냈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11815c5c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 박재민, ‘2022 베이징 올림픽’ 스노보드 해설진으로 활약! 진심과 영혼 담은 해설로 화제 (SMTOWN ─ Actors News)]]></title>
@@ -561,14 +569,6 @@
             <pubDate>Thu, 03 Feb 2022 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 숨겨졌던 진실 앞에 마주 서 극에 팽팽한 긴장감을 조성했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_61fb679383c44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이학주, 정의감 투철한 보도국 기자 ‘한동민’役 완벽 소화 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5914</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5914</guid>
-            <pubDate>Fri, 28 Jan 2022 05:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’에서 흡인력 있는 연기력으로 눈길을 끌고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f37fbd4f291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[REPLAY] TAEYEON ‘INVU’ Countdown Live (SMTOWN ─ NOW)]]></title>
