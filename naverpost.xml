@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM STATION] 
+김민종 '긴 밤 (Endless Night)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33295491&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33295491&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 21 Feb 2022 09:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[SM STATION, 이번 순서는 정말 오랜만에 신곡을 공개하는 아티스트, 김민종 입니다!특유의 보컬 컬러로 오랜 시간 많은 사랑을 받아온 김민종의 새 싱글, '긴 밤 (Endless Night)'을 지금 함께 만나봐요.긴 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTdfMTYx/MDAxNjQ1MDg2MzgxMTg0.SpWGwdfk_8jW4lAW-OzJA3c5TiR-n-iIK5ykFe9XIEAg.R4L9C73GhQOCWEPoZG4MW4CCEReEj01FIW6Rtv4QtoQg.JPEG/IUJ72Em_SG8Wysa0VYCWyPqy0J7c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[태연] INVU : THE EXHIBIT 투어에
 초대합니다 💌]]></title>
@@ -170,15 +179,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[지난 12월 21일샤이니 민호의 단독 팬미팅‘베스트 초이스 민호 2021’이 열렸습니다오랜만에 진행되는 팬미팅이라민호와 샤이니 월드 모두더 떨리고 설레는 마음이었을 텐데요그날 기억만 가지고 사는 샤월 손들어! (···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjQz/MDAxNjQwNjUzNDc1Mjkw.tRx-5mSVlwCQWsLY0j-vQMVdWlaWGLhHSH0P3zt6C_Ig.GjcWaeTZOvamyQla8gJyAKujCGIZEin4pW0iipZ2JNwg.JPEG/I5fJcMZRHY94Hiif50xRWHQ_yZ-0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 빛..✨ 
-'2021 Winter SMTOWN : SMCU EXPRESS' 발매!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[추운 겨울, 여러분의 몸과 마음을 따뜻하게 녹여줄 명반이 나왔습니다 (๑・‿・๑)❤바로 오늘 공개된 '2021 Winter SMTOWN : SMCU EXPRESS'입니다. 이번 앨범은 '2011 SMTOWN Winter [The Warmest Gift]' 이후 무려 10년···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfODkg/MDAxNjQwNTI1NTcyMDQx.IGVyzunBUPT3-_o38vvTFxHuHvoF8xEm_G0RE0I808Eg.GpwXD5sHpz1qLeRipfuGD4daUAUnfnq0ouv3qdob_ekg.JPEG/IFgsSqMwL5gDkAyczmoTwKxcMSEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

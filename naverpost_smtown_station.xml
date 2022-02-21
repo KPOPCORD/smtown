@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SM STATION</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM STATION] 
+김민종 '긴 밤 (Endless Night)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33295491&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33295491&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 21 Feb 2022 09:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTdfMTYx/MDAxNjQ1MDg2MzgxMTg0.SpWGwdfk_8jW4lAW-OzJA3c5TiR-n-iIK5ykFe9XIEAg.R4L9C73GhQOCWEPoZG4MW4CCEReEj01FIW6Rtv4QtoQg.JPEG/IUJ72Em_SG8Wysa0VYCWyPqy0J7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM STATION : NCT LAB] 마크 'Child']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33230377&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -170,14 +179,6 @@ Our Beloved BoA #1 백현 '공중정원']]></title>
             <pubDate>Sun, 22 Aug 2021 15:05:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MTVfMjYw/MDAxNTkyMTg2NTcxNzQ2.GFfcbCx3OBbnFda--3jd6BU6jeAeJt95nWLoaD2X4sAg.odvd20ri_fQWRuV6OgACqVrwtCSEQlW47V96RJdmhl4g.JPEG/IfA-0jFvOHcVbgOrd2Z1tu2DZfKA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SM STATION] 백현 ‘Love Again’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28390971&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28390971&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjlfMTE4/MDAxNTkwNzQyNzQ3Mzkx.7dP8w-5NAcjOhokpwAKfdNAPXqyd5VBAjdb0XXcKYKog.CO2-40-lGYb6N0hoZ96u8hl55-Y-wbPyWqFZ_c2BS1wg.JPEG/ISNbEGuWK__cXiU1EJ_A3AAUt8FE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
