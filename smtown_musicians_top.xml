@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳, 3월 19~20일 스페셜 라이브 ‘2022 The ReVe Festival : Prologue’ 개최!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5982</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5982</guid>
+            <pubDate>Mon, 21 Feb 2022 07:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">레드벨벳, 3월 19~20일 스페셜 라이브 ‘2022 The ReVe Festival : Prologue’ 개최! </span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6213398a735ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5981</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6213150e1fb91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ MV 티저 영상 20일 오후 6시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5978</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5978</guid>
-            <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ MV 티저 영상 20일 오후 6시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621313a301271.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
