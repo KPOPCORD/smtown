@@ -4,7 +4,7 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 14:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 15:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 21 Feb 2022 09:44:11 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_209/gCYmT_1645431975508FTCFD_JPEG/1645431950877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV Teaser #2]]></title>
+            <link>https://tv.naver.com/v/25259983</link>
+            <guid>https://tv.naver.com/v/25259983</guid>
+            <pubDate>Mon, 21 Feb 2022 15:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_76/9Y037_16454224691421qjRf_JPEG/1645422443455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[STATION] KIM MIN JONG 김민종 '긴 밤 (Endless Night)' MV Teaser]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_90/UBKuS_16424092837275YxFr_JPEG/1642409224253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/24621861</link>
-            <guid>https://tv.naver.com/v/24621861</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_23/YSGP3_1642246136625zqrCn_JPEG/1642246132682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
