@@ -4,9 +4,18 @@
         <title>SMTOWN ─ NOW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 10:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 11:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LISTEN STAGE] 220127-홍자(눈물의 술잔/어떻게 살아/...]]></title>
+            <link>https://www.youtube.com/watch?v=bHBadalxkv4</link>
+            <guid>https://www.youtube.com/watch?v=bHBadalxkv4</guid>
+            <pubDate>Mon, 21 Feb 2022 11:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[#홍자리슨스테이지 #HONGJA #화양연화
+🚩HONG JA's Instagram :...]]></content:encoded>
+            <enclosure url="https://i.ytimg.com/vi/bHBadalxkv4/sddefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION] KIM MIN JONG 김민종 '긴 밤 (Endles...]]></title>
             <link>https://www.youtube.com/watch?v=dkKMKmAr3ig</link>
@@ -233,15 +242,6 @@ MAX CHANGMIN's 2nd ...]]></content:encoded>
             <content:encoded><![CDATA[SPEEKER INFLUENCER, pattern artist
 instagram @j...]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/4d4S08_Bk0E/sddefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변치 않는 사랑｜밸런타인데이 꽃꽂이]]></title>
-            <link>https://www.youtube.com/watch?v=WpzJHtkno_Y</link>
-            <guid>https://www.youtube.com/watch?v=WpzJHtkno_Y</guid>
-            <pubDate>Mon, 21 Feb 2022 10:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세여 큥튜브 구독자 '이뇨속' 여러분!! 주인장 백현입니다!!!!! 
-여러분들 ...]]></content:encoded>
-            <enclosure url="https://i.ytimg.com/vi/WpzJHtkno_Y/sddefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
