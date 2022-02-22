@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 03:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 04:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,15 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['28일 컴백' 슈퍼주니어, 은혁·희철·신동 티저 추가 공개…겨울과 봄 사이 서정美 배가 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5983</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5983</guid>
+            <pubDate>Tue, 22 Feb 2022 04:49:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">'28일 컴백' 슈퍼주니어, 은혁·희철·신동 티저 추가 공개…겨울과 봄 사이 서정美 배가</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6214602b0775a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레드벨벳, 3월 19~20일 스페셜 라이브 ‘2022 The ReVe Festival : Prologue’ 개최! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5982</link>
             <guid>https://www.smtown.com/artist/newsDetail/5982</guid>
@@ -388,9 +397,40 @@
             <link>https://www.smtown.com/artist/newsDetail/5981</link>
             <guid>https://www.smtown.com/artist/newsDetail/5981</guid>
             <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)의 신곡 ‘긴 밤 (Endless Night)’이 21일 SM ‘STATION’(스테이션)을 통해 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6213150e1fb91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 '기대 UP' (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5975</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5975</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 동해, 이특, 예성의 티저로 새 앨범의 분위기를 예고했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f13a79f5b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5972</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5972</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 일곱 번째 공연 주자로 DJ 와우(WOW)가 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f123580010.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태연, 17일 ‘엠카운트다운’ 출격! 신곡 ‘INVU’ 무대 첫 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5967</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5967</guid>
+            <pubDate>Thu, 17 Feb 2022 03:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 17일 ‘엠카운트다운’에 출연해 신곡 ‘INVU’(아이앤비유) 무대를 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db8f21c1bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5964</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5964</guid>
+            <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 28일 컴백한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c65db97805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ MV 티저 영상 20일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -431,46 +471,6 @@
             <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
             <content:encoded><![CDATA[정규 3집 ‘INVU’로 컴백한 소녀시대 태연(에스엠엔터테인먼트 소속)이 ‘스튜디오 춤’ 퍼포먼스 영상을 18일 공개한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c656de1295.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 '기대 UP' (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5975</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5975</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 동해, 이특, 예성의 티저로 새 앨범의 분위기를 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f13a79f5b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5972</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5972</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 일곱 번째 공연 주자로 DJ 와우(WOW)가 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f123580010.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 17일 ‘엠카운트다운’ 출격! 신곡 ‘INVU’ 무대 첫 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5967</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5967</guid>
-            <pubDate>Thu, 17 Feb 2022 03:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대 태연(에스엠엔터테인먼트 소속)이 17일 ‘엠카운트다운’에 출연해 신곡 ‘INVU’(아이앤비유) 무대를 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620db8f21c1bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어, 28일 스페셜 싱글 'The Road : Winter for Spring' 발매 확정…화사한 단체 사진 공개 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5964</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5964</guid>
-            <pubDate>Wed, 16 Feb 2022 02:53:20 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 28일 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c65db97805.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동방신기 유노윤호, 日 미니앨범 오리콘 위클리도 1위! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5961</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5961</guid>
-            <pubDate>Tue, 15 Feb 2022 03:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 유노윤호(에스엠엔터테인먼트 소속)가 일본 새 미니앨범으로 오리콘 위클리 차트도 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620b1d297aaad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개 (SMTOWN ─ Actors News)]]></title>
