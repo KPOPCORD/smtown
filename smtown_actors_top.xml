@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:51:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘꽃 피면 달 생각하고’ 정성일, 종영 소감&반전 매력 담은 마지막 현장 비하인드 컷 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5986</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5986</guid>
+            <pubDate>Wed, 23 Feb 2022 04:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘꽃 피면 달 생각하고’ 정성일, 종영 소감&amp;반전 매력 담은 마지막 현장 비하인드 컷 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6215ae5c9a344.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5980</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5979</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5979</guid>
-            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314356ffea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
