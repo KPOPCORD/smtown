@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 14:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1287,6 +1287,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV Teaser #3 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25295062</link>
+            <guid>https://tv.naver.com/v/25295062</guid>
+            <pubDate>Wed, 23 Feb 2022 15:47:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_32/j11mS_1645583020652LgTaT_JPEG/1645582910209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[STATION] KIM MIN JONG 김민종 '긴 밤 (Endless Night)' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25263818</link>
             <guid>https://tv.naver.com/v/25263818</guid>
@@ -1517,14 +1525,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_120/PBNNR_16424123572053MbQS_JPEG/1642412355235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'Can't Control Myself' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24647398</link>
-            <guid>https://tv.naver.com/v/24647398</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_90/UBKuS_16424092837275YxFr_JPEG/1642409224253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
