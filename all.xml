@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 06:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,15 +330,6 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f123580010.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배정남, 2022년 ‘아디다스골프’ 브랜드 앰버서더 발탁! (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5990</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5990</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">배정남, 2022년 ‘아디다스골프’ 브랜드 앰버서더 발탁!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217019cc60c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우도환, 소년미→ 시크함 오가는 여심 저격 화보 공개! (SMTOWN ─ Actors News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5989</link>
             <guid>https://www.smtown.com/artist/newsDetail/5989</guid>
@@ -352,40 +343,9 @@
             <link>https://www.smtown.com/artist/newsDetail/5988</link>
             <guid>https://www.smtown.com/artist/newsDetail/5988</guid>
             <pubDate>Thu, 24 Feb 2022 04:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[웨이브 오리지널 ‘트레이서’(각본 김현정 / 감독 이승영) 고아성이 더욱 강력해져서 돌아온다.]]></content:encoded>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">웨이브 오리지널 ‘트레이서’ 고아성, 더욱 강해진 추리력으로 돌아온다!</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621700424eb2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5980</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
-            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 도영(에스엠엔터테인먼트 소속)이 연기 도전을 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연, (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5971</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5971</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박정연이 교복을 입고 청초한 비주얼을 뽐내 눈길을 끈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11b961506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 김준형, 티빙 오리지널 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5962</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5962</guid>
-            <pubDate>Wed, 16 Feb 2022 02:53:42 GMT</pubDate>
-            <content:encoded><![CDATA[신예 배우 김준형이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c64f2c5128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이학주, JTBC ‘공작도시’ 종영소감 (SMTOWN ─ Actors News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5949</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5949</guid>
-            <pubDate>Fri, 11 Feb 2022 03:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’를 마치는 소회를 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205da3889093.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘꽃 피면 달 생각하고’ 정성일, 종영 소감&반전 매력 담은 마지막 현장 비하인드 컷 공개! (SMTOWN ─ Actors News)]]></title>
@@ -426,6 +386,46 @@
             <pubDate>Wed, 09 Feb 2022 04:50:31 GMT</pubDate>
             <content:encoded><![CDATA[‘한 사람만’ 박수영(레드벨벳 조이, 에스엠엔터테인먼트 소속)이 마지막까지 ‘사이다 걸크러시’ 행보로 시청자들의 박수를 받았다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620339b5bb170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5980</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 도영(에스엠엔터테인먼트 소속)이 연기 도전을 이어간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연, (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5971</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5971</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박정연이 교복을 입고 청초한 비주얼을 뽐내 눈길을 끈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11b961506.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신예 김준형, 티빙 오리지널 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5962</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5962</guid>
+            <pubDate>Wed, 16 Feb 2022 02:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[신예 배우 김준형이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c64f2c5128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이학주, JTBC ‘공작도시’ 종영소감 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5949</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5949</guid>
+            <pubDate>Fri, 11 Feb 2022 03:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이학주가 JTBC ‘공작도시’를 마치는 소회를 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6205da3889093.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘한 사람만’ 윤보라, 종영 소감 공개 (SMTOWN ─ Actors News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5943</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5943</guid>
+            <pubDate>Thu, 24 Feb 2022 07:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤보라가 드라마 ‘한 사람만’을 떠나보내며 뜻깊은 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6203393f6dfda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김민종] 🎉 가수 데뷔 30주년 신곡 '긴 밤' MV 감상 타임 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
