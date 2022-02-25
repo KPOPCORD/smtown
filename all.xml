@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,22 +375,70 @@
             <enclosure url="https://smcdn.smtown.com/file/board/202003/star_5e7451ee009af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, 규현·시원·려욱까지 9人 티저 공개 완료! 28일 스페셜 싱글 'Callin'' M/V 2종 공개 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5994</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5994</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:07 GMT</pubDate>
+            <title><![CDATA['28일 발매' 슈퍼주니어, 신곡 'Callin'' M/V 촬영장 인터뷰 공개…명불허전 티키타카 '훈훈' (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5997</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5997</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어, 규현·시원·려욱까지 9人 티저 공개 완료! 28일 스페셜 싱글 'Callin'' M/V 2종 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217046be92d6.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">'28일 발매' 슈퍼주니어, 신곡 'Callin'' M/V 촬영장 인터뷰 공개…명불허전 티키타카 '훈훈'</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184cec9d8b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 라이브 영상 25일 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5996</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5996</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 라이브 영상 25일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184ca1c436f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5995</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5995</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 8번째 공연 주자로 DJ 데미캣(Demicat)이 출격한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184c6717375.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘믿듣탱’ 태연 정규 3집 ‘INVU’ 가온차트 2관왕! (SMTOWN ─ Musicians News)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5993</link>
             <guid>https://www.smtown.com/artist/newsDetail/5993</guid>
             <pubDate>Thu, 24 Feb 2022 04:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연 정규 3집 ‘INVU’ 가온차트 2관왕!</span>]]></content:encoded>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 가온차트 2관왕에 올랐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621703d189363.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[H.O.T. 히트곡 ‘아이야!’ 리마스터 뮤직비디오 공개 화제! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5991</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5991</guid>
+            <pubDate>Thu, 24 Feb 2022 04:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[레전드 그룹 H.O.T.의 히트곡 ‘아이야! (I yah!)’ 리마스터 뮤직비디오가 공개되어 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217028158bee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['28일 컴백' 슈퍼주니어, 은혁·희철·신동 티저 추가 공개…겨울과 봄 사이 서정美 배가 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5983</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5983</guid>
+            <pubDate>Tue, 22 Feb 2022 04:49:52 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 은혁, 희철, 신동의 티저로 컴백 열기를 고조시켰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6214602b0775a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5981</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5981</guid>
+            <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)의 신곡 ‘긴 밤 (Endless Night)’이 21일 SM ‘STATION’(스테이션)을 통해 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6213150e1fb91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 규현·시원·려욱까지 9人 티저 공개 완료! 28일 스페셜 싱글 'Callin'' M/V 2종 공개 (SMTOWN ─ Musicians News)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5994</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5994</guid>
+            <pubDate>Thu, 24 Feb 2022 04:50:07 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 규현, 시원, 려욱까지 개인 티저 공개를 완료했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217046be92d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘iScreaM’ 프로젝트, 엑소 카이 ‘Peaches’ 리믹스 싱글 24일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
@@ -423,54 +471,6 @@
             <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
             <content:encoded><![CDATA[김민종(에스엠엔터테인먼트 소속)의 신곡 ‘긴 밤 (Endless Night)’ 뮤직비디오 티저 영상이 20일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621313a301271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 수호, 유튜브 라이브 19일 오후 9시 생방송! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5974</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5974</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 수호(에스엠엔터테인먼트 소속)가 소집해제 후 첫 생방송으로 팬들과 인사를 나눈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f132e5884a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H.O.T. 히트곡 ‘아이야!’ 리마스터 뮤직비디오 공개 화제! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5991</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5991</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[레전드 그룹 H.O.T.의 히트곡 ‘아이야! (I yah!)’ 리마스터 뮤직비디오가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217028158bee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['28일 컴백' 슈퍼주니어, 은혁·희철·신동 티저 추가 공개…겨울과 봄 사이 서정美 배가 (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5983</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5983</guid>
-            <pubDate>Tue, 22 Feb 2022 04:49:52 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 은혁, 희철, 신동의 티저로 컴백 열기를 고조시켰다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6214602b0775a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 21일 오후 6시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5981</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5981</guid>
-            <pubDate>Mon, 21 Feb 2022 04:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)의 신곡 ‘긴 밤 (Endless Night)’이 21일 SM ‘STATION’(스테이션)을 통해 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6213150e1fb91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['28일 컴백' 슈퍼주니어, 동해·이특·예성 티저 공개…포근한 감성에 스페셜 싱글 '기대 UP' (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5975</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5975</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:23 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 동해, 이특, 예성의 티저로 새 앨범의 분위기를 예고했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f13a79f5b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (SMTOWN ─ Musicians News)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5972</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5972</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 일곱 번째 공연 주자로 DJ 와우(WOW)가 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f123580010.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우도환, 소년미→ 시크함 오가는 여심 저격 화보 공개! (SMTOWN ─ Actors News)]]></title>
@@ -569,6 +569,14 @@
             <pubDate>Thu, 24 Feb 2022 07:40:21 GMT</pubDate>
             <content:encoded><![CDATA[배우 윤보라가 드라마 ‘한 사람만’을 떠나보내며 뜻깊은 소감을 전했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6203393f6dfda.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최강창민] 명화 그 자체 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603</guid>
+            <pubDate>Fri, 25 Feb 2022 03:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요.오늘은 '명화 그 자체'를 만나볼 건데요.   블링 블링한 아이템들로가득 찬 오늘의 현장은   바로바로!두 번째 미니앨범 'Devil'로우리의 마음을 훔친!   조.각.상!!!아..아니!최강창민의 '보그 코리아' ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTQw/MDAxNjQ1Njk0Mjk2ODUw.0sfyGvhzr4qNdenv71p65hUlILGTn2b3qKCRXiWYZ98g.pSGoKWtatyGolyckz94U9htFfsVT9XlR7wQbPAwiZWMg.JPEG/IjgNyMqtMV-eQKRBYRM-thNf368w.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김민종] 🎉 가수 데뷔 30주년 신곡 '긴 밤' MV 감상 타임 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
@@ -732,14 +740,12 @@ GOT the beat의 'Step Back' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDFfMTUx/MDAxNjQxMDEzMDg2NDA3.HDPfKeyGNfq9PAVTwLT-KGGI_xHOarCvqaMnIYw1cfMg.CADbmMaBkBNAhNyfPLcU1DnBicb-9U0ShR6oG6hTPZQg.JPEG/ICvraT6IJr1AaGqIY2HmLYz1P7I8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Let it pink🔥
-자이언트핑크의
-핫한 싱글 'PINK' 공개! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33014203&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33014203&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021년을 마무리하며,여러분에게 드리는 아주 HOT한 선물!(두구두구두구두구)바로 힙합 여제 자이언트핑크가 새 싱글 'PINK'로 컴백했다는 소식입니다~!Ｏ(≧∇≦)Ｏ 자이언트핑크는SM 엔터테인먼트 산하 레이블All I Kno···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjY3/MDAxNjQwNTM0MDEyNzkw.u9bYUAYrpse4gqllwRHpD5_2Q54eUh3M-OCoGfpl7Hgg.OYpTJcWs0rEpvlo0Hi5hF0qH2w28QhCkNPNzfQ9_aKAg.JPEG/IdEaFtMDPhaIaygTGqt5DztjJ7wU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <title><![CDATA[[최강창민] 명화 그 자체 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 25 Feb 2022 03:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTQw/MDAxNjQ1Njk0Mjk2ODUw.0sfyGvhzr4qNdenv71p65hUlILGTn2b3qKCRXiWYZ98g.pSGoKWtatyGolyckz94U9htFfsVT9XlR7wQbPAwiZWMg.JPEG/IjgNyMqtMV-eQKRBYRM-thNf368w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김민종] 🎉 가수 데뷔 30주년 신곡 '긴 밤' MV 감상 타임 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -905,14 +911,6 @@ GOT the beat의 'Step Back' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Wed, 29 Dec 2021 03:46:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjY3/MDAxNjQwNTM0MDEyNzkw.u9bYUAYrpse4gqllwRHpD5_2Q54eUh3M-OCoGfpl7Hgg.OYpTJcWs0rEpvlo0Hi5hF0qH2w28QhCkNPNzfQ9_aKAg.JPEG/IdEaFtMDPhaIaygTGqt5DztjJ7wU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Wed, 22 Dec 2021 06:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjIg/MDAxNjQwMTUwMTMzNDUz.ZWriPMq4DPUgb3VKapt-AhNHGCoh9J_l2aOXAJHHXTsg.RwUqWbiUz0KdnWbn4UPvsNiCPXc1NN8iTVVeB-pxAmQg.JPEG/Iq7u4ildSTyBLwut-PElaCXXsWmk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>

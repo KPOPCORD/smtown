@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최강창민] 명화 그 자체]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 25 Feb 2022 03:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfMTQw/MDAxNjQ1Njk0Mjk2ODUw.0sfyGvhzr4qNdenv71p65hUlILGTn2b3qKCRXiWYZ98g.pSGoKWtatyGolyckz94U9htFfsVT9XlR7wQbPAwiZWMg.JPEG/IjgNyMqtMV-eQKRBYRM-thNf368w.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김민종] 🎉 가수 데뷔 30주년 신곡 '긴 밤' MV 감상 타임]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33338637&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,14 +179,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Wed, 29 Dec 2021 03:46:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjY3/MDAxNjQwNTM0MDEyNzkw.u9bYUAYrpse4gqllwRHpD5_2Q54eUh3M-OCoGfpl7Hgg.OYpTJcWs0rEpvlo0Hi5hF0qH2w28QhCkNPNzfQ9_aKAg.JPEG/IdEaFtMDPhaIaygTGqt5DztjJ7wU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독점] 민호는 심장을 부셔… 신곡 ‘Heartbreak’ 공개! (Feat. 미공개 컷)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32989982&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Wed, 22 Dec 2021 06:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjJfMjIg/MDAxNjQwMTUwMTMzNDUz.ZWriPMq4DPUgb3VKapt-AhNHGCoh9J_l2aOXAJHHXTsg.RwUqWbiUz0KdnWbn4UPvsNiCPXc1NN8iTVVeB-pxAmQg.JPEG/Iq7u4ildSTyBLwut-PElaCXXsWmk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

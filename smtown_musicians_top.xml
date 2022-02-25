@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[슈퍼주니어, 규현·시원·려욱까지 9人 티저 공개 완료! 28일 스페셜 싱글 'Callin'' M/V 2종 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5994</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5994</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:07 GMT</pubDate>
+            <title><![CDATA['28일 발매' 슈퍼주니어, 신곡 'Callin'' M/V 촬영장 인터뷰 공개…명불허전 티키타카 '훈훈']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5997</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5997</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">슈퍼주니어, 규현·시원·려욱까지 9人 티저 공개 완료! 28일 스페셜 싱글 'Callin'' M/V 2종 공개</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217046be92d6.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">'28일 발매' 슈퍼주니어, 신곡 'Callin'' M/V 촬영장 인터뷰 공개…명불허전 티키타카 '훈훈'</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184cec9d8b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘믿듣탱’ 태연 정규 3집 ‘INVU’ 가온차트 2관왕!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5993</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5993</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:07 GMT</pubDate>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 라이브 영상 25일 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5996</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5996</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘믿듣탱’ 태연 정규 3집 ‘INVU’ 가온차트 2관왕!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621703d189363.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 라이브 영상 25일 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184ca1c436f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
