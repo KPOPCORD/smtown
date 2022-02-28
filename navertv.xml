@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 10:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAI 카이 'Peaches (SUMIN Remix)' MV]]></title>
+            <link>https://tv.naver.com/v/25381854</link>
+            <guid>https://tv.naver.com/v/25381854</guid>
+            <pubDate>Mon, 28 Feb 2022 11:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_73/tHlYm_16460292776067iPDr_JPEG/1646029275580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV (Winter for Spring ver.)]]></title>
             <link>https://tv.naver.com/v/25378385</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_30/x8qFY_1642688098160Iklvk_JPEG/1642688081344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' MV Teaser #2]]></title>
-            <link>https://tv.naver.com/v/24699631</link>
-            <guid>https://tv.naver.com/v/24699631</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_294/60SlW_1642641067703IkV3b_JPEG/1642640930350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
