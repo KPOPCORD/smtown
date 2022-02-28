@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV (Winter for Spring ver.)]]></title>
+            <link>https://tv.naver.com/v/25378385</link>
+            <guid>https://tv.naver.com/v/25378385</guid>
+            <pubDate>Mon, 28 Feb 2022 09:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_230/2gsxK_1646018656438pD7wk_JPEG/1646018432648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI 카이 'Peaches (SUMIN Remix)' MV Teaser]]></title>
             <link>https://tv.naver.com/v/25323651</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_294/60SlW_1642641067703IkV3b_JPEG/1642640930350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎁Special gift from MAX CHANGMIN😈Ψ]]></title>
-            <link>https://tv.naver.com/v/24664993</link>
-            <guid>https://tv.naver.com/v/24664993</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_120/DcAnl_1642488728821yly5V_JPEG/1642485033259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

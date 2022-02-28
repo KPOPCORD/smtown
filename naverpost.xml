@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄이 왔다 전해 온,
+슈퍼주니어의 스페셜 'Callin’']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33353346&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33353346&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 28 Feb 2022 09:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[겨울동안 차갑게 얼어붙었던 우리의 심장을 녹여줄 슈퍼주니어가 스페셜 싱글 “The Road : Winter for Spring”으로 돌아왔습니다! 스페셜 활동으로 진행되는 “The Road : Winter for Spring&amp;rdquo···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjRfNTcg/MDAxNjQ1NzA0OTc2MTgy.taYuC6mkeDn1WUoG7--9hSy7axIxij4h1TG9Vu5-uEcg.kw4pCZR5VwZodNVo0kuT4m5cmnNBMwfVH-ed5LaJxsog.JPEG/IEbxL5Q4cT_IHEBOxg8kYlgAn5Z8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최강창민] 명화 그 자체]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33352171&amp;memberNo=41350603</link>
@@ -167,14 +176,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[2022년 새해가 밝았습니다!올해 SMTOWN의 시작을 연,아주 대-단한 그룹이 있다고 하죠? 이름부터 '갓'! 수식어가 필요 없는 'GOT the beat' 가 첫 싱글 'Step Back' 을 발매했습니다! 'Step Back' 무대는지난 1일, ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTU1/MDAxNjQxMTM3MTIyNTI5.P6aREhrmwfujEA3ZVVYV3RRluYunSNehInBPyU0OBbYg.M-3Q3K-fAsG6cpoO9A4MbA71NI_jgw6zyi7zxJqW6HQg.JPEG/IeJXB_jPv3QtMyPmLNzTwBbulEmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조준영]에 '해피 뉴 이어' 이건 못참지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33048507&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33048507&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 2022년 새해가 되었습니다! 새해맞이 많이 들으셨던 인사가 있을 텐데요!바로 &lt;해피 뉴 이어&gt;!이제는 인사뿐만이 아니라두 눈으로 직접 &lt;해피 뉴 이어&gt;를 볼 수 있다는데요. 얼마 전 종영한JTBC ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDFfMTUx/MDAxNjQxMDEzMDg2NDA3.HDPfKeyGNfq9PAVTwLT-KGGI_xHOarCvqaMnIYw1cfMg.CADbmMaBkBNAhNyfPLcU1DnBicb-9U0ShR6oG6hTPZQg.JPEG/ICvraT6IJr1AaGqIY2HmLYz1P7I8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
