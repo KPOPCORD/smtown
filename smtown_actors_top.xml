@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['군검사 도베르만' 조보아, 연기 변신 성공! 짜릿& 강렬한 첫인상]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6006</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6006</guid>
+            <pubDate>Wed, 02 Mar 2022 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">'군검사 도베르만' 조보아, 연기 변신 성공! 짜릿&amp; 강렬한 첫인상</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef7e91bc1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 박재민, 2일 tvN ‘유 퀴즈 온 더 블럭’ 동계 올림픽 특집 출연]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6004</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">배우 박재민, 2일 tvN ‘유 퀴즈 온 더 블럭’ 동계 올림픽 특집 출연</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621eb6e10658e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시우민, 뮤지컬 ‘하데스타운’ 6개월 대장정 마무리! 종연 소감 밝혀]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5999</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5999</guid>
-            <pubDate>Mon, 28 Feb 2022 06:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">시우민, 뮤지컬 ‘하데스타운’ 6개월 대장정 마무리! 종연 소감 밝혀</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c62022faef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
