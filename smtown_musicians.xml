@@ -4,9 +4,25 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 23:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼주니어, 3일 '엠카운트다운' 출격! 신곡 'Callin'' 무대 최초 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6013</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6013</guid>
+            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 3일 'Callin'' 첫 무대를 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201b882c3ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적 ‘음원퀸’! 태연 ‘INVU’ 음원 주간 차트도 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6010</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6010</guid>
+            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘INVU’(아이앤비유)로 주간 음원 차트 1위도 석권하며 롱런 인기를 이어가고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621f3e912a460.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보아 히트곡 ‘My Name’ 리마스터 뮤직비디오 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6008</link>
@@ -32,20 +48,20 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c6286ae4b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['28일 발매' 슈퍼주니어, 신곡 'Callin'' M/V 촬영장 인터뷰 공개…명불허전 티키타카 '훈훈']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5997</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5997</guid>
-            <pubDate>Mon, 28 Feb 2022 06:49:30 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 명불허전의 입담과 케미스트리로 신곡을 소개했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184cec9d8b1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 13년 만에 음악 방송 출연!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6012</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6012</guid>
+            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)이 13년 만에 음악 방송에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201b4657c28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5995</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5995</guid>
-            <pubDate>Fri, 25 Feb 2022 03:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[DJ 스트리밍 쇼 ‘SHOWME’(쇼미)의 8번째 공연 주자로 DJ 데미캣(Demicat)이 출격한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184c6717375.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[레드벨벳, 이번엔 ‘스프링 퀸’으로 변신 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6009</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6009</guid>
+            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범으로 올봄 가요계를 매료시킬 전망이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8e238b67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼주니어, 스페셜 싱글 'The Road : Winter for Spring' 발매 기념 라이브 성료…글로벌 팬 사로잡은 '소통王']]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Feb 2022 06:49:30 GMT</pubDate>
             <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 신곡 ‘INVU’(아이앤비유)로 인기 롱런 중이다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c6246caa99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 신곡 ‘긴 밤’ 라이브 영상 25일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5996</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5996</guid>
-            <pubDate>Mon, 28 Feb 2022 06:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[김민종(에스엠엔터테인먼트 소속)의 신곡 ‘긴 밤 (Endless Night)’ 라이브 영상이 25일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_62184ca1c436f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어, 규현·시원·려욱까지 9人 티저 공개 완료! 28일 스페셜 싱글 'Callin'' M/V 2종 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5994</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5994</guid>
-            <pubDate>Fri, 25 Feb 2022 03:43:58 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 규현, 시원, 려욱까지 개인 티저 공개를 완료했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6217046be92d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
