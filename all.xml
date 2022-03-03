@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -571,6 +571,16 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c64f2c5128.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슈퍼주니어의 17번째 봄! 
+'Callin’' MV 촬영 비하인드 
+Feat. 배경화면 (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33377981&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33377981&amp;memberNo=41350603</guid>
+            <pubDate>Thu, 03 Mar 2022 09:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼주니어가 지난 2월 28일,스페셜 싱글 "The Road : Winter for Spring"으로여러분 곁에 찾아왔습니다~! 전세계는 현재 'Callin’'주의보!슈퍼주니어의 아름다운 보컬,그리고 따스함 가득한 가사와 멜로디로모든 이···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDJfMjU2/MDAxNjQ2MTcwMjM4MjU1.8xpI6Uwnb8dUGE8jQCSDLV__GF-fZSQ-nSP_s7Bl784g.0FsNLtQvcmlxjCHIk5i2mw_T0SpaNb6fknuXSSkoMEog.JPEG/IlMrxXswYKZ3pTePQZleSNbVAFs8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄이 왔다 전해 온,
 슈퍼주니어의 스페셜 'Callin’' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33353346&amp;memberNo=41350603</link>
@@ -732,13 +742,14 @@ It’s my kind of love ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]><
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTE0/MDAxNjQxMjM3OTE5OTc5.RwyXdDLejHgUAvE3-UA49IwWIzQmQte2qq8dKV3c0jYg.Doro6FsSbfOYSJ40TSZBBBGnA34eu4Le5wIFUKSGwJIg.JPEG/I3GUvkd_S0vsvqYpMXxZdjBV2Msg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[존재 자체부터 '갓' ⭐ 
-GOT the beat의 'Step Back' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33053413&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33053413&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해가 밝았습니다!올해 SMTOWN의 시작을 연,아주 대-단한 그룹이 있다고 하죠? 이름부터 '갓'! 수식어가 필요 없는 'GOT the beat' 가 첫 싱글 'Step Back' 을 발매했습니다! 'Step Back' 무대는지난 1일, ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTU1/MDAxNjQxMTM3MTIyNTI5.P6aREhrmwfujEA3ZVVYV3RRluYunSNehInBPyU0OBbYg.M-3Q3K-fAsG6cpoO9A4MbA71NI_jgw6zyi7zxJqW6HQg.JPEG/IeJXB_jPv3QtMyPmLNzTwBbulEmk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <title><![CDATA[슈퍼주니어의 17번째 봄! 
+'Callin’' MV 촬영 비하인드 
+Feat. 배경화면 (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33377981&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33377981&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Thu, 03 Mar 2022 09:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDJfMjU2/MDAxNjQ2MTcwMjM4MjU1.8xpI6Uwnb8dUGE8jQCSDLV__GF-fZSQ-nSP_s7Bl784g.0FsNLtQvcmlxjCHIk5i2mw_T0SpaNb6fknuXSSkoMEog.JPEG/IlMrxXswYKZ3pTePQZleSNbVAFs8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄이 왔다 전해 온,
@@ -902,15 +913,6 @@ GOT the beat의 'Step Back' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Tue, 28 Dec 2021 03:47:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjQz/MDAxNjQwNjUzNDc1Mjkw.tRx-5mSVlwCQWsLY0j-vQMVdWlaWGLhHSH0P3zt6C_Ig.GjcWaeTZOvamyQla8gJyAKujCGIZEin4pW0iipZ2JNwg.JPEG/I5fJcMZRHY94Hiif50xRWHQ_yZ-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 빛..✨ 
-'2021 Winter SMTOWN : SMCU EXPRESS' 발매! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33014462&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Dec 2021 09:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjZfODkg/MDAxNjQwNTI1NTcyMDQx.IGVyzunBUPT3-_o38vvTFxHuHvoF8xEm_G0RE0I808Eg.GpwXD5sHpz1qLeRipfuGD4daUAUnfnq0ouv3qdob_ekg.JPEG/IFgsSqMwL5gDkAyczmoTwKxcMSEE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤ (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
