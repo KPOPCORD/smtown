@@ -4,9 +4,57 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 06:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS2 ‘현재는 아름다워’ 배다빈, 다채롭고 꾸준한 필모그래피 ‘재조명’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6016</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6016</guid>
+            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 배다빈의 무서운 성장세가 이목을 끌고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b094e21ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['군검사 도베르만' 조보아, 연기 변신 성공! 짜릿& 강렬한 첫인상]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6006</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6006</guid>
+            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[‘군검사 도베르만’ 조보아가 화끈한 연기 변신으로 첫 회부터 강렬한 인상을 남겼다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef7e91bc1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시우민, 뮤지컬 ‘하데스타운’ 6개월 대장정 마무리! 종연 소감 밝혀]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5999</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5999</guid>
+            <pubDate>Wed, 02 Mar 2022 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 시우민(에스엠엔터테인먼트 소속)이 뮤지컬 ‘하데스타운’의 종연 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c62022faef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨이브 오리지널 ‘트레이서’ 고아성, 더욱 강해진 추리력으로 돌아온다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5988</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5988</guid>
+            <pubDate>Mon, 28 Feb 2022 06:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[웨이브 오리지널 ‘트레이서’(각본 김현정 / 감독 이승영) 고아성이 더욱 강력해져서 돌아온다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621700424eb2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5980</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
+            <pubDate>Thu, 24 Feb 2022 04:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 도영(에스엠엔터테인먼트 소속)이 연기 도전을 이어간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키이스트, 권지우와 전속계약 체결!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6011</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6011</guid>
+            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 권영찬이 권지우로 활동명을 변경하고 종합 엔터테인먼트그룹 키이스트와 전속계약을 체결했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201aff8b4cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 박재민, 2일 tvN ‘유 퀴즈 온 더 블럭’ 동계 올림픽 특집 출연]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6004</link>
@@ -38,54 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 04:50:15 GMT</pubDate>
             <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 남다른 감각으로 ‘어나더 클래스’를 입증했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314356ffea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘, 반박 불가 패셔니스타!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5970</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5970</guid>
-            <pubDate>Mon, 21 Feb 2022 04:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이동휘가 반박 불가 패셔니스타의 면모를 뽐냈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11815c5c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시우민, 뮤지컬 ‘하데스타운’ 6개월 대장정 마무리! 종연 소감 밝혀]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5999</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5999</guid>
-            <pubDate>Wed, 02 Mar 2022 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 시우민(에스엠엔터테인먼트 소속)이 뮤지컬 ‘하데스타운’의 종연 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c62022faef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 오리지널 ‘트레이서’ 고아성, 더욱 강해진 추리력으로 돌아온다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5988</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5988</guid>
-            <pubDate>Mon, 28 Feb 2022 06:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[웨이브 오리지널 ‘트레이서’(각본 김현정 / 감독 이승영) 고아성이 더욱 강력해져서 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621700424eb2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5980</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 도영(에스엠엔터테인먼트 소속)이 연기 도전을 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연,]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5971</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5971</guid>
-            <pubDate>Mon, 21 Feb 2022 04:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박정연이 교복을 입고 청초한 비주얼을 뽐내 눈길을 끈다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620f11b961506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 김준형, 티빙 오리지널]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5962</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5962</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[신예 배우 김준형이 티빙 오리지널 ‘아직 최선을 다하지 않았을 뿐’에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_620c64f2c5128.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
