@@ -4,9 +4,18 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너만 사랑할게"…슈퍼주니어, 감미롭고 아름다운 러브송 'Callin'’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6022</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6022</guid>
+            <pubDate>Mon, 07 Mar 2022 03:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="name"></span>
+                                        <span class="title">"너만 사랑할게"…슈퍼주니어, 감미롭고 아름다운 러브송 'Callin'’</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_622574d20fad3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['음중' 슈퍼주니어, 봄과 함께 돌아온 따뜻하고 촉촉한 감성 보컬 'Callin'']]></title>
             <link>https://www.smtown.com/artist/newsDetail/6021</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[<span class="name"></span>
                                         <span class="title">'음중' 슈퍼주니어, 봄과 함께 돌아온 따뜻하고 촉촉한 감성 보컬 'Callin''</span>]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6225745d027a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘SHOWME’ 9번째 공연, DJ 코커(co.kr) 공연 4일 오후 9시 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6020</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6020</guid>
-            <pubDate>Fri, 04 Mar 2022 06:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">‘SHOWME’ 9번째 공연, DJ 코커(co.kr) 공연 4일 오후 9시 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b618c702d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
