@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 01:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:58:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘엠카’ 슈퍼주니어, 1년 만 컴백…‘Callin’' 무대 음방 최초 공개]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6017</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6017</guid>
+            <pubDate>Mon, 07 Mar 2022 02:56:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘K-POP 레전드’ 슈퍼주니어가 감미로운 목소리와 성숙한 감성으로 컴백했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b0e5ef847.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘믿듣탱’ 파워! 태연 ‘INVU’, 가온차트 2주 연속 2관왕!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6014</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6014</guid>
+            <pubDate>Fri, 04 Mar 2022 06:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 2주 연속 가온차트 2관왕에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201bb800377.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 13년 만에 음악 방송 출연!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6012</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6012</guid>
+            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)이 13년 만에 음악 방송에 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201b4657c28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드벨벳, 이번엔 ‘스프링 퀸’으로 변신 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6009</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6009</guid>
+            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범으로 올봄 가요계를 매료시킬 전망이다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8e238b67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어, 스페셜 싱글 'The Road : Winter for Spring' 발매 기념 라이브 성료…글로벌 팬 사로잡은 '소통王']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6007</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6007</guid>
+            <pubDate>Wed, 02 Mar 2022 05:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 슈퍼주니어가 컴백을 기념해 팬들과 유쾌한 소통을 나눴다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8216543f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘3관왕’ 에스파, 한국대중음악상 역대 수상 걸그룹 중 최다관왕!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6015</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 05:40:15 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼주니어가 컴백 당일부터 'K-POP 레전드'의 저력을 드러냈다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621eb65a7c4eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘믿듣탱’ 파워! 태연 ‘INVU’, 가온차트 2주 연속 2관왕!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6014</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6014</guid>
-            <pubDate>Fri, 04 Mar 2022 06:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 2주 연속 가온차트 2관왕에 올랐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201bb800377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 13년 만에 음악 방송 출연!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6012</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6012</guid>
-            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)이 13년 만에 음악 방송에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201b4657c28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳, 이번엔 ‘스프링 퀸’으로 변신 예고!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6009</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6009</guid>
-            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범으로 올봄 가요계를 매료시킬 전망이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8e238b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어, 스페셜 싱글 'The Road : Winter for Spring' 발매 기념 라이브 성료…글로벌 팬 사로잡은 '소통王']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6007</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6007</guid>
-            <pubDate>Wed, 02 Mar 2022 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈퍼주니어가 컴백을 기념해 팬들과 유쾌한 소통을 나눴다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8216543f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘K팝 최강자’ 출격! NCT DREAM, 정규 2집 ‘Glitch Mode’ 3월 28일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6002</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6002</guid>
-            <pubDate>Wed, 02 Mar 2022 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM(엔시티 드림, 에스엠엔터테인먼트 소속)이 정규 2집으로 전격 컴백, 올해도 거침없는 인기 질주를 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c630a7e4db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
