@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조보아, ‘모범납세자’ 대통령 표창 수상! 2022년 국세청 홍보대사 선정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6019</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6019</guid>
+            <pubDate>Mon, 07 Mar 2022 06:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조보아가 제56회 '납세자의 날'에 모범납세자로 대통령 표창을 수상하며 2022년 국세청 홍보대사로 선정됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b59216b32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS2 ‘현재는 아름다워’ 배다빈, 다채롭고 꾸준한 필모그래피 ‘재조명’]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6016</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621700424eb2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 도영, 티빙 오리지널 ‘나를 사랑하지 않는 X에게’ 캐스팅! 6월 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5980</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5980</guid>
-            <pubDate>Thu, 24 Feb 2022 04:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 도영(에스엠엔터테인먼트 소속)이 연기 도전을 이어간다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314a00d0e0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박하선, 키이스트와 두 번째 재계약 체결… '든든한 파트너’ 동행]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6018</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6018</guid>
+            <pubDate>Mon, 07 Mar 2022 06:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박하선이 종합 엔터테인먼트 그룹 키이스트와 두 번째 재계약을 체결하며 인연을 이어간다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b54610738.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키이스트, 권지우와 전속계약 체결!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 04:50:49 GMT</pubDate>
             <content:encoded><![CDATA[‘꽃 피면 달 생각하고’ 정성일이 마지막까지 날카로운 존재감을 과시했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_6215ae5c9a344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임윤아, 패션 매거진 커버 장식! 올해만 벌써 두 번째 ‘어나더 클래스’ 입증]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5979</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5979</guid>
-            <pubDate>Wed, 23 Feb 2022 04:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[임윤아(소녀시대 윤아, 에스엠엔터테인먼트 소속)가 남다른 감각으로 ‘어나더 클래스’를 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621314356ffea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너만 사랑할게"…슈퍼주니어, 감미롭고 아름다운 러브송 'Callin'’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6022</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6022</guid>
+            <pubDate>Mon, 07 Mar 2022 06:49:37 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 감성 보컬로 봄을 소환했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_622574d20fad3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘SHOWME’ 9번째 공연, DJ 코커(co.kr) 공연 4일 오후 9시 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6020</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621f3e912a460.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보아 히트곡 ‘My Name’ 리마스터 뮤직비디오 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6008</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6008</guid>
-            <pubDate>Wed, 02 Mar 2022 10:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘아시아의 별’ 보아(BoA, 에스엠엔터테인먼트 소속)의 히트곡 ‘My Name’(마이 네임) 리마스터 뮤직비디오가 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef884a95e2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['음중' 슈퍼주니어, 봄과 함께 돌아온 따뜻하고 촉촉한 감성 보컬 'Callin'']]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6021</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6021</guid>
+            <pubDate>Mon, 07 Mar 2022 06:49:37 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 감미로운 목소리로 돌아왔다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6225745d027a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘엠카’ 슈퍼주니어, 1년 만 컴백…‘Callin’' 무대 음방 최초 공개]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
             <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 새 미니앨범으로 올봄 가요계를 매료시킬 전망이다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8e238b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼주니어, 스페셜 싱글 'The Road : Winter for Spring' 발매 기념 라이브 성료…글로벌 팬 사로잡은 '소통王']]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6007</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6007</guid>
-            <pubDate>Wed, 02 Mar 2022 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈퍼주니어가 컴백을 기념해 팬들과 유쾌한 소통을 나눴다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef8216543f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
