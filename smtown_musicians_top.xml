@@ -4,26 +4,26 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 02:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NCT DREAM, 정규 2집 발매 기념 온라인 공연 ‘DREAM STAGE’ 4월 5일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6027</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6027</guid>
-            <pubDate>Mon, 07 Mar 2022 06:49:26 GMT</pubDate>
+            <title><![CDATA[레드벨벳 새 미니앨범 ‘Feel My Rhythm’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6031</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6031</guid>
+            <pubDate>Tue, 08 Mar 2022 03:44:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">NCT DREAM, 정규 2집 발매 기념 온라인 공연 ‘DREAM STAGE’ 4월 5일 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6225a01320b75.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">레드벨벳 새 미니앨범 ‘Feel My Rhythm’ 티저 이미지 공개 화제!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6226cc751aeb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레드벨벳, 2022년 봄 새롭게 펼치는 ‘The ReVe Festival’!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6026</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6026</guid>
-            <pubDate>Mon, 07 Mar 2022 06:49:26 GMT</pubDate>
+            <title><![CDATA[NCT DREAM, 힐링 예능 콘텐츠 ‘7llin’ in our Youth’ 11일 오후 8시 첫 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6030</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6030</guid>
+            <pubDate>Tue, 08 Mar 2022 03:44:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">레드벨벳, 2022년 봄 새롭게 펼치는 ‘The ReVe Festival’!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62259fd72aeaf.jpg" length="0" type="image/jpg"/>
+                                        <span class="title">NCT DREAM, 힐링 예능 콘텐츠 ‘7llin’ in our Youth’ 11일 오후 8시 첫 공개!</span>]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6226cc28725f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
