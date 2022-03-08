@@ -4,9 +4,49 @@
         <title>SMTOWN ─ Actors News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘아직 최선을 다하지 않았을 뿐’ 박정연,]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6025</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6025</guid>
+            <pubDate>Tue, 08 Mar 2022 09:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[매 작품 극의 활력을 불어넣으며 주목받고 있는 신예 박정연의 캐릭터 변신이 눈길을 끈다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62259f6246bcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조보아, ‘모범납세자’ 대통령 표창 수상! 2022년 국세청 홍보대사 선정]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6019</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6019</guid>
+            <pubDate>Mon, 07 Mar 2022 06:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조보아가 제56회 '납세자의 날'에 모범납세자로 대통령 표창을 수상하며 2022년 국세청 홍보대사로 선정됐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b59216b32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS2 ‘현재는 아름다워’ 배다빈, 다채롭고 꾸준한 필모그래피 ‘재조명’]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6016</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6016</guid>
+            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[배우 배다빈의 무서운 성장세가 이목을 끌고 있다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b094e21ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['군검사 도베르만' 조보아, 연기 변신 성공! 짜릿& 강렬한 첫인상]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6006</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6006</guid>
+            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[‘군검사 도베르만’ 조보아가 화끈한 연기 변신으로 첫 회부터 강렬한 인상을 남겼다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef7e91bc1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시우민, 뮤지컬 ‘하데스타운’ 6개월 대장정 마무리! 종연 소감 밝혀]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5999</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5999</guid>
+            <pubDate>Wed, 02 Mar 2022 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[엑소 시우민(에스엠엔터테인먼트 소속)이 뮤지컬 ‘하데스타운’의 종연 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c62022faef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘며느라기2…ing’ 박하선, 시청자들 사로잡는 우먼 파워 캐릭터의 대명사]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6024</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 01:57:46 GMT</pubDate>
             <content:encoded><![CDATA[배우 우도환이 화보를 통해 여심을 저격했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621700a8d6357.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조보아, ‘모범납세자’ 대통령 표창 수상! 2022년 국세청 홍보대사 선정]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6019</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6019</guid>
-            <pubDate>Mon, 07 Mar 2022 06:49:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조보아가 제56회 '납세자의 날'에 모범납세자로 대통령 표창을 수상하며 2022년 국세청 홍보대사로 선정됐다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b59216b32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS2 ‘현재는 아름다워’ 배다빈, 다채롭고 꾸준한 필모그래피 ‘재조명’]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6016</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6016</guid>
-            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 배다빈의 무서운 성장세가 이목을 끌고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6221b094e21ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['군검사 도베르만' 조보아, 연기 변신 성공! 짜릿& 강렬한 첫인상]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6006</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6006</guid>
-            <pubDate>Fri, 04 Mar 2022 06:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[‘군검사 도베르만’ 조보아가 화끈한 연기 변신으로 첫 회부터 강렬한 인상을 남겼다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_621ef7e91bc1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시우민, 뮤지컬 ‘하데스타운’ 6개월 대장정 마무리! 종연 소감 밝혀]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5999</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5999</guid>
-            <pubDate>Wed, 02 Mar 2022 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[엑소 시우민(에스엠엔터테인먼트 소속)이 뮤지컬 ‘하데스타운’의 종연 소감을 전했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621c62022faef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 오리지널 ‘트레이서’ 고아성, 더욱 강해진 추리력으로 돌아온다!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5988</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5988</guid>
-            <pubDate>Mon, 28 Feb 2022 06:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[웨이브 오리지널 ‘트레이서’(각본 김현정 / 감독 이승영) 고아성이 더욱 강력해져서 돌아온다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202202/star_621700424eb2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
