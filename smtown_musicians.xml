@@ -4,9 +4,17 @@
         <title>SMTOWN ─ Musicians News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 03:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 04:52:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레드벨벳 새 미니앨범 ‘Feel My Rhythm’ 티저 이미지 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6031</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6031</guid>
+            <pubDate>Thu, 10 Mar 2022 04:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet, 에스엠엔터테인먼트 소속)이 사랑스러운 비주얼로 이목을 집중시켰다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6226cc751aeb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM, 정규 2집 발매 기념 온라인 공연 ‘DREAM STAGE’ 4월 5일 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/6027</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201bf5c9da7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼주니어, 3일 '엠카운트다운' 출격! 신곡 'Callin'' 무대 최초 공개]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6013</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6013</guid>
-            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
-            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 3일 'Callin'' 첫 무대를 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201b882c3ba.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT DREAM, 힐링 예능 콘텐츠 ‘7llin’ in our Youth’ 11일 오후 8시 첫 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/6030</link>
+            <guid>https://www.smtown.com/artist/newsDetail/6030</guid>
+            <pubDate>Thu, 10 Mar 2022 04:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM(엔시티 드림, 에스엠엔터테인먼트 소속)의 힐링 예능 콘텐츠 ‘7llin’ in our Youth’(칠링 인 아워 유스)가 오는 11일 첫 공개된다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6226cc28725f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드벨벳, 2022년 봄 새롭게 펼치는 ‘The ReVe Festival’!]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 06:49:48 GMT</pubDate>
             <content:encoded><![CDATA[‘믿고 듣는 보컬퀸’ 소녀시대 태연(에스엠엔터테인먼트 소속)이 정규 3집 ‘INVU’(아이앤비유)로 2주 연속 가온차트 2관왕에 올랐다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201bb800377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가수 데뷔 30주년’ 김민종, 13년 만에 음악 방송 출연!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6012</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6012</guid>
-            <pubDate>Thu, 03 Mar 2022 01:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘원조 감성 발라더’ 김민종(에스엠엔터테인먼트 소속)이 13년 만에 음악 방송에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_62201b4657c28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
