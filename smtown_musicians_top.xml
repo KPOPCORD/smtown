@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>SMTOWN ─ Musicians News</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:43:37 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[레드벨벳, 봄 감성 자극하는 타이틀 곡 ‘Feel My Rhythm’으로 컴백!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6038</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6038</guid>
-            <pubDate>Thu, 10 Mar 2022 04:50:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">레드벨벳, 봄 감성 자극하는 타이틀 곡 ‘Feel My Rhythm’으로 컴백!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6229786b725d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.E.S. 데뷔곡 ‘I’m Your Girl’ 리마스터 뮤직비디오 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/6037</link>
-            <guid>https://www.smtown.com/artist/newsDetail/6037</guid>
-            <pubDate>Thu, 10 Mar 2022 04:50:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="name"></span>
-                                        <span class="title">S.E.S. 데뷔곡 ‘I’m Your Girl’ 리마스터 뮤직비디오 공개!</span>]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202203/star_6229781c1c9bc.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.smtown.com/artist/news/1</id>
+    <title>SMTOWN ─ Musicians News</title>
+    <updated>2022-03-11T06:51:04.906Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.smtown.com/resources/images/favicon/android-icon-192x192.png</icon>
+</feed>
