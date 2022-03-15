@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 14:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 15:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Glitch Mode' CBT (Closed Beta Test) Ver.1]]></title>
+            <link>https://tv.naver.com/v/25664424</link>
+            <guid>https://tv.naver.com/v/25664424</guid>
+            <pubDate>Tue, 15 Mar 2022 15:45:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_29/vOHSi_1647355967848WoOky_JPEG/1647355959834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU' Dance Practice]]></title>
             <link>https://tv.naver.com/v/25510946</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[15:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_167/UWsna_1643337345599cc4or_JPEG/1643337338275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT MARK Solo Performance Practice (Gaon ver.)]]></title>
-            <link>https://tv.naver.com/v/24836957</link>
-            <guid>https://tv.naver.com/v/24836957</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_112/ffkXS_1643291384822RJU7F_JPEG/1643291373316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
