@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 08:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 09:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1009,6 +1009,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[STATION : NCT LAB] NCT U 엔시티 유 'coNEXTion (Age of Light)' Performance Video Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25736419</link>
+            <guid>https://tv.naver.com/v/25736419</guid>
+            <pubDate>Sat, 19 Mar 2022 09:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_268/5nchE_1647662909365SyaHy_PNG/1647662892684.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25711850</link>
             <guid>https://tv.naver.com/v/25711850</guid>
@@ -1239,14 +1247,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_57/9Je3j_16438057730249oD1U_JPEG/1643805754949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KYUHYUN 규현 '연애소설 (Love Story)' Live Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24853877</link>
-            <guid>https://tv.naver.com/v/24853877</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_240/RA5VW_1643378943384TBLXO_JPEG/1643378929401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
