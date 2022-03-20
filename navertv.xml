@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 08:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 09:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[STATION : NCT LAB] NCT U 엔시티 유 'coNEXTion (Age of Light)' Performance Video]]></title>
+            <link>https://tv.naver.com/v/25742410</link>
+            <guid>https://tv.naver.com/v/25742410</guid>
+            <pubDate>Sun, 20 Mar 2022 09:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_88/TXDqr_1647695471833pwL9x_JPEG/1647695456708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[STATION : NCT LAB] NCT U 엔시티 유 'coNEXTion (Age of Light)' Performance Video Teaser]]></title>
             <link>https://tv.naver.com/v/25736419</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_11/OM5hK_1643810224301K8HIp_JPEG/1643810218485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION : NCTLAB] MARK 마크 'Child' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/24899838</link>
-            <guid>https://tv.naver.com/v/24899838</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_57/9Je3j_16438057730249oD1U_JPEG/1643805754949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
