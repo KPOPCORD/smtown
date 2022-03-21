@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 레드벨벳의 음악 축제에서 'Feel My Rhythm'! (Feat.이벤트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33482100&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33482100&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 21 Mar 2022 06:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjFfMjI2/MDAxNjQ3ODM5Njk3NjU5.7nF48AmbV31syDMNy2ul3iqEU36SHiGfpjywEQGNBeog.a_A0ORMbhJOkwHPOPvh7RuEASYy9CLN7suolt8HTQJkg.JPEG/I3hB_pxzSsJSFqGMDv6Y9mZuTfLU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼주니어의 17번째 봄! 
 'Callin’' MV 촬영 비하인드 
@@ -169,16 +177,6 @@ GOT the beat의 'Step Back']]></title>
             <pubDate>Sun, 02 Jan 2022 03:01:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDFfMTUx/MDAxNjQxMDEzMDg2NDA3.HDPfKeyGNfq9PAVTwLT-KGGI_xHOarCvqaMnIYw1cfMg.CADbmMaBkBNAhNyfPLcU1DnBicb-9U0ShR6oG6hTPZQg.JPEG/ICvraT6IJr1AaGqIY2HmLYz1P7I8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[민호]
-단독 팬미팅 비하인드!
-베스트 초이스 컷 모아보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33022334&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33022334&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Dec 2021 03:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjhfMjQz/MDAxNjQwNjUzNDc1Mjkw.tRx-5mSVlwCQWsLY0j-vQMVdWlaWGLhHSH0P3zt6C_Ig.GjcWaeTZOvamyQla8gJyAKujCGIZEin4pW0iipZ2JNwg.JPEG/I5fJcMZRHY94Hiif50xRWHQ_yZ-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
