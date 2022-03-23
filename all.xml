@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 14:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 15:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1008,6 +1008,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 'Glitch Mode' CBT (Closed Beta Test) Ver.2 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25813440</link>
+            <guid>https://tv.naver.com/v/25813440</guid>
+            <pubDate>Wed, 23 Mar 2022 15:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_27/sL2yK_16480325540521u3nN_JPEG/1648032548427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' Performance Video (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25810869</link>
             <guid>https://tv.naver.com/v/25810869</guid>
@@ -1238,14 +1246,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_252/38i0e_16443970351463Fpff_JPEG/1644397024401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GOT the beat 'Step Back' Dance Practice (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/24966183</link>
-            <guid>https://tv.naver.com/v/24966183</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220206_98/9PgBQ_1644146229332WK1X7_JPEG/1644146211324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
