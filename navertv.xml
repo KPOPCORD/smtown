@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 08:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' Performance Video]]></title>
+            <link>https://tv.naver.com/v/25810869</link>
+            <guid>https://tv.naver.com/v/25810869</guid>
+            <pubDate>Wed, 23 Mar 2022 09:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_58/vQayz_1648025078136jq0jD_JPEG/1648024486925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' MV]]></title>
             <link>https://tv.naver.com/v/25769281</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220206_98/9PgBQ_1644146229332WK1X7_JPEG/1644146211324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION : NCT LAB] MARK 마크 'Child' MV]]></title>
-            <link>https://tv.naver.com/v/24932280</link>
-            <guid>https://tv.naver.com/v/24932280</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_284/MWR93_1643943016930P7FAb_JPEG/1643941988790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
