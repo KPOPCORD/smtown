@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 06:51:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] NCT DREAM에 빠져 버 버퍼링이야 난 'Glitch Mode']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33512565&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33512565&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 28 Mar 2022 06:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[. | ╱ ╲|╱ ./ ╲ NCT DREAM님이 ╱ ╲ Glitch Mode에 ╱ -- 접속하셨습니다 ! -- ╱   ╲ ╱/ . ╱╲ /| .바로 오늘 18시 NCT DREAM이 정규 2집 'Glit···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjVfMjg2/MDAxNjQ4MjEyNDQ1MTI0.0QyXmM7LqfhhbJZ7Ej3zjN3fz78eWYp3lxlrL3tT44cg.RGuuEkxFt05kC_6Y-tPR1SRpDxB3O3B7nKdY8e4cy08g.JPEG/Ic0ZHIJYgClswB2KQwujqfXF-6AA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 레드벨벳의 음악 축제에서 'Feel My Rhythm'! (Feat.이벤트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33482100&amp;memberNo=41350603</link>
@@ -168,14 +176,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[강타의 새 싱글 'Slow Dance'가 공개되었습니다! 데뷔 25주년 프로젝트의 마지막을 장식할 싱글인데요~ 추운 겨울에 듣기 좋은 이 곡, 강타의 소개와 함께 지금 바로 만나봐요!Slow Dance몽환적인 기타 사운드와 감···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjIg/MDAxNjQxNTIzNjg1Mzky.l10Ok4aCWWpfWczD_LCBM2zQNab4WrWqTg3ysu93VyAg.2Sm9vjuvoI2K4yA_WzqQHoa5RPHr3iVEvjHUipVDK_Qg.JPEG/IArBx1HCVF-lGtjqCJFCdEM8s_Os.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hitchhiker, 가상의 아티스트 3RD와 'Alone' 공개!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33080261&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33080261&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[늘 신선한 도전으로 즐거움을 선물하는'Hitchhiker'! 'Hitchhiker'가 가상의 아티스트 '3RD'와싱글 'Alone'을 발표했습니다. Hitchhiker X 3RD 'Alone'   Alone : 이 세상에 혼자 남겨진다면? 'Alone'은 쓸···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfNTUg/MDAxNjQxNTM2NzgzMTQ3.FztaGnt_t-s3pI8KTApVALGit9rlUzm0vNd5itdr7BYg.xx51k9AIBMLY7LVLOHzJW8Trb5iz0BrlvmPHeiCKJHwg.JPEG/IZW3ekeP19uIOAAi6sVyFICSJSyU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
