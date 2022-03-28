@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1032,6 +1032,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_182/2xfa9_1648198647556Ob8g3_JPEG/1648198637061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[UV X 최시원 (SIWON) '내 낡은 자전거 (Riding)' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25855421</link>
+            <guid>https://tv.naver.com/v/25855421</guid>
+            <pubDate>Mon, 28 Mar 2022 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_194/xi0L2_1648197305010gXUja_JPEG/1648197297776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT DREAM 엔시티 드림 'Glitch Mode' CBT (Closed Beta Test) Ver.2 (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25813440</link>
             <guid>https://tv.naver.com/v/25813440</guid>
@@ -1238,14 +1246,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_7/np7qg_1644553422571mzQzS_JPEG/1644553415001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #4 Siren (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/25059559</link>
-            <guid>https://tv.naver.com/v/25059559</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_191/OVKOi_1644501274633bUJYF_JPEG/1644501271358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
