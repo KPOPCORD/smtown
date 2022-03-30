@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 10:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 11:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1010,6 +1010,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' @DREAM STAGE : GLITCH MODE (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25941971</link>
+            <guid>https://tv.naver.com/v/25941971</guid>
+            <pubDate>Wed, 30 Mar 2022 11:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_272/Rkvrf_1648637754813hinME_JPEG/1648637752014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[UV X 최시원 (SIWON) '내 낡은 자전거 (Riding)' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25931410</link>
             <guid>https://tv.naver.com/v/25931410</guid>
@@ -1240,14 +1248,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220212_35/l0At5_1644637000024gem4C_JPEG/1644636994244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #10 Ending Credits (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/25080971</link>
-            <guid>https://tv.naver.com/v/25080971</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_37/TsCmV_1644586164759yYATc_JPEG/1644586128079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
