@@ -4,7 +4,7 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,16 @@
             <pubDate>Mon, 28 Mar 2022 06:51:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjVfMjg2/MDAxNjQ4MjEyNDQ1MTI0.0QyXmM7LqfhhbJZ7Ej3zjN3fz78eWYp3lxlrL3tT44cg.RGuuEkxFt05kC_6Y-tPR1SRpDxB3O3B7nKdY8e4cy08g.JPEG/Ic0ZHIJYgClswB2KQwujqfXF-6AA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 최시원과 UV의 
+특급 만남!‍🚴‍♂️
+'내 낡은 자전거 (Riding)']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33503850&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33503850&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 30 Mar 2022 09:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjRfMjg1/MDAxNjQ4MDQ4MDc4OTgz.YwGcCIrwsJdM_lk3lEXPgercq9qPMplGByegTLzfmJkg.h4tOTB4WIH9jpcN1tx3rq-G-N3RARpn3IAPFnrQQ4Tsg.JPEG/Ir8wZTRMpzEBwFDl_K_AczMLWCiI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 레드벨벳의 음악 축제에서 'Feel My Rhythm'! (Feat.이벤트)]]></title>
@@ -168,15 +178,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Wed, 12 Jan 2022 09:47:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjIg/MDAxNjQxNTIzNjg1Mzky.l10Ok4aCWWpfWczD_LCBM2zQNab4WrWqTg3ysu93VyAg.2Sm9vjuvoI2K4yA_WzqQHoa5RPHr3iVEvjHUipVDK_Qg.JPEG/IArBx1HCVF-lGtjqCJFCdEM8s_Os.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재 자체부터 '갓' ⭐ 
-GOT the beat의 'Step Back']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33053413&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33053413&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 03 Jan 2022 09:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTU1/MDAxNjQxMTM3MTIyNTI5.P6aREhrmwfujEA3ZVVYV3RRluYunSNehInBPyU0OBbYg.M-3Q3K-fAsG6cpoO9A4MbA71NI_jgw6zyi7zxJqW6HQg.JPEG/IeJXB_jPv3QtMyPmLNzTwBbulEmk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
