@@ -4,9 +4,25 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 14:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 15:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONEW 온유 'DICE' Highlight Clip #1 여우비 (Yeowoobi)]]></title>
+            <link>https://tv.naver.com/v/25968205</link>
+            <guid>https://tv.naver.com/v/25968205</guid>
+            <pubDate>Thu, 31 Mar 2022 15:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_85/2kE00_1648740863584Nbqnw_JPEG/1648740848433.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUHO 수호 'Grey Suit' MV Teaser #1]]></title>
+            <link>https://tv.naver.com/v/25967397</link>
+            <guid>https://tv.naver.com/v/25967397</guid>
+            <pubDate>Thu, 31 Mar 2022 15:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_3/9kycl_1648736847025p62G0_JPEG/1648736831549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' Dance Practice]]></title>
             <link>https://tv.naver.com/v/25942974</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220214_130/BzpcN_164482000577590k15_JPEG/1644819994417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/25090140</link>
-            <guid>https://tv.naver.com/v/25090140</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_208/lv9u3_1644651348460rrqWM_JPEG/1644651235808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Clip #9 품 (Heart)]]></title>
-            <link>https://tv.naver.com/v/25087779</link>
-            <guid>https://tv.naver.com/v/25087779</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220212_90/LRXtz_1644637090085SuAoK_JPEG/1644637081161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
