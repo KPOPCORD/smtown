@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 02:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[레드벨벳] 해가 떠올 때까지♥ 보고 싶은 'Feel My Rhythm']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603</guid>
+            <pubDate>Fri, 01 Apr 2022 04:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 봄과 함께 ♥스프링 퀸♥으로 돌아온 레드벨벳!3월 21일 발매된 미니앨범 'The ReVe Festival 2022 - Feel My Rhythm'반응이 너무 핫해서 벌써 여름이 왔나 싶었어요~ 동영상  버튼을 누르면 현재 화면에서 재···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMjgw/MDAxNjQ4Nzc3MjcyODc3.j_I7DU3vtRt4Qo-nv0i9GRQwAVzMA7GK8mzy2HhVLbwg.fGxp8iETUb84PCpN6RzfnTCO_y1bxpkrx04PEfTFAPsg.JPEG/IOf62T6qs4yUOVTh7TQR-jnwOIIU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 'Grey Suit' D-4! 수호를 떠올릴 시간 ⏰]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535876&amp;memberNo=41350603</link>
@@ -168,15 +176,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
             <content:encoded><![CDATA[우리 매력 공장장 박수영 배우가3년 만에 안방극장에 컴백해서  매주 월, 화요일 11시우리의 마음을 따뜻하게 만드는 JTBC 월화드라마 &lt;한 사람만&gt;모두 시청하고 계시겠죠? 사진 출처: 키이스트, JTBC 스튜디···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMjU5/MDAxNjQyNDAyNTU4MDU5.CK0IU_Cv_5wbxc_F8s4ivoZROuRe2lsFYSs55Jp0MRog.6iIk08DaDjNAP0mLlkDiLjNvqHxxOhgF04pk3KrkL10g.JPEG/IK3ikC2CnzM0kh_J8lalrNpHGcSg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리킹 태연을 향한 사랑,
-‘Can’t Control Myself’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33125775&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33125775&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[1월 17일 오후 6시,태연의 신곡 ‘Can’t Control Myself’가공개되었습니다! ★ 킹 태 연 ★☆ 컴 백 ☆ 지난해 우리의 여름을 더 싱그럽게채워준 싱글 ‘Weekend’ 이후 많은 분들이 기다려 주신 컴백 소식인데요.이번 컴백···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTc5/MDAxNjQyMDg4Nzc5NjQ4.1rz3M-X2WaGQhHFz5d6z2nhDMoMImSMwJIH5xooYmsEg.hvWuaK7tevebCTYIRuOjc8_TfcN-5ae-HGY7553FbsYg.JPEG/IpruyA0VAirQT-QKLFRNHu8Yfqvs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 02:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[레드벨벳] 해가 떠올 때까지♥ 보고 싶은 'Feel My Rhythm']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 01 Apr 2022 04:01:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMjgw/MDAxNjQ4Nzc3MjcyODc3.j_I7DU3vtRt4Qo-nv0i9GRQwAVzMA7GK8mzy2HhVLbwg.fGxp8iETUb84PCpN6RzfnTCO_y1bxpkrx04PEfTFAPsg.JPEG/IOf62T6qs4yUOVTh7TQR-jnwOIIU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] NCT DREAM에 빠져 버 버퍼링이야 난 'Glitch Mode']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33512565&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -169,15 +177,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Tue, 04 Jan 2022 09:47:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTE0/MDAxNjQxMjM3OTE5OTc5.RwyXdDLejHgUAvE3-UA49IwWIzQmQte2qq8dKV3c0jYg.Doro6FsSbfOYSJ40TSZBBBGnA34eu4Le5wIFUKSGwJIg.JPEG/I3GUvkd_S0vsvqYpMXxZdjBV2Msg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강타의 감미로운 목소리와
-'Slow Dance' 함께 하실래요?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057792&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Wed, 12 Jan 2022 09:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjIg/MDAxNjQxNTIzNjg1Mzky.l10Ok4aCWWpfWczD_LCBM2zQNab4WrWqTg3ysu93VyAg.2Sm9vjuvoI2K4yA_WzqQHoa5RPHr3iVEvjHUipVDK_Qg.JPEG/IArBx1HCVF-lGtjqCJFCdEM8s_Os.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
