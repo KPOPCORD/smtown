@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 14:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 15:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No more grey]]></title>
+            <link>https://tv.naver.com/v/25983227</link>
+            <guid>https://tv.naver.com/v/25983227</guid>
+            <pubDate>Fri, 01 Apr 2022 15:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_23/JhedS_1648802599458SOdPf_JPEG/1648802595676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ONEW 온유 'DICE' Highlight Clip #1 여우비 (Yeowoobi)]]></title>
             <link>https://tv.naver.com/v/25968205</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Feb 2022 15:46:51 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_19/5pP8N_1645069898960tsDv0_JPEG/1645069875169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' MV]]></title>
-            <link>https://tv.naver.com/v/25115955</link>
-            <guid>https://tv.naver.com/v/25115955</guid>
-            <pubDate>Wed, 16 Feb 2022 12:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_130/BzpcN_164482000577590k15_JPEG/1644819994417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
