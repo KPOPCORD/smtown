@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 14:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1011,6 +1011,22 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ONEW 온유 'DICE' Highlight Clip #2 In the whale (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/26000868</link>
+            <guid>https://tv.naver.com/v/26000868</guid>
+            <pubDate>Sat, 02 Apr 2022 15:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_23/iaxD6_1648902332361CUn5K_JPEG/1648902306102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUHO 수호 'Grey Suit' MV Teaser #2 (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/25998906</link>
+            <guid>https://tv.naver.com/v/25998906</guid>
+            <pubDate>Sat, 02 Apr 2022 15:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_83/a7r2X_1648892717029cBX1J_JPEG/1648892708220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[No more grey (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/25983227</link>
             <guid>https://tv.naver.com/v/25983227</guid>
@@ -1233,22 +1249,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Sun, 20 Feb 2022 09:43:27 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220220_99/Cv2jq_1645339276956oElhB_JPEG/1645339273924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAX CHANGMIN 최강창민 'Devil' Performance Video (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/25208934</link>
-            <guid>https://tv.naver.com/v/25208934</guid>
-            <pubDate>Fri, 18 Feb 2022 09:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_4/RnwTF_16451605198282bqON_JPEG/1645160489562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV Teaser #1 (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/25181482</link>
-            <guid>https://tv.naver.com/v/25181482</guid>
-            <pubDate>Thu, 17 Feb 2022 15:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_19/5pP8N_1645069898960tsDv0_JPEG/1645069875169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
