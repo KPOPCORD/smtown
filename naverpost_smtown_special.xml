@@ -4,7 +4,7 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:50:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,17 @@
             <pubDate>Fri, 01 Apr 2022 04:01:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMjgw/MDAxNjQ4Nzc3MjcyODc3.j_I7DU3vtRt4Qo-nv0i9GRQwAVzMA7GK8mzy2HhVLbwg.fGxp8iETUb84PCpN6RzfnTCO_y1bxpkrx04PEfTFAPsg.JPEG/IOf62T6qs4yUOVTh7TQR-jnwOIIU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내 낡은 자전거 (Riding)'와 
+함께 하는
+UV X 최시원의 
+MV 비하인드 현장!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33532476&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33532476&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Sat, 02 Apr 2022 06:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMjE0/MDAxNjQ4NTIyNDEyNDI3.1oT4oLksKNRV01dK3plQRaGyx4iBgEK_--SxwQL_oA8g.zz_d0Elf-OQex0YqBvTjlo2cOQJ2eHPFMzhrRXUabcIg.JPEG/IyerbPYTvYG-JXJIEmA8AjA10nDw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT DREAM에 빠져 버 버퍼링이야 난 'Glitch Mode']]></title>
@@ -166,17 +177,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Wed, 05 Jan 2022 03:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjA1/MDAxNjQxMzE0MDk0MDYx.DSpQfvLg8ee5kgSnhj_y1fzvIbWsbteOX4HBI7Qk8SQg.vfuL1zVpLWwW3r3mY7UeAF4fTnrdfeOxxpEqH-v5rk8g.JPEG/IrCFy4xB40MIGk8rF_WUb1wazBos.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY범 내려온다~🐯 
-새해맞이 
-총KEY결산 모음집! 
-(with 미공개 사진)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33061197&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33061197&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 04 Jan 2022 09:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTE0/MDAxNjQxMjM3OTE5OTc5.RwyXdDLejHgUAvE3-UA49IwWIzQmQte2qq8dKV3c0jYg.Doro6FsSbfOYSJ40TSZBBBGnA34eu4Le5wIFUKSGwJIg.JPEG/I3GUvkd_S0vsvqYpMXxZdjBV2Msg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

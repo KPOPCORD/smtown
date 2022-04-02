@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:50:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,17 @@
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['내 낡은 자전거 (Riding)'와 
+함께 하는
+UV X 최시원의 
+MV 비하인드 현장! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33532476&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33532476&amp;memberNo=41350603</guid>
+            <pubDate>Sat, 02 Apr 2022 06:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 30일,전세계 라이더들의 마음을둑훈둑훈하게 했던UV X 최시원의 새 싱글'내 낡은 자전거 (Riding)'가공개되었습니다~! 한번 들으면 절대 잊을 수 없는중독성 강~한 멜로디와 가사로 인해 신곡 '내 낡은 자···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMjE0/MDAxNjQ4NTIyNDEyNDI3.1oT4oLksKNRV01dK3plQRaGyx4iBgEK_--SxwQL_oA8g.zz_d0Elf-OQex0YqBvTjlo2cOQJ2eHPFMzhrRXUabcIg.JPEG/IyerbPYTvYG-JXJIEmA8AjA10nDw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[레드벨벳] 해가 떠올 때까지♥ 보고 싶은 'Feel My Rhythm' (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603</guid>
@@ -456,20 +467,23 @@ It’s my kind of love ❤ (네이버 포스트 ─ SMTOWN 신곡 포스트)]]><
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfNzQg/MDAxNjQyNzA0Nzg2NzU5.kNk5MPjQTHhZz0pHJuH0SVSywcbTqK-XZ9KtxOGfIgog.MZ_mA0iqZYNJiTrtLnwHawzVSBkFkg2PEI32GaJoBa8g.JPEG/IC0R3a2070SGU-C7kzxSBZL0zQ_o.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장! (네이버 포스트 ─ SMTOWN 신곡 포스트)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 26 Jan 2022 17:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[우리 매력 공장장 박수영 배우가3년 만에 안방극장에 컴백해서  매주 월, 화요일 11시우리의 마음을 따뜻하게 만드는 JTBC 월화드라마 &lt;한 사람만&gt;모두 시청하고 계시겠죠? 사진 출처: 키이스트, JTBC 스튜디···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMjU5/MDAxNjQyNDAyNTU4MDU5.CK0IU_Cv_5wbxc_F8s4ivoZROuRe2lsFYSs55Jp0MRog.6iIk08DaDjNAP0mLlkDiLjNvqHxxOhgF04pk3KrkL10g.JPEG/IK3ikC2CnzM0kh_J8lalrNpHGcSg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[레드벨벳] 해가 떠올 때까지♥ 보고 싶은 'Feel My Rhythm' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33552583&amp;memberNo=41350603&amp;navigationType=push</guid>
             <pubDate>Fri, 01 Apr 2022 04:01:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDFfMjgw/MDAxNjQ4Nzc3MjcyODc3.j_I7DU3vtRt4Qo-nv0i9GRQwAVzMA7GK8mzy2HhVLbwg.fGxp8iETUb84PCpN6RzfnTCO_y1bxpkrx04PEfTFAPsg.JPEG/IOf62T6qs4yUOVTh7TQR-jnwOIIU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내 낡은 자전거 (Riding)'와 
+함께 하는
+UV X 최시원의 
+MV 비하인드 현장! (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33532476&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33532476&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Sat, 02 Apr 2022 06:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMjE0/MDAxNjQ4NTIyNDEyNDI3.1oT4oLksKNRV01dK3plQRaGyx4iBgEK_--SxwQL_oA8g.zz_d0Elf-OQex0YqBvTjlo2cOQJ2eHPFMzhrRXUabcIg.JPEG/IyerbPYTvYG-JXJIEmA8AjA10nDw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] NCT DREAM에 빠져 버 버퍼링이야 난 'Glitch Mode' (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
@@ -622,17 +636,6 @@ It’s my kind of love ❤ (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
             <pubDate>Wed, 05 Jan 2022 03:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjA1/MDAxNjQxMzE0MDk0MDYx.DSpQfvLg8ee5kgSnhj_y1fzvIbWsbteOX4HBI7Qk8SQg.vfuL1zVpLWwW3r3mY7UeAF4fTnrdfeOxxpEqH-v5rk8g.JPEG/IrCFy4xB40MIGk8rF_WUb1wazBos.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY범 내려온다~🐯 
-새해맞이 
-총KEY결산 모음집! 
-(with 미공개 사진) (SMTOWN 신곡 포스트 ─ SPECIAL)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33061197&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33061197&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 04 Jan 2022 09:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMTE0/MDAxNjQxMjM3OTE5OTc5.RwyXdDLejHgUAvE3-UA49IwWIzQmQte2qq8dKV3c0jYg.Doro6FsSbfOYSJ40TSZBBBGnA34eu4Le5wIFUKSGwJIg.JPEG/I3GUvkd_S0vsvqYpMXxZdjBV2Msg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 'Grey Suit' D-4! 수호를 떠올릴 시간 ⏰ (SMTOWN 신곡 포스트 ─ UPCOMING)]]></title>
