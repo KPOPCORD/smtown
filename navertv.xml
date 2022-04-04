@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUHO 수호 'Grey Suit' MV]]></title>
+            <link>https://tv.naver.com/v/26028408</link>
+            <guid>https://tv.naver.com/v/26028408</guid>
+            <pubDate>Mon, 04 Apr 2022 09:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_46/roBaH_1649062936219CAYhB_JPEG/1649062924624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ONEW 온유 'DICE' Highlight Clip #2 In the whale]]></title>
             <link>https://tv.naver.com/v/26000868</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Feb 2022 15:47:28 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_76/9Y037_16454224691421qjRf_JPEG/1645422443455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] KIM MIN JONG 김민종 '긴 밤 (Endless Night)' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/25246596</link>
-            <guid>https://tv.naver.com/v/25246596</guid>
-            <pubDate>Sun, 20 Feb 2022 09:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220220_99/Cv2jq_1645339276956oElhB_JPEG/1645339273924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
