@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SUHO 수호 'Hurdle' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/26070199</link>
+            <guid>https://tv.naver.com/v/26070199</guid>
+            <pubDate>Wed, 06 Apr 2022 09:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_161/4EFxC_1649229888228jl25H_JPEG/1649229883915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ONEW 온유 'DICE' Highlight Clip #4 On the way]]></title>
             <link>https://tv.naver.com/v/26056939</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Feb 2022 09:45:36 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_110/BqQdK_1645690571901ekryu_JPEG/1645690502133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR 슈퍼주니어 'Callin'' MV Teaser #3]]></title>
-            <link>https://tv.naver.com/v/25295062</link>
-            <guid>https://tv.naver.com/v/25295062</guid>
-            <pubDate>Wed, 23 Feb 2022 15:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_32/j11mS_1645583020652LgTaT_JPEG/1645582910209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
