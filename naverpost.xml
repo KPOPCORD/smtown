@@ -4,9 +4,18 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 사랑에 모든 것을 걸다!
+시작해, 온유의 'DICE' 🎲]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33584966&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33584966&amp;memberNo=41350603</guid>
+            <pubDate>Mon, 11 Apr 2022 09:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[▄▀▄▀▄▀▄▀▄▀▄▀▄주사위는 던져졌습니다.이제,게임을 시작해볼까요? PLAY ◁ II ▷▄▀▄▀▄▀▄▀▄▀▄▀▄사랑에 모든 것을 건 완벽한 게임!온유의 미니 2집 "DICE"가드디어 오늘, 발매되었습니다! 2018년 12월 발매된 첫 미니 앨···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfODkg/MDAxNjQ5MjM4MzY0MDY1.F5IWVqyqwLx4FURIyNpNh50xJJNHl2g2fkV5hBV4qDAg.1VMVpreThbE9x7kPF1fBiyQcSYYtDPPsX5I7btIAwasg.JPEG/IP9uyZAU2THo4uGSb0aRcFqn8H6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[수호] ‘Grey Suit’ MV 촬영장으로
 시간 여행 가요 💛]]></title>
@@ -173,14 +182,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Mon, 14 Feb 2022 09:42:23 GMT</pubDate>
             <content:encoded><![CDATA[Happy Valentine's Day ♡태연님이 선물과 메시지를 보냈습니다. 이보다 더 감동적이고 소중한 밸런타인데이 선물이 있을까요! ( ⁎ ᵕᴗᵕ ⁎ ) 기다리고 기다리던 2월 14일, 바로 오늘! 태연이 세 번째 정규 앨범 "I···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTFfMjg5/MDAxNjQ0NTIyOTMyODEz.1WVc6Ty1w2eM2aoDiznWzSd2MDITWf_C8BVPk7ADA9gg.czCqDuqogVGDcZ1GLcANPczf1YJKQUgKbMYJzDHmiuwg.JPEG/I7Qc9Ga_FDWMH7S8IovRf79hBJis.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 "INVU", 같이 기다릴래? ❤]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33235154&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33235154&amp;memberNo=41350603</guid>
-            <pubDate>Mon, 07 Feb 2022 06:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[2월 14일, '믿고 듣는 보컬퀸' 태연이 정규 3집 "INVU"로 돌아옵니다!지난 2019년 10월 "Purpose" 이후 약 2년 3개월 만에 발표하는 태연의 정규 앨범 "INVU"에는 다양한 장르의 총 1···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMTQ3/MDAxNjQzOTQ5Mjg4MDM1.Nnd_5PtsHnXMOp2r9QvIACEW6nQUwyklcSqIep2tmGgg.pKvWgFTF77UQuCjVrCxn1CHCgUwENw8uX89RUoo_Sxsg.JPEG/IGA54dN2y_vATwAYX_fQikbfOeJE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

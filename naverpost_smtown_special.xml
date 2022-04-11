@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 사랑에 모든 것을 걸다!
+시작해, 온유의 'DICE' 🎲]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33584966&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33584966&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Apr 2022 09:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfODkg/MDAxNjQ5MjM4MzY0MDY1.F5IWVqyqwLx4FURIyNpNh50xJJNHl2g2fkV5hBV4qDAg.1VMVpreThbE9x7kPF1fBiyQcSYYtDPPsX5I7btIAwasg.JPEG/IP9uyZAU2THo4uGSb0aRcFqn8H6A.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[수호] ‘Grey Suit’ MV 촬영장으로
 시간 여행 가요 💛]]></title>
@@ -171,14 +180,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Mon, 17 Jan 2022 09:47:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTc5/MDAxNjQyMDg4Nzc5NjQ4.1rz3M-X2WaGQhHFz5d6z2nhDMoMImSMwJIH5xooYmsEg.hvWuaK7tevebCTYIRuOjc8_TfcN-5ae-HGY7553FbsYg.JPEG/IpruyA0VAirQT-QKLFRNHu8Yfqvs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 최강창민의 언블리버블한 변신, 😈Devil😈]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33105502&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33105502&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Thu, 13 Jan 2022 09:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfMTI3/MDAxNjQxODg2NDgxNjI1.0MsDdbeqPbz-mPPLeNRCQJt98U6EoG0MUC2GqKlA3OYg.-ZTEEPiTnK_yGKY684Uhid0SkEG4p1wiWDlSGkmbkLYg.JPEG/IyvhO8cLI3KN_xPft8cGmrPVIrxU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
