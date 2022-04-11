@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 02:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1031,6 +1031,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_293/DqrSk_1649321633408Fw9Cw_JPEG/1649321632012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ONEW 온유 'DICE' Highlight Clip #5 Love Phobia (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/26080930</link>
+            <guid>https://tv.naver.com/v/26080930</guid>
+            <pubDate>Mon, 11 Apr 2022 02:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_65/7pXkl_1649252789917nBPDh_JPEG/1649252784945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUHO 수호 'Hurdle' MV Teaser (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/26070199</link>
             <guid>https://tv.naver.com/v/26070199</guid>
@@ -1245,14 +1253,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Fri, 04 Mar 2022 09:44:27 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_194/wqv0B_16462891842926fhTt_JPEG/1646288415256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAI 카이 'Peaches (SUMIN Remix)' MV (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/25381854</link>
-            <guid>https://tv.naver.com/v/25381854</guid>
-            <pubDate>Mon, 28 Feb 2022 11:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_73/tHlYm_16460292776067iPDr_JPEG/1646029275580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
