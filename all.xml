@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:44:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1015,6 +1015,14 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTAyMDFfODgg/MDAxNTQ5MDIwMDM4Njk4.Ghj8UzgXLb9VrpLjcB7UzRqmAMEaMQyGSXMDTuqx9rog.RFpl9r92nakx65IyL44baEcBCRZIFS4N2MZsbqXDByYg.JPEG/IFtrwRdzru3H8I5ThviWCsF0iCx0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[STATION] 태용 (TAEYONG) X 원슈타인 (Wonstein) 'Love Theory' MV Teaser (네이버TV ─ SMTOWN)]]></title>
+            <link>https://tv.naver.com/v/26206407</link>
+            <guid>https://tv.naver.com/v/26206407</guid>
+            <pubDate>Wed, 13 Apr 2022 09:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_254/zC3eN_1649835975551ujYnn_JPEG/1649835967366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ONEW 온유 'DICE' MV (네이버TV ─ SMTOWN)]]></title>
             <link>https://tv.naver.com/v/26162702</link>
             <guid>https://tv.naver.com/v/26162702</guid>
@@ -1245,14 +1253,6 @@ Our Beloved BoA #1 백현 '공중정원' (SMTOWN 신곡 포스트 ─ SM STATION
             <pubDate>Tue, 15 Mar 2022 15:45:56 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_29/vOHSi_1647355967848WoOky_JPEG/1647355959834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON 태연 'INVU' Dance Practice (네이버TV ─ SMTOWN)]]></title>
-            <link>https://tv.naver.com/v/25510946</link>
-            <guid>https://tv.naver.com/v/25510946</guid>
-            <pubDate>Tue, 08 Mar 2022 11:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_176/PC7bg_1646639395929uJypn_JPEG/1646639363814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
