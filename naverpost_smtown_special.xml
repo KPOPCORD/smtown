@@ -4,9 +4,17 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 02:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온유] 온둡 냉둡 여기 '다이스' in MV 촬영 비하인드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33618196&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33618196&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Apr 2022 03:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTNfMTcx/MDAxNjQ5NzgwNjgzOTA0.XLw28IbY6UNuD4s7HbMWRLqgDKuqh6xAo5_3QLuQcyYg.IxuWWn3E-gQ2HkXYP6PeKQIqHpIgG7TDflRpZt0oBQog.JPEG/IzTCz7BIZ2gxb-dTG3o-uGJXls3I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 사랑에 모든 것을 걸다!
 시작해, 온유의 'DICE' 🎲]]></title>
@@ -171,15 +179,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Tue, 18 Jan 2022 03:00:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMjU5/MDAxNjQyNDAyNTU4MDU5.CK0IU_Cv_5wbxc_F8s4ivoZROuRe2lsFYSs55Jp0MRog.6iIk08DaDjNAP0mLlkDiLjNvqHxxOhgF04pk3KrkL10g.JPEG/IK3ikC2CnzM0kh_J8lalrNpHGcSg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리킹 태연을 향한 사랑,
-‘Can’t Control Myself’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33125775&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33125775&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Mon, 17 Jan 2022 09:47:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTc5/MDAxNjQyMDg4Nzc5NjQ4.1rz3M-X2WaGQhHFz5d6z2nhDMoMImSMwJIH5xooYmsEg.hvWuaK7tevebCTYIRuOjc8_TfcN-5ae-HGY7553FbsYg.JPEG/IpruyA0VAirQT-QKLFRNHu8Yfqvs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
