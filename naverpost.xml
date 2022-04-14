@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ SMTOWN 신곡 포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM STATION] 태용, 원슈타인 'Love Theory']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33607780&amp;memberNo=41350603</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33607780&amp;memberNo=41350603</guid>
+            <pubDate>Thu, 14 Apr 2022 09:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[SM STATION 이번 주자는 동갑내기 케미를 보여주는 태용 그리고 원슈타인 입니다! 핫한 두 아티스트의 만남! 이들이 과연 어떤 곡들을 준비했을지 무척이나 궁금한데요, 지금 바로 만나봐요!Love Theory - SM STATIO···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTY1/MDAxNjQ5NjU3Mzg2MzM0.kc0u-dT-9c7UbJPQusd7DFuKBbFPOgopryRF6fJK6MIg.zhvi5g3D6YtQ-kSzZdCcrsrivJfXUAO0PWgSKnWnJdgg.JPEG/I969IVG7n035RbFGOXMPte-1Srr8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온유] 온둡 냉둡 여기 '다이스' in MV 촬영 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33618196&amp;memberNo=41350603</link>
@@ -173,14 +181,6 @@ Feat. 배경화면]]></title>
             <pubDate>Fri, 18 Feb 2022 03:44:14 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 7일부터 14일까지 태연 정규 3집 발매 기념 전시회[TAEYEON - INVU : THE EXHIBIT]가 진행됐습니다. 이번 전시는새 앨범에 담긴 사랑❤️에 대한 내러티브를다방면으로 감상할 수 있도록 구성되었는데요. 팬 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTdfNzAg/MDAxNjQ1MDg2ODg0Mjg1.o2rjybGlYTINgl-La7-Ny7AZ8myPA37AjUgUkrycSIMg.riupM_LDfl9QAxao27IWC9IRER6qoIUeur8wrS5vxFYg.JPEG/IUBFlICwK8m3Cb1xBm5eyLQYehGo.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[태연] 아르'탱'미스🏹 'INVU' MV 비하인드]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33301103&amp;memberNo=41350603</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33301103&amp;memberNo=41350603</guid>
-            <pubDate>Wed, 16 Feb 2022 05:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[2월 14일 발렌타인데이🍫에 공개된태연의 정규 3집'INVU'모두 잘 듣고 계시죠?👂🏻 'INVU'는 공개되자마자국내 음반 및 음원 차트 1위!아이튠즈 전 세계 21개 지역 1위!중국 QQ뮤직 디지털 앨범 판매 차트 및 MV차트···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTZfMjk0/MDAxNjQ0OTc5OTE2ODI2.zZU_aYIqnsLKMuYHhBmxLwx6jEy4siXgPE_1OgaqeSMg.qdCeEz2wXAN2BroawKoaiZdtyPMJPCsetteMMWaMpisg.JPEG/IL26iMYiMOZjC6QiZvSCM86ZSeNQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
