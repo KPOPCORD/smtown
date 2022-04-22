@@ -4,9 +4,19 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 02:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[려욱 솔로 컴백 미리보기!
+그리고 '파랑새 (Bluebird)'
+MV 비하인드 최초 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33668553&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33668553&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Apr 2022 04:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjFfMTIy/MDAxNjUwNTM1NzMxMzI5.Y3ady4p7qwajovRSk4poxmszVgyynuqW9OkBv7yIZzcg.i5eC0fGcA5r1Hqr3POhT_Fv_9cpS_mJvj4CyIij9gQIg.JPEG/Ihb7iuIvn8l2zEHAhEk3X7lthJjM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온유] 온둡 냉둡 여기 '다이스' in MV 촬영 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33618196&amp;memberNo=41350603&amp;navigationType=push</link>
@@ -171,14 +181,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Tue, 25 Jan 2022 06:49:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfNzQg/MDAxNjQyNzA0Nzg2NzU5.kNk5MPjQTHhZz0pHJuH0SVSywcbTqK-XZ9KtxOGfIgog.MZ_mA0iqZYNJiTrtLnwHawzVSBkFkg2PEI32GaJoBa8g.JPEG/IC0R3a2070SGU-C7kzxSBZL0zQ_o.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박수영(조이)] '한 사람만' 매력 공장장 성미도 등장!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33138692&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 18 Jan 2022 03:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfMjU5/MDAxNjQyNDAyNTU4MDU5.CK0IU_Cv_5wbxc_F8s4ivoZROuRe2lsFYSs55Jp0MRog.6iIk08DaDjNAP0mLlkDiLjNvqHxxOhgF04pk3KrkL10g.JPEG/IK3ikC2CnzM0kh_J8lalrNpHGcSg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
