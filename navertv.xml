@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM 'Rewind' | DREAM STAGE : GLITCH MODE Ver.]]></title>
+            <link>https://tv.naver.com/v/26390166</link>
+            <guid>https://tv.naver.com/v/26390166</guid>
+            <pubDate>Sat, 23 Apr 2022 11:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_158/DFrk5_1650624289677V45Rf_JPEG/1650624265329.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[RYEOWOOK 려욱 '파랑새 (Bluebird)' MV]]></title>
             <link>https://tv.naver.com/v/26378252</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 09:45:01 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_58/vQayz_1648025078136jq0jD_JPEG/1648024486925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' MV]]></title>
-            <link>https://tv.naver.com/v/25769281</link>
-            <guid>https://tv.naver.com/v/25769281</guid>
-            <pubDate>Mon, 21 Mar 2022 09:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_174/uxepq_1647853497931YMUIU_JPEG/1647853400702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
