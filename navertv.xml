@@ -4,7 +4,7 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 23 Apr 2022 11:42:57 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_158/DFrk5_1650624289677V45Rf_JPEG/1650624265329.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RYEOWOOK 려욱 The 3rd Mini Album [A Wild Rose] Concept Film]]></title>
+            <link>https://tv.naver.com/v/26384397</link>
+            <guid>https://tv.naver.com/v/26384397</guid>
+            <pubDate>Sun, 24 Apr 2022 15:48:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_246/hxtHc_1650610581873pF1PR_JPEG/1650610485334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RYEOWOOK 려욱 '파랑새 (Bluebird)' MV]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 15:48:01 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_27/sL2yK_16480325540521u3nN_JPEG/1648032548427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' Performance Video]]></title>
-            <link>https://tv.naver.com/v/25810869</link>
-            <guid>https://tv.naver.com/v/25810869</guid>
-            <pubDate>Wed, 23 Mar 2022 09:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_58/vQayz_1648025078136jq0jD_JPEG/1648024486925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
