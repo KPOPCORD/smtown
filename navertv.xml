@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:47:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU (ZHU Remix)' MV Teaser]]></title>
+            <link>https://tv.naver.com/v/26472624</link>
+            <guid>https://tv.naver.com/v/26472624</guid>
+            <pubDate>Wed, 27 Apr 2022 09:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_161/D6REM_1651039905721M97L0_JPEG/1651039896758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RYEOWOOK 려욱 The 3rd Mini Album [A Wild Rose] Highlight Medley]]></title>
             <link>https://tv.naver.com/v/26428347</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 15:46:43 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_51/01sYv_1648208435846mT5sB_JPEG/1648208408960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 엔시티 드림 'Glitch Mode' Highlight Medley]]></title>
-            <link>https://tv.naver.com/v/25855929</link>
-            <guid>https://tv.naver.com/v/25855929</guid>
-            <pubDate>Fri, 25 Mar 2022 09:44:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_182/2xfa9_1648198647556Ob8g3_JPEG/1648198637061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
