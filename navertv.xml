@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAEYEON 태연 'INVU (ZHU Remix)' MV]]></title>
+            <link>https://tv.naver.com/v/26496677</link>
+            <guid>https://tv.naver.com/v/26496677</guid>
+            <pubDate>Thu, 28 Apr 2022 09:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_205/XtLNh_1651132114392tN7UM_JPEG/1651132039979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAEYEON 태연 'INVU (ZHU Remix)' MV Teaser]]></title>
             <link>https://tv.naver.com/v/26472624</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 27 Apr 2022 09:47:03 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_161/D6REM_1651039905721M97L0_JPEG/1651039896758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Sunshine' Live Clip | ONEW 온유 (with AKMU 수현) @진기장판]]></title>
+            <link>https://tv.naver.com/v/26454926</link>
+            <guid>https://tv.naver.com/v/26454926</guid>
+            <pubDate>Thu, 28 Apr 2022 09:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_210/ATz36_1650962925093kRV4t_JPEG/1650962919761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RYEOWOOK 려욱 The 3rd Mini Album [A Wild Rose] Highlight Medley]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 27 Mar 2022 15:46:18 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220327_245/GLmM7_1648389065945Izn8l_JPEG/1648389061379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' MV]]></title>
-            <link>https://tv.naver.com/v/25881845</link>
-            <guid>https://tv.naver.com/v/25881845</guid>
-            <pubDate>Mon, 28 Mar 2022 09:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220327_142/n6Rm6_1648373689520WUKub_JPEG/1648373648851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' MV Teaser]]></title>
-            <link>https://tv.naver.com/v/25859347</link>
-            <guid>https://tv.naver.com/v/25859347</guid>
-            <pubDate>Sat, 26 Mar 2022 15:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_51/01sYv_1648208435846mT5sB_JPEG/1648208408960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
