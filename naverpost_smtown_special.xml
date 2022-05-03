@@ -4,9 +4,18 @@
         <title>SMTOWN 신곡 포스트 ─ SPECIAL</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 11:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 13:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[려욱, '오늘만은 (Hiding Words)' 
+MV 비하인드 🌹]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33711518&amp;memberNo=41350603&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33711518&amp;memberNo=41350603&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 May 2022 13:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjlfMjUy/MDAxNjUxMjA1Nzk1MjA2.Rmpl0Sen2jDgH_oZULllx4NWVj-FmvNsnwllRPXPSPgg.aXp5E-21eYiLWReXXqhxcBbJot2P6BRCY6y_iSYQfqMg.JPEG/I7RrSC4UkS-3CDfmYmBq2uKLMD-U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[려욱 솔로 컴백 미리보기!
 그리고 '파랑새 (Bluebird)'
@@ -173,14 +182,6 @@ It’s my kind of love ❤]]></title>
             <pubDate>Thu, 27 Jan 2022 03:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfMjU1/MDAxNjQyNzQyNjcyNzk3.JH_f3ROGIbkff3yoCFOOsHrWtfa0jrMQ1sPG80XJrWMg.D4RdpU834c2quujjCyyqnX9pESfl5thxQ9w8TyhFBAMg.JPEG/I6i8rUCPjhMgN1seJGBZwUgQbvPI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 규현의 목소리로 듣는 사계절, 그 마지막 장 '연애소설 (Love Story)']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33161889&amp;memberNo=41350603&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33161889&amp;memberNo=41350603&amp;navigationType=push</guid>
-            <pubDate>Tue, 25 Jan 2022 06:49:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">SMTOWN 신곡 포스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjFfNzQg/MDAxNjQyNzA0Nzg2NzU5.kNk5MPjQTHhZz0pHJuH0SVSywcbTqK-XZ9KtxOGfIgog.MZ_mA0iqZYNJiTrtLnwHawzVSBkFkg2PEI32GaJoBa8g.JPEG/IC0R3a2070SGU-C7kzxSBZL0zQ_o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
