@@ -4,9 +4,17 @@
         <title>네이버TV ─ SMTOWN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 10:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 11:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RYEOWOOK 려욱 '오늘만은 (Hiding Words)' On 'A Wild Rose' Comeback Live]]></title>
+            <link>https://tv.naver.com/v/26696346</link>
+            <guid>https://tv.naver.com/v/26696346</guid>
+            <pubDate>Tue, 10 May 2022 11:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_193/pG4qP_1652172157553fnYlE_JPEG/1652172129246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Rewind’ Live Clip | NCT DREAM 엔시티 드림]]></title>
             <link>https://tv.naver.com/v/26642423</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 15:48:32 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_3/9kycl_1648736847025p62G0_JPEG/1648736831549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 레드벨벳 'Feel My Rhythm' Dance Practice]]></title>
-            <link>https://tv.naver.com/v/25942974</link>
-            <guid>https://tv.naver.com/v/25942974</guid>
-            <pubDate>Thu, 31 Mar 2022 13:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_10/nKBqv_164863841657793A6k_JPEG/1648638414099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
